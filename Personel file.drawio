@@ -1,1 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2020-07-28T08:03:14.780Z" agent="5.0 (Windows)" version="13.5.3" etag="o7deJaQgOIbcitZBe_ZY" type="github"><diagram id="SMCiBKOHWAA4tu-1QiV0">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-07-28T08:11:00.608Z" agent="5.0 (Windows)" etag="ipUBTutlUMBDOTnVzS7G" version="13.5.3" type="github">
+  <diagram id="SMCiBKOHWAA4tu-1QiV0" name="Page-1">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OxawustAhdmAcx-qUKI6-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OxawustAhdmAcx-qUKI6-1" target="OxawustAhdmAcx-qUKI6-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OxawustAhdmAcx-qUKI6-1" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="171" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OxawustAhdmAcx-qUKI6-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="OxawustAhdmAcx-qUKI6-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="421" y="240" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OxawustAhdmAcx-qUKI6-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OxawustAhdmAcx-qUKI6-8" target="OxawustAhdmAcx-qUKI6-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OxawustAhdmAcx-qUKI6-8" value="Open new Personnel file and Enter Employee details" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="171" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OxawustAhdmAcx-qUKI6-10" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="171" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OxawustAhdmAcx-qUKI6-13" value="Get new employee details" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="399" y="210" width="140" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
