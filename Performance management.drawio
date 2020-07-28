@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-28T09:16:14.470Z" agent="5.0 (Windows)" etag="e2CX5eGxkr-46sCMFKkL" version="13.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-28T09:16:44.855Z" agent="5.0 (Windows)" etag="v-Vd3yVF2sZfUVe6T1CM" version="13.5.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -15,7 +15,7 @@
         <mxCell id="N8_5rh-Jkga-fFqRKnx3-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N8_5rh-Jkga-fFqRKnx3-0" target="N8_5rh-Jkga-fFqRKnx3-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="N8_5rh-Jkga-fFqRKnx3-0" value="Planning and setting objectives" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="N8_5rh-Jkga-fFqRKnx3-0" value="Planning and objectives setting" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="N8_5rh-Jkga-fFqRKnx3-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N8_5rh-Jkga-fFqRKnx3-1" target="N8_5rh-Jkga-fFqRKnx3-0">
