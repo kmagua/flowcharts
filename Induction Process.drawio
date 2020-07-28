@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-28T08:54:35.986Z" agent="5.0 (Windows)" etag="WOAhTE-XxoJlz6TIuj4X" version="13.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-28T08:56:06.879Z" agent="5.0 (Windows)" etag="Pu47-isLo85BIOX3DAyl" version="13.5.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Start" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="80" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="70" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rPmaDeHKCXZGwRO4t3dk-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rPmaDeHKCXZGwRO4t3dk-0" target="rPmaDeHKCXZGwRO4t3dk-3">
           <mxGeometry relative="1" as="geometry" />
@@ -22,16 +22,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rPmaDeHKCXZGwRO4t3dk-1" value="Policies, SOPs, Job Description, Organization Structure" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="380" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="170" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rPmaDeHKCXZGwRO4t3dk-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rPmaDeHKCXZGwRO4t3dk-3" target="rPmaDeHKCXZGwRO4t3dk-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rPmaDeHKCXZGwRO4t3dk-3" value="Collect Employee Feedback" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rPmaDeHKCXZGwRO4t3dk-5" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="430" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="410" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rPmaDeHKCXZGwRO4t3dk-7" value="Orientation and Induction" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="40" width="170" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
