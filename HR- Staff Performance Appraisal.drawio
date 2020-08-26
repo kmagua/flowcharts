@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-26T14:01:42.531Z" agent="5.0 (Windows)" etag="pNjTI79Uf5pX1eMz1ics" version="13.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-26T14:08:05.357Z" agent="5.0 (Windows)" etag="-XatlbvT1Vy-P9t3Qwyo" version="13.5.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -13,6 +13,9 @@
         <mxCell id="4oyoeLMCGXj9ybH9H02H-4" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4oyoeLMCGXj9ybH9H02H-1">
           <mxGeometry x="80" y="10" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="4oyoeLMCGXj9ybH9H02H-31" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4oyoeLMCGXj9ybH9H02H-1">
+          <mxGeometry x="1030" y="80" width="70" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="4oyoeLMCGXj9ybH9H02H-22" value="Communication to Employee" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="4oyoeLMCGXj9ybH9H02H-1">
           <mxGeometry x="650" y="70" width="120" height="60" as="geometry" />
         </mxCell>
@@ -22,14 +25,23 @@
         <mxCell id="4oyoeLMCGXj9ybH9H02H-12" value="Creation of appraisal tool" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="4oyoeLMCGXj9ybH9H02H-1">
           <mxGeometry x="220" y="90" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="4oyoeLMCGXj9ybH9H02H-26" value="Implementation of recommendations" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4oyoeLMCGXj9ybH9H02H-1">
+          <mxGeometry x="852" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4oyoeLMCGXj9ybH9H02H-27" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="4oyoeLMCGXj9ybH9H02H-1" source="4oyoeLMCGXj9ybH9H02H-22" target="4oyoeLMCGXj9ybH9H02H-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="752" y="100" as="sourcePoint" />
+            <mxPoint x="752" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="4oyoeLMCGXj9ybH9H02H-2" value="Employee" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="4oyoeLMCGXj9ybH9H02H-0">
           <mxGeometry y="200" width="1130" height="180" as="geometry" />
         </mxCell>
         <mxCell id="4oyoeLMCGXj9ybH9H02H-8" value="Set work targets for the year" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="4oyoeLMCGXj9ybH9H02H-2">
           <mxGeometry x="70" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4oyoeLMCGXj9ybH9H02H-24" value="Feedback" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" vertex="1" parent="4oyoeLMCGXj9ybH9H02H-2">
-          <mxGeometry x="750" y="40" width="120" height="80" as="geometry" />
+        <mxCell id="4oyoeLMCGXj9ybH9H02H-24" value="Feedback to employee" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" vertex="1" parent="4oyoeLMCGXj9ybH9H02H-2">
+          <mxGeometry x="732" y="40" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4oyoeLMCGXj9ybH9H02H-14" value="Self-assesment" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="4oyoeLMCGXj9ybH9H02H-2">
           <mxGeometry x="309" y="70" width="120" height="60" as="geometry" />
@@ -39,6 +51,9 @@
         </mxCell>
         <mxCell id="4oyoeLMCGXj9ybH9H02H-10" value="HOD input" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="4oyoeLMCGXj9ybH9H02H-3">
           <mxGeometry x="70" y="14" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4oyoeLMCGXj9ybH9H02H-28" value="HOD input" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="4oyoeLMCGXj9ybH9H02H-3">
+          <mxGeometry x="852" y="14" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4oyoeLMCGXj9ybH9H02H-20" value="Forward report to HR" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="4oyoeLMCGXj9ybH9H02H-3">
           <mxGeometry x="650" y="30" width="120" height="60" as="geometry" />
@@ -81,8 +96,23 @@
         <mxCell id="4oyoeLMCGXj9ybH9H02H-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="4oyoeLMCGXj9ybH9H02H-0" source="4oyoeLMCGXj9ybH9H02H-20" target="4oyoeLMCGXj9ybH9H02H-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4oyoeLMCGXj9ybH9H02H-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="4oyoeLMCGXj9ybH9H02H-0" source="4oyoeLMCGXj9ybH9H02H-22" target="4oyoeLMCGXj9ybH9H02H-24">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="4oyoeLMCGXj9ybH9H02H-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="4oyoeLMCGXj9ybH9H02H-0" target="4oyoeLMCGXj9ybH9H02H-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="770" y="120" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="792" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4oyoeLMCGXj9ybH9H02H-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="4oyoeLMCGXj9ybH9H02H-0" source="4oyoeLMCGXj9ybH9H02H-28" target="4oyoeLMCGXj9ybH9H02H-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="922" y="314" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4oyoeLMCGXj9ybH9H02H-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4oyoeLMCGXj9ybH9H02H-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1050" y="140" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
