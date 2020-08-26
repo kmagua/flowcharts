@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-26T11:25:31.929Z" agent="5.0 (Windows)" etag="nzZaDY_V_bJhH7GY0in-" version="13.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-26T11:27:13.935Z" agent="5.0 (Windows)" etag="pwfKUmJg9jAiqcACim5m" version="13.5.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -66,7 +66,7 @@
         <mxCell id="2buUgK_nAZZ5S6zsy4tR-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2buUgK_nAZZ5S6zsy4tR-13" target="2buUgK_nAZZ5S6zsy4tR-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2buUgK_nAZZ5S6zsy4tR-13" value="Receive Application" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="2buUgK_nAZZ5S6zsy4tR-13" value="Receive Applications and Prepare Summary" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="370" y="925" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2buUgK_nAZZ5S6zsy4tR-17" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -94,9 +94,6 @@
         </mxCell>
         <mxCell id="2buUgK_nAZZ5S6zsy4tR-33" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="125" y="690" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="2buUgK_nAZZ5S6zsy4tR-35" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="370" y="190" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2buUgK_nAZZ5S6zsy4tR-38" value="&lt;h1 style=&quot;font-size: 17px&quot;&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;HR&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;font-size: 17px&quot;&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;&lt;b&gt;Recruitment and Selection&lt;/b&gt;&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 17px&quot;&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="190" y="10" width="340" height="60" as="geometry" />
