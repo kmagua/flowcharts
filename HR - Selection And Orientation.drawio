@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-26T12:59:12.803Z" agent="5.0 (Windows)" etag="9WMRWYWZLJwtsHjAzAKr" version="13.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-26T13:07:57.183Z" agent="5.0 (Windows)" etag="v-1LkDwOjtRCX_cmc9cJ" version="13.5.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -63,6 +63,9 @@
         <mxCell id="odISv-xXOo4L-cJuBPXU-19" value="CEO/Agency" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="odISv-xXOo4L-cJuBPXU-7">
           <mxGeometry y="500" width="960" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="odISv-xXOo4L-cJuBPXU-38" value="Candidate Approval and Offer Letter signing" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;startSize=20;" vertex="1" parent="odISv-xXOo4L-cJuBPXU-19">
+          <mxGeometry x="389" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="odISv-xXOo4L-cJuBPXU-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=20;" edge="1" parent="odISv-xXOo4L-cJuBPXU-7" source="odISv-xXOo4L-cJuBPXU-17" target="odISv-xXOo4L-cJuBPXU-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -85,6 +88,12 @@
         </mxCell>
         <mxCell id="odISv-xXOo4L-cJuBPXU-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=20;" edge="1" parent="odISv-xXOo4L-cJuBPXU-7" source="odISv-xXOo4L-cJuBPXU-30" target="odISv-xXOo4L-cJuBPXU-32">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="odISv-xXOo4L-cJuBPXU-41" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="odISv-xXOo4L-cJuBPXU-7" source="odISv-xXOo4L-cJuBPXU-38" target="odISv-xXOo4L-cJuBPXU-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="370" as="sourcePoint" />
+            <mxPoint x="449" y="180" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
