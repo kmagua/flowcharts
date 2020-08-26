@@ -1,20 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2020-08-26T13:26:44.024Z" agent="5.0 (Windows)" etag="YSt5SrtLZ-vl9LQFDt-X" version="13.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-26T13:33:17.683Z" agent="5.0 (Windows)" etag="znApuEdo3ob2pA4wnXnI" version="13.5.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="4oyoeLMCGXj9ybH9H02H-0" value="Pool" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="20" y="20" width="1130" height="380" as="geometry" />
+        <mxCell id="4oyoeLMCGXj9ybH9H02H-0" value="HR - Appraisal Process" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="20" width="1130" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="4oyoeLMCGXj9ybH9H02H-1" value="Lane 1" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="4oyoeLMCGXj9ybH9H02H-0">
-          <mxGeometry y="20" width="1130" height="120" as="geometry" />
+        <mxCell id="4oyoeLMCGXj9ybH9H02H-1" value="HR" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="4oyoeLMCGXj9ybH9H02H-0">
+          <mxGeometry y="20" width="1130" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="4oyoeLMCGXj9ybH9H02H-2" value="Lane 2" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="4oyoeLMCGXj9ybH9H02H-0">
-          <mxGeometry y="140" width="1130" height="120" as="geometry" />
+        <mxCell id="4oyoeLMCGXj9ybH9H02H-4" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4oyoeLMCGXj9ybH9H02H-1">
+          <mxGeometry x="80" y="10" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4oyoeLMCGXj9ybH9H02H-3" value="Lane 3" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="4oyoeLMCGXj9ybH9H02H-0">
-          <mxGeometry y="260" width="1130" height="120" as="geometry" />
+        <mxCell id="4oyoeLMCGXj9ybH9H02H-7" value="Define a Review Period/annual" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4oyoeLMCGXj9ybH9H02H-1">
+          <mxGeometry x="70" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4oyoeLMCGXj9ybH9H02H-2" value="Employee" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="4oyoeLMCGXj9ybH9H02H-0">
+          <mxGeometry y="200" width="1130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4oyoeLMCGXj9ybH9H02H-8" value="Set work targets for the year" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="4oyoeLMCGXj9ybH9H02H-2">
+          <mxGeometry x="70" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4oyoeLMCGXj9ybH9H02H-3" value="HOD/Supervisor" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="4oyoeLMCGXj9ybH9H02H-0">
+          <mxGeometry y="320" width="1130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4oyoeLMCGXj9ybH9H02H-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="4oyoeLMCGXj9ybH9H02H-0" source="4oyoeLMCGXj9ybH9H02H-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4oyoeLMCGXj9ybH9H02H-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="4oyoeLMCGXj9ybH9H02H-0" source="4oyoeLMCGXj9ybH9H02H-7" target="4oyoeLMCGXj9ybH9H02H-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
