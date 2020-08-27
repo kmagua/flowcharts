@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-27T12:12:07.566Z" agent="5.0 (Windows)" etag="AR_Pn1mXRMdA6hLi1eQw" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-27T12:16:26.282Z" agent="5.0 (Windows)" etag="E8VjKUOuEBjsdz0BEets" version="13.6.5" type="github">
   <diagram id="E5LGmSx5RB99e8-Ku0kG" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry y="20" width="1100" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Ro4SRzFwu5mBoWV_5dLQ-7" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Ro4SRzFwu5mBoWV_5dLQ-2">
-          <mxGeometry x="50" y="10" width="110" height="40" as="geometry" />
+          <mxGeometry x="46" y="10" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ro4SRzFwu5mBoWV_5dLQ-18" value="Fill in Review form" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="Ro4SRzFwu5mBoWV_5dLQ-2">
           <mxGeometry x="375" y="30" width="120" height="60" as="geometry" />
@@ -21,6 +21,9 @@
         </mxCell>
         <mxCell id="Ro4SRzFwu5mBoWV_5dLQ-4" value="Customer care officer" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="Ro4SRzFwu5mBoWV_5dLQ-1">
           <mxGeometry y="260" width="1100" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Ro4SRzFwu5mBoWV_5dLQ-54" value="Review feedback form" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="Ro4SRzFwu5mBoWV_5dLQ-4">
+          <mxGeometry x="540" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ro4SRzFwu5mBoWV_5dLQ-17" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Ro4SRzFwu5mBoWV_5dLQ-4">
           <mxGeometry x="338" y="50" width="40" height="20" as="geometry" />
@@ -40,6 +43,17 @@
             <Array as="points">
               <mxPoint x="731" y="10" />
               <mxPoint x="1040" y="10" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ro4SRzFwu5mBoWV_5dLQ-62" value="" style="endArrow=none;html=1;" edge="1" parent="Ro4SRzFwu5mBoWV_5dLQ-4" source="Ro4SRzFwu5mBoWV_5dLQ-54">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="80" as="sourcePoint" />
+            <mxPoint x="740" y="10" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="700" y="40" />
+              <mxPoint x="700" y="13" />
+              <mxPoint x="710" y="10" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -69,6 +83,9 @@
         </mxCell>
         <mxCell id="Ro4SRzFwu5mBoWV_5dLQ-37" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Ro4SRzFwu5mBoWV_5dLQ-5">
           <mxGeometry x="427" y="111" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ro4SRzFwu5mBoWV_5dLQ-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Ro4SRzFwu5mBoWV_5dLQ-1" source="Ro4SRzFwu5mBoWV_5dLQ-18" target="Ro4SRzFwu5mBoWV_5dLQ-54">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ro4SRzFwu5mBoWV_5dLQ-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ro4SRzFwu5mBoWV_5dLQ-8" target="Ro4SRzFwu5mBoWV_5dLQ-9">
           <mxGeometry relative="1" as="geometry" />
@@ -137,6 +154,12 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1000" y="360" as="sourcePoint" />
             <mxPoint x="1034" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ro4SRzFwu5mBoWV_5dLQ-53" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ro4SRzFwu5mBoWV_5dLQ-7" target="Ro4SRzFwu5mBoWV_5dLQ-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="390" as="sourcePoint" />
+            <mxPoint x="550" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
