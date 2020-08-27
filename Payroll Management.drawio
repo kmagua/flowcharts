@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-27T10:09:42.555Z" agent="5.0 (Windows)" etag="hVc_w8hF47-anr36Gcnc" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-27T10:10:15.747Z" agent="5.0 (Windows)" etag="s-foUc0qLalLjyScaS2J" version="13.6.5" type="github">
   <diagram id="_D9DCLdPoNpoZj0SMjlw" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="Y4w0jQ5FlkAyDfhmhhMQ-10" value="Payroll review and forwarding" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="Y4w0jQ5FlkAyDfhmhhMQ-3">
           <mxGeometry x="129" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Y4w0jQ5FlkAyDfhmhhMQ-18" value="Sending of payslips" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="Y4w0jQ5FlkAyDfhmhhMQ-3">
+        <mxCell id="Y4w0jQ5FlkAyDfhmhhMQ-18" value="Distribution of payslips" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="Y4w0jQ5FlkAyDfhmhhMQ-3">
           <mxGeometry x="340" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y4w0jQ5FlkAyDfhmhhMQ-21" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Y4w0jQ5FlkAyDfhmhhMQ-3">
