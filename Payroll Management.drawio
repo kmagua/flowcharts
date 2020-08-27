@@ -1,1 +1,76 @@
-<mxfile host="app.diagrams.net" modified="2020-08-27T09:53:49.850Z" agent="5.0 (Windows)" version="13.6.5" etag="quSaFraoAt6EoTcqGB4Q" type="github"><diagram id="_D9DCLdPoNpoZj0SMjlw">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-27T10:09:42.555Z" agent="5.0 (Windows)" etag="hVc_w8hF47-anr36Gcnc" version="13.6.5" type="github">
+  <diagram id="_D9DCLdPoNpoZj0SMjlw" name="Page-1">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Y4w0jQ5FlkAyDfhmhhMQ-1" value="HR - Payroll Management" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="930" height="690" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4w0jQ5FlkAyDfhmhhMQ-2" value="Payroll Officer" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="Y4w0jQ5FlkAyDfhmhhMQ-1">
+          <mxGeometry y="20" width="930" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4w0jQ5FlkAyDfhmhhMQ-6" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Y4w0jQ5FlkAyDfhmhhMQ-2">
+          <mxGeometry x="129" y="20" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4w0jQ5FlkAyDfhmhhMQ-3" value="HRM" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="Y4w0jQ5FlkAyDfhmhhMQ-1">
+          <mxGeometry y="170" width="930" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4w0jQ5FlkAyDfhmhhMQ-10" value="Payroll review and forwarding" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="Y4w0jQ5FlkAyDfhmhhMQ-3">
+          <mxGeometry x="129" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4w0jQ5FlkAyDfhmhhMQ-18" value="Sending of payslips" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="Y4w0jQ5FlkAyDfhmhhMQ-3">
+          <mxGeometry x="340" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4w0jQ5FlkAyDfhmhhMQ-21" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Y4w0jQ5FlkAyDfhmhhMQ-3">
+          <mxGeometry x="590" y="50" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4w0jQ5FlkAyDfhmhhMQ-22" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Y4w0jQ5FlkAyDfhmhhMQ-3" source="Y4w0jQ5FlkAyDfhmhhMQ-18" target="Y4w0jQ5FlkAyDfhmhhMQ-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="230" as="sourcePoint" />
+            <mxPoint x="420" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y4w0jQ5FlkAyDfhmhhMQ-4" value="DCS" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="Y4w0jQ5FlkAyDfhmhhMQ-1">
+          <mxGeometry y="290" width="930" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4w0jQ5FlkAyDfhmhhMQ-12" value="Payroll confirmation and forwarding" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="Y4w0jQ5FlkAyDfhmhhMQ-4">
+          <mxGeometry x="129" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4w0jQ5FlkAyDfhmhhMQ-5" value="CEO" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="Y4w0jQ5FlkAyDfhmhhMQ-1">
+          <mxGeometry y="410" width="930" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4w0jQ5FlkAyDfhmhhMQ-14" value="Approved?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="Y4w0jQ5FlkAyDfhmhhMQ-5">
+          <mxGeometry x="149" y="25" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4w0jQ5FlkAyDfhmhhMQ-8" value="Finance" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="Y4w0jQ5FlkAyDfhmhhMQ-1">
+          <mxGeometry y="540" width="930" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4w0jQ5FlkAyDfhmhhMQ-20" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Y4w0jQ5FlkAyDfhmhhMQ-8">
+          <mxGeometry x="200" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4w0jQ5FlkAyDfhmhhMQ-16" value="Payments are processed" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="Y4w0jQ5FlkAyDfhmhhMQ-8">
+          <mxGeometry x="129" y="45" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4w0jQ5FlkAyDfhmhhMQ-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Y4w0jQ5FlkAyDfhmhhMQ-1" source="Y4w0jQ5FlkAyDfhmhhMQ-10" target="Y4w0jQ5FlkAyDfhmhhMQ-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4w0jQ5FlkAyDfhmhhMQ-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Y4w0jQ5FlkAyDfhmhhMQ-1" source="Y4w0jQ5FlkAyDfhmhhMQ-12" target="Y4w0jQ5FlkAyDfhmhhMQ-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4w0jQ5FlkAyDfhmhhMQ-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Y4w0jQ5FlkAyDfhmhhMQ-1" source="Y4w0jQ5FlkAyDfhmhhMQ-14" target="Y4w0jQ5FlkAyDfhmhhMQ-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4w0jQ5FlkAyDfhmhhMQ-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Y4w0jQ5FlkAyDfhmhhMQ-1" source="Y4w0jQ5FlkAyDfhmhhMQ-16" target="Y4w0jQ5FlkAyDfhmhhMQ-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4w0jQ5FlkAyDfhmhhMQ-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y4w0jQ5FlkAyDfhmhhMQ-7" target="Y4w0jQ5FlkAyDfhmhhMQ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4w0jQ5FlkAyDfhmhhMQ-7" value="Entry/update of staff payroll information and terms" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="169" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
