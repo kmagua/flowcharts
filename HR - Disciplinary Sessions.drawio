@@ -1,1 +1,161 @@
-<mxfile host="app.diagrams.net" modified="2020-08-27T05:27:48.696Z" agent="5.0 (Windows)" version="13.6.5" etag="lPnKhfhct4Fxrsufxl1J" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">7VhZc9MwEP41Hp5gfBQnecRp0wKhU2ihw6NiK7aI7DWynINfzyqWYzsOOYD0yDQv0a43K2m/b4/YcPrx/FKQNPoEAeWGbQZzwzk3bNuybQe/lGZRaLq9bqEIBQu0UaW4Zb+oVppam7OAZg1DCcAlS5tKH5KE+rKhI0LArGk2Bt7cNSUhbSlufcLb2nsWyEjfwu5U+ivKwqjc2XJ7xZOYlMb6JllEApjVVM6F4fQFgCxW8bxPuQpeGZf794t7Ppy4lx8+Zz/JV+/j3fW314WzwSE/WV1B0ET+X9d24XpKeK7jpe8qF2UABeRJQJUT03C8SMYclxYuf1ApFxpwkktAFQgZQQgJ4UOAVNuNIZHazFIyTYJ3CliURxz8SaEaMM71Hihp+y5KmRQwWWGnHKyAUMacjCj3iD8JlwftAweBjxJIqHIVIBn0XarDXVRab8/YagwyyIVPt9jpbJFEhHSbP7ewU+er8VQjd0khplIs0EBQTiSbNslMdE6EK7sKd1xo6A+ggdOiwZDEqcp6oFnySuJqBmKyhRsKl1nEJL1NyTJAMywnTb7UeYBX9UJOskyjuAPkw0CaUiHpfGtYy6euzu2yuGlxVlUKq0z/qFYlzswjAXHWAuI7Fs+XlPyXlHT3TMmyY+3MSU2Wkhh7p6j2dAMskTUTGI8zPNg6dVYb/j2b3rbYdA0tMu3G41nT7ZHI1DmMS9aT55L7hxbhcgyDNxK4CtUq5XkYIlnQXWI4g3btiiAe5dnudtHAWDFoQGLGVbyuKJ9SyXyyoakQzkLc99xHuKnYTB7ckiUhSm4l3S3JivX3iM2m02w2K7nebcwN3aZ7rG7TaWF6g+gV0NkmX+J7Yh3fsddA6D12y+/uU6SfdQl+8I5fVtPdLd/as0xr9phvHPw0CPT0p4DeXjPlyxhwHIbZpzYIlCes8cnL+ag9CYxykSwHAcjlyySwbRKwNzWhB50EykJYA/ULTQlDMM3hKc4B6//8z5zHngPKStGEgKuY2maRYSeGwfos5ljHwwDF6k1tUQqr993OxW8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-27T06:29:57.931Z" agent="5.0 (Windows)" etag="tb6s5WtyOFrMGN9WYeLU" version="13.6.5" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="HbI65TitRnQSJaxx7sDL-0" value="HR - Disciplinary Process" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="38" width="1025" height="778" as="geometry" />
+        </mxCell>
+        <mxCell id="HbI65TitRnQSJaxx7sDL-1" value="HOD" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="HbI65TitRnQSJaxx7sDL-0">
+          <mxGeometry y="20" width="1025" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="HbI65TitRnQSJaxx7sDL-13" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="HbI65TitRnQSJaxx7sDL-1">
+          <mxGeometry x="55" y="10" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HbI65TitRnQSJaxx7sDL-14" value="Identify and communicate misconduct" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HbI65TitRnQSJaxx7sDL-1">
+          <mxGeometry x="55" y="72" width="120" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="HbI65TitRnQSJaxx7sDL-43" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="HbI65TitRnQSJaxx7sDL-1" source="HbI65TitRnQSJaxx7sDL-13" target="HbI65TitRnQSJaxx7sDL-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="242" as="sourcePoint" />
+            <mxPoint x="560" y="192" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HbI65TitRnQSJaxx7sDL-2" value="HRM" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="HbI65TitRnQSJaxx7sDL-0">
+          <mxGeometry y="140" width="1025" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="HbI65TitRnQSJaxx7sDL-52" value="Implement action and Update staff records" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="HbI65TitRnQSJaxx7sDL-2">
+          <mxGeometry x="740" y="21" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HbI65TitRnQSJaxx7sDL-17" value="Analysis and Recommendation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HbI65TitRnQSJaxx7sDL-2">
+          <mxGeometry x="55" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HbI65TitRnQSJaxx7sDL-46" value="Close case and notify HOD and staff" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="HbI65TitRnQSJaxx7sDL-2">
+          <mxGeometry x="556" y="22" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HbI65TitRnQSJaxx7sDL-48" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="HbI65TitRnQSJaxx7sDL-2">
+          <mxGeometry x="930" y="30" width="80" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="HbI65TitRnQSJaxx7sDL-49" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="HbI65TitRnQSJaxx7sDL-2" source="HbI65TitRnQSJaxx7sDL-46" target="HbI65TitRnQSJaxx7sDL-48">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="192" as="sourcePoint" />
+            <mxPoint x="550" y="142" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="616" y="2" />
+              <mxPoint x="970" y="2" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HbI65TitRnQSJaxx7sDL-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="HbI65TitRnQSJaxx7sDL-2" source="HbI65TitRnQSJaxx7sDL-52" target="HbI65TitRnQSJaxx7sDL-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="910" y="52" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HbI65TitRnQSJaxx7sDL-3" value="HRAC" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="HbI65TitRnQSJaxx7sDL-0">
+          <mxGeometry y="260" width="1025" height="132" as="geometry" />
+        </mxCell>
+        <mxCell id="HbI65TitRnQSJaxx7sDL-35" value="Complaint valid?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="HbI65TitRnQSJaxx7sDL-3">
+          <mxGeometry x="463.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HbI65TitRnQSJaxx7sDL-25" value="Investigation Needed?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="HbI65TitRnQSJaxx7sDL-3">
+          <mxGeometry x="159" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HbI65TitRnQSJaxx7sDL-33" value="Analyze investigate report and make recommendation to CEO" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="HbI65TitRnQSJaxx7sDL-3">
+          <mxGeometry x="331" y="10" width="107" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HbI65TitRnQSJaxx7sDL-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HbI65TitRnQSJaxx7sDL-3" source="HbI65TitRnQSJaxx7sDL-33" target="HbI65TitRnQSJaxx7sDL-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HbI65TitRnQSJaxx7sDL-50" value="Further investigations and Decide on appropriate Action" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="HbI65TitRnQSJaxx7sDL-3">
+          <mxGeometry x="700" y="20" width="80" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="HbI65TitRnQSJaxx7sDL-44" value="Response Satisfactory?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="HbI65TitRnQSJaxx7sDL-3">
+          <mxGeometry x="561" y="32" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HbI65TitRnQSJaxx7sDL-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HbI65TitRnQSJaxx7sDL-3" source="HbI65TitRnQSJaxx7sDL-44" target="HbI65TitRnQSJaxx7sDL-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HbI65TitRnQSJaxx7sDL-4" value="CEO" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="HbI65TitRnQSJaxx7sDL-0">
+          <mxGeometry y="392" width="1025" height="136" as="geometry" />
+        </mxCell>
+        <mxCell id="HbI65TitRnQSJaxx7sDL-41" value="Review show cause letter and reconvene HRAC" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" vertex="1" parent="HbI65TitRnQSJaxx7sDL-4">
+          <mxGeometry x="572" y="20" width="88" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HbI65TitRnQSJaxx7sDL-37" value="Draft show cause letter and share with staff" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="HbI65TitRnQSJaxx7sDL-4">
+          <mxGeometry x="457" y="20" width="93" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HbI65TitRnQSJaxx7sDL-31" value="Receives recommendation and forward to HRAC" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="HbI65TitRnQSJaxx7sDL-4">
+          <mxGeometry x="330" y="20" width="109" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HbI65TitRnQSJaxx7sDL-21" value="CEO Remmendation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HbI65TitRnQSJaxx7sDL-4">
+          <mxGeometry x="70" y="29" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HbI65TitRnQSJaxx7sDL-27" value="Formation of Investigation Committe" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="HbI65TitRnQSJaxx7sDL-4">
+          <mxGeometry x="239" y="30" width="81" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HbI65TitRnQSJaxx7sDL-58" value="CEO input" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="HbI65TitRnQSJaxx7sDL-4">
+          <mxGeometry x="762" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HbI65TitRnQSJaxx7sDL-5" value="Staff" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="HbI65TitRnQSJaxx7sDL-0">
+          <mxGeometry y="528" width="1025" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="HbI65TitRnQSJaxx7sDL-39" value="Respond to show cause letter" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="HbI65TitRnQSJaxx7sDL-5">
+          <mxGeometry x="443.5" y="52" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HbI65TitRnQSJaxx7sDL-12" value="Investigation Committee" style="swimlane;html=1;startSize=25;horizontal=0;" vertex="1" parent="HbI65TitRnQSJaxx7sDL-0">
+          <mxGeometry y="658" width="1025" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="HbI65TitRnQSJaxx7sDL-29" value="Determine validity of complain and draw recommendations to CEO" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="HbI65TitRnQSJaxx7sDL-12">
+          <mxGeometry x="219" y="22" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HbI65TitRnQSJaxx7sDL-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HbI65TitRnQSJaxx7sDL-0" source="HbI65TitRnQSJaxx7sDL-14" target="HbI65TitRnQSJaxx7sDL-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HbI65TitRnQSJaxx7sDL-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HbI65TitRnQSJaxx7sDL-0" source="HbI65TitRnQSJaxx7sDL-17" target="HbI65TitRnQSJaxx7sDL-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HbI65TitRnQSJaxx7sDL-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="HbI65TitRnQSJaxx7sDL-0" source="HbI65TitRnQSJaxx7sDL-21" target="HbI65TitRnQSJaxx7sDL-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="129" y="439" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HbI65TitRnQSJaxx7sDL-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="HbI65TitRnQSJaxx7sDL-0" source="HbI65TitRnQSJaxx7sDL-25" target="HbI65TitRnQSJaxx7sDL-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HbI65TitRnQSJaxx7sDL-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HbI65TitRnQSJaxx7sDL-0" source="HbI65TitRnQSJaxx7sDL-27" target="HbI65TitRnQSJaxx7sDL-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HbI65TitRnQSJaxx7sDL-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="HbI65TitRnQSJaxx7sDL-0" source="HbI65TitRnQSJaxx7sDL-29" target="HbI65TitRnQSJaxx7sDL-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HbI65TitRnQSJaxx7sDL-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HbI65TitRnQSJaxx7sDL-0" source="HbI65TitRnQSJaxx7sDL-31" target="HbI65TitRnQSJaxx7sDL-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HbI65TitRnQSJaxx7sDL-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HbI65TitRnQSJaxx7sDL-0" source="HbI65TitRnQSJaxx7sDL-35" target="HbI65TitRnQSJaxx7sDL-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HbI65TitRnQSJaxx7sDL-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HbI65TitRnQSJaxx7sDL-0" source="HbI65TitRnQSJaxx7sDL-37" target="HbI65TitRnQSJaxx7sDL-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HbI65TitRnQSJaxx7sDL-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HbI65TitRnQSJaxx7sDL-0" source="HbI65TitRnQSJaxx7sDL-39" target="HbI65TitRnQSJaxx7sDL-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HbI65TitRnQSJaxx7sDL-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HbI65TitRnQSJaxx7sDL-0" source="HbI65TitRnQSJaxx7sDL-41" target="HbI65TitRnQSJaxx7sDL-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HbI65TitRnQSJaxx7sDL-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HbI65TitRnQSJaxx7sDL-0" source="HbI65TitRnQSJaxx7sDL-44" target="HbI65TitRnQSJaxx7sDL-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HbI65TitRnQSJaxx7sDL-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HbI65TitRnQSJaxx7sDL-0" source="HbI65TitRnQSJaxx7sDL-50" target="HbI65TitRnQSJaxx7sDL-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HbI65TitRnQSJaxx7sDL-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="HbI65TitRnQSJaxx7sDL-0" source="HbI65TitRnQSJaxx7sDL-58" target="HbI65TitRnQSJaxx7sDL-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="840" y="332" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
