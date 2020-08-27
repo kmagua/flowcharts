@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2020-08-27T14:57:55.092Z" agent="5.0 (Windows)" version="13.6.5" etag="hzkYQSXG2-Zf-FP8qZ1K" type="github"><diagram id="j-OE8qT9dOGBqhQpcEGW">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-27T15:09:31.807Z" agent="5.0 (Windows)" etag="SRunZymN3YiJ43iDnFTl" version="13.6.5" type="github">
+  <diagram id="j-OE8qT9dOGBqhQpcEGW" name="Page-1">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bdrutPgr3FMsvmJY9ggH-1" value="Registration and Prequalification of suppliers" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="900" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="bdrutPgr3FMsvmJY9ggH-2" value="Lane 1" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="bdrutPgr3FMsvmJY9ggH-1">
+          <mxGeometry y="20" width="900" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="bdrutPgr3FMsvmJY9ggH-5" value="Lane 1" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="bdrutPgr3FMsvmJY9ggH-1">
+          <mxGeometry y="140" width="900" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="bdrutPgr3FMsvmJY9ggH-3" value="Lane 2" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="bdrutPgr3FMsvmJY9ggH-1">
+          <mxGeometry y="260" width="900" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="bdrutPgr3FMsvmJY9ggH-4" value="Lane 3" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="bdrutPgr3FMsvmJY9ggH-1">
+          <mxGeometry y="380" width="900" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
