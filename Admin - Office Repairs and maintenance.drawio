@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-28T13:01:23.021Z" agent="5.0 (Windows)" etag="_IbvkyMAjEl6Ra4lEgGE" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-28T13:01:56.978Z" agent="5.0 (Windows)" etag="U6LJspCin7m25lAiQJvh" version="13.6.5" type="github">
   <diagram id="CY4ULaTwwWA3EwAkGtIX" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -34,7 +34,7 @@
         <mxCell id="r_VWNVGvAQIn86OGMZg3-10" value="Assess broken item and forward memo to HRM" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="r_VWNVGvAQIn86OGMZg3-4">
           <mxGeometry x="90" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="r_VWNVGvAQIn86OGMZg3-15" value="Raise imprest for repair" style="whiteSpace=wrap;html=1;" vertex="1" parent="r_VWNVGvAQIn86OGMZg3-4">
+        <mxCell id="r_VWNVGvAQIn86OGMZg3-15" value="Raise imprest/procure for repair" style="whiteSpace=wrap;html=1;" vertex="1" parent="r_VWNVGvAQIn86OGMZg3-4">
           <mxGeometry x="370" y="35" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r_VWNVGvAQIn86OGMZg3-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="r_VWNVGvAQIn86OGMZg3-4" source="r_VWNVGvAQIn86OGMZg3-19">
