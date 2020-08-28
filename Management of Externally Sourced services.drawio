@@ -1,20 +1,51 @@
-<mxfile host="app.diagrams.net" modified="2020-08-28T13:42:51.671Z" agent="5.0 (Windows)" etag="PeAbllEDOf__5JxZQedK" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-28T14:26:28.580Z" agent="5.0 (Windows)" etag="sYt8pX2muahd_96_0yKI" version="13.6.5" type="github">
   <diagram id="IRTuQF1Xo-b3qss3twne" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="tqt8v3HcIHjGrVh7Zfes-1" value="Pool" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="40" width="860" height="380" as="geometry" />
+        <mxCell id="tqt8v3HcIHjGrVh7Zfes-1" value="Management of Externally Sourced Services" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="40" width="860" height="450" as="geometry" />
         </mxCell>
-        <mxCell id="tqt8v3HcIHjGrVh7Zfes-2" value="Lane 1" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="tqt8v3HcIHjGrVh7Zfes-1">
-          <mxGeometry y="20" width="860" height="120" as="geometry" />
+        <mxCell id="tqt8v3HcIHjGrVh7Zfes-2" value="&lt;br&gt;&lt;p style=&quot;margin-bottom: 0in ; line-height: 100%&quot;&gt;&lt;font face=&quot;Footlight MT Light, serif&quot;&gt;Administration&lt;br&gt;Officer/ procurement&lt;/font&gt;&lt;/p&gt;&lt;br&gt;" style="swimlane;html=1;startSize=60;horizontal=0;" vertex="1" parent="tqt8v3HcIHjGrVh7Zfes-1">
+          <mxGeometry y="20" width="860" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="tqt8v3HcIHjGrVh7Zfes-3" value="Lane 2" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="tqt8v3HcIHjGrVh7Zfes-1">
-          <mxGeometry y="140" width="860" height="120" as="geometry" />
+        <mxCell id="tqt8v3HcIHjGrVh7Zfes-5" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="tqt8v3HcIHjGrVh7Zfes-2">
+          <mxGeometry x="110" y="20" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="tqt8v3HcIHjGrVh7Zfes-4" value="Lane 3" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="tqt8v3HcIHjGrVh7Zfes-1">
-          <mxGeometry y="260" width="860" height="120" as="geometry" />
+        <mxCell id="tqt8v3HcIHjGrVh7Zfes-6" value="&lt;br&gt;&lt;p style=&quot;margin-bottom: 0in ; line-height: 100%&quot;&gt;Prepare draft SLA&lt;br&gt;for management of the contract&lt;/p&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tqt8v3HcIHjGrVh7Zfes-2">
+          <mxGeometry x="110" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tqt8v3HcIHjGrVh7Zfes-3" value="&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;p style=&quot;margin-bottom: 0in ; line-height: 100%&quot;&gt;&lt;b&gt;&lt;font face=&quot;Footlight MT Light, serif&quot;&gt;Administration&lt;br&gt;Officer/ procurement/ legal&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" style="swimlane;html=1;startSize=60;horizontal=0;" vertex="1" parent="tqt8v3HcIHjGrVh7Zfes-1">
+          <mxGeometry y="200" width="860" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="tqt8v3HcIHjGrVh7Zfes-7" value="&lt;br/&gt;&lt;p style=&quot;margin-bottom: 0in ; line-height: 100%&quot;&gt;Prepare draft SLA&lt;br/&gt;for management of the contract&lt;/p&gt;&lt;br/&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="tqt8v3HcIHjGrVh7Zfes-3">
+          <mxGeometry x="110" y="35" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tqt8v3HcIHjGrVh7Zfes-4" value="Admin Officer" style="swimlane;html=1;startSize=60;horizontal=0;" vertex="1" parent="tqt8v3HcIHjGrVh7Zfes-1">
+          <mxGeometry y="330" width="860" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="tqt8v3HcIHjGrVh7Zfes-11" value="&lt;br/&gt;&lt;p style=&quot;margin-bottom: 0in ; line-height: 100%&quot;&gt;Monitor service&lt;br/&gt;delivery as per SLA&lt;br&gt;&lt;/p&gt;&lt;br/&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="tqt8v3HcIHjGrVh7Zfes-4">
+          <mxGeometry x="110" y="45" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tqt8v3HcIHjGrVh7Zfes-15" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="tqt8v3HcIHjGrVh7Zfes-4">
+          <mxGeometry x="330" y="52.5" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="tqt8v3HcIHjGrVh7Zfes-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="tqt8v3HcIHjGrVh7Zfes-1" source="tqt8v3HcIHjGrVh7Zfes-6" target="tqt8v3HcIHjGrVh7Zfes-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tqt8v3HcIHjGrVh7Zfes-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="tqt8v3HcIHjGrVh7Zfes-1" source="tqt8v3HcIHjGrVh7Zfes-7" target="tqt8v3HcIHjGrVh7Zfes-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tqt8v3HcIHjGrVh7Zfes-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tqt8v3HcIHjGrVh7Zfes-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tqt8v3HcIHjGrVh7Zfes-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tqt8v3HcIHjGrVh7Zfes-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="445" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
