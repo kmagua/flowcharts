@@ -1,1 +1,68 @@
-<mxfile host="app.diagrams.net" modified="2020-08-28T05:34:19.297Z" agent="5.0 (Windows)" version="13.6.5" etag="17AQPyYqhltlTTPcvLO6" type="github"><diagram id="n2dqF1v50LcyHeQBApp8">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-28T05:52:55.577Z" agent="5.0 (Windows)" etag="MmxDXqyxh0Bu5U_4bXKU" version="13.6.5" type="github">
+  <diagram id="n2dqF1v50LcyHeQBApp8" name="Page-1">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1_-6tGCJfeshroOVCwhQ-1" value="Procurement - Prequalification of Suppliers" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="1040" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="1_-6tGCJfeshroOVCwhQ-2" value="SCM" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="1_-6tGCJfeshroOVCwhQ-1">
+          <mxGeometry y="20" width="1040" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="1_-6tGCJfeshroOVCwhQ-17" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1_-6tGCJfeshroOVCwhQ-2">
+          <mxGeometry x="860" y="40" width="90" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="1_-6tGCJfeshroOVCwhQ-5" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1_-6tGCJfeshroOVCwhQ-2">
+          <mxGeometry x="70" y="30" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1_-6tGCJfeshroOVCwhQ-7" value="Identification and Creation of categories for good, work, services" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1_-6tGCJfeshroOVCwhQ-2">
+          <mxGeometry x="220" y="25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1_-6tGCJfeshroOVCwhQ-11" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1_-6tGCJfeshroOVCwhQ-2" source="1_-6tGCJfeshroOVCwhQ-5" target="1_-6tGCJfeshroOVCwhQ-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="220" as="sourcePoint" />
+            <mxPoint x="280" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1_-6tGCJfeshroOVCwhQ-3" value="EC/CEO" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="1_-6tGCJfeshroOVCwhQ-1">
+          <mxGeometry y="140" width="1040" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="1_-6tGCJfeshroOVCwhQ-4" value="ICT/SCM" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="1_-6tGCJfeshroOVCwhQ-1">
+          <mxGeometry y="260" width="1040" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="1_-6tGCJfeshroOVCwhQ-14" value="Upload of approved list on website" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1_-6tGCJfeshroOVCwhQ-4">
+          <mxGeometry x="660" y="-30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1_-6tGCJfeshroOVCwhQ-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1_-6tGCJfeshroOVCwhQ-1" source="1_-6tGCJfeshroOVCwhQ-14" target="1_-6tGCJfeshroOVCwhQ-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="860" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1_-6tGCJfeshroOVCwhQ-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1_-6tGCJfeshroOVCwhQ-8" target="1_-6tGCJfeshroOVCwhQ-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1_-6tGCJfeshroOVCwhQ-8" value="Define pre-qualification criteria" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="150" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1_-6tGCJfeshroOVCwhQ-10" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1_-6tGCJfeshroOVCwhQ-7" target="1_-6tGCJfeshroOVCwhQ-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="280" as="sourcePoint" />
+            <mxPoint x="360" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="115" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1_-6tGCJfeshroOVCwhQ-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1_-6tGCJfeshroOVCwhQ-12" target="1_-6tGCJfeshroOVCwhQ-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820" y="191.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1_-6tGCJfeshroOVCwhQ-12" value="Continuous registration of reserved groups" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="150" width="120" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
