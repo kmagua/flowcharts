@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-28T12:29:17.435Z" agent="5.0 (Windows)" etag="T_FmiIznGoSRB-sxPd0S" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-28T12:29:43.118Z" agent="5.0 (Windows)" etag="PX0Rvo01AT5OW4qFCdx_" version="13.6.5" type="github">
   <diagram id="N373Pgqu0XwGmI72x9me" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -18,6 +18,12 @@
         </mxCell>
         <mxCell id="nPgycQPardpM2GAPQvpo-7" value="Receive and review creative brief" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nPgycQPardpM2GAPQvpo-2">
           <mxGeometry x="60" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nPgycQPardpM2GAPQvpo-36" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="nPgycQPardpM2GAPQvpo-2" source="nPgycQPardpM2GAPQvpo-6" target="nPgycQPardpM2GAPQvpo-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="210" as="sourcePoint" />
+            <mxPoint x="520" y="160" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="nPgycQPardpM2GAPQvpo-3" value="Creative" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="nPgycQPardpM2GAPQvpo-1">
           <mxGeometry y="200" width="740" height="120" as="geometry" />
