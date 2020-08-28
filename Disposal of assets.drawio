@@ -1,1 +1,110 @@
-<mxfile host="app.diagrams.net" modified="2020-08-28T06:28:47.648Z" agent="5.0 (Windows)" version="13.6.5" etag="YOyXhY3BcUTN8k9MREbG" type="github"><diagram id="jB66JqobCLmvWqmxrgnv">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-28T06:44:29.311Z" agent="5.0 (Windows)" etag="2XOvt_QUGfapshaonePj" version="13.6.5" type="github">
+  <diagram id="jB66JqobCLmvWqmxrgnv" name="Page-1">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="h_ezqX-6WjAETVGM0M3Z-1" value="Disposal of Assets" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="40" width="1090" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="h_ezqX-6WjAETVGM0M3Z-2" value="" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="h_ezqX-6WjAETVGM0M3Z-1">
+          <mxGeometry y="20" width="1090" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="h_ezqX-6WjAETVGM0M3Z-5" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="h_ezqX-6WjAETVGM0M3Z-2">
+          <mxGeometry x="130" y="40" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h_ezqX-6WjAETVGM0M3Z-32" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="h_ezqX-6WjAETVGM0M3Z-2">
+          <mxGeometry x="940" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h_ezqX-6WjAETVGM0M3Z-7" value="Identification of items for disposal by Users" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h_ezqX-6WjAETVGM0M3Z-2">
+          <mxGeometry x="120" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h_ezqX-6WjAETVGM0M3Z-8" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="h_ezqX-6WjAETVGM0M3Z-2" source="h_ezqX-6WjAETVGM0M3Z-5" target="h_ezqX-6WjAETVGM0M3Z-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="220" as="sourcePoint" />
+            <mxPoint x="470" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h_ezqX-6WjAETVGM0M3Z-27" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="h_ezqX-6WjAETVGM0M3Z-2">
+          <mxGeometry x="379" y="200" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="h_ezqX-6WjAETVGM0M3Z-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h_ezqX-6WjAETVGM0M3Z-9" target="h_ezqX-6WjAETVGM0M3Z-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h_ezqX-6WjAETVGM0M3Z-9" value="User submit items for disposal 30 days before end of Financial year" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h_ezqX-6WjAETVGM0M3Z-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h_ezqX-6WjAETVGM0M3Z-7" target="h_ezqX-6WjAETVGM0M3Z-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h_ezqX-6WjAETVGM0M3Z-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h_ezqX-6WjAETVGM0M3Z-11" target="h_ezqX-6WjAETVGM0M3Z-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h_ezqX-6WjAETVGM0M3Z-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h_ezqX-6WjAETVGM0M3Z-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h_ezqX-6WjAETVGM0M3Z-11" value="Consolidated annual disposal plan is submitted to CEO for approval" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h_ezqX-6WjAETVGM0M3Z-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h_ezqX-6WjAETVGM0M3Z-13" target="h_ezqX-6WjAETVGM0M3Z-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h_ezqX-6WjAETVGM0M3Z-13" value="Items are assembled in store" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h_ezqX-6WjAETVGM0M3Z-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h_ezqX-6WjAETVGM0M3Z-15" target="h_ezqX-6WjAETVGM0M3Z-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h_ezqX-6WjAETVGM0M3Z-15" value="HSCM processes disposal and recommends to CEO to appoint Disposal Committee(DC)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="590" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h_ezqX-6WjAETVGM0M3Z-17" value="Approved consolidated plans" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="450" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h_ezqX-6WjAETVGM0M3Z-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h_ezqX-6WjAETVGM0M3Z-19" target="h_ezqX-6WjAETVGM0M3Z-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h_ezqX-6WjAETVGM0M3Z-19" value="DC recommends reserve price and Disposal method" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="415" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h_ezqX-6WjAETVGM0M3Z-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h_ezqX-6WjAETVGM0M3Z-21" target="h_ezqX-6WjAETVGM0M3Z-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h_ezqX-6WjAETVGM0M3Z-21" value="CEO considers DC recommendation and approves within 14 days" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="415" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h_ezqX-6WjAETVGM0M3Z-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="h_ezqX-6WjAETVGM0M3Z-23" target="h_ezqX-6WjAETVGM0M3Z-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="200" />
+              <mxPoint x="380" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h_ezqX-6WjAETVGM0M3Z-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h_ezqX-6WjAETVGM0M3Z-23" target="h_ezqX-6WjAETVGM0M3Z-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h_ezqX-6WjAETVGM0M3Z-23" value="CEO Approves?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="435" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h_ezqX-6WjAETVGM0M3Z-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h_ezqX-6WjAETVGM0M3Z-28" target="h_ezqX-6WjAETVGM0M3Z-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h_ezqX-6WjAETVGM0M3Z-28" value="Procurement HOD initiates Disposal Process" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="575" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h_ezqX-6WjAETVGM0M3Z-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h_ezqX-6WjAETVGM0M3Z-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="950" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h_ezqX-6WjAETVGM0M3Z-30" value="Disposed items are removed from registry" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="775" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
