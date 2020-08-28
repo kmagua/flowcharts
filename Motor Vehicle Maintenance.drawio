@@ -1,14 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2020-08-28T13:40:15.311Z" agent="5.0 (Windows)" etag="9lnIj_-QHGwov2yoLkxl" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-28T13:41:22.753Z" agent="5.0 (Windows)" etag="YJfeOPnbK-mOLfNX6B-8" version="13.6.5" type="github">
   <diagram id="oWlylEBQviAWSe--g1H0" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="MVTkKGIkpf2VvX0Fy_1I-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MVTkKGIkpf2VvX0Fy_1I-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MVTkKGIkpf2VvX0Fy_1I-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MVTkKGIkpf2VvX0Fy_1I-14" target="MVTkKGIkpf2VvX0Fy_1I-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MVTkKGIkpf2VvX0Fy_1I-14" value="&lt;br/&gt;&lt;p style=&quot;margin-bottom: 0in ; line-height: 100%&quot;&gt;Assign driver to take the vehicle for servicing&lt;/p&gt;&lt;br/&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="585" y="325" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MVTkKGIkpf2VvX0Fy_1I-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MVTkKGIkpf2VvX0Fy_1I-12" target="MVTkKGIkpf2VvX0Fy_1I-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MVTkKGIkpf2VvX0Fy_1I-1" value="Motor Vehicle Maintenance" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="90" width="920" height="560" as="geometry" />
+          <mxGeometry x="90" y="90" width="1060" height="560" as="geometry" />
         </mxCell>
         <mxCell id="MVTkKGIkpf2VvX0Fy_1I-2" value="Driver" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="MVTkKGIkpf2VvX0Fy_1I-1">
-          <mxGeometry y="20" width="920" height="170" as="geometry" />
+          <mxGeometry y="20" width="1060" height="170" as="geometry" />
         </mxCell>
         <mxCell id="MVTkKGIkpf2VvX0Fy_1I-6" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="MVTkKGIkpf2VvX0Fy_1I-2">
           <mxGeometry x="90" y="10" width="120" height="50" as="geometry" />
@@ -28,20 +42,23 @@
             <mxPoint x="490" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="MVTkKGIkpf2VvX0Fy_1I-24" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="MVTkKGIkpf2VvX0Fy_1I-2">
+          <mxGeometry x="910" y="110" width="120" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="MVTkKGIkpf2VvX0Fy_1I-3" value="Admin Officer" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="MVTkKGIkpf2VvX0Fy_1I-1">
-          <mxGeometry y="190" width="920" height="130" as="geometry" />
+          <mxGeometry y="190" width="1060" height="130" as="geometry" />
         </mxCell>
         <mxCell id="MVTkKGIkpf2VvX0Fy_1I-12" value="&lt;br/&gt;&lt;p style=&quot;margin-bottom: 0in ; line-height: 100%&quot;&gt;Raise a requisition once its due for service&lt;/p&gt;&lt;br/&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="MVTkKGIkpf2VvX0Fy_1I-3">
           <mxGeometry x="325" y="50" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MVTkKGIkpf2VvX0Fy_1I-4" value="Procurement" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="MVTkKGIkpf2VvX0Fy_1I-1">
-          <mxGeometry y="320" width="920" height="120" as="geometry" />
+          <mxGeometry y="320" width="1060" height="120" as="geometry" />
         </mxCell>
         <mxCell id="MVTkKGIkpf2VvX0Fy_1I-21" value="Make necessary payments" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="MVTkKGIkpf2VvX0Fy_1I-4">
           <mxGeometry x="700" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MVTkKGIkpf2VvX0Fy_1I-5" value="Procurement" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="MVTkKGIkpf2VvX0Fy_1I-1">
-          <mxGeometry y="440" width="920" height="120" as="geometry" />
+          <mxGeometry y="440" width="1060" height="120" as="geometry" />
         </mxCell>
         <mxCell id="MVTkKGIkpf2VvX0Fy_1I-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="MVTkKGIkpf2VvX0Fy_1I-1" source="MVTkKGIkpf2VvX0Fy_1I-9" target="MVTkKGIkpf2VvX0Fy_1I-12">
           <mxGeometry relative="1" as="geometry" />
@@ -51,19 +68,10 @@
             <mxPoint x="760" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MVTkKGIkpf2VvX0Fy_1I-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MVTkKGIkpf2VvX0Fy_1I-7">
+        <mxCell id="MVTkKGIkpf2VvX0Fy_1I-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MVTkKGIkpf2VvX0Fy_1I-16">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="350" y="240" as="targetPoint" />
+            <mxPoint x="1000" y="240" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="MVTkKGIkpf2VvX0Fy_1I-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MVTkKGIkpf2VvX0Fy_1I-14" target="MVTkKGIkpf2VvX0Fy_1I-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="MVTkKGIkpf2VvX0Fy_1I-14" value="&lt;br/&gt;&lt;p style=&quot;margin-bottom: 0in ; line-height: 100%&quot;&gt;Assign driver to take the vehicle for servicing&lt;/p&gt;&lt;br/&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="585" y="325" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="MVTkKGIkpf2VvX0Fy_1I-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MVTkKGIkpf2VvX0Fy_1I-12" target="MVTkKGIkpf2VvX0Fy_1I-14">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
