@@ -1,1 +1,86 @@
-<mxfile host="app.diagrams.net" modified="2020-08-28T07:10:59.530Z" agent="5.0 (Windows)" version="13.6.5" etag="3CrnQEzO12pyMCgbd4RZ" type="github"><diagram id="Iypkp6MeS8w_ESI0-BGD">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-28T07:34:27.903Z" agent="5.0 (Windows)" etag="dcBM-h1z7Kgywx-xMirk" version="13.6.5" type="github">
+  <diagram id="Iypkp6MeS8w_ESI0-BGD" name="Page-1">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JlDGp4HvmVxd3a4Thtz--1" value="Inventory Management" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="30" y="30" width="940" height="760" as="geometry" />
+        </mxCell>
+        <mxCell id="JlDGp4HvmVxd3a4Thtz--2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JlDGp4HvmVxd3a4Thtz--1">
+          <mxGeometry x="60" y="50" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JlDGp4HvmVxd3a4Thtz--3" value="Appointment of Inspection and acceptance committee" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JlDGp4HvmVxd3a4Thtz--1">
+          <mxGeometry x="60" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JlDGp4HvmVxd3a4Thtz--4" value="Receipt of good and services by SCM" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="JlDGp4HvmVxd3a4Thtz--1">
+          <mxGeometry x="60" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JlDGp4HvmVxd3a4Thtz--5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JlDGp4HvmVxd3a4Thtz--1" source="JlDGp4HvmVxd3a4Thtz--3" target="JlDGp4HvmVxd3a4Thtz--4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JlDGp4HvmVxd3a4Thtz--6" value="Inspection of delivered goods/services by IAC" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="JlDGp4HvmVxd3a4Thtz--1">
+          <mxGeometry x="60" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JlDGp4HvmVxd3a4Thtz--7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JlDGp4HvmVxd3a4Thtz--1" source="JlDGp4HvmVxd3a4Thtz--4" target="JlDGp4HvmVxd3a4Thtz--6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JlDGp4HvmVxd3a4Thtz--10" value="SCM Signs delivery note, invoices and GRN" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="JlDGp4HvmVxd3a4Thtz--1">
+          <mxGeometry x="240" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JlDGp4HvmVxd3a4Thtz--12" value="SCM signs goods return note, IAC documents reason for rejection. " style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="JlDGp4HvmVxd3a4Thtz--1">
+          <mxGeometry x="60" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JlDGp4HvmVxd3a4Thtz--20" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JlDGp4HvmVxd3a4Thtz--1">
+          <mxGeometry x="662" y="650" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JlDGp4HvmVxd3a4Thtz--25" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="JlDGp4HvmVxd3a4Thtz--1" source="JlDGp4HvmVxd3a4Thtz--2" target="JlDGp4HvmVxd3a4Thtz--3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="310" as="sourcePoint" />
+            <mxPoint x="520" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JlDGp4HvmVxd3a4Thtz--11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JlDGp4HvmVxd3a4Thtz--8" target="JlDGp4HvmVxd3a4Thtz--10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JlDGp4HvmVxd3a4Thtz--13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JlDGp4HvmVxd3a4Thtz--8" target="JlDGp4HvmVxd3a4Thtz--12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JlDGp4HvmVxd3a4Thtz--8" value="Goods accepted?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="500" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JlDGp4HvmVxd3a4Thtz--9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JlDGp4HvmVxd3a4Thtz--6" target="JlDGp4HvmVxd3a4Thtz--8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JlDGp4HvmVxd3a4Thtz--22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JlDGp4HvmVxd3a4Thtz--14" target="JlDGp4HvmVxd3a4Thtz--20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="575" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JlDGp4HvmVxd3a4Thtz--14" value="Supplier is notified to come pick goods/service. User/consumer will be notified and process restarted" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="670" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JlDGp4HvmVxd3a4Thtz--15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JlDGp4HvmVxd3a4Thtz--12" target="JlDGp4HvmVxd3a4Thtz--14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JlDGp4HvmVxd3a4Thtz--19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JlDGp4HvmVxd3a4Thtz--16" target="JlDGp4HvmVxd3a4Thtz--18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JlDGp4HvmVxd3a4Thtz--16" value="Accepted goods are received in the store and stock control ledger updated" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JlDGp4HvmVxd3a4Thtz--17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JlDGp4HvmVxd3a4Thtz--10" target="JlDGp4HvmVxd3a4Thtz--16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JlDGp4HvmVxd3a4Thtz--24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.442;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JlDGp4HvmVxd3a4Thtz--18" target="JlDGp4HvmVxd3a4Thtz--20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="745" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JlDGp4HvmVxd3a4Thtz--18" value="Invoices, delivery notes, IAC reports, LPO/LSO forwarded to Finance for supplier payment" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="510" width="150" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
