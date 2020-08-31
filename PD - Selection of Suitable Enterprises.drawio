@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-31T07:00:41.269Z" agent="5.0 (Windows)" etag="VYA2WfkTbWn48vOshksI" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-31T07:04:16.790Z" agent="5.0 (Windows)" etag="LcDRsWGaxaKkmlosm0R9" version="13.6.5" type="github">
   <diagram id="zvMdNeZ5TChEJuspwTch" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -21,6 +21,9 @@
         </mxCell>
         <mxCell id="o6c0h8PLCJ8R-q3oVO_S-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="o6c0h8PLCJ8R-q3oVO_S-2" source="o6c0h8PLCJ8R-q3oVO_S-13" target="o6c0h8PLCJ8R-q3oVO_S-24">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o6c0h8PLCJ8R-q3oVO_S-32" value="Invite selection committee to shortlist applicants" style="whiteSpace=wrap;html=1;" vertex="1" parent="o6c0h8PLCJ8R-q3oVO_S-2">
+          <mxGeometry x="781" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o6c0h8PLCJ8R-q3oVO_S-3" value="CEO" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="o6c0h8PLCJ8R-q3oVO_S-1">
           <mxGeometry y="200" width="960" height="130" as="geometry" />
@@ -48,12 +51,18 @@
         <mxCell id="o6c0h8PLCJ8R-q3oVO_S-6" value="Shortlisting Committee" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="o6c0h8PLCJ8R-q3oVO_S-1">
           <mxGeometry y="450" width="960" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="o6c0h8PLCJ8R-q3oVO_S-34" value="Applicant shortlisted based on predefined criteria" style="whiteSpace=wrap;html=1;" vertex="1" parent="o6c0h8PLCJ8R-q3oVO_S-6">
+          <mxGeometry x="781" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="o6c0h8PLCJ8R-q3oVO_S-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="o6c0h8PLCJ8R-q3oVO_S-1" source="o6c0h8PLCJ8R-q3oVO_S-10" target="o6c0h8PLCJ8R-q3oVO_S-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="340" y="310" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="o6c0h8PLCJ8R-q3oVO_S-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="o6c0h8PLCJ8R-q3oVO_S-1" source="o6c0h8PLCJ8R-q3oVO_S-32" target="o6c0h8PLCJ8R-q3oVO_S-34">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o6c0h8PLCJ8R-q3oVO_S-7" value="Develop a concept for a new product and forward to CEO for consideration and approval" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="202" width="150" height="60" as="geometry" />
@@ -76,8 +85,11 @@
         <mxCell id="o6c0h8PLCJ8R-q3oVO_S-27" value="CEO and Product Development Input" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="384" width="140" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="o6c0h8PLCJ8R-q3oVO_S-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o6c0h8PLCJ8R-q3oVO_S-30" target="o6c0h8PLCJ8R-q3oVO_S-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="o6c0h8PLCJ8R-q3oVO_S-30" value="Appointment of selection Committee" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="631" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="631" y="256" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o6c0h8PLCJ8R-q3oVO_S-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="o6c0h8PLCJ8R-q3oVO_S-24" target="o6c0h8PLCJ8R-q3oVO_S-30">
           <mxGeometry relative="1" as="geometry" />
