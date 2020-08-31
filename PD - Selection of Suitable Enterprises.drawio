@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-31T06:57:09.443Z" agent="5.0 (Windows)" etag="cTGi7eONz_-gleijEEk2" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-31T07:00:41.269Z" agent="5.0 (Windows)" etag="VYA2WfkTbWn48vOshksI" version="13.6.5" type="github">
   <diagram id="zvMdNeZ5TChEJuspwTch" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -75,6 +75,12 @@
         </mxCell>
         <mxCell id="o6c0h8PLCJ8R-q3oVO_S-27" value="CEO and Product Development Input" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="384" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o6c0h8PLCJ8R-q3oVO_S-30" value="Appointment of selection Committee" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="631" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o6c0h8PLCJ8R-q3oVO_S-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="o6c0h8PLCJ8R-q3oVO_S-24" target="o6c0h8PLCJ8R-q3oVO_S-30">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
