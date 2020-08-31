@@ -1,29 +1,60 @@
-<mxfile host="app.diagrams.net" modified="2020-08-31T07:37:08.717Z" agent="5.0 (Windows)" etag="NY2URDYoWsYqRDbLBuq6" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-31T07:50:08.639Z" agent="5.0 (Windows)" etag="_6_wNd2pVBaZA3U5D1DF" version="13.6.5" type="github">
   <diagram id="vVYcCNFhCBqixPrSpccl" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="YHDUnjzckUYfYjCSyQm6-1" value="Product Development - Instructive Training Workshops" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="1">
-          <mxGeometry x="30" y="10" width="930" height="500" as="geometry" />
+          <mxGeometry x="30" y="10" width="930" height="515" as="geometry" />
         </mxCell>
         <mxCell id="YHDUnjzckUYfYjCSyQm6-2" value="HOD" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="YHDUnjzckUYfYjCSyQm6-1">
           <mxGeometry y="20" width="930" height="120" as="geometry" />
         </mxCell>
         <mxCell id="YHDUnjzckUYfYjCSyQm6-6" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="YHDUnjzckUYfYjCSyQm6-2">
-          <mxGeometry x="70" y="10" width="100" height="30" as="geometry" />
+          <mxGeometry x="70" y="3" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YHDUnjzckUYfYjCSyQm6-7" value="HOD initiates" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="YHDUnjzckUYfYjCSyQm6-2">
-          <mxGeometry x="60" y="70" width="120" height="40" as="geometry" />
+          <mxGeometry x="60" y="65" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YHDUnjzckUYfYjCSyQm6-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="YHDUnjzckUYfYjCSyQm6-2" source="YHDUnjzckUYfYjCSyQm6-6" target="YHDUnjzckUYfYjCSyQm6-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="60" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="YHDUnjzckUYfYjCSyQm6-3" value="CEO" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="YHDUnjzckUYfYjCSyQm6-1">
-          <mxGeometry y="140" width="930" height="120" as="geometry" />
+          <mxGeometry y="140" width="930" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="YHDUnjzckUYfYjCSyQm6-17" value="Approved?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="YHDUnjzckUYfYjCSyQm6-3">
+          <mxGeometry x="80" y="22.5" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YHDUnjzckUYfYjCSyQm6-4" value="Procurement" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="YHDUnjzckUYfYjCSyQm6-1">
-          <mxGeometry y="260" width="930" height="120" as="geometry" />
+          <mxGeometry y="265" width="930" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="YHDUnjzckUYfYjCSyQm6-8" value="Procurement of venue, transport logistics" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="YHDUnjzckUYfYjCSyQm6-4">
+          <mxGeometry x="60" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YHDUnjzckUYfYjCSyQm6-5" value="Product Development" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="YHDUnjzckUYfYjCSyQm6-1">
-          <mxGeometry y="380" width="930" height="120" as="geometry" />
+          <mxGeometry y="395" width="930" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="YHDUnjzckUYfYjCSyQm6-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="YHDUnjzckUYfYjCSyQm6-1" source="YHDUnjzckUYfYjCSyQm6-8" target="YHDUnjzckUYfYjCSyQm6-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="40" y="340" />
+              <mxPoint x="40" y="105" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHDUnjzckUYfYjCSyQm6-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="YHDUnjzckUYfYjCSyQm6-1" source="YHDUnjzckUYfYjCSyQm6-7" target="YHDUnjzckUYfYjCSyQm6-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YHDUnjzckUYfYjCSyQm6-11" value="Printing materials, badges" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="235" y="90" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YHDUnjzckUYfYjCSyQm6-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YHDUnjzckUYfYjCSyQm6-11" target="YHDUnjzckUYfYjCSyQm6-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="210" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
