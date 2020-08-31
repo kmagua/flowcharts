@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-08-31T12:24:31.523Z" agent="5.0 (Windows)" etag="rQG96PpI6-wznuJqMFCd" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-31T12:27:15.893Z" agent="5.0 (Windows)" etag="FuCGWRsGuaHLv4yJeT1W" version="13.6.5" type="github">
   <diagram id="DY3eHfvOSPWDVCPXGx6p" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="_B_kPmU5SBiJ9JDvNw43-1" value="Product Development - Onsite Company Coaching" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="1">
-          <mxGeometry x="30" y="90" width="740" height="380" as="geometry" />
+          <mxGeometry x="30" y="90" width="740" height="400" as="geometry" />
         </mxCell>
         <mxCell id="_B_kPmU5SBiJ9JDvNw43-2" value="HOD" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="_B_kPmU5SBiJ9JDvNw43-1">
           <mxGeometry y="20" width="740" height="120" as="geometry" />
@@ -13,11 +13,20 @@
         <mxCell id="_B_kPmU5SBiJ9JDvNw43-5" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="_B_kPmU5SBiJ9JDvNw43-2">
           <mxGeometry x="110" y="10" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="_B_kPmU5SBiJ9JDvNw43-6" value="Development of onsite company coaching schedule" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_B_kPmU5SBiJ9JDvNw43-2">
+          <mxGeometry x="85" y="60" width="120" height="50" as="geometry" />
+        </mxCell>
         <mxCell id="_B_kPmU5SBiJ9JDvNw43-3" value="CEO" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="_B_kPmU5SBiJ9JDvNw43-1">
-          <mxGeometry y="140" width="740" height="120" as="geometry" />
+          <mxGeometry y="140" width="740" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="_B_kPmU5SBiJ9JDvNw43-9" value="Approved?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="_B_kPmU5SBiJ9JDvNw43-3">
+          <mxGeometry x="105" y="36" width="80" height="85" as="geometry" />
         </mxCell>
         <mxCell id="_B_kPmU5SBiJ9JDvNw43-4" value="Product Development" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="_B_kPmU5SBiJ9JDvNw43-1">
-          <mxGeometry y="260" width="740" height="120" as="geometry" />
+          <mxGeometry y="280" width="740" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="_B_kPmU5SBiJ9JDvNw43-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_B_kPmU5SBiJ9JDvNw43-1" source="_B_kPmU5SBiJ9JDvNw43-6" target="_B_kPmU5SBiJ9JDvNw43-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
