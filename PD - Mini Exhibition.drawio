@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-01T08:17:16.583Z" agent="5.0 (Windows)" etag="ZS9VNtBafpcG9QZFMKW1" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-01T08:19:20.420Z" agent="5.0 (Windows)" etag="2wu_4_2uzrX5JEI8tE5A" version="13.6.6" type="github">
   <diagram id="iS4VbfkvWqATDpr2NzcE" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -68,6 +68,9 @@
         <mxCell id="rXSO16KiNVPudHFig_VC-69" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="rXSO16KiNVPudHFig_VC-3">
           <mxGeometry x="621" width="40" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="rXSO16KiNVPudHFig_VC-86" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="rXSO16KiNVPudHFig_VC-3">
+          <mxGeometry x="954" width="40" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="rXSO16KiNVPudHFig_VC-4" value="Procurement" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="rXSO16KiNVPudHFig_VC-1">
           <mxGeometry y="280" width="1085" height="110" as="geometry" />
         </mxCell>
@@ -76,6 +79,9 @@
         </mxCell>
         <mxCell id="rXSO16KiNVPudHFig_VC-11" value="Undertake necessary procurement" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="rXSO16KiNVPudHFig_VC-4">
           <mxGeometry x="95" y="35" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rXSO16KiNVPudHFig_VC-91" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="rXSO16KiNVPudHFig_VC-4">
+          <mxGeometry x="861" y="45" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rXSO16KiNVPudHFig_VC-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="rXSO16KiNVPudHFig_VC-1" source="rXSO16KiNVPudHFig_VC-6" target="rXSO16KiNVPudHFig_VC-9">
           <mxGeometry relative="1" as="geometry" />
@@ -163,6 +169,15 @@
         <mxCell id="rXSO16KiNVPudHFig_VC-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rXSO16KiNVPudHFig_VC-78" target="rXSO16KiNVPudHFig_VC-75">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="900" y="272" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rXSO16KiNVPudHFig_VC-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.022;entryY=0.367;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rXSO16KiNVPudHFig_VC-81" target="rXSO16KiNVPudHFig_VC-75">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="865" y="257" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="910" y="257" />
+              <mxPoint x="910" y="529" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
