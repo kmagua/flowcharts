@@ -1,20 +1,26 @@
-<mxfile host="app.diagrams.net" modified="2020-09-01T12:28:18.775Z" agent="5.0 (Windows)" etag="dMV3xmwUD2BhqrHFMpFW" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-02T06:11:19.133Z" agent="5.0 (Windows)" etag="eU9wdsXJFs-5tlGgvND_" version="13.6.6" type="github">
   <diagram id="T99PzUVAFDoQMoi26orQ" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="qGW0iyLOGjJOO7iM3Xq_-1" value="Product Development - Test Marketing of Newly Developed Products" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="1">
-          <mxGeometry x="90" y="70" width="910" height="380" as="geometry" />
+        <mxCell id="MGRTIfC5R2zvSQsZUkEv-1" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="30" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qGW0iyLOGjJOO7iM3Xq_-2" value="Lane 1" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="qGW0iyLOGjJOO7iM3Xq_-1">
-          <mxGeometry y="20" width="910" height="120" as="geometry" />
+        <mxCell id="MGRTIfC5R2zvSQsZUkEv-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MGRTIfC5R2zvSQsZUkEv-2" target="MGRTIfC5R2zvSQsZUkEv-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qGW0iyLOGjJOO7iM3Xq_-3" value="Lane 2" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="qGW0iyLOGjJOO7iM3Xq_-1">
-          <mxGeometry y="140" width="910" height="120" as="geometry" />
+        <mxCell id="MGRTIfC5R2zvSQsZUkEv-2" value="&lt;br/&gt;&lt;p style=&quot;margin-bottom: 0in ; line-height: 100%&quot;&gt;&lt;font face=&quot;Arial, serif&quot;&gt;HOD with CEO approval appoints Event Coordinator (EC) and Constitution of A Preparatory Committee&lt;br/&gt; and development of Committee’s TOR’s&lt;/font&gt;&lt;/p&gt;&lt;br/&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="100" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qGW0iyLOGjJOO7iM3Xq_-4" value="Lane 3" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="qGW0iyLOGjJOO7iM3Xq_-1">
-          <mxGeometry y="260" width="910" height="120" as="geometry" />
+        <mxCell id="MGRTIfC5R2zvSQsZUkEv-3" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="MGRTIfC5R2zvSQsZUkEv-1" target="MGRTIfC5R2zvSQsZUkEv-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="210" as="sourcePoint" />
+            <mxPoint x="420" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MGRTIfC5R2zvSQsZUkEv-4" value="&lt;font face=&quot;Arial, serif&quot;&gt;EC in consultation with HOD prepares the initial &lt;/font&gt;&lt;font face=&quot;Arial, serif&quot;&gt;countdown&lt;/font&gt;&lt;font face=&quot;Arial, serif&quot;&gt; of activities&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="200" width="180" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
