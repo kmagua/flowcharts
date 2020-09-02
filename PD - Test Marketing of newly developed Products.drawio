@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-02T06:27:08.669Z" agent="5.0 (Windows)" etag="8p9Q4k4hmZl8b1ygQbwA" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-02T06:31:35.582Z" agent="5.0 (Windows)" etag="BWhQWtbHnMtiaLz-h1Gv" version="13.6.6" type="github">
   <diagram id="T99PzUVAFDoQMoi26orQ" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -49,8 +49,20 @@
         <mxCell id="MGRTIfC5R2zvSQsZUkEv-12" value="&lt;font face=&quot;Arial, serif&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;EC&lt;/span&gt;&lt;/font&gt;&lt;font face=&quot;Arial, serif&quot;&gt; in consultation with HOD issues letters of offer to successful applicants, together with commitment and bonding forms (&lt;/font&gt;&lt;font face=&quot;Arial, serif&quot;&gt;&lt;i&gt;where applicable)&lt;/i&gt;&lt;/font&gt;&lt;font face=&quot;Arial, serif&quot;&gt; for completion and return&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="620" width="260" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="MGRTIfC5R2zvSQsZUkEv-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MGRTIfC5R2zvSQsZUkEv-14" target="MGRTIfC5R2zvSQsZUkEv-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MGRTIfC5R2zvSQsZUkEv-14" value="&lt;font face=&quot;Arial, serif&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;EC&lt;/span&gt;&lt;/font&gt;&lt;font face=&quot;Arial, serif&quot;&gt; prepares briefing notes in preparation for the &lt;/font&gt;&lt;font face=&quot;Arial, serif&quot;&gt;&lt;b&gt;1st&lt;/b&gt;&lt;/font&gt;&lt;font face=&quot;Arial, serif&quot;&gt;&lt;b&gt; Exhibitors&lt;/b&gt;&lt;/font&gt;&lt;font face=&quot;Arial, serif&quot;&gt; Briefing meeting&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="740" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MGRTIfC5R2zvSQsZUkEv-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MGRTIfC5R2zvSQsZUkEv-16" target="MGRTIfC5R2zvSQsZUkEv-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MGRTIfC5R2zvSQsZUkEv-16" value="&lt;font face=&quot;Arial, serif&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;EC&lt;/span&gt;&lt;/font&gt;&lt;font face=&quot;Arial, serif&quot;&gt; sends out invitation letters to exhibitors for the &lt;/font&gt;&lt;font face=&quot;Arial, serif&quot;&gt;1st Briefing meeting&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="355" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MGRTIfC5R2zvSQsZUkEv-18" value="&lt;font face=&quot;Arial, serif&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;EC&lt;/span&gt;&lt;/font&gt;&lt;font face=&quot;Arial, serif&quot;&gt; convenes the &lt;/font&gt;&lt;font face=&quot;Arial, serif&quot;&gt;1&lt;/font&gt;&lt;sup&gt;&lt;font face=&quot;Arial, serif&quot;&gt;st&lt;/font&gt;&lt;/sup&gt;&lt;font face=&quot;Arial, serif&quot;&gt;&lt;sup&gt; &lt;/sup&gt;Exhibitors Briefing Meeting&lt;/font&gt;&lt;font face=&quot;Arial, serif&quot;&gt; for shortlisted participants&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="625" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
