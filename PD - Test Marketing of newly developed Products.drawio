@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-02T06:31:35.582Z" agent="5.0 (Windows)" etag="BWhQWtbHnMtiaLz-h1Gv" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-02T07:12:41.537Z" agent="5.0 (Windows)" etag="bXwByYe6xERvhQMCT98p" version="13.6.6" type="github">
   <diagram id="T99PzUVAFDoQMoi26orQ" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -61,8 +61,20 @@
         <mxCell id="MGRTIfC5R2zvSQsZUkEv-16" value="&lt;font face=&quot;Arial, serif&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;EC&lt;/span&gt;&lt;/font&gt;&lt;font face=&quot;Arial, serif&quot;&gt; sends out invitation letters to exhibitors for the &lt;/font&gt;&lt;font face=&quot;Arial, serif&quot;&gt;1st Briefing meeting&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="355" y="740" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="MGRTIfC5R2zvSQsZUkEv-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MGRTIfC5R2zvSQsZUkEv-18" target="MGRTIfC5R2zvSQsZUkEv-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MGRTIfC5R2zvSQsZUkEv-18" value="&lt;font face=&quot;Arial, serif&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;EC&lt;/span&gt;&lt;/font&gt;&lt;font face=&quot;Arial, serif&quot;&gt; convenes the &lt;/font&gt;&lt;font face=&quot;Arial, serif&quot;&gt;1&lt;/font&gt;&lt;sup&gt;&lt;font face=&quot;Arial, serif&quot;&gt;st&lt;/font&gt;&lt;/sup&gt;&lt;font face=&quot;Arial, serif&quot;&gt;&lt;sup&gt; &lt;/sup&gt;Exhibitors Briefing Meeting&lt;/font&gt;&lt;font face=&quot;Arial, serif&quot;&gt; for shortlisted participants&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="625" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MGRTIfC5R2zvSQsZUkEv-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MGRTIfC5R2zvSQsZUkEv-20" target="MGRTIfC5R2zvSQsZUkEv-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MGRTIfC5R2zvSQsZUkEv-20" value="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;p style=&quot;margin-top: 0.07in ; margin-bottom: 0.07in ; line-height: 100%&quot; lang=&quot;en-US&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot; face=&quot;Times New Roman, serif&quot;&gt;&lt;font style=&quot;font-size: 12px&quot; face=&quot;Arial, serif&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;EC forwards the list of Confirmed exhibitors to various partners&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="355" y="502" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MGRTIfC5R2zvSQsZUkEv-22" value="&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;font face=&quot;Arial, serif&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;EC in consultation with HOD initiates necessary Procurement and design and construction of stands&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="322.5" y="390" width="185" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
