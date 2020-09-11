@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-11T11:44:45.540Z" agent="5.0 (Windows)" etag="mhMrxBzjdqml6vvh8IBl" version="13.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-11T11:46:16.491Z" agent="5.0 (Windows)" etag="EyJu613NFABQLQtFMx0p" version="13.6.9" type="github">
   <diagram id="Wl9vZgtoPUWpxZ4xcX9L" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -8,14 +8,14 @@
           <mxGeometry x="40" y="30" width="1080" height="750" as="geometry" />
         </mxCell>
         <mxCell id="5EhDUY8TPxBdRdRshf9v-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="5EhDUY8TPxBdRdRshf9v-1" vertex="1">
-          <mxGeometry x="122" y="60" width="120" height="60" as="geometry" />
+          <mxGeometry x="155" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5EhDUY8TPxBdRdRshf9v-3" value="Team lead in Accounts receives claims payment schedule and distributes to accountants" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" parent="5EhDUY8TPxBdRdRshf9v-1" vertex="1">
-          <mxGeometry x="122" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="155" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5EhDUY8TPxBdRdRshf9v-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="5EhDUY8TPxBdRdRshf9v-1" source="5EhDUY8TPxBdRdRshf9v-2" target="5EhDUY8TPxBdRdRshf9v-3" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="182" y="200" as="targetPoint" />
+            <mxPoint x="215" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5EhDUY8TPxBdRdRshf9v-24" value="The Lump sum payment is then transmitted to IB (CBK) for further transmission to the pensioner&#39;s account" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;" parent="5EhDUY8TPxBdRdRshf9v-1" vertex="1">
@@ -36,37 +36,49 @@
           <mxGeometry x="807" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5EhDUY8TPxBdRdRshf9v-6" value="The accountant generates payment voucher and pensioner letter, verifies, examines for correctness,signs as per directorate approval and forwards to the voucher approval" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;" parent="5EhDUY8TPxBdRdRshf9v-1" vertex="1">
-          <mxGeometry x="82" y="304" width="200" height="80" as="geometry" />
+          <mxGeometry x="115" y="304" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5EhDUY8TPxBdRdRshf9v-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" parent="5EhDUY8TPxBdRdRshf9v-1" source="5EhDUY8TPxBdRdRshf9v-3" target="5EhDUY8TPxBdRdRshf9v-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gFemLCbE3nV1R4gHLI0c-1" value="Voucher approved?" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="5EhDUY8TPxBdRdRshf9v-1">
-          <mxGeometry x="142" y="420" width="80" height="80" as="geometry" />
+          <mxGeometry x="175" y="420" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5EhDUY8TPxBdRdRshf9v-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" parent="5EhDUY8TPxBdRdRshf9v-1" source="5EhDUY8TPxBdRdRshf9v-6" target="gFemLCbE3nV1R4gHLI0c-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="182" y="450" as="targetPoint" />
+            <mxPoint x="215" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gFemLCbE3nV1R4gHLI0c-6" value="The voucher approver stamps the payment voucher" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="5EhDUY8TPxBdRdRshf9v-1">
-          <mxGeometry x="102" y="550" width="160" height="60" as="geometry" />
+          <mxGeometry x="135" y="550" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gFemLCbE3nV1R4gHLI0c-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="5EhDUY8TPxBdRdRshf9v-1" source="gFemLCbE3nV1R4gHLI0c-1" target="gFemLCbE3nV1R4gHLI0c-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="182" y="580" as="targetPoint" />
+            <mxPoint x="215" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5EhDUY8TPxBdRdRshf9v-12" value="Pensioner letter is auto generated " style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;fontSize=10;" parent="5EhDUY8TPxBdRdRshf9v-1" vertex="1">
-          <mxGeometry x="122" y="670" width="120" height="60" as="geometry" />
+          <mxGeometry x="155" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gFemLCbE3nV1R4gHLI0c-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="5EhDUY8TPxBdRdRshf9v-1" source="5EhDUY8TPxBdRdRshf9v-12" target="gFemLCbE3nV1R4gHLI0c-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="182" y="610" as="targetPoint" />
+            <mxPoint x="215" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gFemLCbE3nV1R4gHLI0c-13" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="5EhDUY8TPxBdRdRshf9v-1">
-          <mxGeometry x="179" y="510" width="40" height="20" as="geometry" />
+          <mxGeometry x="212" y="510" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gFemLCbE3nV1R4gHLI0c-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="5EhDUY8TPxBdRdRshf9v-1" source="gFemLCbE3nV1R4gHLI0c-1" target="5EhDUY8TPxBdRdRshf9v-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="70" y="460" />
+              <mxPoint x="70" y="344" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gFemLCbE3nV1R4gHLI0c-16" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="5EhDUY8TPxBdRdRshf9v-1">
+          <mxGeometry x="62" y="400" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5EhDUY8TPxBdRdRshf9v-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" parent="1" source="5EhDUY8TPxBdRdRshf9v-10" target="5EhDUY8TPxBdRdRshf9v-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
