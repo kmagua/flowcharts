@@ -1,53 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2020-09-11T08:26:51.960Z" agent="5.0 (Windows)" etag="zyJc-QUpqgg4AU-UXP3C" version="13.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-11T11:13:26.820Z" agent="5.0 (Windows)" etag="s4qQ43UAJAdVaxuUEay3" version="13.6.9" type="github">
   <diagram id="BvMrOwM1EyYnzgUcmfP8" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="H4TizMNIca5CQxRAEC0--1" value="Pensions - Approval of Award" style="swimlane;" vertex="1" parent="1">
+        <mxCell id="H4TizMNIca5CQxRAEC0--1" value="Pensions - Approval of Award" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="20" y="40" width="1100" height="670" as="geometry" />
         </mxCell>
-        <mxCell id="H4TizMNIca5CQxRAEC0--2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="H4TizMNIca5CQxRAEC0--1">
+        <mxCell id="H4TizMNIca5CQxRAEC0--2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="H4TizMNIca5CQxRAEC0--1" vertex="1">
           <mxGeometry x="345" y="70" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="H4TizMNIca5CQxRAEC0--3" value="Reception of records by the team lead at Directorate" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="H4TizMNIca5CQxRAEC0--1">
+        <mxCell id="H4TizMNIca5CQxRAEC0--3" value="Distribution of records by the team lead at Directorate" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" parent="H4TizMNIca5CQxRAEC0--1" vertex="1">
           <mxGeometry x="345" y="204" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="H4TizMNIca5CQxRAEC0--5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="H4TizMNIca5CQxRAEC0--1" source="H4TizMNIca5CQxRAEC0--2" target="H4TizMNIca5CQxRAEC0--3">
+        <mxCell id="H4TizMNIca5CQxRAEC0--5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="H4TizMNIca5CQxRAEC0--1" source="H4TizMNIca5CQxRAEC0--2" target="H4TizMNIca5CQxRAEC0--3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="405" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H4TizMNIca5CQxRAEC0--12" value="Notification sent to Accounts and Pensioner" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=10;" vertex="1" parent="H4TizMNIca5CQxRAEC0--1">
+        <mxCell id="H4TizMNIca5CQxRAEC0--12" value="Notification sent to Accounts and Pensioner" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=10;" parent="H4TizMNIca5CQxRAEC0--1" vertex="1">
           <mxGeometry x="565" y="344" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="H4TizMNIca5CQxRAEC0--14" value="End" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="H4TizMNIca5CQxRAEC0--1">
+        <mxCell id="H4TizMNIca5CQxRAEC0--14" value="End" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="H4TizMNIca5CQxRAEC0--1" vertex="1">
           <mxGeometry x="775" y="484" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="H4TizMNIca5CQxRAEC0--9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="H4TizMNIca5CQxRAEC0--6" target="H4TizMNIca5CQxRAEC0--8">
+        <mxCell id="H4TizMNIca5CQxRAEC0--9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="H4TizMNIca5CQxRAEC0--3" target="H4TizMNIca5CQxRAEC0--8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="444" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H4TizMNIca5CQxRAEC0--11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" parent="1" source="H4TizMNIca5CQxRAEC0--8" target="H4TizMNIca5CQxRAEC0--10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="H4TizMNIca5CQxRAEC0--6" value="Team leader at the Directorate distributes the workload equally" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="365" y="384" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="H4TizMNIca5CQxRAEC0--7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H4TizMNIca5CQxRAEC0--3" target="H4TizMNIca5CQxRAEC0--6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="H4TizMNIca5CQxRAEC0--11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="H4TizMNIca5CQxRAEC0--8" target="H4TizMNIca5CQxRAEC0--10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="H4TizMNIca5CQxRAEC0--8" value="Directorate officers validate the award against the attached documents, approves, appends a digital signature" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="H4TizMNIca5CQxRAEC0--8" value="Directorate officers validate the award against the attached documents, approves, appends a digital signature" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="355" y="524" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="H4TizMNIca5CQxRAEC0--16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="H4TizMNIca5CQxRAEC0--10" target="H4TizMNIca5CQxRAEC0--14">
+        <mxCell id="H4TizMNIca5CQxRAEC0--16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="H4TizMNIca5CQxRAEC0--10" target="H4TizMNIca5CQxRAEC0--14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="785" y="554" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H4TizMNIca5CQxRAEC0--10" value="Directorate officer forwards to Payroll for processing" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="H4TizMNIca5CQxRAEC0--10" value="Directorate officer forwards to Payroll for processing" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="585" y="524" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="H4TizMNIca5CQxRAEC0--13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="H4TizMNIca5CQxRAEC0--12" target="H4TizMNIca5CQxRAEC0--10">
+        <mxCell id="H4TizMNIca5CQxRAEC0--13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" parent="1" source="H4TizMNIca5CQxRAEC0--12" target="H4TizMNIca5CQxRAEC0--10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
