@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-11T07:42:57.045Z" agent="5.0 (Windows)" etag="_ASZu__YZQ8__n7A3VdV" version="13.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-11T07:45:25.159Z" agent="5.0 (Windows)" etag="3V1Q2g3r9bDpftT9rq3S" version="13.6.9" type="github">
   <diagram id="S6eaYhO7DILqes8hktr1" name="Page-1">
     <mxGraphModel dx="910" dy="1314" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -39,7 +39,7 @@
           <mxGeometry x="65" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n_buwFRzEqrQl2vI5yhV-26" value="Notification to assigned officer" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=9;" vertex="1" parent="n_buwFRzEqrQl2vI5yhV-1">
-          <mxGeometry x="450" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="450" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n_buwFRzEqrQl2vI5yhV-28" value="Notification to the retiree" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=9;" vertex="1" parent="n_buwFRzEqrQl2vI5yhV-1">
           <mxGeometry x="445" y="510" width="120" height="60" as="geometry" />
@@ -54,22 +54,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="n_buwFRzEqrQl2vI5yhV-35" value="The verified record is passed to the relevant officer for validation" style="whiteSpace=wrap;html=1;rounded=0;fontSize=9;" vertex="1" parent="n_buwFRzEqrQl2vI5yhV-1">
-          <mxGeometry x="700" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="700" y="212" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n_buwFRzEqrQl2vI5yhV-39" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="n_buwFRzEqrQl2vI5yhV-1">
-          <mxGeometry x="620" y="180" width="40" height="20" as="geometry" />
+          <mxGeometry x="610" y="220" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="n_buwFRzEqrQl2vI5yhV-42" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="n_buwFRzEqrQl2vI5yhV-1">
-          <mxGeometry x="499" y="133" width="40" height="20" as="geometry" />
+          <mxGeometry x="495" y="172" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="n_buwFRzEqrQl2vI5yhV-43" value="The record is sent back to MDAs with remarks" style="whiteSpace=wrap;html=1;rounded=0;fontSize=9;" vertex="1" parent="n_buwFRzEqrQl2vI5yhV-1">
-          <mxGeometry x="450" y="70" width="120" height="60" as="geometry" />
+          <mxGeometry x="445" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n_buwFRzEqrQl2vI5yhV-31" value="Claims officer verifies the authenticity of the documents and the data against the attached documents" style="whiteSpace=wrap;html=1;rounded=0;fontSize=9;" vertex="1" parent="n_buwFRzEqrQl2vI5yhV-1">
-          <mxGeometry x="265" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="265" y="212" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n_buwFRzEqrQl2vI5yhV-33" value="Data verification successful?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontSize=9;" vertex="1" parent="n_buwFRzEqrQl2vI5yhV-1">
-          <mxGeometry x="455" y="150" width="110" height="100" as="geometry" />
+          <mxGeometry x="450" y="192" width="110" height="100" as="geometry" />
         </mxCell>
         <mxCell id="n_buwFRzEqrQl2vI5yhV-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" edge="1" parent="n_buwFRzEqrQl2vI5yhV-1" source="n_buwFRzEqrQl2vI5yhV-31" target="n_buwFRzEqrQl2vI5yhV-33">
           <mxGeometry relative="1" as="geometry" />
@@ -88,6 +88,29 @@
         </mxCell>
         <mxCell id="n_buwFRzEqrQl2vI5yhV-60" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="n_buwFRzEqrQl2vI5yhV-1">
           <mxGeometry x="750" y="520" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="n_buwFRzEqrQl2vI5yhV-24" value="The System auto allocates the workload among assigned claims officers" style="whiteSpace=wrap;html=1;rounded=0;fontSize=9;" vertex="1" parent="n_buwFRzEqrQl2vI5yhV-1">
+          <mxGeometry x="265" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n_buwFRzEqrQl2vI5yhV-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" edge="1" parent="n_buwFRzEqrQl2vI5yhV-1" source="n_buwFRzEqrQl2vI5yhV-17" target="n_buwFRzEqrQl2vI5yhV-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n_buwFRzEqrQl2vI5yhV-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" edge="1" parent="n_buwFRzEqrQl2vI5yhV-1" source="n_buwFRzEqrQl2vI5yhV-26" target="n_buwFRzEqrQl2vI5yhV-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n_buwFRzEqrQl2vI5yhV-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" edge="1" parent="n_buwFRzEqrQl2vI5yhV-1" source="n_buwFRzEqrQl2vI5yhV-24" target="n_buwFRzEqrQl2vI5yhV-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n_buwFRzEqrQl2vI5yhV-50" value="The validator validates the data against the attached documents and forwards for approval" style="whiteSpace=wrap;html=1;rounded=0;fontSize=9;" vertex="1" parent="n_buwFRzEqrQl2vI5yhV-1">
+          <mxGeometry x="700" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n_buwFRzEqrQl2vI5yhV-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" edge="1" parent="n_buwFRzEqrQl2vI5yhV-1" source="n_buwFRzEqrQl2vI5yhV-35" target="n_buwFRzEqrQl2vI5yhV-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n_buwFRzEqrQl2vI5yhV-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="n_buwFRzEqrQl2vI5yhV-1" source="n_buwFRzEqrQl2vI5yhV-50" target="n_buwFRzEqrQl2vI5yhV-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="420" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="n_buwFRzEqrQl2vI5yhV-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" edge="1" parent="1" source="n_buwFRzEqrQl2vI5yhV-8" target="n_buwFRzEqrQl2vI5yhV-10">
           <mxGeometry relative="1" as="geometry" />
@@ -119,42 +142,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="n_buwFRzEqrQl2vI5yhV-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" edge="1" parent="1" source="n_buwFRzEqrQl2vI5yhV-24" target="n_buwFRzEqrQl2vI5yhV-31">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="n_buwFRzEqrQl2vI5yhV-24" value="The System auto allocates the workload among assigned claims officers" style="whiteSpace=wrap;html=1;rounded=0;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="285" y="280" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="n_buwFRzEqrQl2vI5yhV-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" edge="1" parent="1" source="n_buwFRzEqrQl2vI5yhV-17" target="n_buwFRzEqrQl2vI5yhV-24">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="n_buwFRzEqrQl2vI5yhV-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" edge="1" parent="1" source="n_buwFRzEqrQl2vI5yhV-26" target="n_buwFRzEqrQl2vI5yhV-24">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="n_buwFRzEqrQl2vI5yhV-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="n_buwFRzEqrQl2vI5yhV-45" target="n_buwFRzEqrQl2vI5yhV-15">
+        <mxCell id="n_buwFRzEqrQl2vI5yhV-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="n_buwFRzEqrQl2vI5yhV-45" target="n_buwFRzEqrQl2vI5yhV-15">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="190" y="90" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="250" y="90" />
+              <mxPoint x="250" y="120" />
               <mxPoint x="250" y="605" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="n_buwFRzEqrQl2vI5yhV-45" value="The authorized officer at the MDA re- sends the claim back after correction to Pensions Department" style="whiteSpace=wrap;html=1;rounded=0;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="270" y="60" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n_buwFRzEqrQl2vI5yhV-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" edge="1" parent="1" source="n_buwFRzEqrQl2vI5yhV-43" target="n_buwFRzEqrQl2vI5yhV-45">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="n_buwFRzEqrQl2vI5yhV-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="n_buwFRzEqrQl2vI5yhV-50" target="n_buwFRzEqrQl2vI5yhV-54">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="730" y="410" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="n_buwFRzEqrQl2vI5yhV-50" value="The validator validates the data against the attached documents and forwards for approval" style="whiteSpace=wrap;html=1;rounded=0;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="720" y="281" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="n_buwFRzEqrQl2vI5yhV-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" edge="1" parent="1" source="n_buwFRzEqrQl2vI5yhV-35" target="n_buwFRzEqrQl2vI5yhV-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="n_buwFRzEqrQl2vI5yhV-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="n_buwFRzEqrQl2vI5yhV-55" target="n_buwFRzEqrQl2vI5yhV-57">
@@ -168,11 +168,11 @@
         <mxCell id="n_buwFRzEqrQl2vI5yhV-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" edge="1" parent="1" source="n_buwFRzEqrQl2vI5yhV-54" target="n_buwFRzEqrQl2vI5yhV-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="n_buwFRzEqrQl2vI5yhV-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="n_buwFRzEqrQl2vI5yhV-61" target="n_buwFRzEqrQl2vI5yhV-35">
+        <mxCell id="n_buwFRzEqrQl2vI5yhV-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="n_buwFRzEqrQl2vI5yhV-61" target="n_buwFRzEqrQl2vI5yhV-35">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="940" y="330" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="940" y="190" />
+              <mxPoint x="940" y="232" />
             </Array>
           </mxGeometry>
         </mxCell>
