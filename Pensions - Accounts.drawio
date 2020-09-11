@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-11T09:11:21.859Z" agent="5.0 (Windows)" etag="v7cxqywOnKU-1OP2n9Wl" version="13.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-11T09:12:43.802Z" agent="5.0 (Windows)" etag="u2TOvRwN2NLI913rOy5o" version="13.6.9" type="github">
   <diagram id="Wl9vZgtoPUWpxZ4xcX9L" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -33,6 +33,9 @@
         <mxCell id="5EhDUY8TPxBdRdRshf9v-8" value="The voucher approver verifies, validate, approve and stamps the payment voucher" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="210" y="540" width="200" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="5EhDUY8TPxBdRdRshf9v-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="5EhDUY8TPxBdRdRshf9v-10" target="5EhDUY8TPxBdRdRshf9v-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5EhDUY8TPxBdRdRshf9v-10" value="The accountant appends a signature on both the payment voucher and the pensioner letter" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="530" y="540" width="120" height="60" as="geometry" />
         </mxCell>
@@ -41,6 +44,15 @@
         </mxCell>
         <mxCell id="5EhDUY8TPxBdRdRshf9v-12" value="Pensioner letter is auto generated " style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="250" y="676" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5EhDUY8TPxBdRdRshf9v-15" value="Alert is sent to cash office" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="530" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5EhDUY8TPxBdRdRshf9v-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="5EhDUY8TPxBdRdRshf9v-17" target="5EhDUY8TPxBdRdRshf9v-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5EhDUY8TPxBdRdRshf9v-17" value="Feedback alert sent to pensioner" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="730" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
