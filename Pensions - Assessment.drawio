@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-11T08:05:10.538Z" agent="5.0 (Windows)" etag="6mHjJ7K2HxClUVj7bfvW" version="13.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-11T08:09:02.997Z" agent="5.0 (Windows)" etag="HbkslSRQJXCwr2-Ydudb" version="13.6.9" type="github">
   <diagram id="qud7s8SgOKXTePOVKODS" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -19,34 +19,35 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Nu7F3VsqpsNEjitxQK_s-10" value="The pension number is generated" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;" vertex="1" parent="Nu7F3VsqpsNEjitxQK_s-1">
-          <mxGeometry x="269" y="640" width="120" height="60" as="geometry" />
+          <mxGeometry x="605" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nu7F3VsqpsNEjitxQK_s-12" value="Assessor appends a digital signature, stamp" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;" vertex="1" parent="Nu7F3VsqpsNEjitxQK_s-1">
-          <mxGeometry x="559" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="605" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nu7F3VsqpsNEjitxQK_s-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="Nu7F3VsqpsNEjitxQK_s-1" source="Nu7F3VsqpsNEjitxQK_s-10" target="Nu7F3VsqpsNEjitxQK_s-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Nu7F3VsqpsNEjitxQK_s-14" value="Claim sent to Directorate for approval and an alert is sent to the approver" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;" vertex="1" parent="Nu7F3VsqpsNEjitxQK_s-1">
-          <mxGeometry x="559" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="605" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nu7F3VsqpsNEjitxQK_s-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="Nu7F3VsqpsNEjitxQK_s-1" source="Nu7F3VsqpsNEjitxQK_s-12" target="Nu7F3VsqpsNEjitxQK_s-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Nu7F3VsqpsNEjitxQK_s-16" value="Retiree is notified of the progress" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;fontSize=10;" vertex="1" parent="Nu7F3VsqpsNEjitxQK_s-1">
-          <mxGeometry x="789" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="425" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Nu7F3VsqpsNEjitxQK_s-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="Nu7F3VsqpsNEjitxQK_s-1" source="Nu7F3VsqpsNEjitxQK_s-16" target="Nu7F3VsqpsNEjitxQK_s-14">
+        <mxCell id="Nu7F3VsqpsNEjitxQK_s-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Nu7F3VsqpsNEjitxQK_s-1" source="Nu7F3VsqpsNEjitxQK_s-16" target="Nu7F3VsqpsNEjitxQK_s-14">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="759" y="440" as="sourcePoint" />
+            <mxPoint x="565" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Nu7F3VsqpsNEjitxQK_s-18" value="End" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="Nu7F3VsqpsNEjitxQK_s-1">
-          <mxGeometry x="559" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="874" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Nu7F3VsqpsNEjitxQK_s-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="Nu7F3VsqpsNEjitxQK_s-1" source="Nu7F3VsqpsNEjitxQK_s-14" target="Nu7F3VsqpsNEjitxQK_s-18">
+        <mxCell id="Nu7F3VsqpsNEjitxQK_s-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Nu7F3VsqpsNEjitxQK_s-1" source="Nu7F3VsqpsNEjitxQK_s-14" target="Nu7F3VsqpsNEjitxQK_s-18">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="619" y="264" as="targetPoint" />
+            <mxPoint x="665" y="264" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Nu7F3VsqpsNEjitxQK_s-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="Nu7F3VsqpsNEjitxQK_s-6" target="Nu7F3VsqpsNEjitxQK_s-8">
