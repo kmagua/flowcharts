@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-11T08:47:13.177Z" agent="5.0 (Windows)" etag="JX0x_7y3COPLTc2UQR1e" version="13.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-11T08:52:39.612Z" agent="5.0 (Windows)" etag="cVi2YVPegBKS-iUL9LKh" version="13.6.9" type="github">
   <diagram id="VmHdKOCHIBxl1oifBbPt" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -6,6 +6,29 @@
         <mxCell id="1" parent="0" />
         <mxCell id="lYT4x0qV3o0OyzlUkW0a-1" value="Pensions - Controller of Budget" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="50" y="30" width="1070" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="lYT4x0qV3o0OyzlUkW0a-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="lYT4x0qV3o0OyzlUkW0a-1">
+          <mxGeometry x="180" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lYT4x0qV3o0OyzlUkW0a-3" value="Controller of verifies, validates, approves and signs the schedules" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="lYT4x0qV3o0OyzlUkW0a-1">
+          <mxGeometry x="180" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lYT4x0qV3o0OyzlUkW0a-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="lYT4x0qV3o0OyzlUkW0a-1" source="lYT4x0qV3o0OyzlUkW0a-2" target="lYT4x0qV3o0OyzlUkW0a-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lYT4x0qV3o0OyzlUkW0a-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lYT4x0qV3o0OyzlUkW0a-6" target="lYT4x0qV3o0OyzlUkW0a-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lYT4x0qV3o0OyzlUkW0a-6" value="Controller of budget sends back to director" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="230" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lYT4x0qV3o0OyzlUkW0a-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lYT4x0qV3o0OyzlUkW0a-3" target="lYT4x0qV3o0OyzlUkW0a-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lYT4x0qV3o0OyzlUkW0a-8" value="Director receives and sends approval to accounts to pay" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="430" y="350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
