@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-11T07:31:49.066Z" agent="5.0 (Windows)" etag="F1qP-gBKIIcHbydgK7P6" version="13.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-11T07:40:46.958Z" agent="5.0 (Windows)" etag="Oh1pjOXYNf0W8hzCiNWP" version="13.6.9" type="github">
   <diagram id="S6eaYhO7DILqes8hktr1" name="Page-1">
     <mxGraphModel dx="910" dy="1314" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -80,6 +80,12 @@
         <mxCell id="n_buwFRzEqrQl2vI5yhV-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" edge="1" parent="n_buwFRzEqrQl2vI5yhV-1" source="n_buwFRzEqrQl2vI5yhV-33" target="n_buwFRzEqrQl2vI5yhV-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="n_buwFRzEqrQl2vI5yhV-54" value="Approver approves?" style="rhombus;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="n_buwFRzEqrQl2vI5yhV-1">
+          <mxGeometry x="720" y="410" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="n_buwFRzEqrQl2vI5yhV-57" value="End" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="n_buwFRzEqrQl2vI5yhV-1">
+          <mxGeometry x="930" y="585" width="90" height="50" as="geometry" />
+        </mxCell>
         <mxCell id="n_buwFRzEqrQl2vI5yhV-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" edge="1" parent="1" source="n_buwFRzEqrQl2vI5yhV-8" target="n_buwFRzEqrQl2vI5yhV-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -135,6 +141,28 @@
           <mxGeometry x="270" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n_buwFRzEqrQl2vI5yhV-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" edge="1" parent="1" source="n_buwFRzEqrQl2vI5yhV-43" target="n_buwFRzEqrQl2vI5yhV-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n_buwFRzEqrQl2vI5yhV-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="n_buwFRzEqrQl2vI5yhV-50" target="n_buwFRzEqrQl2vI5yhV-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n_buwFRzEqrQl2vI5yhV-50" value="The validator validates the data against the attached documents and forwards for approval" style="whiteSpace=wrap;html=1;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="720" y="281" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n_buwFRzEqrQl2vI5yhV-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" edge="1" parent="1" source="n_buwFRzEqrQl2vI5yhV-35" target="n_buwFRzEqrQl2vI5yhV-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n_buwFRzEqrQl2vI5yhV-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="n_buwFRzEqrQl2vI5yhV-55" target="n_buwFRzEqrQl2vI5yhV-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="920" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n_buwFRzEqrQl2vI5yhV-55" value="Notify assessor" style="whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="720" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n_buwFRzEqrQl2vI5yhV-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" edge="1" parent="1" source="n_buwFRzEqrQl2vI5yhV-54" target="n_buwFRzEqrQl2vI5yhV-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
