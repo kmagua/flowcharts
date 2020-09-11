@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-11T09:00:55.600Z" agent="5.0 (Windows)" etag="AAh7srl7ZaHw46-d2oQH" version="13.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-11T09:09:08.327Z" agent="5.0 (Windows)" etag="06mpH8ub_EZh_5n6hE77" version="13.6.9" type="github">
   <diagram id="Wl9vZgtoPUWpxZ4xcX9L" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -18,11 +18,23 @@
             <mxPoint x="270" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="5EhDUY8TPxBdRdRshf9v-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="5EhDUY8TPxBdRdRshf9v-6" target="5EhDUY8TPxBdRdRshf9v-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5EhDUY8TPxBdRdRshf9v-6" value="The accountant generates payment voucher and pensioner letter, verifies, examines for correctness,signs as per directorate approval and forwards to the voucher approval" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="210" y="370" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5EhDUY8TPxBdRdRshf9v-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="5EhDUY8TPxBdRdRshf9v-3" target="5EhDUY8TPxBdRdRshf9v-6">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5EhDUY8TPxBdRdRshf9v-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="5EhDUY8TPxBdRdRshf9v-8" target="5EhDUY8TPxBdRdRshf9v-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5EhDUY8TPxBdRdRshf9v-8" value="The voucher approver verifies, validate, approve and stamps the payment voucher" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="210" y="540" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5EhDUY8TPxBdRdRshf9v-10" value="Pensioner letter is auto generated" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="530" y="540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
