@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-11T11:35:43.693Z" agent="5.0 (Windows)" etag="02h7btUNmQpEYQx7cPSr" version="13.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-11T11:40:09.637Z" agent="5.0 (Windows)" etag="QJ5pNmy0NVNiKuXPDOlJ" version="13.6.9" type="github">
   <diagram id="VmHdKOCHIBxl1oifBbPt" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -35,7 +35,7 @@
             <mxPoint x="790" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lYT4x0qV3o0OyzlUkW0a-10" value="Notification is sent to cash office" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;" parent="lYT4x0qV3o0OyzlUkW0a-1" vertex="1">
+        <mxCell id="lYT4x0qV3o0OyzlUkW0a-10" value="Notify cash office" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;" parent="lYT4x0qV3o0OyzlUkW0a-1" vertex="1">
           <mxGeometry x="580" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lYT4x0qV3o0OyzlUkW0a-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" parent="lYT4x0qV3o0OyzlUkW0a-1" source="lYT4x0qV3o0OyzlUkW0a-8" target="lYT4x0qV3o0OyzlUkW0a-10" edge="1">
