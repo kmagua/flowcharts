@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-11T08:12:13.758Z" agent="5.0 (Windows)" etag="vM7S6s0XNZ-OIO6en9BZ" version="13.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-11T08:21:37.389Z" agent="5.0 (Windows)" etag="ZyLIOxQDva-Tca6ibyYa" version="13.6.9" type="github">
   <diagram id="BvMrOwM1EyYnzgUcmfP8" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -6,6 +6,23 @@
         <mxCell id="1" parent="0" />
         <mxCell id="H4TizMNIca5CQxRAEC0--1" value="Pensions - Approval of Award" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="20" y="40" width="1100" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="H4TizMNIca5CQxRAEC0--2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="H4TizMNIca5CQxRAEC0--1">
+          <mxGeometry x="380" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H4TizMNIca5CQxRAEC0--3" value="Reception of records by the team lead at Directorate" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="H4TizMNIca5CQxRAEC0--1">
+          <mxGeometry x="380" y="204" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H4TizMNIca5CQxRAEC0--5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="H4TizMNIca5CQxRAEC0--1" source="H4TizMNIca5CQxRAEC0--2" target="H4TizMNIca5CQxRAEC0--3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H4TizMNIca5CQxRAEC0--6" value="Team leader at the Directorate distributes the workload equally" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="400" y="384" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H4TizMNIca5CQxRAEC0--7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H4TizMNIca5CQxRAEC0--3" target="H4TizMNIca5CQxRAEC0--6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
