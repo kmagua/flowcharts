@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-11T08:03:38.535Z" agent="5.0 (Windows)" etag="5H8WO0trL-99m5fVQMWz" version="13.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-11T08:05:10.538Z" agent="5.0 (Windows)" etag="6mHjJ7K2HxClUVj7bfvW" version="13.6.9" type="github">
   <diagram id="qud7s8SgOKXTePOVKODS" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -8,52 +8,52 @@
           <mxGeometry x="40" y="20" width="1110" height="720" as="geometry" />
         </mxCell>
         <mxCell id="Nu7F3VsqpsNEjitxQK_s-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="Nu7F3VsqpsNEjitxQK_s-1">
-          <mxGeometry x="380" y="60" width="120" height="60" as="geometry" />
+          <mxGeometry x="269" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nu7F3VsqpsNEjitxQK_s-3" value="Team leader in Assessment receives the claims" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="Nu7F3VsqpsNEjitxQK_s-1">
-          <mxGeometry x="380" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="269" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nu7F3VsqpsNEjitxQK_s-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Nu7F3VsqpsNEjitxQK_s-1" source="Nu7F3VsqpsNEjitxQK_s-2" target="Nu7F3VsqpsNEjitxQK_s-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="440" y="200" as="targetPoint" />
+            <mxPoint x="329" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Nu7F3VsqpsNEjitxQK_s-10" value="The pension number is generated" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;" vertex="1" parent="Nu7F3VsqpsNEjitxQK_s-1">
-          <mxGeometry x="380" y="640" width="120" height="60" as="geometry" />
+          <mxGeometry x="269" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nu7F3VsqpsNEjitxQK_s-12" value="Assessor appends a digital signature, stamp" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;" vertex="1" parent="Nu7F3VsqpsNEjitxQK_s-1">
-          <mxGeometry x="670" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="559" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nu7F3VsqpsNEjitxQK_s-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="Nu7F3VsqpsNEjitxQK_s-1" source="Nu7F3VsqpsNEjitxQK_s-10" target="Nu7F3VsqpsNEjitxQK_s-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Nu7F3VsqpsNEjitxQK_s-14" value="Claim sent to Directorate for approval and an alert is sent to the approver" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;" vertex="1" parent="Nu7F3VsqpsNEjitxQK_s-1">
-          <mxGeometry x="670" y="334" width="120" height="60" as="geometry" />
+          <mxGeometry x="559" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nu7F3VsqpsNEjitxQK_s-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="Nu7F3VsqpsNEjitxQK_s-1" source="Nu7F3VsqpsNEjitxQK_s-12" target="Nu7F3VsqpsNEjitxQK_s-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Nu7F3VsqpsNEjitxQK_s-16" value="Retiree is notified of the progress" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;fontSize=10;" vertex="1" parent="Nu7F3VsqpsNEjitxQK_s-1">
-          <mxGeometry x="900" y="334" width="120" height="60" as="geometry" />
+          <mxGeometry x="789" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nu7F3VsqpsNEjitxQK_s-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="Nu7F3VsqpsNEjitxQK_s-1" source="Nu7F3VsqpsNEjitxQK_s-16" target="Nu7F3VsqpsNEjitxQK_s-14">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="870" y="440" as="sourcePoint" />
+            <mxPoint x="759" y="440" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Nu7F3VsqpsNEjitxQK_s-18" value="End" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="Nu7F3VsqpsNEjitxQK_s-1">
-          <mxGeometry x="670" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="559" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nu7F3VsqpsNEjitxQK_s-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="Nu7F3VsqpsNEjitxQK_s-1" source="Nu7F3VsqpsNEjitxQK_s-14" target="Nu7F3VsqpsNEjitxQK_s-18">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="730" y="264" as="targetPoint" />
+            <mxPoint x="619" y="264" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Nu7F3VsqpsNEjitxQK_s-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="Nu7F3VsqpsNEjitxQK_s-6" target="Nu7F3VsqpsNEjitxQK_s-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Nu7F3VsqpsNEjitxQK_s-6" value="Team leader distributes among available assessors" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="420" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="309" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nu7F3VsqpsNEjitxQK_s-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="Nu7F3VsqpsNEjitxQK_s-3" target="Nu7F3VsqpsNEjitxQK_s-6">
           <mxGeometry relative="1" as="geometry" />
@@ -62,7 +62,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Nu7F3VsqpsNEjitxQK_s-8" value="The assessor validates the type of award against the attached documents" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="420" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="309" y="500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
