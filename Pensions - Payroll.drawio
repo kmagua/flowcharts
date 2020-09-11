@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-11T08:38:17.552Z" agent="5.0 (Windows)" etag="4agjD07B5NpAukxQuAEb" version="13.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-11T08:39:47.889Z" agent="5.0 (Windows)" etag="cH7f8Wie1WEzxfuJ7O16" version="13.6.9" type="github">
   <diagram id="auMTKPqx2dahS01j6FM4" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -10,13 +10,31 @@
         <mxCell id="HwDCLhzgYCd7f9K3PAqx-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="HwDCLhzgYCd7f9K3PAqx-1">
           <mxGeometry x="190" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HwDCLhzgYCd7f9K3PAqx-4" value="Payroll officer receives, verifies, validates and forwards for processing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HwDCLhzgYCd7f9K3PAqx-1">
+        <mxCell id="HwDCLhzgYCd7f9K3PAqx-4" value="Payroll officer receives, verifies, validates and forwards for processing" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="HwDCLhzgYCd7f9K3PAqx-1">
           <mxGeometry x="175" y="219" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HwDCLhzgYCd7f9K3PAqx-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="HwDCLhzgYCd7f9K3PAqx-1" source="HwDCLhzgYCd7f9K3PAqx-2" target="HwDCLhzgYCd7f9K3PAqx-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="250" y="220" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="HwDCLhzgYCd7f9K3PAqx-11" value="Calculate taxes and other deductions" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;" vertex="1" parent="HwDCLhzgYCd7f9K3PAqx-1">
+          <mxGeometry x="460" y="499" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HwDCLhzgYCd7f9K3PAqx-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="HwDCLhzgYCd7f9K3PAqx-7" target="HwDCLhzgYCd7f9K3PAqx-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HwDCLhzgYCd7f9K3PAqx-7" value="Records are received" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="230" y="389" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HwDCLhzgYCd7f9K3PAqx-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="HwDCLhzgYCd7f9K3PAqx-4" target="HwDCLhzgYCd7f9K3PAqx-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HwDCLhzgYCd7f9K3PAqx-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="HwDCLhzgYCd7f9K3PAqx-9" target="HwDCLhzgYCd7f9K3PAqx-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HwDCLhzgYCd7f9K3PAqx-9" value="Calculate gross pay" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="230" y="529" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
