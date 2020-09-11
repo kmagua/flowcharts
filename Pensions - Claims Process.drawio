@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-11T06:57:35.374Z" agent="5.0 (Windows)" etag="qD5-Qr8sKr8PxXAvDTBD" version="13.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-11T07:02:15.850Z" agent="5.0 (Windows)" etag="Wh7UoV0hCOusMEQKyg0M" version="13.6.9" type="github">
   <diagram id="S6eaYhO7DILqes8hktr1" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -6,6 +6,23 @@
         <mxCell id="1" parent="0" />
         <mxCell id="n_buwFRzEqrQl2vI5yhV-1" value="Pensions - Claim Process" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="20" y="20" width="1140" height="790" as="geometry" />
+        </mxCell>
+        <mxCell id="n_buwFRzEqrQl2vI5yhV-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="n_buwFRzEqrQl2vI5yhV-1">
+          <mxGeometry x="75" y="60" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="n_buwFRzEqrQl2vI5yhV-3" value="&lt;p style=&quot;margin-left: 0.12in ; text-indent: -0.1in ; margin-bottom: 0in ; line-height: 100% ; font-size: 9px&quot; lang=&quot;en-US&quot;&gt;&lt;font style=&quot;font-size: 9px&quot; face=&quot;Trebuchet MS, Trebuchet MS, sans-serif&quot;&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;HRM generates a notification to the retiree with instructions of how to use the PMIS  portal to submit the required data/documents&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="n_buwFRzEqrQl2vI5yhV-1">
+          <mxGeometry x="50" y="152" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n_buwFRzEqrQl2vI5yhV-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="n_buwFRzEqrQl2vI5yhV-1" source="n_buwFRzEqrQl2vI5yhV-2" target="n_buwFRzEqrQl2vI5yhV-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n_buwFRzEqrQl2vI5yhV-6" value="Retiree registers and submits/attaches the relevant documents" style="whiteSpace=wrap;html=1;rounded=0;fontSize=9;" vertex="1" parent="n_buwFRzEqrQl2vI5yhV-1">
+          <mxGeometry x="50" y="270" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n_buwFRzEqrQl2vI5yhV-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" edge="1" parent="n_buwFRzEqrQl2vI5yhV-1" source="n_buwFRzEqrQl2vI5yhV-3" target="n_buwFRzEqrQl2vI5yhV-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
