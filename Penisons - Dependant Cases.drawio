@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-12T07:02:57.808Z" agent="5.0 (Windows)" etag="nefUW0BXkl24IzkkJqfj" version="13.6.10" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-12T07:03:51.946Z" agent="5.0 (Windows)" etag="ongyFWAeeLgdgAll8ETk" version="13.6.10" type="github">
   <diagram id="bF0rsbzrtMlWH6wpvClE" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -8,51 +8,51 @@
           <mxGeometry x="40" y="20" width="1120" height="730" as="geometry" />
         </mxCell>
         <mxCell id="iUJv8x9J-QZsbXyGkX2S-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="iUJv8x9J-QZsbXyGkX2S-1">
-          <mxGeometry x="200" y="50" width="120" height="60" as="geometry" />
+          <mxGeometry x="86" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iUJv8x9J-QZsbXyGkX2S-3" value="Entry of deceased Pensioner data into PMIS after death is reported" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="iUJv8x9J-QZsbXyGkX2S-1">
-          <mxGeometry x="200" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="86" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iUJv8x9J-QZsbXyGkX2S-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="iUJv8x9J-QZsbXyGkX2S-1" source="iUJv8x9J-QZsbXyGkX2S-2" target="iUJv8x9J-QZsbXyGkX2S-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="260" y="190" as="targetPoint" />
+            <mxPoint x="146" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iUJv8x9J-QZsbXyGkX2S-6" value="Validates the record in PMIS using ID card details" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;" vertex="1" parent="iUJv8x9J-QZsbXyGkX2S-1">
-          <mxGeometry x="200" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="86" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iUJv8x9J-QZsbXyGkX2S-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iUJv8x9J-QZsbXyGkX2S-1" source="iUJv8x9J-QZsbXyGkX2S-3" target="iUJv8x9J-QZsbXyGkX2S-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iUJv8x9J-QZsbXyGkX2S-12" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="iUJv8x9J-QZsbXyGkX2S-1">
-          <mxGeometry x="257" y="544" width="40" height="20" as="geometry" />
+          <mxGeometry x="143" y="544" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="iUJv8x9J-QZsbXyGkX2S-15" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="iUJv8x9J-QZsbXyGkX2S-1">
-          <mxGeometry x="123" y="330" width="40" height="20" as="geometry" />
+          <mxGeometry x="9" y="330" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="iUJv8x9J-QZsbXyGkX2S-16" value="Dependant self registers on PMIS" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;" vertex="1" parent="iUJv8x9J-QZsbXyGkX2S-1">
-          <mxGeometry x="410" y="610" width="120" height="60" as="geometry" />
+          <mxGeometry x="296" y="610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iUJv8x9J-QZsbXyGkX2S-26" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="iUJv8x9J-QZsbXyGkX2S-1">
-          <mxGeometry x="351" y="481" width="40" height="20" as="geometry" />
+          <mxGeometry x="237" y="481" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="iUJv8x9J-QZsbXyGkX2S-29" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="iUJv8x9J-QZsbXyGkX2S-1">
-          <mxGeometry x="463" y="270" width="40" height="20" as="geometry" />
+          <mxGeometry x="349" y="270" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="iUJv8x9J-QZsbXyGkX2S-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="iUJv8x9J-QZsbXyGkX2S-8" target="iUJv8x9J-QZsbXyGkX2S-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iUJv8x9J-QZsbXyGkX2S-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iUJv8x9J-QZsbXyGkX2S-8" target="iUJv8x9J-QZsbXyGkX2S-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="200" y="500" as="targetPoint" />
+            <mxPoint x="86" y="500" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="170" y="500" />
-              <mxPoint x="170" y="240" />
+              <mxPoint x="56" y="500" />
+              <mxPoint x="56" y="240" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="iUJv8x9J-QZsbXyGkX2S-8" value="Details correct?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="260" y="460" width="80" height="80" as="geometry" />
+          <mxGeometry x="146" y="460" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iUJv8x9J-QZsbXyGkX2S-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="iUJv8x9J-QZsbXyGkX2S-6" target="iUJv8x9J-QZsbXyGkX2S-8">
           <mxGeometry relative="1" as="geometry" />
@@ -61,23 +61,23 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iUJv8x9J-QZsbXyGkX2S-10" value="Invoke Stop-Resume and move record to temporary storage" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="240" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="126" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iUJv8x9J-QZsbXyGkX2S-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="iUJv8x9J-QZsbXyGkX2S-20" target="iUJv8x9J-QZsbXyGkX2S-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iUJv8x9J-QZsbXyGkX2S-20" value="Validate dependant&#39;s ID/Birth certificate based on ID of the primary pensioner" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="450" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="336" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iUJv8x9J-QZsbXyGkX2S-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="iUJv8x9J-QZsbXyGkX2S-16" target="iUJv8x9J-QZsbXyGkX2S-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iUJv8x9J-QZsbXyGkX2S-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iUJv8x9J-QZsbXyGkX2S-22" target="iUJv8x9J-QZsbXyGkX2S-16">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="380" as="targetPoint" />
+            <mxPoint x="286" y="380" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="400" y="380" />
-              <mxPoint x="400" y="660" />
+              <mxPoint x="286" y="380" />
+              <mxPoint x="286" y="660" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -85,16 +85,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iUJv8x9J-QZsbXyGkX2S-22" value="details validated?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="470" y="340" width="80" height="80" as="geometry" />
+          <mxGeometry x="356" y="340" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iUJv8x9J-QZsbXyGkX2S-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="iUJv8x9J-QZsbXyGkX2S-27" target="iUJv8x9J-QZsbXyGkX2S-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iUJv8x9J-QZsbXyGkX2S-27" value="Details completed and login credentials generated" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="450" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="336" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iUJv8x9J-QZsbXyGkX2S-30" value="Dependant logs-in and fills the relevant form and attaches the required documents" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="650" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="536" y="190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
