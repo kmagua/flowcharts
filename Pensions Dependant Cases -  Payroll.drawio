@@ -1,11 +1,44 @@
-<mxfile host="app.diagrams.net" modified="2020-09-12T08:04:21.528Z" agent="5.0 (Windows)" etag="MX_dxLwoUpqCj3yNP2Lt" version="13.6.10" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-12T08:09:33.551Z" agent="5.0 (Windows)" etag="1hGWvpvA0pEyxT-nkxX-" version="13.6.10" type="github">
   <diagram id="XlHpjDiHohMKCo1LAFZt" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="oiSge0cQPewmy7wJyeGj-1" value="Pensions Dependant Cases -  Payroll" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="10" y="87" width="1150" height="740" as="geometry" />
+          <mxGeometry x="209" y="120" width="960" height="740" as="geometry" />
+        </mxCell>
+        <mxCell id="oiSge0cQPewmy7wJyeGj-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oiSge0cQPewmy7wJyeGj-1">
+          <mxGeometry x="316" y="53" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oiSge0cQPewmy7wJyeGj-3" value="Notification is received from Directorate" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="oiSge0cQPewmy7wJyeGj-1">
+          <mxGeometry x="316" y="193" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oiSge0cQPewmy7wJyeGj-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="oiSge0cQPewmy7wJyeGj-1" source="oiSge0cQPewmy7wJyeGj-2" target="oiSge0cQPewmy7wJyeGj-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="376" y="193" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oiSge0cQPewmy7wJyeGj-12" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oiSge0cQPewmy7wJyeGj-1">
+          <mxGeometry x="515" y="603" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oiSge0cQPewmy7wJyeGj-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oiSge0cQPewmy7wJyeGj-6" target="oiSge0cQPewmy7wJyeGj-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oiSge0cQPewmy7wJyeGj-6" value="Payroll is processed" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="525" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oiSge0cQPewmy7wJyeGj-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oiSge0cQPewmy7wJyeGj-3" target="oiSge0cQPewmy7wJyeGj-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oiSge0cQPewmy7wJyeGj-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oiSge0cQPewmy7wJyeGj-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="585" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oiSge0cQPewmy7wJyeGj-8" value="Alert is sent to Pensioner" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="525" y="560" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
