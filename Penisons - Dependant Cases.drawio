@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-12T07:09:37.088Z" agent="5.0 (Windows)" etag="NLchAU2f2csrk7VlImoK" version="13.6.10" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-12T07:12:46.087Z" agent="5.0 (Windows)" etag="WBBcL4c0RvTfVNa-GwjQ" version="13.6.10" type="github">
   <diagram id="bF0rsbzrtMlWH6wpvClE" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -38,6 +38,24 @@
         </mxCell>
         <mxCell id="iUJv8x9J-QZsbXyGkX2S-29" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="iUJv8x9J-QZsbXyGkX2S-1">
           <mxGeometry x="349" y="270" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iUJv8x9J-QZsbXyGkX2S-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="iUJv8x9J-QZsbXyGkX2S-1" source="iUJv8x9J-QZsbXyGkX2S-43" target="iUJv8x9J-QZsbXyGkX2S-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="556" y="750" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="556" y="690" />
+              <mxPoint x="356" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iUJv8x9J-QZsbXyGkX2S-43" value="Approved by claims officer?" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="iUJv8x9J-QZsbXyGkX2S-1">
+          <mxGeometry x="516" y="580" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iUJv8x9J-QZsbXyGkX2S-44" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="iUJv8x9J-QZsbXyGkX2S-1">
+          <mxGeometry x="620" y="600" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iUJv8x9J-QZsbXyGkX2S-47" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="iUJv8x9J-QZsbXyGkX2S-1">
+          <mxGeometry x="440" y="670" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="iUJv8x9J-QZsbXyGkX2S-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="iUJv8x9J-QZsbXyGkX2S-8" target="iUJv8x9J-QZsbXyGkX2S-10">
           <mxGeometry relative="1" as="geometry" />
@@ -111,14 +129,21 @@
         <mxCell id="iUJv8x9J-QZsbXyGkX2S-34" value="Acknowledgement sent to dependant. S/he can track claim using ID number" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="736" y="330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iUJv8x9J-QZsbXyGkX2S-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="iUJv8x9J-QZsbXyGkX2S-37" target="iUJv8x9J-QZsbXyGkX2S-39">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="iUJv8x9J-QZsbXyGkX2S-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iUJv8x9J-QZsbXyGkX2S-37" target="iUJv8x9J-QZsbXyGkX2S-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="596" y="610" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="iUJv8x9J-QZsbXyGkX2S-37" value="Work is auto allocates work among claims officers. Notification by email." style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="536" y="470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iUJv8x9J-QZsbXyGkX2S-39" value="Claims officer verifies authenticity of documents" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="536" y="610" width="120" height="60" as="geometry" />
+        <mxCell id="iUJv8x9J-QZsbXyGkX2S-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iUJv8x9J-QZsbXyGkX2S-43" target="iUJv8x9J-QZsbXyGkX2S-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="656" y="640" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iUJv8x9J-QZsbXyGkX2S-41" value="Forward to validator for validation" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="736" y="610" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
