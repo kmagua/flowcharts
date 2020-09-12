@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-12T07:46:59.756Z" agent="5.0 (Windows)" etag="9t7pnY9SHO_nO2QUX6aO" version="13.6.10" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-12T07:47:41.310Z" agent="5.0 (Windows)" etag="q7s4Yptequvb_ZYJb3dn" version="13.6.10" type="github">
   <diagram id="ed1s5xH5A9S45L-V6XYP" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -56,7 +56,7 @@
             <mxPoint x="570" y="741" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tLu8SlwT942MJ38RT125-12" value="Forward to payroll" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="tLu8SlwT942MJ38RT125-12" value="Sign and forward to payroll" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="510" y="601" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
