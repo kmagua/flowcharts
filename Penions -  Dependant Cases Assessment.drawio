@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-12T07:28:03.706Z" agent="5.0 (Windows)" etag="cqTVCzuPA7oNYl1LpVSU" version="13.6.10" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-12T07:30:28.779Z" agent="5.0 (Windows)" etag="lygrPLhrlDpEHzQEq0eu" version="13.6.10" type="github">
   <diagram id="1eeANimuQNozr_Zt6e38" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -24,14 +24,15 @@
         <mxCell id="mPKlkVlTU-tAEUknxjA9-8" value="The dependant pension number is generated, computation is done and signed" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;" vertex="1" parent="mPKlkVlTU-tAEUknxjA9-1">
           <mxGeometry x="420" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mPKlkVlTU-tAEUknxjA9-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="mPKlkVlTU-tAEUknxjA9-1" source="mPKlkVlTU-tAEUknxjA9-6" target="mPKlkVlTU-tAEUknxjA9-8">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="mPKlkVlTU-tAEUknxjA9-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="mPKlkVlTU-tAEUknxjA9-1" target="mPKlkVlTU-tAEUknxjA9-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="390" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="mPKlkVlTU-tAEUknxjA9-6" value="The assessor validates the type of award against the attached documents" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;" vertex="1" parent="mPKlkVlTU-tAEUknxjA9-1">
-          <mxGeometry x="420" y="330" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="mPKlkVlTU-tAEUknxjA9-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="mPKlkVlTU-tAEUknxjA9-1" source="mPKlkVlTU-tAEUknxjA9-3" target="mPKlkVlTU-tAEUknxjA9-6">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="mPKlkVlTU-tAEUknxjA9-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="mPKlkVlTU-tAEUknxjA9-1" source="mPKlkVlTU-tAEUknxjA9-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="330" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="mPKlkVlTU-tAEUknxjA9-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="mPKlkVlTU-tAEUknxjA9-1" source="mPKlkVlTU-tAEUknxjA9-8" target="mPKlkVlTU-tAEUknxjA9-10">
           <mxGeometry relative="1" as="geometry" />
@@ -43,6 +44,24 @@
         </mxCell>
         <mxCell id="mPKlkVlTU-tAEUknxjA9-10" value="Forward to directorate for approval, notification on email" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;" vertex="1" parent="mPKlkVlTU-tAEUknxjA9-1">
           <mxGeometry x="420" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mPKlkVlTU-tAEUknxjA9-15" value="validated?" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="mPKlkVlTU-tAEUknxjA9-1">
+          <mxGeometry x="440" y="330" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mPKlkVlTU-tAEUknxjA9-16" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="mPKlkVlTU-tAEUknxjA9-1">
+          <mxGeometry x="477" y="412" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mPKlkVlTU-tAEUknxjA9-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="mPKlkVlTU-tAEUknxjA9-1" source="mPKlkVlTU-tAEUknxjA9-15" target="mPKlkVlTU-tAEUknxjA9-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="350" y="370" />
+              <mxPoint x="350" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mPKlkVlTU-tAEUknxjA9-19" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="mPKlkVlTU-tAEUknxjA9-1">
+          <mxGeometry x="345" y="280" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
