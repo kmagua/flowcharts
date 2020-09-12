@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-12T07:01:36.102Z" agent="5.0 (Windows)" etag="cOjEcYrSiOMnZiFO_A5x" version="13.6.10" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-12T07:02:57.808Z" agent="5.0 (Windows)" etag="nefUW0BXkl24IzkkJqfj" version="13.6.10" type="github">
   <diagram id="bF0rsbzrtMlWH6wpvClE" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -87,8 +87,14 @@
         <mxCell id="iUJv8x9J-QZsbXyGkX2S-22" value="details validated?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="470" y="340" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="iUJv8x9J-QZsbXyGkX2S-27" value="" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="iUJv8x9J-QZsbXyGkX2S-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="iUJv8x9J-QZsbXyGkX2S-27" target="iUJv8x9J-QZsbXyGkX2S-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iUJv8x9J-QZsbXyGkX2S-27" value="Details completed and login credentials generated" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="450" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iUJv8x9J-QZsbXyGkX2S-30" value="Dependant logs-in and fills the relevant form and attaches the required documents" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="650" y="190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
