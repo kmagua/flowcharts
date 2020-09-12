@@ -1,1 +1,65 @@
-<mxfile host="app.diagrams.net" modified="2020-09-12T07:32:33.072Z" agent="5.0 (Windows)" version="13.6.10" etag="1hPqb0pV401zeUi6bDtv" type="github"><diagram id="ed1s5xH5A9S45L-V6XYP">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-12T07:46:37.495Z" agent="5.0 (Windows)" etag="RiD7jsKxqcARN8Zwkjb2" version="13.6.10" type="github">
+  <diagram id="ed1s5xH5A9S45L-V6XYP" name="Page-1">
+    <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tLu8SlwT942MJ38RT125-1" value="Container" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="10" y="20" width="1120" height="780" as="geometry" />
+        </mxCell>
+        <mxCell id="tLu8SlwT942MJ38RT125-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="tLu8SlwT942MJ38RT125-1">
+          <mxGeometry x="505" y="80" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tLu8SlwT942MJ38RT125-5" value="Team leader at the Directorate distributes work to directorate officers" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="tLu8SlwT942MJ38RT125-1">
+          <mxGeometry x="500" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tLu8SlwT942MJ38RT125-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="tLu8SlwT942MJ38RT125-1" source="tLu8SlwT942MJ38RT125-2" target="tLu8SlwT942MJ38RT125-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tLu8SlwT942MJ38RT125-14" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="tLu8SlwT942MJ38RT125-1">
+          <mxGeometry x="553" y="527" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tLu8SlwT942MJ38RT125-17" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="tLu8SlwT942MJ38RT125-1">
+          <mxGeometry x="440" y="350" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tLu8SlwT942MJ38RT125-6" value="Directorate officers validate the award against the attached documents" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;" vertex="1" parent="tLu8SlwT942MJ38RT125-1">
+          <mxGeometry x="500" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tLu8SlwT942MJ38RT125-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="tLu8SlwT942MJ38RT125-1" source="tLu8SlwT942MJ38RT125-5" target="tLu8SlwT942MJ38RT125-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tLu8SlwT942MJ38RT125-10" value="Approved?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontSize=10;" vertex="1" parent="tLu8SlwT942MJ38RT125-1">
+          <mxGeometry x="520" y="440" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tLu8SlwT942MJ38RT125-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="tLu8SlwT942MJ38RT125-1" source="tLu8SlwT942MJ38RT125-6" target="tLu8SlwT942MJ38RT125-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tLu8SlwT942MJ38RT125-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="tLu8SlwT942MJ38RT125-1" source="tLu8SlwT942MJ38RT125-10" target="tLu8SlwT942MJ38RT125-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="450" y="480" />
+              <mxPoint x="450" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tLu8SlwT942MJ38RT125-21" value="End" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="tLu8SlwT942MJ38RT125-1">
+          <mxGeometry x="510" y="720" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tLu8SlwT942MJ38RT125-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="tLu8SlwT942MJ38RT125-10" target="tLu8SlwT942MJ38RT125-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tLu8SlwT942MJ38RT125-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="tLu8SlwT942MJ38RT125-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="741" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tLu8SlwT942MJ38RT125-12" value="Forward to payroll" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="510" y="601" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
