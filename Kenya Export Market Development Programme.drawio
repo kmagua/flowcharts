@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-15T08:41:50.182Z" agent="5.0 (Windows)" etag="JLiiabiuj32DT8r_Yuyd" version="13.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-15T08:51:20.916Z" agent="5.0 (Windows)" etag="-HpoFnIB7D05Xx_swl32" version="13.7.1" type="github">
   <diagram id="_fQHyTpFN4VD1cPMnVrm" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -6,6 +6,17 @@
         <mxCell id="1" parent="0" />
         <mxCell id="ZYfloAIm-09mC1gvutvd-1" value="&#xa;Kenya Export Market Development Programme&#xa;" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="20" y="40" width="1100" height="730" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYfloAIm-09mC1gvutvd-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="ZYfloAIm-09mC1gvutvd-1">
+          <mxGeometry x="130" y="40" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYfloAIm-09mC1gvutvd-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="ZYfloAIm-09mC1gvutvd-1">
+          <mxGeometry x="115" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYfloAIm-09mC1gvutvd-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" edge="1" parent="1" source="ZYfloAIm-09mC1gvutvd-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="195" y="190" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
