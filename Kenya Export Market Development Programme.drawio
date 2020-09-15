@@ -1,23 +1,26 @@
-<mxfile host="app.diagrams.net" modified="2020-09-15T09:17:09.217Z" agent="5.0 (Windows)" etag="rvgk6BPhn_Oas9YrB1yt" version="13.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-15T09:39:01.618Z" agent="5.0 (Windows)" etag="Jq-ikizd6TRVciJ9LIUR" version="13.7.1" type="github">
   <diagram id="_fQHyTpFN4VD1cPMnVrm" name="Page-1">
-    <mxGraphModel dx="479" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ZYfloAIm-09mC1gvutvd-1" value="&#xa;Kenya Export Market Development Programme&#xa;" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="20" y="40" width="1100" height="730" as="geometry" />
         </mxCell>
-        <mxCell id="ZYfloAIm-09mC1gvutvd-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="ZYfloAIm-09mC1gvutvd-1">
+        <mxCell id="ZYfloAIm-09mC1gvutvd-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="ZYfloAIm-09mC1gvutvd-1">
           <mxGeometry x="130" y="40" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZYfloAIm-09mC1gvutvd-3" value="HOD initiates process through concept development and forwards to CEO for approval" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="ZYfloAIm-09mC1gvutvd-1">
+        <mxCell id="ZYfloAIm-09mC1gvutvd-3" value="HOD initiates process through concept development and forwards to CEO for approval" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="ZYfloAIm-09mC1gvutvd-1">
           <mxGeometry x="115" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZYfloAIm-09mC1gvutvd-12" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="ZYfloAIm-09mC1gvutvd-1">
+        <mxCell id="ZYfloAIm-09mC1gvutvd-12" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="ZYfloAIm-09mC1gvutvd-1">
           <mxGeometry x="72" y="250" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ZYfloAIm-09mC1gvutvd-15" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="ZYfloAIm-09mC1gvutvd-1">
-          <mxGeometry x="190" y="400" width="40" height="20" as="geometry" />
+        <mxCell id="ZYfloAIm-09mC1gvutvd-15" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="ZYfloAIm-09mC1gvutvd-1">
+          <mxGeometry x="170" y="400" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYfloAIm-09mC1gvutvd-20" value="&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;font face=&quot;Arial, serif&quot;&gt;&lt;span lang=&quot;en-GB&quot;&gt;HOD reviews and approves the zero draft if the proposed activities fall within the market and product prioritization framework.&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;fontStyle=1;" vertex="1" parent="ZYfloAIm-09mC1gvutvd-1">
+          <mxGeometry x="295" y="450" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZYfloAIm-09mC1gvutvd-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" edge="1" parent="1" source="ZYfloAIm-09mC1gvutvd-2">
           <mxGeometry relative="1" as="geometry">
@@ -36,14 +39,65 @@
         <mxCell id="ZYfloAIm-09mC1gvutvd-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" edge="1" parent="1" source="ZYfloAIm-09mC1gvutvd-6" target="ZYfloAIm-09mC1gvutvd-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZYfloAIm-09mC1gvutvd-6" value="Approved?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontSize=9;" vertex="1" parent="1">
+        <mxCell id="ZYfloAIm-09mC1gvutvd-6" value="Approved?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="155" y="320" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZYfloAIm-09mC1gvutvd-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" edge="1" parent="1" source="ZYfloAIm-09mC1gvutvd-3" target="ZYfloAIm-09mC1gvutvd-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZYfloAIm-09mC1gvutvd-13" value="" style="whiteSpace=wrap;html=1;rounded=0;fontSize=9;" vertex="1" parent="1">
+        <mxCell id="ZYfloAIm-09mC1gvutvd-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="ZYfloAIm-09mC1gvutvd-13" target="ZYfloAIm-09mC1gvutvd-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYfloAIm-09mC1gvutvd-13" value="&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;font style=&quot;font-size: 10px&quot; face=&quot;Arial, serif&quot;&gt;&lt;span style=&quot;font-size: 10px&quot; lang=&quot;en-GB&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;Letters sent&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;font style=&quot;font-size: 10px&quot; face=&quot;Arial, serif&quot;&gt;&lt;span style=&quot;font-size: 10px&quot; lang=&quot;en-GB&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt; to Stakeholders of proposed export market development activities &lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="135" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYfloAIm-09mC1gvutvd-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="ZYfloAIm-09mC1gvutvd-16" target="ZYfloAIm-09mC1gvutvd-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYfloAIm-09mC1gvutvd-16" value="&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;font face=&quot;Arial, serif&quot;&gt;&lt;span lang=&quot;en-GB&quot;&gt;Coordinator&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;font face=&quot;Arial, serif&quot;&gt;&lt;span lang=&quot;en-GB&quot;&gt; solicits for submissions from Stakeholders of proposed export market&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;font face=&quot;Arial, serif&quot;&gt;&lt;span lang=&quot;en-GB&quot;&gt; development activities.&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="135" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYfloAIm-09mC1gvutvd-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="ZYfloAIm-09mC1gvutvd-18" target="ZYfloAIm-09mC1gvutvd-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYfloAIm-09mC1gvutvd-18" value="&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;font face=&quot;Arial, serif&quot;&gt;&lt;span lang=&quot;en-GB&quot;&gt;Coordinator receives and analyses the submissions and proposals&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;br/&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYfloAIm-09mC1gvutvd-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="ZYfloAIm-09mC1gvutvd-22" target="ZYfloAIm-09mC1gvutvd-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYfloAIm-09mC1gvutvd-22" value="&lt;font face=&quot;Arial, serif&quot;&gt;&lt;span lang=&quot;en-GB&quot;&gt;Invitation of Stakeholders of proposed export market development activities to the 1st committee meeting&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="350" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYfloAIm-09mC1gvutvd-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="ZYfloAIm-09mC1gvutvd-20" target="ZYfloAIm-09mC1gvutvd-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYfloAIm-09mC1gvutvd-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="ZYfloAIm-09mC1gvutvd-24" target="ZYfloAIm-09mC1gvutvd-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYfloAIm-09mC1gvutvd-24" value="The 1st KEMDP Committee meeting is convened to review and consider the Zero Draft and provide recommendations for incorporation in the 1st Draft of the KEMDP" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="191" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYfloAIm-09mC1gvutvd-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="ZYfloAIm-09mC1gvutvd-26" target="ZYfloAIm-09mC1gvutvd-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYfloAIm-09mC1gvutvd-26" value="The 1st Draft of the KEMDP is reviewed by the HOD and approved for discussion in the 2nd committee meeting" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="585" y="191" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYfloAIm-09mC1gvutvd-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="ZYfloAIm-09mC1gvutvd-28" target="ZYfloAIm-09mC1gvutvd-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYfloAIm-09mC1gvutvd-28" value="Invitation of Stakeholders of proposed export market development activities to the 2nd&amp;nbsp; committee meeting" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="585" y="336" width="120" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYfloAIm-09mC1gvutvd-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="ZYfloAIm-09mC1gvutvd-30" target="ZYfloAIm-09mC1gvutvd-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYfloAIm-09mC1gvutvd-30" value="2nd KEMDP Committee meeting is convened to review and consider the 2nd&amp;nbsp; Draft and confirm that all issues previously raised, have been addressed" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="490" width="170" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYfloAIm-09mC1gvutvd-32" value="Invitation of Stakeholders of proposed export market development activities to the 3rd&amp;nbsp; committee meeting" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="630" width="150" height="70.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
