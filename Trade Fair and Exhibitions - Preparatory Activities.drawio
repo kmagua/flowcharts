@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-15T06:46:52.965Z" agent="5.0 (Windows)" etag="hXPsBZ-VmK6PsTxqU5mh" version="13.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-15T06:55:06.382Z" agent="5.0 (Windows)" etag="SyUg4e6KLTp-qA_PBP78" version="13.7.1" type="github">
   <diagram id="VyclkDzrTjf0wuCmbSBq" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -6,6 +6,62 @@
         <mxCell id="1" parent="0" />
         <mxCell id="BOvM9oNE_HO5xxUdQuAv-1" value="Trade Fairs and Exhibitions - Preparatory Activities" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="10" y="20" width="1110" height="780" as="geometry" />
+        </mxCell>
+        <mxCell id="BOvM9oNE_HO5xxUdQuAv-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="BOvM9oNE_HO5xxUdQuAv-1">
+          <mxGeometry x="190" y="80" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BOvM9oNE_HO5xxUdQuAv-5" value="Event Coordinator convenes 1st preparatory committee meeting" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="BOvM9oNE_HO5xxUdQuAv-1">
+          <mxGeometry x="175" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BOvM9oNE_HO5xxUdQuAv-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="BOvM9oNE_HO5xxUdQuAv-1" source="BOvM9oNE_HO5xxUdQuAv-2" target="BOvM9oNE_HO5xxUdQuAv-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="235" y="195" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BOvM9oNE_HO5xxUdQuAv-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="BOvM9oNE_HO5xxUdQuAv-1" source="BOvM9oNE_HO5xxUdQuAv-9" target="BOvM9oNE_HO5xxUdQuAv-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="220" as="sourcePoint" />
+            <mxPoint x="290" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BOvM9oNE_HO5xxUdQuAv-9" value="&lt;p style=&quot;margin-bottom: 0in ; line-height: 100%&quot;&gt;&lt;br/&gt;&lt;font face=&quot;Arial, serif&quot;&gt;Committee’s TOR’s are considered and&lt;br/&gt;adopted&lt;/font&gt;&lt;/p&gt;&lt;br/&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=10;" vertex="1" parent="BOvM9oNE_HO5xxUdQuAv-1">
+          <mxGeometry x="380" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BOvM9oNE_HO5xxUdQuAv-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="BOvM9oNE_HO5xxUdQuAv-10" target="BOvM9oNE_HO5xxUdQuAv-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BOvM9oNE_HO5xxUdQuAv-10" value="&lt;p style=&quot;margin-bottom: 0in ; line-height: 100%&quot;&gt;&lt;br/&gt;&lt;font face=&quot;Arial, serif&quot;&gt;Event Coordinator initiates the booking and&lt;br/&gt;payment for  of exhibition space and other related facilities&lt;/font&gt;&lt;/p&gt;&lt;br/&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="185" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BOvM9oNE_HO5xxUdQuAv-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="BOvM9oNE_HO5xxUdQuAv-5" target="BOvM9oNE_HO5xxUdQuAv-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BOvM9oNE_HO5xxUdQuAv-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="BOvM9oNE_HO5xxUdQuAv-12" target="BOvM9oNE_HO5xxUdQuAv-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BOvM9oNE_HO5xxUdQuAv-12" value="&lt;p style=&quot;margin-bottom: 0in ; line-height: 100%&quot;&gt;&lt;br/&gt;&lt;font face=&quot;Arial, serif&quot;&gt;Event Coordinator initiates the recruitment&lt;br/&gt;of exhibitors within given deadlines&lt;/font&gt;&lt;/p&gt;&lt;br/&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="185" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BOvM9oNE_HO5xxUdQuAv-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="BOvM9oNE_HO5xxUdQuAv-14" target="BOvM9oNE_HO5xxUdQuAv-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BOvM9oNE_HO5xxUdQuAv-14" value="&lt;p style=&quot;margin-bottom: 0in ; line-height: 100%&quot;&gt;&lt;br/&gt;&lt;font face=&quot;Arial, serif&quot;&gt;Applications from potential participants&lt;br/&gt;are received&lt;/font&gt;&lt;/p&gt;&lt;br/&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="185" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BOvM9oNE_HO5xxUdQuAv-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="BOvM9oNE_HO5xxUdQuAv-16" target="BOvM9oNE_HO5xxUdQuAv-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BOvM9oNE_HO5xxUdQuAv-16" value="&lt;p style=&quot;margin-bottom: 0in ; line-height: 100%&quot;&gt;&lt;br/&gt;&lt;font face=&quot;Arial, serif&quot;&gt;After the deadline, the Event Coordinator&lt;br/&gt;analyses applications from potential participants&lt;/font&gt;&lt;/p&gt;&lt;br/&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="385" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BOvM9oNE_HO5xxUdQuAv-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="BOvM9oNE_HO5xxUdQuAv-18" target="BOvM9oNE_HO5xxUdQuAv-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BOvM9oNE_HO5xxUdQuAv-18" value="Invitations are sent for 2nd preparatory committee meeting" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="585" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BOvM9oNE_HO5xxUdQuAv-20" value="" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="585" y="490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
