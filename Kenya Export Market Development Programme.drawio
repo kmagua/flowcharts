@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-15T09:39:01.618Z" agent="5.0 (Windows)" etag="Jq-ikizd6TRVciJ9LIUR" version="13.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-15T09:43:21.564Z" agent="5.0 (Windows)" etag="D9wQOdOwIWAAU5tBHRqt" version="13.7.1" type="github">
   <diagram id="_fQHyTpFN4VD1cPMnVrm" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -96,8 +96,20 @@
         <mxCell id="ZYfloAIm-09mC1gvutvd-30" value="2nd KEMDP Committee meeting is convened to review and consider the 2nd&amp;nbsp; Draft and confirm that all issues previously raised, have been addressed" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;fontStyle=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="490" width="170" height="67" as="geometry" />
         </mxCell>
+        <mxCell id="ZYfloAIm-09mC1gvutvd-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="ZYfloAIm-09mC1gvutvd-32" target="ZYfloAIm-09mC1gvutvd-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZYfloAIm-09mC1gvutvd-32" value="Invitation of Stakeholders of proposed export market development activities to the 3rd&amp;nbsp; committee meeting" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;fontStyle=0;" vertex="1" parent="1">
           <mxGeometry x="570" y="630" width="150" height="70.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYfloAIm-09mC1gvutvd-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="ZYfloAIm-09mC1gvutvd-34" target="ZYfloAIm-09mC1gvutvd-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYfloAIm-09mC1gvutvd-34" value="&lt;font face=&quot;Arial, serif&quot;&gt;&lt;span lang=&quot;en-GB&quot;&gt;The 3&lt;/span&gt;&lt;/font&gt;&lt;sup&gt;&lt;font face=&quot;Arial, serif&quot;&gt;&lt;span lang=&quot;en-GB&quot;&gt;RD&lt;/span&gt;&lt;/font&gt;&lt;/sup&gt;&lt;font face=&quot;Arial, serif&quot;&gt;&lt;span lang=&quot;en-GB&quot;&gt; KEMDP Committee meeting is convened to &lt;/span&gt;&lt;/font&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;font face=&quot;Arial, serif&quot;&gt;approve&lt;/font&gt;&lt;/font&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;font face=&quot;Arial, serif&quot;&gt;d the 2nd Draft KEMDP&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="815" y="635.25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYfloAIm-09mC1gvutvd-36" value="Recommendations and feedback incorporated and KEMDP programme Finalized for CEO’s approval" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="800" y="495.25" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
