@@ -1,1 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2020-09-15T07:54:09.172Z" agent="5.0 (Windows)" version="13.6.10" etag="TQLLcJuZJ7YZTacWEv6B" type="github"><diagram id="ILSqU1WjV-aL-BhG_Z8I">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-15T08:07:20.164Z" agent="5.0 (Windows)" etag="Jt0Ngmtui9mDU3YTeDbC" version="13.7.1" type="github">
+  <diagram id="ILSqU1WjV-aL-BhG_Z8I" name="Page-1">
+    <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AqOj5L54o1SdLm4BFLtN-1" value="Trade Fairs and Exhibition - Onsite Preparatory Activities" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="40" y="50" width="1080" height="750" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
