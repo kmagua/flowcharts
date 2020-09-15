@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-15T07:40:33.734Z" agent="5.0 (Windows)" etag="V-eivNbC9Qwb63GmGMfK" version="13.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-15T07:44:51.336Z" agent="5.0 (Windows)" etag="TWRd91qMPY2Qtg1k1wQP" version="13.7.1" type="github">
   <diagram id="VyclkDzrTjf0wuCmbSBq" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -98,6 +98,18 @@
         </mxCell>
         <mxCell id="BOvM9oNE_HO5xxUdQuAv-30" value="The Event Coordinator in consultation with HOD forwards the list of confirmed exhibitors to various partners" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="715" y="480" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BOvM9oNE_HO5xxUdQuAv-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="BOvM9oNE_HO5xxUdQuAv-34" target="BOvM9oNE_HO5xxUdQuAv-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BOvM9oNE_HO5xxUdQuAv-34" value="The EC sends out invitation letters to exhibitors for the 2nd Briefing meeting" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="930" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BOvM9oNE_HO5xxUdQuAv-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="BOvM9oNE_HO5xxUdQuAv-32" target="BOvM9oNE_HO5xxUdQuAv-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BOvM9oNE_HO5xxUdQuAv-36" value="" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="930" y="480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
