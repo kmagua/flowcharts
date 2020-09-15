@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-15T08:51:20.916Z" agent="5.0 (Windows)" etag="-HpoFnIB7D05Xx_swl32" version="13.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-15T09:17:09.217Z" agent="5.0 (Windows)" etag="rvgk6BPhn_Oas9YrB1yt" version="13.7.1" type="github">
   <diagram id="_fQHyTpFN4VD1cPMnVrm" name="Page-1">
-    <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="479" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,13 +10,40 @@
         <mxCell id="ZYfloAIm-09mC1gvutvd-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="ZYfloAIm-09mC1gvutvd-1">
           <mxGeometry x="130" y="40" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZYfloAIm-09mC1gvutvd-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="ZYfloAIm-09mC1gvutvd-1">
+        <mxCell id="ZYfloAIm-09mC1gvutvd-3" value="HOD initiates process through concept development and forwards to CEO for approval" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="ZYfloAIm-09mC1gvutvd-1">
           <mxGeometry x="115" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYfloAIm-09mC1gvutvd-12" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="ZYfloAIm-09mC1gvutvd-1">
+          <mxGeometry x="72" y="250" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYfloAIm-09mC1gvutvd-15" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="ZYfloAIm-09mC1gvutvd-1">
+          <mxGeometry x="190" y="400" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZYfloAIm-09mC1gvutvd-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" edge="1" parent="1" source="ZYfloAIm-09mC1gvutvd-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="195" y="190" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ZYfloAIm-09mC1gvutvd-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;entryX=-0.05;entryY=0.567;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZYfloAIm-09mC1gvutvd-6" target="ZYfloAIm-09mC1gvutvd-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="95" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="100" y="360" />
+              <mxPoint x="100" y="224" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZYfloAIm-09mC1gvutvd-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" edge="1" parent="1" source="ZYfloAIm-09mC1gvutvd-6" target="ZYfloAIm-09mC1gvutvd-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYfloAIm-09mC1gvutvd-6" value="Approved?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="155" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYfloAIm-09mC1gvutvd-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" edge="1" parent="1" source="ZYfloAIm-09mC1gvutvd-3" target="ZYfloAIm-09mC1gvutvd-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYfloAIm-09mC1gvutvd-13" value="" style="whiteSpace=wrap;html=1;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="135" y="490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
