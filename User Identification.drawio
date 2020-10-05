@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-10-05T16:19:52.229Z" agent="5.0 (Windows)" etag="RbXq3eKAwoZqSPHrnsol" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-05T16:34:02.233Z" agent="5.0 (Windows)" etag="sv4_XZThzwqCzOlzBvAt" version="13.7.7" type="github">
   <diagram id="81YpzC_83BNfYNc4djCM" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Zg9ji1YqqEVHYiAWaqbM-1" value="User Identification" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="40" width="1000" height="470" as="geometry" />
+          <mxGeometry x="50" y="40" width="1000" height="520" as="geometry" />
         </mxCell>
         <mxCell id="Zg9ji1YqqEVHYiAWaqbM-2" value="Visitor" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="Zg9ji1YqqEVHYiAWaqbM-1">
           <mxGeometry y="20" width="1000" height="210" as="geometry" />
@@ -13,19 +13,91 @@
         <mxCell id="Zg9ji1YqqEVHYiAWaqbM-5" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Zg9ji1YqqEVHYiAWaqbM-2">
           <mxGeometry x="180" y="20" width="90" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="Zg9ji1YqqEVHYiAWaqbM-18" value="end" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Zg9ji1YqqEVHYiAWaqbM-2">
+          <mxGeometry x="800" y="135" width="90" height="50" as="geometry" />
+        </mxCell>
         <mxCell id="Zg9ji1YqqEVHYiAWaqbM-8" value="Visitor gets a ticket from the ATM with data of office they are visiting or swipes an official identification card" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Zg9ji1YqqEVHYiAWaqbM-2">
-          <mxGeometry x="130" y="140" width="190" height="60" as="geometry" />
+          <mxGeometry x="130" y="126" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Zg9ji1YqqEVHYiAWaqbM-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Zg9ji1YqqEVHYiAWaqbM-2" source="Zg9ji1YqqEVHYiAWaqbM-5" target="Zg9ji1YqqEVHYiAWaqbM-8">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="225" y="145" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Zg9ji1YqqEVHYiAWaqbM-11" value="Proceed to office being visited" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="Zg9ji1YqqEVHYiAWaqbM-2">
+          <mxGeometry x="390" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="Zg9ji1YqqEVHYiAWaqbM-3" value="Assembly Official" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="Zg9ji1YqqEVHYiAWaqbM-1">
-          <mxGeometry y="230" width="1000" height="120" as="geometry" />
+          <mxGeometry y="230" width="1000" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Zg9ji1YqqEVHYiAWaqbM-13" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Zg9ji1YqqEVHYiAWaqbM-3">
+          <mxGeometry x="320" y="110" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Zg9ji1YqqEVHYiAWaqbM-33" value="Raise visitors ticket on the system and assign to relevant officer" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="Zg9ji1YqqEVHYiAWaqbM-3">
+          <mxGeometry x="390" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Zg9ji1YqqEVHYiAWaqbM-4" value="System" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="Zg9ji1YqqEVHYiAWaqbM-1">
-          <mxGeometry y="350" width="1000" height="120" as="geometry" />
+          <mxGeometry y="370" width="1000" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Zg9ji1YqqEVHYiAWaqbM-29" value="Sign staff out after he/she leaves the gate" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="Zg9ji1YqqEVHYiAWaqbM-4">
+          <mxGeometry x="720" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zg9ji1YqqEVHYiAWaqbM-24" value="Staff proceeds to his/her station" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="Zg9ji1YqqEVHYiAWaqbM-4">
+          <mxGeometry x="490" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zg9ji1YqqEVHYiAWaqbM-9" value="Is Visitor?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="Zg9ji1YqqEVHYiAWaqbM-4">
+          <mxGeometry x="185" y="30" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Zg9ji1YqqEVHYiAWaqbM-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Zg9ji1YqqEVHYiAWaqbM-4" source="Zg9ji1YqqEVHYiAWaqbM-9" target="Zg9ji1YqqEVHYiAWaqbM-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="225" y="120" />
+              <mxPoint x="390" y="120" />
+              <mxPoint x="390" y="70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zg9ji1YqqEVHYiAWaqbM-28" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Zg9ji1YqqEVHYiAWaqbM-4">
+          <mxGeometry x="360" y="90" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Zg9ji1YqqEVHYiAWaqbM-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Zg9ji1YqqEVHYiAWaqbM-4" source="Zg9ji1YqqEVHYiAWaqbM-24" target="Zg9ji1YqqEVHYiAWaqbM-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zg9ji1YqqEVHYiAWaqbM-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Zg9ji1YqqEVHYiAWaqbM-1" source="Zg9ji1YqqEVHYiAWaqbM-8" target="Zg9ji1YqqEVHYiAWaqbM-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zg9ji1YqqEVHYiAWaqbM-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Zg9ji1YqqEVHYiAWaqbM-1" source="Zg9ji1YqqEVHYiAWaqbM-9" target="Zg9ji1YqqEVHYiAWaqbM-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="440" />
+              <mxPoint x="350" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zg9ji1YqqEVHYiAWaqbM-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Zg9ji1YqqEVHYiAWaqbM-1" source="Zg9ji1YqqEVHYiAWaqbM-11" target="Zg9ji1YqqEVHYiAWaqbM-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zg9ji1YqqEVHYiAWaqbM-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="Zg9ji1YqqEVHYiAWaqbM-1" source="Zg9ji1YqqEVHYiAWaqbM-29" target="Zg9ji1YqqEVHYiAWaqbM-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="850" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zg9ji1YqqEVHYiAWaqbM-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zg9ji1YqqEVHYiAWaqbM-14" target="Zg9ji1YqqEVHYiAWaqbM-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="850" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zg9ji1YqqEVHYiAWaqbM-14" value="Visitor fills in the visitors feedback based on service given and leaves" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zg9ji1YqqEVHYiAWaqbM-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Zg9ji1YqqEVHYiAWaqbM-35" target="Zg9ji1YqqEVHYiAWaqbM-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zg9ji1YqqEVHYiAWaqbM-35" value="Request is actioned and feedback shared with the visitor" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zg9ji1YqqEVHYiAWaqbM-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Zg9ji1YqqEVHYiAWaqbM-33" target="Zg9ji1YqqEVHYiAWaqbM-35">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
