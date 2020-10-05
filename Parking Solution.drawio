@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-05T13:45:33.513Z" agent="5.0 (Windows)" etag="iaw6LN41ikDkqSG85Vxs" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-05T13:46:42.272Z" agent="5.0 (Windows)" etag="n4CVQ0-wZQz0PbWEUlkE" version="13.7.7" type="github">
   <diagram id="3C6ACQQHesN2s_W3LlT6" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -24,7 +24,7 @@
         <mxCell id="mWzmDmBHzAwZXGDcWGLa-23" value="&lt;font face=&quot;Times New Roman&quot;&gt;Proceed to parking&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="mWzmDmBHzAwZXGDcWGLa-14">
           <mxGeometry x="415" y="166" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mWzmDmBHzAwZXGDcWGLa-38" value="&lt;font&gt;Notify Visitor through sensor beep&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="mWzmDmBHzAwZXGDcWGLa-14">
+        <mxCell id="mWzmDmBHzAwZXGDcWGLa-38" value="&lt;font&gt;Visitor notified through sensor beep&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="mWzmDmBHzAwZXGDcWGLa-14">
           <mxGeometry x="629" y="166" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mWzmDmBHzAwZXGDcWGLa-42" value="End" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontFamily=Times New Roman;" vertex="1" parent="mWzmDmBHzAwZXGDcWGLa-14">
