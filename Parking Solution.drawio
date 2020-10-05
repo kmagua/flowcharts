@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-05T13:41:23.214Z" agent="5.0 (Windows)" etag="IE8-go9mKSI5Bb387vF1" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-05T13:45:33.513Z" agent="5.0 (Windows)" etag="iaw6LN41ikDkqSG85Vxs" version="13.7.7" type="github">
   <diagram id="3C6ACQQHesN2s_W3LlT6" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -50,9 +50,6 @@
         <mxCell id="mWzmDmBHzAwZXGDcWGLa-25" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="mWzmDmBHzAwZXGDcWGLa-15">
           <mxGeometry x="360" y="36" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="mWzmDmBHzAwZXGDcWGLa-21" value="&lt;font&gt;Is space available?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="mWzmDmBHzAwZXGDcWGLa-15">
-          <mxGeometry x="360" y="46" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="mWzmDmBHzAwZXGDcWGLa-30" value="&lt;font face=&quot;Times New Roman&quot;&gt;Visitor has reserved parking?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="mWzmDmBHzAwZXGDcWGLa-15">
           <mxGeometry x="140" y="30" width="148" height="96" as="geometry" />
         </mxCell>
@@ -64,9 +61,12 @@
             <mxPoint x="233" y="214" as="targetPoint" />
             <Array as="points">
               <mxPoint x="214" y="146" />
-              <mxPoint x="400" y="146" />
+              <mxPoint x="475" y="146" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="mWzmDmBHzAwZXGDcWGLa-21" value="&lt;font&gt;Is space available?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="mWzmDmBHzAwZXGDcWGLa-15">
+          <mxGeometry x="435" y="46" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mWzmDmBHzAwZXGDcWGLa-37" value="&lt;font face=&quot;Times New Roman&quot;&gt;no&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="mWzmDmBHzAwZXGDcWGLa-15">
           <mxGeometry x="289" y="126" width="40" height="20" as="geometry" />
