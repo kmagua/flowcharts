@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-05T17:00:21.887Z" agent="5.0 (Windows)" etag="Wn8WqT6wSjz9BT6RKHxJ" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-05T17:02:25.495Z" agent="5.0 (Windows)" etag="U3Uw4M6yxsacpLq4TG5H" version="13.7.7" type="github">
   <diagram id="zbe8eagNhP3V1rBkRSWY" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -42,8 +42,14 @@
         <mxCell id="hNyviJheN5dUY7aObr8S-18" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hNyviJheN5dUY7aObr8S-5">
           <mxGeometry x="245" y="-6.5" width="40" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="hNyviJheN5dUY7aObr8S-22" value="Drafting of bill" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="hNyviJheN5dUY7aObr8S-5">
+          <mxGeometry x="530" y="33.25" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="hNyviJheN5dUY7aObr8S-16" value="Admissible?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="hNyviJheN5dUY7aObr8S-5">
           <mxGeometry x="210" y="23.25" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hNyviJheN5dUY7aObr8S-21" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hNyviJheN5dUY7aObr8S-5">
+          <mxGeometry x="298" y="42.5" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="hNyviJheN5dUY7aObr8S-6" value="ICT" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="hNyviJheN5dUY7aObr8S-1">
           <mxGeometry y="513" width="1070" height="120" as="geometry" />
@@ -58,6 +64,15 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hNyviJheN5dUY7aObr8S-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="hNyviJheN5dUY7aObr8S-1" source="hNyviJheN5dUY7aObr8S-14" target="hNyviJheN5dUY7aObr8S-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hNyviJheN5dUY7aObr8S-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hNyviJheN5dUY7aObr8S-19" target="hNyviJheN5dUY7aObr8S-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hNyviJheN5dUY7aObr8S-19" value="Forward to budget office" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="435.75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hNyviJheN5dUY7aObr8S-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hNyviJheN5dUY7aObr8S-16" target="hNyviJheN5dUY7aObr8S-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
