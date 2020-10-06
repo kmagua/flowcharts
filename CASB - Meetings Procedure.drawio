@@ -1,20 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2020-10-06T15:17:08.979Z" agent="5.0 (Windows)" etag="fRcUMVhmdVAk53_KpdZN" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-06T15:19:08.092Z" agent="5.0 (Windows)" etag="Hc46kiSrjWZb8Ng-Ukdo" version="13.7.7" type="github">
   <diagram id="3Ur64qbI0QYr7bcEWnp0" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="WXaYF9KilezGvIFoZw7Z-1" value="COUNTY ASSEMBLY SERVICE BOARD - Meetings Procedure" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="1">
-          <mxGeometry x="220" y="60" width="480" height="380" as="geometry" />
+          <mxGeometry x="20" y="60" width="1130" height="380" as="geometry" />
         </mxCell>
         <mxCell id="WXaYF9KilezGvIFoZw7Z-2" value="Admin Officer" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="WXaYF9KilezGvIFoZw7Z-1">
-          <mxGeometry y="20" width="480" height="120" as="geometry" />
+          <mxGeometry y="20" width="1130" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="WXaYF9KilezGvIFoZw7Z-5" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WXaYF9KilezGvIFoZw7Z-2">
+          <mxGeometry x="110" y="20" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WXaYF9KilezGvIFoZw7Z-6" value="Request for approval to hold CASB meeting" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WXaYF9KilezGvIFoZw7Z-2">
+          <mxGeometry x="100" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WXaYF9KilezGvIFoZw7Z-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WXaYF9KilezGvIFoZw7Z-2" source="WXaYF9KilezGvIFoZw7Z-5" target="WXaYF9KilezGvIFoZw7Z-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="130" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="WXaYF9KilezGvIFoZw7Z-3" value="Clerk / Speaker" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="WXaYF9KilezGvIFoZw7Z-1">
-          <mxGeometry y="140" width="480" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="WXaYF9KilezGvIFoZw7Z-4" value="Lane 3" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="WXaYF9KilezGvIFoZw7Z-1">
-          <mxGeometry y="260" width="480" height="120" as="geometry" />
+          <mxGeometry y="260" width="1130" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
