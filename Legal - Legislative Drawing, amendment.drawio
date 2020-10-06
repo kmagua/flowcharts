@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-06T15:46:38.901Z" agent="5.0 (Windows)" etag="AdfQ7Rs83m9g6or_QqOI" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-06T15:50:06.604Z" agent="5.0 (Windows)" etag="qBbaOtnbJLlTd0xh_0Am" version="13.7.7" type="github">
   <diagram id="rBpneA7ACaGHGkdKhGfu" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -53,6 +53,18 @@
         </mxCell>
         <mxCell id="KdFxd-YrfLyibWVKEqrB-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KdFxd-YrfLyibWVKEqrB-1" source="KdFxd-YrfLyibWVKEqrB-14" target="KdFxd-YrfLyibWVKEqrB-16">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdFxd-YrfLyibWVKEqrB-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KdFxd-YrfLyibWVKEqrB-18" target="KdFxd-YrfLyibWVKEqrB-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdFxd-YrfLyibWVKEqrB-18" value="&lt;p class=&quot;western&quot; style=&quot;margin-bottom: 0in&quot; lang=&quot;en-GB&quot;&gt;&lt;br/&gt;Drafting of Bill&lt;/p&gt;&lt;br/&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KdFxd-YrfLyibWVKEqrB-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KdFxd-YrfLyibWVKEqrB-16" target="KdFxd-YrfLyibWVKEqrB-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdFxd-YrfLyibWVKEqrB-20" value="&lt;p class=&quot;western&quot; style=&quot;margin-bottom: 0in&quot; lang=&quot;en-GB&quot;&gt;Bill Publishing&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
