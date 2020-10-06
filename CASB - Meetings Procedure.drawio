@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-06T15:20:55.306Z" agent="5.0 (Windows)" etag="WxOVw4oXtlVfXXhSkMCI" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-06T15:22:27.222Z" agent="5.0 (Windows)" etag="G5JCDubRaeVpZhdO6dd0" version="13.7.7" type="github">
   <diagram id="3Ur64qbI0QYr7bcEWnp0" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -13,8 +13,11 @@
         <mxCell id="WXaYF9KilezGvIFoZw7Z-5" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WXaYF9KilezGvIFoZw7Z-2">
           <mxGeometry x="136" y="20" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WXaYF9KilezGvIFoZw7Z-17" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WXaYF9KilezGvIFoZw7Z-2">
-          <mxGeometry x="286" y="120" width="120" height="60" as="geometry" />
+        <mxCell id="WXaYF9KilezGvIFoZw7Z-20" value="Meeting is held" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WXaYF9KilezGvIFoZw7Z-2">
+          <mxGeometry x="450" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WXaYF9KilezGvIFoZw7Z-17" value="CASB members are notified of the date, time, venue and agenda of the meeting" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WXaYF9KilezGvIFoZw7Z-2">
+          <mxGeometry x="280" y="120" width="126" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WXaYF9KilezGvIFoZw7Z-6" value="Request for approval to hold CASB meeting" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WXaYF9KilezGvIFoZw7Z-2">
           <mxGeometry x="126" y="120" width="120" height="60" as="geometry" />
@@ -23,6 +26,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="186" y="130" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="WXaYF9KilezGvIFoZw7Z-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WXaYF9KilezGvIFoZw7Z-2" source="WXaYF9KilezGvIFoZw7Z-17" target="WXaYF9KilezGvIFoZw7Z-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WXaYF9KilezGvIFoZw7Z-3" value="Clerk / Speaker" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="WXaYF9KilezGvIFoZw7Z-1">
           <mxGeometry y="260" width="1130" height="120" as="geometry" />
