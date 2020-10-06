@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-06T14:48:19.512Z" agent="5.0 (Windows)" etag="zU8o8aTfQwbNJkPAe5XJ" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-06T14:50:23.727Z" agent="5.0 (Windows)" etag="nDJXYB_jfJw_nTvIev_c" version="13.7.7" type="github">
   <diagram id="yZyWORpR4N3k2B5hO9Oc" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -18,28 +18,34 @@
             <mxPoint x="108" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q7ujqtCJ4n2Gz-Uq-b1V-28" value="Cross-check transcript to ensure it conforms to the Hansard Guide, House Style, referencing and titling" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="q7ujqtCJ4n2Gz-Uq-b1V-2">
-          <mxGeometry x="704" y="100" width="110" height="100" as="geometry" />
-        </mxCell>
         <mxCell id="q7ujqtCJ4n2Gz-Uq-b1V-26" value="Merging of transcripts from each segment to create entire transcript of that sitting" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="q7ujqtCJ4n2Gz-Uq-b1V-2">
-          <mxGeometry x="540" y="110" width="112" height="80" as="geometry" />
+          <mxGeometry x="500" y="100" width="112" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="q7ujqtCJ4n2Gz-Uq-b1V-28" value="Cross-check transcript to ensure it conforms to the Hansard Guide, House Style, referencing and titling" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="q7ujqtCJ4n2Gz-Uq-b1V-2">
+          <mxGeometry x="640" y="95" width="110" height="100" as="geometry" />
         </mxCell>
         <mxCell id="q7ujqtCJ4n2Gz-Uq-b1V-32" value="Indexed done per each quarter of each session using electronic generation of the indices" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="q7ujqtCJ4n2Gz-Uq-b1V-2">
-          <mxGeometry x="840" y="100" width="110" height="90" as="geometry" />
+          <mxGeometry x="770" y="100" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="q7ujqtCJ4n2Gz-Uq-b1V-34" value="The recordings and the Official reports are archived" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="q7ujqtCJ4n2Gz-Uq-b1V-2">
+          <mxGeometry x="920" y="100" width="95" height="90" as="geometry" />
         </mxCell>
         <mxCell id="q7ujqtCJ4n2Gz-Uq-b1V-13" value="Allocate Officers particular time for recording of plenary proceedings " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="q7ujqtCJ4n2Gz-Uq-b1V-2">
           <mxGeometry x="48" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q7ujqtCJ4n2Gz-Uq-b1V-20" value="Segment the audio to allocate a segment of the recording for transcription" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="q7ujqtCJ4n2Gz-Uq-b1V-2">
-          <mxGeometry x="197" y="110" width="113" height="80" as="geometry" />
+          <mxGeometry x="197" y="110" width="103" height="80" as="geometry" />
         </mxCell>
         <mxCell id="q7ujqtCJ4n2Gz-Uq-b1V-24" value="Proof reading of transcribed material and editing while listening to the recorded material" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="q7ujqtCJ4n2Gz-Uq-b1V-2">
-          <mxGeometry x="362" y="110" width="126" height="80" as="geometry" />
+          <mxGeometry x="340" y="105" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="q7ujqtCJ4n2Gz-Uq-b1V-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="q7ujqtCJ4n2Gz-Uq-b1V-2" source="q7ujqtCJ4n2Gz-Uq-b1V-24" target="q7ujqtCJ4n2Gz-Uq-b1V-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q7ujqtCJ4n2Gz-Uq-b1V-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="q7ujqtCJ4n2Gz-Uq-b1V-2" source="q7ujqtCJ4n2Gz-Uq-b1V-26" target="q7ujqtCJ4n2Gz-Uq-b1V-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q7ujqtCJ4n2Gz-Uq-b1V-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="q7ujqtCJ4n2Gz-Uq-b1V-2" source="q7ujqtCJ4n2Gz-Uq-b1V-32" target="q7ujqtCJ4n2Gz-Uq-b1V-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q7ujqtCJ4n2Gz-Uq-b1V-3" value="Hansard Reporter" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="q7ujqtCJ4n2Gz-Uq-b1V-1">
@@ -63,7 +69,7 @@
           <mxGeometry y="430" width="1130" height="120" as="geometry" />
         </mxCell>
         <mxCell id="q7ujqtCJ4n2Gz-Uq-b1V-30" value="Edited material is uploaded in the Assembly website" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="q7ujqtCJ4n2Gz-Uq-b1V-4">
-          <mxGeometry x="699" y="10" width="120" height="60" as="geometry" />
+          <mxGeometry x="635" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q7ujqtCJ4n2Gz-Uq-b1V-9" value="Clerk" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="q7ujqtCJ4n2Gz-Uq-b1V-1">
           <mxGeometry y="550" width="1130" height="120" as="geometry" />
@@ -82,7 +88,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="q7ujqtCJ4n2Gz-Uq-b1V-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="q7ujqtCJ4n2Gz-Uq-b1V-1" source="q7ujqtCJ4n2Gz-Uq-b1V-22" target="q7ujqtCJ4n2Gz-Uq-b1V-24">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="405" y="290" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="q7ujqtCJ4n2Gz-Uq-b1V-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="q7ujqtCJ4n2Gz-Uq-b1V-1" source="q7ujqtCJ4n2Gz-Uq-b1V-30" target="q7ujqtCJ4n2Gz-Uq-b1V-32">
           <mxGeometry relative="1" as="geometry" />
@@ -90,11 +100,14 @@
         <mxCell id="q7ujqtCJ4n2Gz-Uq-b1V-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="q7ujqtCJ4n2Gz-Uq-b1V-1" source="q7ujqtCJ4n2Gz-Uq-b1V-28" target="q7ujqtCJ4n2Gz-Uq-b1V-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="q7ujqtCJ4n2Gz-Uq-b1V-34" value="The recordings and the Official reports are archived" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1028" y="140" width="95" height="90" as="geometry" />
+        <mxCell id="q7ujqtCJ4n2Gz-Uq-b1V-38" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="160" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="q7ujqtCJ4n2Gz-Uq-b1V-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q7ujqtCJ4n2Gz-Uq-b1V-32" target="q7ujqtCJ4n2Gz-Uq-b1V-34">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="q7ujqtCJ4n2Gz-Uq-b1V-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q7ujqtCJ4n2Gz-Uq-b1V-34" target="q7ujqtCJ4n2Gz-Uq-b1V-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1035" y="185" as="sourcePoint" />
+            <mxPoint x="1102.5" y="185" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
