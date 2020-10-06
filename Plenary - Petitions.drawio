@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-10-06T12:59:21.701Z" agent="5.0 (Windows)" etag="ktxhsy9mk0ufGXxVAk5R" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-06T13:01:21.417Z" agent="5.0 (Windows)" etag="hDYHrT7Ljvc9IELnMMwp" version="13.7.7" type="github">
   <diagram id="5elmPLBtTC9-q5DrvknR" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="tOj_U47URgUlZWHvQzIf-1" value="Plenary - Petitions" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="1">
-          <mxGeometry x="10" y="20" width="1140" height="620" as="geometry" />
+          <mxGeometry x="10" y="20" width="1140" height="650" as="geometry" />
         </mxCell>
         <mxCell id="tOj_U47URgUlZWHvQzIf-2" value="Clerk" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="tOj_U47URgUlZWHvQzIf-1">
           <mxGeometry y="20" width="1140" height="180" as="geometry" />
@@ -33,20 +33,23 @@
         <mxCell id="tOj_U47URgUlZWHvQzIf-18" value="Admissible?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="tOj_U47URgUlZWHvQzIf-3">
           <mxGeometry x="315" y="36" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="tOj_U47URgUlZWHvQzIf-31" value="Balloting of petition" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="tOj_U47URgUlZWHvQzIf-3">
+          <mxGeometry x="590" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="tOj_U47URgUlZWHvQzIf-24" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tOj_U47URgUlZWHvQzIf-3">
           <mxGeometry x="370" y="130" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="tOj_U47URgUlZWHvQzIf-4" value="Speaker" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="tOj_U47URgUlZWHvQzIf-1">
-          <mxGeometry y="360" width="1140" height="120" as="geometry" />
+          <mxGeometry y="360" width="1140" height="150" as="geometry" />
         </mxCell>
         <mxCell id="tOj_U47URgUlZWHvQzIf-22" value="Approved?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="tOj_U47URgUlZWHvQzIf-4">
           <mxGeometry x="370" y="30" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="tOj_U47URgUlZWHvQzIf-9" value="Clerk Assistant" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="tOj_U47URgUlZWHvQzIf-1">
-          <mxGeometry y="480" width="1140" height="140" as="geometry" />
+        <mxCell id="tOj_U47URgUlZWHvQzIf-33" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tOj_U47URgUlZWHvQzIf-4">
+          <mxGeometry x="535" y="110" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="tOj_U47URgUlZWHvQzIf-31" value="Balloting of petition" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="tOj_U47URgUlZWHvQzIf-9">
-          <mxGeometry x="390" y="45" width="120" height="60" as="geometry" />
+        <mxCell id="tOj_U47URgUlZWHvQzIf-9" value="Clerk Assistant" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="tOj_U47URgUlZWHvQzIf-1">
+          <mxGeometry y="510" width="1140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="tOj_U47URgUlZWHvQzIf-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="tOj_U47URgUlZWHvQzIf-1" source="tOj_U47URgUlZWHvQzIf-18" target="tOj_U47URgUlZWHvQzIf-22">
           <mxGeometry relative="1" as="geometry" />
@@ -57,7 +60,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tOj_U47URgUlZWHvQzIf-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="tOj_U47URgUlZWHvQzIf-1" source="tOj_U47URgUlZWHvQzIf-22" target="tOj_U47URgUlZWHvQzIf-31">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="490" />
+              <mxPoint x="650" y="490" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="tOj_U47URgUlZWHvQzIf-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tOj_U47URgUlZWHvQzIf-16" target="tOj_U47URgUlZWHvQzIf-18">
           <mxGeometry relative="1" as="geometry" />
@@ -73,6 +81,15 @@
         </mxCell>
         <mxCell id="tOj_U47URgUlZWHvQzIf-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tOj_U47URgUlZWHvQzIf-18" target="tOj_U47URgUlZWHvQzIf-28">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tOj_U47URgUlZWHvQzIf-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tOj_U47URgUlZWHvQzIf-22" target="tOj_U47URgUlZWHvQzIf-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="310" y="450" />
+              <mxPoint x="310" y="296" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
