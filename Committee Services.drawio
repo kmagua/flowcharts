@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2020-10-06T07:02:54.525Z" agent="5.0 (Windows)" version="13.7.7" etag="pn5lowBEVVNTNzQ3gFH-" type="github"><diagram id="f3XIkjQdCUQKq6s4lpdB">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-06T07:04:48.017Z" agent="5.0 (Windows)" etag="KTJ8ya5HzsbEWpYY7Q-0" version="13.7.7" type="github">
+  <diagram id="f3XIkjQdCUQKq6s4lpdB" name="Page-1">
+    <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="b37uhtcjasAZOPHtGQyJ-1" value="Committee Services" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="60" width="480" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="b37uhtcjasAZOPHtGQyJ-2" value="Clerk Assistant" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="b37uhtcjasAZOPHtGQyJ-1">
+          <mxGeometry y="20" width="480" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="b37uhtcjasAZOPHtGQyJ-3" value="Lane 2" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="b37uhtcjasAZOPHtGQyJ-1">
+          <mxGeometry y="140" width="480" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="b37uhtcjasAZOPHtGQyJ-4" value="Lane 3" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="b37uhtcjasAZOPHtGQyJ-1">
+          <mxGeometry y="260" width="480" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
