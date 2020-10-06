@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-06T12:35:21.703Z" agent="5.0 (Windows)" etag="7J3rJLdA236wo0X-QWYB" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-06T12:37:54.154Z" agent="5.0 (Windows)" etag="PyihGv4R7MZKRopFLeSU" version="13.7.7" type="github">
   <diagram id="ywgBx7ZzWdUhMpDVQwn4" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -9,6 +9,12 @@
         </mxCell>
         <mxCell id="KN6vx_3-4_OPMnxoI5xO-2" value="Table Office" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="KN6vx_3-4_OPMnxoI5xO-1">
           <mxGeometry y="20" width="1140" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="KN6vx_3-4_OPMnxoI5xO-33" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="KN6vx_3-4_OPMnxoI5xO-2">
+          <mxGeometry x="363" y="16" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KN6vx_3-4_OPMnxoI5xO-31" value="Inform Clerk and MCA" style="whiteSpace=wrap;html=1;" vertex="1" parent="KN6vx_3-4_OPMnxoI5xO-2">
+          <mxGeometry x="430" y="9" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KN6vx_3-4_OPMnxoI5xO-12" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="KN6vx_3-4_OPMnxoI5xO-2">
           <mxGeometry x="80" y="10" width="100" height="40" as="geometry" />
@@ -26,6 +32,13 @@
         </mxCell>
         <mxCell id="KN6vx_3-4_OPMnxoI5xO-30" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="KN6vx_3-4_OPMnxoI5xO-2">
           <mxGeometry x="380" y="90" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KN6vx_3-4_OPMnxoI5xO-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KN6vx_3-4_OPMnxoI5xO-2" source="KN6vx_3-4_OPMnxoI5xO-24" target="KN6vx_3-4_OPMnxoI5xO-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="39" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="KN6vx_3-4_OPMnxoI5xO-3" value="Clerk" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="KN6vx_3-4_OPMnxoI5xO-1">
           <mxGeometry y="200" width="1140" height="130" as="geometry" />
