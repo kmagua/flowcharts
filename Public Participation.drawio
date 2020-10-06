@@ -1,20 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2020-10-06T06:06:47.586Z" agent="5.0 (Windows)" etag="3dOZt0wH4va-vHWcJxAB" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-06T06:11:54.829Z" agent="5.0 (Windows)" etag="KGGmlP1HaNZiOSkk8t7u" version="13.7.7" type="github">
   <diagram id="Yr2dDtMbarlw3TAMI4d1" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="EOaqUx-Wi2leV6GHiZhB-1" value="Public Participation" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="1">
-          <mxGeometry x="20" y="20" width="1130" height="380" as="geometry" />
+          <mxGeometry x="20" y="20" width="1130" height="610" as="geometry" />
         </mxCell>
-        <mxCell id="EOaqUx-Wi2leV6GHiZhB-2" value="D - Procedure" style="swimlane;html=1;startSize=50;horizontal=0;" vertex="1" parent="EOaqUx-Wi2leV6GHiZhB-1">
-          <mxGeometry y="20" width="1130" height="120" as="geometry" />
+        <mxCell id="EOaqUx-Wi2leV6GHiZhB-2" value="D - Procedure" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="EOaqUx-Wi2leV6GHiZhB-1">
+          <mxGeometry y="20" width="1130" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="EOaqUx-Wi2leV6GHiZhB-3" value="Public Communications officer" style="swimlane;html=1;startSize=50;horizontal=0;" vertex="1" parent="EOaqUx-Wi2leV6GHiZhB-1">
-          <mxGeometry y="140" width="1130" height="120" as="geometry" />
+        <mxCell id="EOaqUx-Wi2leV6GHiZhB-5" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="EOaqUx-Wi2leV6GHiZhB-2">
+          <mxGeometry x="110" y="20" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EOaqUx-Wi2leV6GHiZhB-8" value="Notification of a slated public participation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="EOaqUx-Wi2leV6GHiZhB-2">
+          <mxGeometry x="95" y="130" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EOaqUx-Wi2leV6GHiZhB-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="EOaqUx-Wi2leV6GHiZhB-2" source="EOaqUx-Wi2leV6GHiZhB-5" target="EOaqUx-Wi2leV6GHiZhB-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="155" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EOaqUx-Wi2leV6GHiZhB-3" value="Public Communications officer" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="EOaqUx-Wi2leV6GHiZhB-1">
+          <mxGeometry y="210" width="1130" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="EOaqUx-Wi2leV6GHiZhB-9" value="Secure suitable venues either at the Ward or Sub-County level" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="EOaqUx-Wi2leV6GHiZhB-3">
+          <mxGeometry x="95" y="65" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EOaqUx-Wi2leV6GHiZhB-4" value="Clerk" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="EOaqUx-Wi2leV6GHiZhB-1">
-          <mxGeometry y="260" width="1130" height="120" as="geometry" />
+          <mxGeometry y="410" width="1130" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="EOaqUx-Wi2leV6GHiZhB-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="EOaqUx-Wi2leV6GHiZhB-1" source="EOaqUx-Wi2leV6GHiZhB-8" target="EOaqUx-Wi2leV6GHiZhB-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
