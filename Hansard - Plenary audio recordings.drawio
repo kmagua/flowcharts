@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-06T14:10:29.804Z" agent="5.0 (Windows)" etag="x3Z11DtcI9TKr3x3Tkqc" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-06T14:12:32.256Z" agent="5.0 (Windows)" etag="asJ7kgwsfFPxK4nXaeJG" version="13.7.7" type="github">
   <diagram id="yZyWORpR4N3k2B5hO9Oc" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -23,6 +23,9 @@
         </mxCell>
         <mxCell id="q7ujqtCJ4n2Gz-Uq-b1V-20" value="Segment the audio to allocate a segment of the recording for transcription" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="q7ujqtCJ4n2Gz-Uq-b1V-2">
           <mxGeometry x="280" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q7ujqtCJ4n2Gz-Uq-b1V-24" value="Proof reading of transcribed material and editing while listening to the recorded material" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="q7ujqtCJ4n2Gz-Uq-b1V-2">
+          <mxGeometry x="480" y="130" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q7ujqtCJ4n2Gz-Uq-b1V-3" value="Hansard Reporter" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="q7ujqtCJ4n2Gz-Uq-b1V-1">
           <mxGeometry y="230" width="1130" height="200" as="geometry" />
@@ -59,6 +62,9 @@
               <mxPoint x="430" y="180" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="q7ujqtCJ4n2Gz-Uq-b1V-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="q7ujqtCJ4n2Gz-Uq-b1V-1" source="q7ujqtCJ4n2Gz-Uq-b1V-22" target="q7ujqtCJ4n2Gz-Uq-b1V-24">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
