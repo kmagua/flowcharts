@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-06T13:26:17.790Z" agent="5.0 (Windows)" etag="fV_sR9UCr0cDm43DL7IC" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-06T13:26:37.734Z" agent="5.0 (Windows)" etag="8kYQpKIlX7ZJ22rIs2CQ" version="13.7.7" type="github">
   <diagram id="B1PN454-ApUz-KcniCsA" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -85,7 +85,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IrvWHUWE-BIZSq4RJtWi-31" value="Archiving of Votes and Proceedings" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="814" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="818" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IrvWHUWE-BIZSq4RJtWi-24" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="327" y="450" width="40" height="20" as="geometry" />
