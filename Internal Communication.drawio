@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2020-10-06T08:26:32.162Z" agent="5.0 (Windows)" version="13.7.7" etag="RIntS4Dj0dUCzi8GABqp" type="github"><diagram id="9tgWHg6gOb3HOgmN1NQ7">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-06T08:29:24.199Z" agent="5.0 (Windows)" etag="dtDcbqsaZB_5AIyPMWpo" version="13.7.7" type="github">
+  <diagram id="9tgWHg6gOb3HOgmN1NQ7" name="Page-1">
+    <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ggIXAzvZT656HPzDVDoz-1" value="Internal Comminication" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="20" width="1100" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="ggIXAzvZT656HPzDVDoz-2" value="Clerk/D-Procedure" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="ggIXAzvZT656HPzDVDoz-1">
+          <mxGeometry y="20" width="1100" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ggIXAzvZT656HPzDVDoz-3" value="Customer Care" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="ggIXAzvZT656HPzDVDoz-1">
+          <mxGeometry y="140" width="1100" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ggIXAzvZT656HPzDVDoz-4" value="Public Communications Officer" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="ggIXAzvZT656HPzDVDoz-1">
+          <mxGeometry y="310" width="1100" height="200" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
