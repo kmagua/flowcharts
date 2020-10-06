@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-06T15:50:06.604Z" agent="5.0 (Windows)" etag="qBbaOtnbJLlTd0xh_0Am" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-06T15:51:08.380Z" agent="5.0 (Windows)" etag="O5Wt1QvH3tMchPkfzE57" version="13.7.7" type="github">
   <diagram id="rBpneA7ACaGHGkdKhGfu" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -39,6 +39,15 @@
         <mxCell id="KdFxd-YrfLyibWVKEqrB-16" value="&lt;p class=&quot;western&quot; style=&quot;margin-bottom: 0in&quot; lang=&quot;en-GB&quot;&gt;&lt;br/&gt;Draft proposed amendments&lt;/p&gt;&lt;br/&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="KdFxd-YrfLyibWVKEqrB-5">
           <mxGeometry x="90" y="40" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="KdFxd-YrfLyibWVKEqrB-20" value="&lt;p class=&quot;western&quot; style=&quot;margin-bottom: 0in&quot; lang=&quot;en-GB&quot;&gt;Bill Publishing&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="KdFxd-YrfLyibWVKEqrB-5">
+          <mxGeometry x="420" y="40" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KdFxd-YrfLyibWVKEqrB-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KdFxd-YrfLyibWVKEqrB-5" source="KdFxd-YrfLyibWVKEqrB-20" target="KdFxd-YrfLyibWVKEqrB-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdFxd-YrfLyibWVKEqrB-22" value="&lt;p class=&quot;western&quot; style=&quot;margin-bottom: 0in&quot; lang=&quot;en-GB&quot;&gt;&lt;br/&gt;Draft Bill notification to the Speaker&lt;/p&gt;&lt;br/&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="KdFxd-YrfLyibWVKEqrB-5">
+          <mxGeometry x="570" y="40" width="90" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="KdFxd-YrfLyibWVKEqrB-6" value="ICT" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="KdFxd-YrfLyibWVKEqrB-1">
           <mxGeometry y="580" width="1120" height="120" as="geometry" />
         </mxCell>
@@ -58,13 +67,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KdFxd-YrfLyibWVKEqrB-18" value="&lt;p class=&quot;western&quot; style=&quot;margin-bottom: 0in&quot; lang=&quot;en-GB&quot;&gt;&lt;br/&gt;Drafting of Bill&lt;/p&gt;&lt;br/&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="295" y="520" width="85" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KdFxd-YrfLyibWVKEqrB-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KdFxd-YrfLyibWVKEqrB-16" target="KdFxd-YrfLyibWVKEqrB-18">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="KdFxd-YrfLyibWVKEqrB-20" value="&lt;p class=&quot;western&quot; style=&quot;margin-bottom: 0in&quot; lang=&quot;en-GB&quot;&gt;Bill Publishing&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="520" y="520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
