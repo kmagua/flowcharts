@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-06T06:31:25.721Z" agent="5.0 (Windows)" etag="t_1Y_qt4NQgo2or8LOB2" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-06T06:37:48.211Z" agent="5.0 (Windows)" etag="IdD2PMoqqe_p-0x1SKAO" version="13.7.7" type="github">
   <diagram id="Yr2dDtMbarlw3TAMI4d1" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -45,6 +45,9 @@
         <mxCell id="EOaqUx-Wi2leV6GHiZhB-17" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EOaqUx-Wi2leV6GHiZhB-4">
           <mxGeometry x="310" y="60" width="40" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="EOaqUx-Wi2leV6GHiZhB-28" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="EOaqUx-Wi2leV6GHiZhB-4">
+          <mxGeometry x="980" y="64" width="90" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="EOaqUx-Wi2leV6GHiZhB-13" value="Approved for publication?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="EOaqUx-Wi2leV6GHiZhB-4">
           <mxGeometry x="90" y="44" width="130" height="80" as="geometry" />
         </mxCell>
@@ -53,6 +56,11 @@
         </mxCell>
         <mxCell id="EOaqUx-Wi2leV6GHiZhB-24" value="Submission of public views" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="EOaqUx-Wi2leV6GHiZhB-4">
           <mxGeometry x="780" y="54" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EOaqUx-Wi2leV6GHiZhB-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="EOaqUx-Wi2leV6GHiZhB-4" source="EOaqUx-Wi2leV6GHiZhB-24" target="EOaqUx-Wi2leV6GHiZhB-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="980" y="84" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="EOaqUx-Wi2leV6GHiZhB-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="EOaqUx-Wi2leV6GHiZhB-1" source="EOaqUx-Wi2leV6GHiZhB-8" target="EOaqUx-Wi2leV6GHiZhB-9">
           <mxGeometry relative="1" as="geometry" />
