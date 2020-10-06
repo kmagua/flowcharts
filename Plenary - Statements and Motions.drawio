@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-06T12:32:37.362Z" agent="5.0 (Windows)" etag="WIM-eJsSRWMoKn9kQlmG" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-06T12:33:50.580Z" agent="5.0 (Windows)" etag="Ug6vONxqxCtsQQBbybxK" version="13.7.7" type="github">
   <diagram id="ywgBx7ZzWdUhMpDVQwn4" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -41,6 +41,9 @@
         <mxCell id="KN6vx_3-4_OPMnxoI5xO-4" value="Speaker" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="KN6vx_3-4_OPMnxoI5xO-1">
           <mxGeometry y="330" width="1140" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="KN6vx_3-4_OPMnxoI5xO-28" value="Approved?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="KN6vx_3-4_OPMnxoI5xO-4">
+          <mxGeometry x="450" y="-40" width="80" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="KN6vx_3-4_OPMnxoI5xO-5" value="Clerk Assistant" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="KN6vx_3-4_OPMnxoI5xO-1">
           <mxGeometry y="450" width="1140" height="120" as="geometry" />
         </mxCell>
@@ -51,6 +54,15 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KN6vx_3-4_OPMnxoI5xO-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KN6vx_3-4_OPMnxoI5xO-1" source="KN6vx_3-4_OPMnxoI5xO-21" target="KN6vx_3-4_OPMnxoI5xO-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KN6vx_3-4_OPMnxoI5xO-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KN6vx_3-4_OPMnxoI5xO-26" target="KN6vx_3-4_OPMnxoI5xO-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KN6vx_3-4_OPMnxoI5xO-26" value="Forward for approval" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="119" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KN6vx_3-4_OPMnxoI5xO-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KN6vx_3-4_OPMnxoI5xO-24" target="KN6vx_3-4_OPMnxoI5xO-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
