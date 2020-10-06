@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-06T11:42:31.317Z" agent="5.0 (Windows)" etag="D-NpklSWy8TH7OyceeQM" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-06T11:43:20.237Z" agent="5.0 (Windows)" etag="6cJ7ItkNcxbAVF2bNfse" version="13.7.7" type="github">
   <diagram id="mP9wtIfBe_jxdlKhY_9U" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -23,13 +23,13 @@
           <mxGeometry y="190" width="1159" height="135" as="geometry" />
         </mxCell>
         <mxCell id="AuAD-FIefWDgtdPpyPv2-53" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="AuAD-FIefWDgtdPpyPv2-3">
-          <mxGeometry x="1060" y="25" width="90" height="45" as="geometry" />
+          <mxGeometry x="1060" y="48" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="AuAD-FIefWDgtdPpyPv2-41" value="Draft of proposed amendments" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="AuAD-FIefWDgtdPpyPv2-3">
-          <mxGeometry x="533" y="17.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="533" y="40.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AuAD-FIefWDgtdPpyPv2-47" value="Vellum preparation" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="AuAD-FIefWDgtdPpyPv2-3">
-          <mxGeometry x="767" y="17.5" width="80" height="60" as="geometry" />
+          <mxGeometry x="767" y="40.5" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AuAD-FIefWDgtdPpyPv2-23" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="AuAD-FIefWDgtdPpyPv2-3">
           <mxGeometry x="138" y="57.5" width="40" height="20" as="geometry" />
@@ -120,10 +120,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AuAD-FIefWDgtdPpyPv2-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="AuAD-FIefWDgtdPpyPv2-1" source="AuAD-FIefWDgtdPpyPv2-41" target="AuAD-FIefWDgtdPpyPv2-43">
+        <mxCell id="AuAD-FIefWDgtdPpyPv2-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="AuAD-FIefWDgtdPpyPv2-1" source="AuAD-FIefWDgtdPpyPv2-41" target="AuAD-FIefWDgtdPpyPv2-43">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="662" y="238" />
+              <mxPoint x="662" y="261" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -143,11 +143,11 @@
         </mxCell>
         <mxCell id="AuAD-FIefWDgtdPpyPv2-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AuAD-FIefWDgtdPpyPv2-49" target="AuAD-FIefWDgtdPpyPv2-53">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1087" y="257.5" as="targetPoint" />
+            <mxPoint x="1087" y="280.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AuAD-FIefWDgtdPpyPv2-49" value="Preparation of implementation forwarding letter" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="917" y="227.5" width="100" height="60" as="geometry" />
+          <mxGeometry x="917" y="250.5" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AuAD-FIefWDgtdPpyPv2-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AuAD-FIefWDgtdPpyPv2-47" target="AuAD-FIefWDgtdPpyPv2-49">
           <mxGeometry relative="1" as="geometry" />
