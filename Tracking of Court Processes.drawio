@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-10-06T12:07:17.072Z" agent="5.0 (Windows)" etag="D2hNG-3xDxSKNINPfzfD" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-06T12:08:11.431Z" agent="5.0 (Windows)" etag="rgg5yOkNxljDtifLA1rj" version="13.7.7" type="github">
   <diagram id="2C2RAHSvtbhslRnXX8nt" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="0tYKjvQS9MKQY607uUvP-1" value="Tracking of Court Process" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="1">
-          <mxGeometry x="20" y="30" width="1140" height="460" as="geometry" />
+          <mxGeometry x="20" y="30" width="1140" height="400" as="geometry" />
         </mxCell>
         <mxCell id="0tYKjvQS9MKQY607uUvP-2" value="Clerk" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="0tYKjvQS9MKQY607uUvP-1">
           <mxGeometry y="20" width="1140" height="200" as="geometry" />
@@ -23,19 +23,16 @@
           <mxGeometry x="140" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0tYKjvQS9MKQY607uUvP-3" value="Legal Counsel" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="0tYKjvQS9MKQY607uUvP-1">
-          <mxGeometry y="220" width="1140" height="120" as="geometry" />
+          <mxGeometry y="220" width="1140" height="180" as="geometry" />
         </mxCell>
         <mxCell id="0tYKjvQS9MKQY607uUvP-21" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0tYKjvQS9MKQY607uUvP-3">
-          <mxGeometry x="1040" y="49" width="90" height="40" as="geometry" />
+          <mxGeometry x="1040" y="66" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0tYKjvQS9MKQY607uUvP-11" value="Lodge request to engage external advocate" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="0tYKjvQS9MKQY607uUvP-3">
-          <mxGeometry x="340" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="57" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0tYKjvQS9MKQY607uUvP-15" value="Requisition for procurement of service" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="0tYKjvQS9MKQY607uUvP-3">
-          <mxGeometry x="640" y="40" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="0tYKjvQS9MKQY607uUvP-4" value="Lane 3" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="0tYKjvQS9MKQY607uUvP-1">
-          <mxGeometry y="340" width="1140" height="120" as="geometry" />
+          <mxGeometry x="640" y="57" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0tYKjvQS9MKQY607uUvP-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="0tYKjvQS9MKQY607uUvP-1" source="0tYKjvQS9MKQY607uUvP-11" target="0tYKjvQS9MKQY607uUvP-13">
           <mxGeometry relative="1" as="geometry" />
@@ -59,11 +56,11 @@
         </mxCell>
         <mxCell id="0tYKjvQS9MKQY607uUvP-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0tYKjvQS9MKQY607uUvP-17">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1060" y="320" as="targetPoint" />
+            <mxPoint x="1060" y="337" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0tYKjvQS9MKQY607uUvP-17" value="&lt;br/&gt;&lt;p style=&quot;margin-bottom: 0in&quot;&gt;Tracking of Court process&lt;/p&gt;&lt;br/&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="860" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="860" y="307" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0tYKjvQS9MKQY607uUvP-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0tYKjvQS9MKQY607uUvP-15" target="0tYKjvQS9MKQY607uUvP-17">
           <mxGeometry relative="1" as="geometry" />
@@ -71,7 +68,7 @@
         <mxCell id="0tYKjvQS9MKQY607uUvP-22" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="723" y="210" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="0tYKjvQS9MKQY607uUvP-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0tYKjvQS9MKQY607uUvP-23">
+        <mxCell id="0tYKjvQS9MKQY607uUvP-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0tYKjvQS9MKQY607uUvP-23" target="0tYKjvQS9MKQY607uUvP-11">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="420" y="290" as="targetPoint" />
             <Array as="points">
