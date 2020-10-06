@@ -1,1 +1,45 @@
-<mxfile host="app.diagrams.net" modified="2020-10-06T11:54:12.535Z" agent="5.0 (Windows)" version="13.7.7" etag="7BpXhUEDNCK6dGho8qoy" type="github"><diagram id="2C2RAHSvtbhslRnXX8nt">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-06T11:58:29.109Z" agent="5.0 (Windows)" etag="HrL5SX_KDhkKEaSPb2_X" version="13.7.7" type="github">
+  <diagram id="2C2RAHSvtbhslRnXX8nt" name="Page-1">
+    <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0tYKjvQS9MKQY607uUvP-1" value="Tracking of Court Process" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="30" width="1120" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="0tYKjvQS9MKQY607uUvP-2" value="Clerk" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="0tYKjvQS9MKQY607uUvP-1">
+          <mxGeometry y="20" width="1120" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="0tYKjvQS9MKQY607uUvP-5" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0tYKjvQS9MKQY607uUvP-2">
+          <mxGeometry x="150" y="10" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0tYKjvQS9MKQY607uUvP-8" value="Notification of the existence of a Suit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0tYKjvQS9MKQY607uUvP-2">
+          <mxGeometry x="140" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0tYKjvQS9MKQY607uUvP-3" value="Legal Counsel" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="0tYKjvQS9MKQY607uUvP-1">
+          <mxGeometry y="220" width="1120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="0tYKjvQS9MKQY607uUvP-11" value="Lodge request to engage external advocate" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="0tYKjvQS9MKQY607uUvP-3">
+          <mxGeometry x="340" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0tYKjvQS9MKQY607uUvP-4" value="Lane 3" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="0tYKjvQS9MKQY607uUvP-1">
+          <mxGeometry y="340" width="1120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="0tYKjvQS9MKQY607uUvP-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0tYKjvQS9MKQY607uUvP-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0tYKjvQS9MKQY607uUvP-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0tYKjvQS9MKQY607uUvP-9" target="0tYKjvQS9MKQY607uUvP-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0tYKjvQS9MKQY607uUvP-9" value="Draft a note to legal counsel" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0tYKjvQS9MKQY607uUvP-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0tYKjvQS9MKQY607uUvP-8" target="0tYKjvQS9MKQY607uUvP-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
