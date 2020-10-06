@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2020-10-06T06:00:03.135Z" agent="5.0 (Windows)" version="13.7.7" etag="EUmkjqzbYdpq6vHUB4Lj" type="github"><diagram id="Yr2dDtMbarlw3TAMI4d1">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-06T06:06:47.586Z" agent="5.0 (Windows)" etag="3dOZt0wH4va-vHWcJxAB" version="13.7.7" type="github">
+  <diagram id="Yr2dDtMbarlw3TAMI4d1" name="Page-1">
+    <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EOaqUx-Wi2leV6GHiZhB-1" value="Public Participation" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="1130" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="EOaqUx-Wi2leV6GHiZhB-2" value="D - Procedure" style="swimlane;html=1;startSize=50;horizontal=0;" vertex="1" parent="EOaqUx-Wi2leV6GHiZhB-1">
+          <mxGeometry y="20" width="1130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EOaqUx-Wi2leV6GHiZhB-3" value="Public Communications officer" style="swimlane;html=1;startSize=50;horizontal=0;" vertex="1" parent="EOaqUx-Wi2leV6GHiZhB-1">
+          <mxGeometry y="140" width="1130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EOaqUx-Wi2leV6GHiZhB-4" value="Clerk" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="EOaqUx-Wi2leV6GHiZhB-1">
+          <mxGeometry y="260" width="1130" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
