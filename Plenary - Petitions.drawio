@@ -1,1 +1,74 @@
-<mxfile host="app.diagrams.net" modified="2020-10-06T12:48:05.310Z" agent="5.0 (Windows)" version="13.7.7" etag="tKDa4wmUGex6iGo_INC0" type="github"><diagram id="5elmPLBtTC9-q5DrvknR">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-06T12:58:15.127Z" agent="5.0 (Windows)" etag="2PFb4XQivIOFHCr0X5XL" version="13.7.7" type="github">
+  <diagram id="5elmPLBtTC9-q5DrvknR" name="Page-1">
+    <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tOj_U47URgUlZWHvQzIf-1" value="Plenary - Petitions" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="20" width="1140" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="tOj_U47URgUlZWHvQzIf-2" value="Clerk" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="tOj_U47URgUlZWHvQzIf-1">
+          <mxGeometry y="20" width="1140" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="tOj_U47URgUlZWHvQzIf-10" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="tOj_U47URgUlZWHvQzIf-2">
+          <mxGeometry x="110" y="5" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="tOj_U47URgUlZWHvQzIf-25" value="Clerks Approval input" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="tOj_U47URgUlZWHvQzIf-2">
+          <mxGeometry x="490" y="90" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tOj_U47URgUlZWHvQzIf-15" value="Petition is received" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tOj_U47URgUlZWHvQzIf-2">
+          <mxGeometry x="95" y="120" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tOj_U47URgUlZWHvQzIf-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="tOj_U47URgUlZWHvQzIf-2" source="tOj_U47URgUlZWHvQzIf-10" target="tOj_U47URgUlZWHvQzIf-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="155" y="122.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tOj_U47URgUlZWHvQzIf-3" value="Table Office" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="tOj_U47URgUlZWHvQzIf-1">
+          <mxGeometry y="200" width="1140" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="tOj_U47URgUlZWHvQzIf-30" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tOj_U47URgUlZWHvQzIf-3">
+          <mxGeometry x="275" y="60" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tOj_U47URgUlZWHvQzIf-18" value="Admissible?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="tOj_U47URgUlZWHvQzIf-3">
+          <mxGeometry x="315" y="36" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tOj_U47URgUlZWHvQzIf-24" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tOj_U47URgUlZWHvQzIf-3">
+          <mxGeometry x="370" y="130" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tOj_U47URgUlZWHvQzIf-4" value="Speaker" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="tOj_U47URgUlZWHvQzIf-1">
+          <mxGeometry y="360" width="1140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="tOj_U47URgUlZWHvQzIf-22" value="Approved?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="tOj_U47URgUlZWHvQzIf-4">
+          <mxGeometry x="370" y="30" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tOj_U47URgUlZWHvQzIf-9" value="Clerk Assistant" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="tOj_U47URgUlZWHvQzIf-1">
+          <mxGeometry y="480" width="1140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="tOj_U47URgUlZWHvQzIf-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="tOj_U47URgUlZWHvQzIf-1" source="tOj_U47URgUlZWHvQzIf-18" target="tOj_U47URgUlZWHvQzIf-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tOj_U47URgUlZWHvQzIf-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="tOj_U47URgUlZWHvQzIf-1" source="tOj_U47URgUlZWHvQzIf-25" target="tOj_U47URgUlZWHvQzIf-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tOj_U47URgUlZWHvQzIf-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tOj_U47URgUlZWHvQzIf-16" target="tOj_U47URgUlZWHvQzIf-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tOj_U47URgUlZWHvQzIf-16" value="Forward for admissibility check" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="160" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tOj_U47URgUlZWHvQzIf-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tOj_U47URgUlZWHvQzIf-15" target="tOj_U47URgUlZWHvQzIf-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tOj_U47URgUlZWHvQzIf-28" value="Inform Clerk and Petitioner" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="145" y="266" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tOj_U47URgUlZWHvQzIf-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tOj_U47URgUlZWHvQzIf-18" target="tOj_U47URgUlZWHvQzIf-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
