@@ -1,1 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2020-10-06T15:37:01.483Z" agent="5.0 (Windows)" version="13.7.7" etag="BxgzUCooVvQpigFx5OpF" type="github"><diagram id="rBpneA7ACaGHGkdKhGfu">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-06T15:39:46.795Z" agent="5.0 (Windows)" etag="i3sb0iE1y5sgmpNSLamb" version="13.7.7" type="github">
+  <diagram id="rBpneA7ACaGHGkdKhGfu" name="Page-1">
+    <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KdFxd-YrfLyibWVKEqrB-1" value="Legal - Legislative Drafting (Amendment/Review of Legislation)" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="20" width="1120" height="790" as="geometry" />
+        </mxCell>
+        <mxCell id="KdFxd-YrfLyibWVKEqrB-2" value="Table Office" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="KdFxd-YrfLyibWVKEqrB-1">
+          <mxGeometry y="20" width="1120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="KdFxd-YrfLyibWVKEqrB-8" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="KdFxd-YrfLyibWVKEqrB-2">
+          <mxGeometry x="100" y="10" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KdFxd-YrfLyibWVKEqrB-3" value="Speaker" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="KdFxd-YrfLyibWVKEqrB-1">
+          <mxGeometry y="190" width="1120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="KdFxd-YrfLyibWVKEqrB-4" value="Clerk" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="KdFxd-YrfLyibWVKEqrB-1">
+          <mxGeometry y="310" width="1120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="KdFxd-YrfLyibWVKEqrB-5" value="Legal counsel" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="KdFxd-YrfLyibWVKEqrB-1">
+          <mxGeometry y="430" width="1120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="KdFxd-YrfLyibWVKEqrB-6" value="ICT" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="KdFxd-YrfLyibWVKEqrB-1">
+          <mxGeometry y="550" width="1120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="KdFxd-YrfLyibWVKEqrB-7" value="Clerk Assistant" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="KdFxd-YrfLyibWVKEqrB-1">
+          <mxGeometry y="670" width="1120" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
