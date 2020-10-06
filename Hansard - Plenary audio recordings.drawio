@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-06T14:12:32.256Z" agent="5.0 (Windows)" etag="asJ7kgwsfFPxK4nXaeJG" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-06T14:20:49.141Z" agent="5.0 (Windows)" etag="c_xaY3-dfJQuHKkZJRGC" version="13.7.7" type="github">
   <diagram id="yZyWORpR4N3k2B5hO9Oc" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -65,6 +65,18 @@
         </mxCell>
         <mxCell id="q7ujqtCJ4n2Gz-Uq-b1V-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="q7ujqtCJ4n2Gz-Uq-b1V-1" source="q7ujqtCJ4n2Gz-Uq-b1V-22" target="q7ujqtCJ4n2Gz-Uq-b1V-24">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q7ujqtCJ4n2Gz-Uq-b1V-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q7ujqtCJ4n2Gz-Uq-b1V-26" target="q7ujqtCJ4n2Gz-Uq-b1V-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q7ujqtCJ4n2Gz-Uq-b1V-26" value="Merging of transcripts from each segment to create entire transcript of that sitting" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="170" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q7ujqtCJ4n2Gz-Uq-b1V-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q7ujqtCJ4n2Gz-Uq-b1V-24" target="q7ujqtCJ4n2Gz-Uq-b1V-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q7ujqtCJ4n2Gz-Uq-b1V-28" value="Cross-check transcript to ensure it conforms to the Hansard Guide, House Style, referencing and titling" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="890" y="160" width="130" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
