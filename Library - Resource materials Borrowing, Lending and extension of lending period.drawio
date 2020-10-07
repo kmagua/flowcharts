@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-07T14:12:31.945Z" agent="5.0 (Windows)" etag="8HZnVXleIeNA_VMdpGWA" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-07T14:14:03.365Z" agent="5.0 (Windows)" etag="L75r_eJ5xkODKRkFdjnv" version="13.7.7" type="github">
   <diagram id="f9QSlEW5APFrY96Uyd0a" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -28,16 +28,19 @@
           <mxGeometry y="240" width="1150" height="220" as="geometry" />
         </mxCell>
         <mxCell id="D-7HIj5U4nCGuaE3b1Ya-25" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="D-7HIj5U4nCGuaE3b1Ya-3">
-          <mxGeometry x="810" y="10" width="40" height="20" as="geometry" />
+          <mxGeometry x="771" y="10" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="D-7HIj5U4nCGuaE3b1Ya-32" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="D-7HIj5U4nCGuaE3b1Ya-3">
-          <mxGeometry x="638" y="47" width="40" height="20" as="geometry" />
+          <mxGeometry x="599" y="47" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="D-7HIj5U4nCGuaE3b1Ya-20" value="Processing of returned resource material and removal from borrowed list" style="whiteSpace=wrap;html=1;" vertex="1" parent="D-7HIj5U4nCGuaE3b1Ya-3">
+          <mxGeometry x="911" y="30" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="D-7HIj5U4nCGuaE3b1Ya-27" value="Extension Approved?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="D-7HIj5U4nCGuaE3b1Ya-3">
-          <mxGeometry x="860" y="25" width="80" height="80" as="geometry" />
+          <mxGeometry x="821" y="25" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="D-7HIj5U4nCGuaE3b1Ya-15" value="Resource returned?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="D-7HIj5U4nCGuaE3b1Ya-3">
-          <mxGeometry x="558" y="25" width="80" height="80" as="geometry" />
+          <mxGeometry x="519" y="25" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="D-7HIj5U4nCGuaE3b1Ya-9" value="Resource material is processed for lending for a maximum of 2 weeks" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="D-7HIj5U4nCGuaE3b1Ya-3">
           <mxGeometry x="50" y="30" width="120" height="70" as="geometry" />
@@ -50,23 +53,22 @@
             <mxPoint x="655" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="D-7HIj5U4nCGuaE3b1Ya-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="D-7HIj5U4nCGuaE3b1Ya-3" source="D-7HIj5U4nCGuaE3b1Ya-27" target="D-7HIj5U4nCGuaE3b1Ya-16">
+        <mxCell id="D-7HIj5U4nCGuaE3b1Ya-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="D-7HIj5U4nCGuaE3b1Ya-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="850" y="180" as="targetPoint" />
+            <mxPoint x="862" y="105" as="sourcePoint" />
+            <mxPoint x="441" y="100" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="900" y="180" />
-              <mxPoint x="440" y="180" />
+              <mxPoint x="861" y="105" />
+              <mxPoint x="861" y="180" />
+              <mxPoint x="441" y="180" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="D-7HIj5U4nCGuaE3b1Ya-23" value="Apply for extension of lending period" style="whiteSpace=wrap;html=1;" vertex="1" parent="D-7HIj5U4nCGuaE3b1Ya-3">
-          <mxGeometry x="678" y="35" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="D-7HIj5U4nCGuaE3b1Ya-20" value="Processing of returned resource material and removal from borrowed list" style="whiteSpace=wrap;html=1;" vertex="1" parent="D-7HIj5U4nCGuaE3b1Ya-3">
-          <mxGeometry x="990" y="30" width="100" height="90" as="geometry" />
+          <mxGeometry x="639" y="35" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D-7HIj5U4nCGuaE3b1Ya-31" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="D-7HIj5U4nCGuaE3b1Ya-3">
-          <mxGeometry x="638" y="164" width="40" height="20" as="geometry" />
+          <mxGeometry x="599" y="164" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="D-7HIj5U4nCGuaE3b1Ya-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="D-7HIj5U4nCGuaE3b1Ya-3" source="D-7HIj5U4nCGuaE3b1Ya-23" target="D-7HIj5U4nCGuaE3b1Ya-27">
           <mxGeometry relative="1" as="geometry" />
@@ -74,11 +76,11 @@
         <mxCell id="D-7HIj5U4nCGuaE3b1Ya-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="D-7HIj5U4nCGuaE3b1Ya-3" source="D-7HIj5U4nCGuaE3b1Ya-15" target="D-7HIj5U4nCGuaE3b1Ya-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="D-7HIj5U4nCGuaE3b1Ya-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="D-7HIj5U4nCGuaE3b1Ya-3" source="D-7HIj5U4nCGuaE3b1Ya-15" target="D-7HIj5U4nCGuaE3b1Ya-20">
+        <mxCell id="D-7HIj5U4nCGuaE3b1Ya-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="D-7HIj5U4nCGuaE3b1Ya-3" source="D-7HIj5U4nCGuaE3b1Ya-15" target="D-7HIj5U4nCGuaE3b1Ya-20">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="598" y="10" />
-              <mxPoint x="1040" y="10" />
+              <mxPoint x="559" y="10" />
+              <mxPoint x="961" y="10" />
             </Array>
           </mxGeometry>
         </mxCell>
