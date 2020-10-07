@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-07T13:58:21.300Z" agent="5.0 (Windows)" etag="gQKx6MC0MKS3HZBLGaXJ" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-07T14:12:31.945Z" agent="5.0 (Windows)" etag="8HZnVXleIeNA_VMdpGWA" version="13.7.7" type="github">
   <diagram id="f9QSlEW5APFrY96Uyd0a" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -10,9 +10,6 @@
         <mxCell id="D-7HIj5U4nCGuaE3b1Ya-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="D-7HIj5U4nCGuaE3b1Ya-1" source="D-7HIj5U4nCGuaE3b1Ya-8" target="D-7HIj5U4nCGuaE3b1Ya-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="D-7HIj5U4nCGuaE3b1Ya-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="D-7HIj5U4nCGuaE3b1Ya-1" source="D-7HIj5U4nCGuaE3b1Ya-15" target="D-7HIj5U4nCGuaE3b1Ya-23">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="D-7HIj5U4nCGuaE3b1Ya-2" value="MCA/Staff" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="D-7HIj5U4nCGuaE3b1Ya-1">
           <mxGeometry y="20" width="1150" height="220" as="geometry" />
         </mxCell>
@@ -21,26 +18,23 @@
             <mxPoint x="110" y="135" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="D-7HIj5U4nCGuaE3b1Ya-23" value="Apply for extension of lending period" style="whiteSpace=wrap;html=1;" vertex="1" parent="D-7HIj5U4nCGuaE3b1Ya-2">
-          <mxGeometry x="538" y="110" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="D-7HIj5U4nCGuaE3b1Ya-8" value="Library user checks Library catalogue and applies to borrow resource material" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="D-7HIj5U4nCGuaE3b1Ya-2">
           <mxGeometry x="50" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D-7HIj5U4nCGuaE3b1Ya-5" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="D-7HIj5U4nCGuaE3b1Ya-2">
           <mxGeometry x="55" y="10" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="D-7HIj5U4nCGuaE3b1Ya-25" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="D-7HIj5U4nCGuaE3b1Ya-2">
-          <mxGeometry x="589" y="200" width="40" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="D-7HIj5U4nCGuaE3b1Ya-3" value="Librarian" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="D-7HIj5U4nCGuaE3b1Ya-1">
           <mxGeometry y="240" width="1150" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="D-7HIj5U4nCGuaE3b1Ya-32" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="D-7HIj5U4nCGuaE3b1Ya-3">
-          <mxGeometry x="638" y="40" width="40" height="20" as="geometry" />
+        <mxCell id="D-7HIj5U4nCGuaE3b1Ya-25" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="D-7HIj5U4nCGuaE3b1Ya-3">
+          <mxGeometry x="810" y="10" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="D-7HIj5U4nCGuaE3b1Ya-20" value="Processing of returned resource material and removal from borrowed list" style="whiteSpace=wrap;html=1;" vertex="1" parent="D-7HIj5U4nCGuaE3b1Ya-3">
-          <mxGeometry x="690" y="20" width="100" height="90" as="geometry" />
+        <mxCell id="D-7HIj5U4nCGuaE3b1Ya-32" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="D-7HIj5U4nCGuaE3b1Ya-3">
+          <mxGeometry x="638" y="47" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="D-7HIj5U4nCGuaE3b1Ya-27" value="Extension Approved?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="D-7HIj5U4nCGuaE3b1Ya-3">
+          <mxGeometry x="860" y="25" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="D-7HIj5U4nCGuaE3b1Ya-15" value="Resource returned?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="D-7HIj5U4nCGuaE3b1Ya-3">
           <mxGeometry x="558" y="25" width="80" height="80" as="geometry" />
@@ -56,26 +50,37 @@
             <mxPoint x="655" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="D-7HIj5U4nCGuaE3b1Ya-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="D-7HIj5U4nCGuaE3b1Ya-3" source="D-7HIj5U4nCGuaE3b1Ya-15" target="D-7HIj5U4nCGuaE3b1Ya-20">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="D-7HIj5U4nCGuaE3b1Ya-27" value="Extension Approved?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="D-7HIj5U4nCGuaE3b1Ya-3">
-          <mxGeometry x="810" y="10" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="D-7HIj5U4nCGuaE3b1Ya-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="D-7HIj5U4nCGuaE3b1Ya-3" source="D-7HIj5U4nCGuaE3b1Ya-27" target="D-7HIj5U4nCGuaE3b1Ya-16">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="850" y="180" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="850" y="180" />
+              <mxPoint x="900" y="180" />
               <mxPoint x="440" y="180" />
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="D-7HIj5U4nCGuaE3b1Ya-23" value="Apply for extension of lending period" style="whiteSpace=wrap;html=1;" vertex="1" parent="D-7HIj5U4nCGuaE3b1Ya-3">
+          <mxGeometry x="678" y="35" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D-7HIj5U4nCGuaE3b1Ya-20" value="Processing of returned resource material and removal from borrowed list" style="whiteSpace=wrap;html=1;" vertex="1" parent="D-7HIj5U4nCGuaE3b1Ya-3">
+          <mxGeometry x="990" y="30" width="100" height="90" as="geometry" />
+        </mxCell>
         <mxCell id="D-7HIj5U4nCGuaE3b1Ya-31" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="D-7HIj5U4nCGuaE3b1Ya-3">
           <mxGeometry x="638" y="164" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="D-7HIj5U4nCGuaE3b1Ya-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="D-7HIj5U4nCGuaE3b1Ya-1" source="D-7HIj5U4nCGuaE3b1Ya-23" target="D-7HIj5U4nCGuaE3b1Ya-27">
+        <mxCell id="D-7HIj5U4nCGuaE3b1Ya-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="D-7HIj5U4nCGuaE3b1Ya-3" source="D-7HIj5U4nCGuaE3b1Ya-23" target="D-7HIj5U4nCGuaE3b1Ya-27">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D-7HIj5U4nCGuaE3b1Ya-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="D-7HIj5U4nCGuaE3b1Ya-3" source="D-7HIj5U4nCGuaE3b1Ya-15" target="D-7HIj5U4nCGuaE3b1Ya-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D-7HIj5U4nCGuaE3b1Ya-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="D-7HIj5U4nCGuaE3b1Ya-3" source="D-7HIj5U4nCGuaE3b1Ya-15" target="D-7HIj5U4nCGuaE3b1Ya-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="598" y="10" />
+              <mxPoint x="1040" y="10" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="D-7HIj5U4nCGuaE3b1Ya-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D-7HIj5U4nCGuaE3b1Ya-11" target="D-7HIj5U4nCGuaE3b1Ya-16">
           <mxGeometry relative="1" as="geometry" />
