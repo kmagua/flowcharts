@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2020-10-07T09:06:27.965Z" agent="5.0 (Windows)" etag="fR8ycuDrJYZaqwFPa22w" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-07T09:07:10.422Z" agent="5.0 (Windows)" etag="n9nbltMOV0GEA2J4Hvjd" version="13.7.7" type="github">
   <diagram id="r4xRLytx7JsxAG-ZLAZY" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="RtpuuPPVlCpkko8KKNfp-1" value="Legal - Publication of Legal Instruments" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="1">
-          <mxGeometry x="30" y="20" width="1120" height="440" as="geometry" />
+          <mxGeometry x="30" y="20" width="1120" height="390" as="geometry" />
         </mxCell>
         <mxCell id="RtpuuPPVlCpkko8KKNfp-2" value="Legal Counsel" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="RtpuuPPVlCpkko8KKNfp-1">
-          <mxGeometry y="20" width="1120" height="300" as="geometry" />
+          <mxGeometry y="20" width="1120" height="250" as="geometry" />
         </mxCell>
         <mxCell id="RtpuuPPVlCpkko8KKNfp-5" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="RtpuuPPVlCpkko8KKNfp-2">
           <mxGeometry x="253" y="10" width="110" height="50" as="geometry" />
@@ -21,17 +21,11 @@
         <mxCell id="RtpuuPPVlCpkko8KKNfp-8" value="Drafting of Legal Instrument" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="RtpuuPPVlCpkko8KKNfp-2">
           <mxGeometry x="248" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RtpuuPPVlCpkko8KKNfp-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RtpuuPPVlCpkko8KKNfp-2" source="RtpuuPPVlCpkko8KKNfp-8" target="RtpuuPPVlCpkko8KKNfp-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="RtpuuPPVlCpkko8KKNfp-18" value="Publishing of Legal instrument" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="RtpuuPPVlCpkko8KKNfp-2">
           <mxGeometry x="523" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RtpuuPPVlCpkko8KKNfp-22" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="RtpuuPPVlCpkko8KKNfp-2">
           <mxGeometry x="743" y="175" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="RtpuuPPVlCpkko8KKNfp-9" value="Forward to clerk" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="RtpuuPPVlCpkko8KKNfp-2">
-          <mxGeometry x="248" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RtpuuPPVlCpkko8KKNfp-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="RtpuuPPVlCpkko8KKNfp-2" source="RtpuuPPVlCpkko8KKNfp-18" target="RtpuuPPVlCpkko8KKNfp-22">
           <mxGeometry relative="1" as="geometry">
@@ -41,11 +35,8 @@
         <mxCell id="RtpuuPPVlCpkko8KKNfp-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="RtpuuPPVlCpkko8KKNfp-1" source="RtpuuPPVlCpkko8KKNfp-13" target="RtpuuPPVlCpkko8KKNfp-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RtpuuPPVlCpkko8KKNfp-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RtpuuPPVlCpkko8KKNfp-1" source="RtpuuPPVlCpkko8KKNfp-9" target="RtpuuPPVlCpkko8KKNfp-23">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="RtpuuPPVlCpkko8KKNfp-3" value="Clerk" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="RtpuuPPVlCpkko8KKNfp-1">
-          <mxGeometry y="320" width="1120" height="120" as="geometry" />
+          <mxGeometry y="270" width="1120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="RtpuuPPVlCpkko8KKNfp-13" value="Prepare forwarding letter for publication" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="RtpuuPPVlCpkko8KKNfp-3">
           <mxGeometry x="430" y="30" width="120" height="60" as="geometry" />
@@ -53,14 +44,25 @@
         <mxCell id="RtpuuPPVlCpkko8KKNfp-23" value="Review and forward for approval" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="RtpuuPPVlCpkko8KKNfp-3">
           <mxGeometry x="248" y="30" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="RtpuuPPVlCpkko8KKNfp-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="RtpuuPPVlCpkko8KKNfp-1" source="RtpuuPPVlCpkko8KKNfp-8" target="RtpuuPPVlCpkko8KKNfp-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="308" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="RtpuuPPVlCpkko8KKNfp-4" value="Speaker" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="1">
-          <mxGeometry x="30" y="460" width="1120" height="124" as="geometry" />
+          <mxGeometry x="30" y="410" width="1120" height="124" as="geometry" />
         </mxCell>
         <mxCell id="RtpuuPPVlCpkko8KKNfp-17" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RtpuuPPVlCpkko8KKNfp-4">
           <mxGeometry x="450" y="44" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="RtpuuPPVlCpkko8KKNfp-11" value="Approved?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="RtpuuPPVlCpkko8KKNfp-4">
           <mxGeometry x="268" y="20" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RtpuuPPVlCpkko8KKNfp-28" value="Note to legal counsel" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" vertex="1" parent="RtpuuPPVlCpkko8KKNfp-4">
+          <mxGeometry x="90" y="20" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RtpuuPPVlCpkko8KKNfp-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RtpuuPPVlCpkko8KKNfp-4" source="RtpuuPPVlCpkko8KKNfp-11" target="RtpuuPPVlCpkko8KKNfp-28">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RtpuuPPVlCpkko8KKNfp-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RtpuuPPVlCpkko8KKNfp-11" target="RtpuuPPVlCpkko8KKNfp-13">
           <mxGeometry relative="1" as="geometry" />
@@ -69,12 +71,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="338" y="500" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="RtpuuPPVlCpkko8KKNfp-28" value="Note to legal counsel" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="118" y="480" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="RtpuuPPVlCpkko8KKNfp-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RtpuuPPVlCpkko8KKNfp-11" target="RtpuuPPVlCpkko8KKNfp-28">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RtpuuPPVlCpkko8KKNfp-39" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RtpuuPPVlCpkko8KKNfp-28" target="RtpuuPPVlCpkko8KKNfp-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
