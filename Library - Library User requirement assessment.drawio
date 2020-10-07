@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-07T13:24:40.321Z" agent="5.0 (Windows)" etag="k1UJpVYIZ9FkwiyOwzc0" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-07T13:25:17.310Z" agent="5.0 (Windows)" etag="dCkQeAbLSQYae99ALkLL" version="13.7.7" type="github">
   <diagram id="Nvaw2gHJHcSBUKbXuP-K" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -21,11 +21,14 @@
             <mxPoint x="245" y="135" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="lZmL2fSjqCGuLQ8A0n4v-13" value="Forward User requirements assessment report for consideration by collection development/selection committee" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="lZmL2fSjqCGuLQ8A0n4v-2">
+          <mxGeometry x="580" y="270" width="170" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="lZmL2fSjqCGuLQ8A0n4v-3" value="Collection development/selection committee" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="lZmL2fSjqCGuLQ8A0n4v-1">
           <mxGeometry y="430" width="1150" height="320" as="geometry" />
         </mxCell>
         <mxCell id="lZmL2fSjqCGuLQ8A0n4v-15" value="&lt;p class=&quot;western&quot; style=&quot;margin-bottom: 0in&quot; lang=&quot;en-GB&quot;&gt;Selection of Resource materials to be acquired.&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="lZmL2fSjqCGuLQ8A0n4v-3">
-          <mxGeometry x="600" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="605" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lZmL2fSjqCGuLQ8A0n4v-19" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lZmL2fSjqCGuLQ8A0n4v-3">
           <mxGeometry x="812" y="145" width="100" height="50" as="geometry" />
@@ -34,6 +37,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="800" y="170" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="lZmL2fSjqCGuLQ8A0n4v-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lZmL2fSjqCGuLQ8A0n4v-1" source="lZmL2fSjqCGuLQ8A0n4v-13" target="lZmL2fSjqCGuLQ8A0n4v-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lZmL2fSjqCGuLQ8A0n4v-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lZmL2fSjqCGuLQ8A0n4v-9" target="lZmL2fSjqCGuLQ8A0n4v-11">
           <mxGeometry relative="1" as="geometry" />
@@ -49,12 +55,6 @@
         </mxCell>
         <mxCell id="lZmL2fSjqCGuLQ8A0n4v-11" value="&lt;p class=&quot;western&quot; style=&quot;margin-bottom: 0in&quot; lang=&quot;en-GB&quot;&gt;Analyse feedback and prepare report&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="395" y="310" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="lZmL2fSjqCGuLQ8A0n4v-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lZmL2fSjqCGuLQ8A0n4v-13" target="lZmL2fSjqCGuLQ8A0n4v-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lZmL2fSjqCGuLQ8A0n4v-13" value="Forward User requirements assessment report for consideration by collection development/selection committee" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="370" y="150" width="170" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
