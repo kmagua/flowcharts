@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2020-10-07T09:59:20.161Z" agent="5.0 (Windows)" version="13.7.7" etag="hrZMGmGgvNVQIwKABmBA" type="github"><diagram id="fW9NUbcDmhiTU7LCMh35">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-07T10:05:06.949Z" agent="5.0 (Windows)" etag="TQwUMRekPoGk_o8NWUey" version="13.7.7" type="github">
+  <diagram id="fW9NUbcDmhiTU7LCMh35" name="Page-1">
+    <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_9EXCAQElDtnFlGvw9H9-1" value="Committee Letter for Summons" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="1150" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="_9EXCAQElDtnFlGvw9H9-2" value="Clerk Assistant" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="_9EXCAQElDtnFlGvw9H9-1">
+          <mxGeometry y="20" width="1150" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="_9EXCAQElDtnFlGvw9H9-3" value="Clerk" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="_9EXCAQElDtnFlGvw9H9-1">
+          <mxGeometry y="240" width="1150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="_9EXCAQElDtnFlGvw9H9-4" value="Speaker" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="_9EXCAQElDtnFlGvw9H9-1">
+          <mxGeometry y="360" width="1150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="_9EXCAQElDtnFlGvw9H9-9" value="Table Office" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="_9EXCAQElDtnFlGvw9H9-1">
+          <mxGeometry y="480" width="1150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="_9EXCAQElDtnFlGvw9H9-15" value="&lt;div&gt;Records Office/ &lt;br&gt;&lt;/div&gt;&lt;div&gt;Sergent at arms&lt;/div&gt;" style="swimlane;html=1;startSize=40;horizontal=0;" vertex="1" parent="_9EXCAQElDtnFlGvw9H9-1">
+          <mxGeometry y="600" width="1150" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
