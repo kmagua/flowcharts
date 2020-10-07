@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-07T09:35:14.431Z" agent="5.0 (Windows)" etag="b_veaH2si0T90jgGC2yS" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-07T09:35:40.982Z" agent="5.0 (Windows)" etag="I9c2t9YWMUUV3KcTaNEO" version="13.7.7" type="github">
   <diagram id="ZwxkQ6ED-N3nXjgtWsmm" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -35,6 +35,9 @@
         </mxCell>
         <mxCell id="R9JIJH1pjgctB749y3Gc-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="R9JIJH1pjgctB749y3Gc-2" source="R9JIJH1pjgctB749y3Gc-23" target="R9JIJH1pjgctB749y3Gc-25">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R9JIJH1pjgctB749y3Gc-37" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="R9JIJH1pjgctB749y3Gc-2">
+          <mxGeometry x="610" y="121" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="R9JIJH1pjgctB749y3Gc-3" value="Table Office" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="R9JIJH1pjgctB749y3Gc-1">
           <mxGeometry y="210" width="1150" height="130" as="geometry" />
