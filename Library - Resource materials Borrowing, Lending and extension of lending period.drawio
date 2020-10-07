@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-07T13:55:06.907Z" agent="5.0 (Windows)" etag="uQykgnfxGTz3UBeDB2mE" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-07T13:55:27.432Z" agent="5.0 (Windows)" etag="BNgKiRb4CcKdm-ZJEbsr" version="13.7.7" type="github">
   <diagram id="f9QSlEW5APFrY96Uyd0a" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -37,10 +37,7 @@
           <mxGeometry y="240" width="1150" height="120" as="geometry" />
         </mxCell>
         <mxCell id="D-7HIj5U4nCGuaE3b1Ya-20" value="Processing of returned resource material and removal from borrowed list" style="whiteSpace=wrap;html=1;" vertex="1" parent="D-7HIj5U4nCGuaE3b1Ya-3">
-          <mxGeometry x="690" y="35" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="D-7HIj5U4nCGuaE3b1Ya-22" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="D-7HIj5U4nCGuaE3b1Ya-3">
-          <mxGeometry x="712" y="50" width="40" height="20" as="geometry" />
+          <mxGeometry x="690" y="20" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="D-7HIj5U4nCGuaE3b1Ya-15" value="Resource returned?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="D-7HIj5U4nCGuaE3b1Ya-3">
           <mxGeometry x="558" y="25" width="80" height="80" as="geometry" />
