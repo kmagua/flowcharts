@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-07T13:45:34.609Z" agent="5.0 (Windows)" etag="gwJDm2jeBW4Z3YJDqeZD" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-07T13:47:33.379Z" agent="5.0 (Windows)" etag="VKexdbbirjx_IaOEDIz5" version="13.7.7" type="github">
   <diagram id="f9QSlEW5APFrY96Uyd0a" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -24,22 +24,28 @@
         <mxCell id="D-7HIj5U4nCGuaE3b1Ya-3" value="Librarian" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="D-7HIj5U4nCGuaE3b1Ya-1">
           <mxGeometry y="240" width="1150" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="D-7HIj5U4nCGuaE3b1Ya-15" value="Resource returned?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="D-7HIj5U4nCGuaE3b1Ya-3">
-          <mxGeometry x="530" y="30" width="80" height="80" as="geometry" />
+        <mxCell id="D-7HIj5U4nCGuaE3b1Ya-22" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="D-7HIj5U4nCGuaE3b1Ya-3">
+          <mxGeometry x="807" y="50" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="D-7HIj5U4nCGuaE3b1Ya-9" value="Resource material is processed for lending for a maximum of 2 weeks" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="D-7HIj5U4nCGuaE3b1Ya-3">
           <mxGeometry x="145" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D-7HIj5U4nCGuaE3b1Ya-16" value="Automatic reminder on expiry of the 2 week lending period" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="D-7HIj5U4nCGuaE3b1Ya-3">
+          <mxGeometry x="530" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D-7HIj5U4nCGuaE3b1Ya-15" value="Resource returned?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="D-7HIj5U4nCGuaE3b1Ya-3">
+          <mxGeometry x="720" y="30" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D-7HIj5U4nCGuaE3b1Ya-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="D-7HIj5U4nCGuaE3b1Ya-3" source="D-7HIj5U4nCGuaE3b1Ya-16" target="D-7HIj5U4nCGuaE3b1Ya-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="70" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="D-7HIj5U4nCGuaE3b1Ya-4" value="Lane 3" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="D-7HIj5U4nCGuaE3b1Ya-1">
           <mxGeometry y="360" width="1150" height="120" as="geometry" />
         </mxCell>
         <mxCell id="D-7HIj5U4nCGuaE3b1Ya-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="D-7HIj5U4nCGuaE3b1Ya-1" source="D-7HIj5U4nCGuaE3b1Ya-8" target="D-7HIj5U4nCGuaE3b1Ya-9">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="D-7HIj5U4nCGuaE3b1Ya-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D-7HIj5U4nCGuaE3b1Ya-11" target="D-7HIj5U4nCGuaE3b1Ya-15">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="555" y="320" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="D-7HIj5U4nCGuaE3b1Ya-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D-7HIj5U4nCGuaE3b1Ya-11" target="D-7HIj5U4nCGuaE3b1Ya-16">
           <mxGeometry relative="1" as="geometry" />
@@ -50,8 +56,11 @@
         <mxCell id="D-7HIj5U4nCGuaE3b1Ya-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D-7HIj5U4nCGuaE3b1Ya-9" target="D-7HIj5U4nCGuaE3b1Ya-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="D-7HIj5U4nCGuaE3b1Ya-16" value="Automatic reminder on expiry of the 2 week lending period" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="355" y="150" width="120" height="60" as="geometry" />
+        <mxCell id="D-7HIj5U4nCGuaE3b1Ya-20" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D-7HIj5U4nCGuaE3b1Ya-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D-7HIj5U4nCGuaE3b1Ya-15" target="D-7HIj5U4nCGuaE3b1Ya-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
