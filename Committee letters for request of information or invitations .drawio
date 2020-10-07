@@ -1,26 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2020-10-07T09:25:50.377Z" agent="5.0 (Windows)" etag="lJnor9MPngKDQv_I4K5L" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-07T09:30:15.392Z" agent="5.0 (Windows)" etag="5nXF24KLVgHot4wnSvQC" version="13.7.7" type="github">
   <diagram id="ZwxkQ6ED-N3nXjgtWsmm" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="R9JIJH1pjgctB749y3Gc-1" value="&lt;font face=&quot;Calibri, serif&quot;&gt;Committee letters for request of information / invitations &lt;/font&gt;" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="1">
-          <mxGeometry x="10" y="10" width="1150" height="690" as="geometry" />
+          <mxGeometry x="10" y="10" width="1150" height="710" as="geometry" />
         </mxCell>
         <mxCell id="R9JIJH1pjgctB749y3Gc-2" value="Clerk Assistant" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="R9JIJH1pjgctB749y3Gc-1">
           <mxGeometry y="20" width="1150" height="190" as="geometry" />
         </mxCell>
+        <mxCell id="R9JIJH1pjgctB749y3Gc-11" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="R9JIJH1pjgctB749y3Gc-2">
+          <mxGeometry x="110" y="10" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="R9JIJH1pjgctB749y3Gc-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="R9JIJH1pjgctB749y3Gc-2" source="R9JIJH1pjgctB749y3Gc-11" target="R9JIJH1pjgctB749y3Gc-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R9JIJH1pjgctB749y3Gc-14" value="Resolution to request for information/ invitation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="R9JIJH1pjgctB749y3Gc-2">
+          <mxGeometry x="100" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R9JIJH1pjgctB749y3Gc-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="R9JIJH1pjgctB749y3Gc-2" source="R9JIJH1pjgctB749y3Gc-14" target="R9JIJH1pjgctB749y3Gc-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R9JIJH1pjgctB749y3Gc-15" value="Draft letters for request of information/ invitation" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="R9JIJH1pjgctB749y3Gc-2">
+          <mxGeometry x="310" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="R9JIJH1pjgctB749y3Gc-3" value="Table Office" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="R9JIJH1pjgctB749y3Gc-1">
-          <mxGeometry y="210" width="1150" height="120" as="geometry" />
+          <mxGeometry y="210" width="1150" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="R9JIJH1pjgctB749y3Gc-17" value="&lt;br/&gt;&lt;p style=&quot;margin-bottom: 0in ; line-height: 150%&quot;&gt;Cross Checking of&lt;br/&gt;Draft letters for errors&lt;/p&gt;&lt;br/&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="R9JIJH1pjgctB749y3Gc-3">
+          <mxGeometry x="310" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R9JIJH1pjgctB749y3Gc-4" value="Clerk" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="R9JIJH1pjgctB749y3Gc-1">
-          <mxGeometry y="330" width="1150" height="120" as="geometry" />
+          <mxGeometry y="340" width="1150" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="R9JIJH1pjgctB749y3Gc-19" value="&lt;br/&gt;&lt;p style=&quot;margin-bottom: 0in ; line-height: 150%&quot;&gt;Signing of letters&lt;/p&gt;&lt;br/&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="R9JIJH1pjgctB749y3Gc-4">
+          <mxGeometry x="310" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R9JIJH1pjgctB749y3Gc-9" value="Record Office" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="R9JIJH1pjgctB749y3Gc-1">
-          <mxGeometry y="450" width="1150" height="120" as="geometry" />
+          <mxGeometry y="470" width="1150" height="120" as="geometry" />
         </mxCell>
         <mxCell id="R9JIJH1pjgctB749y3Gc-10" value="ICT Officer" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="R9JIJH1pjgctB749y3Gc-1">
-          <mxGeometry y="570" width="1150" height="120" as="geometry" />
+          <mxGeometry y="590" width="1150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="R9JIJH1pjgctB749y3Gc-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="R9JIJH1pjgctB749y3Gc-1" source="R9JIJH1pjgctB749y3Gc-15" target="R9JIJH1pjgctB749y3Gc-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R9JIJH1pjgctB749y3Gc-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="R9JIJH1pjgctB749y3Gc-1" source="R9JIJH1pjgctB749y3Gc-17" target="R9JIJH1pjgctB749y3Gc-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
