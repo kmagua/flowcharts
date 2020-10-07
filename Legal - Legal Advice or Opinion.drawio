@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2020-10-07T05:27:07.164Z" agent="5.0 (Windows)" version="13.7.7" etag="J7Bacuj1OuaOJAI-UsdZ" type="github"><diagram id="0JgoW0CUqfs-v9tvcyth">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-07T05:29:21.691Z" agent="5.0 (Windows)" etag="6f9EeRLgO4fa7UvyC2QM" version="13.7.7" type="github">
+  <diagram id="0JgoW0CUqfs-v9tvcyth" name="Page-1">
+    <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YAh0zy8l2tCjz80Ia1jp-1" value="Legal Advice / Opinion" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="1130" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="YAh0zy8l2tCjz80Ia1jp-2" value="MCA/Staff" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="YAh0zy8l2tCjz80Ia1jp-1">
+          <mxGeometry y="20" width="1130" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="YAh0zy8l2tCjz80Ia1jp-3" value="Clerk" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="YAh0zy8l2tCjz80Ia1jp-1">
+          <mxGeometry y="220" width="1130" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="YAh0zy8l2tCjz80Ia1jp-4" value="Legal counsel" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="YAh0zy8l2tCjz80Ia1jp-1">
+          <mxGeometry y="420" width="1130" height="200" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
