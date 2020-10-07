@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-07T14:29:48.479Z" agent="5.0 (Windows)" etag="SCGID7uiopqh7TN8LIum" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-07T14:30:22.306Z" agent="5.0 (Windows)" etag="7Z9BjkriSYryN1XA-FzV" version="13.7.7" type="github">
   <diagram id="f9QSlEW5APFrY96Uyd0a" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -15,14 +15,14 @@
         </mxCell>
         <mxCell id="D-7HIj5U4nCGuaE3b1Ya-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="D-7HIj5U4nCGuaE3b1Ya-2" source="D-7HIj5U4nCGuaE3b1Ya-5" target="D-7HIj5U4nCGuaE3b1Ya-8">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="90" y="135" as="targetPoint" />
+            <mxPoint x="100" y="135" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="D-7HIj5U4nCGuaE3b1Ya-8" value="Library user checks Library catalogue and applies to borrow resource material" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="D-7HIj5U4nCGuaE3b1Ya-2">
-          <mxGeometry x="30" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D-7HIj5U4nCGuaE3b1Ya-5" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="D-7HIj5U4nCGuaE3b1Ya-2">
-          <mxGeometry x="35" y="10" width="110" height="50" as="geometry" />
+          <mxGeometry x="45" y="10" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="D-7HIj5U4nCGuaE3b1Ya-3" value="Librarian" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="D-7HIj5U4nCGuaE3b1Ya-1">
           <mxGeometry y="240" width="1150" height="280" as="geometry" />
@@ -46,7 +46,7 @@
           <mxGeometry x="483" y="73" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="D-7HIj5U4nCGuaE3b1Ya-9" value="Resource material is processed for lending for a maximum of 2 weeks" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="D-7HIj5U4nCGuaE3b1Ya-3">
-          <mxGeometry x="30" y="78" width="120" height="70" as="geometry" />
+          <mxGeometry x="40" y="78" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="D-7HIj5U4nCGuaE3b1Ya-16" value="Automatic reminder on expiry of the 2 week lending period" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="D-7HIj5U4nCGuaE3b1Ya-3">
           <mxGeometry x="354" y="78" width="100" height="70" as="geometry" />
