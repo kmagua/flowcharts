@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-07T05:25:07.361Z" agent="5.0 (Windows)" etag="no1CP510hNh_3bDDAKhn" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-07T05:25:20.608Z" agent="5.0 (Windows)" etag="4wfKy7pNAvbw3veWvxRw" version="13.7.7" type="github">
   <diagram id="rBpneA7ACaGHGkdKhGfu" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -57,7 +57,7 @@
         <mxCell id="PsoJBXkq9CGgPRUY1Pmr-24" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="KdFxd-YrfLyibWVKEqrB-5">
           <mxGeometry x="1070" y="35" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="PsoJBXkq9CGgPRUY1Pmr-18" value="&lt;br/&gt;&lt;p style=&quot;margin-bottom: 0in&quot;&gt;Vellum preparation&lt;/p&gt;&lt;br/&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="KdFxd-YrfLyibWVKEqrB-5">
+        <mxCell id="PsoJBXkq9CGgPRUY1Pmr-18" value="Vellum preparation" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="KdFxd-YrfLyibWVKEqrB-5">
           <mxGeometry x="790" y="30" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KdFxd-YrfLyibWVKEqrB-22" value="&lt;p class=&quot;western&quot; style=&quot;margin-bottom: 0in&quot; lang=&quot;en-GB&quot;&gt;Draft Bill notification to the Speaker&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="KdFxd-YrfLyibWVKEqrB-5" vertex="1">
