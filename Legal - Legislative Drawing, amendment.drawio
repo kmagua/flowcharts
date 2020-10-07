@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-07T05:24:04.867Z" agent="5.0 (Windows)" etag="XQs1hLrAl_t5QB--OnJC" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-07T05:24:39.088Z" agent="5.0 (Windows)" etag="Reu8FTMoDG5vyZgLybMS" version="13.7.7" type="github">
   <diagram id="rBpneA7ACaGHGkdKhGfu" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -61,16 +61,16 @@
           <mxGeometry x="790" y="30" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KdFxd-YrfLyibWVKEqrB-22" value="&lt;p class=&quot;western&quot; style=&quot;margin-bottom: 0in&quot; lang=&quot;en-GB&quot;&gt;Draft Bill notification to the Speaker&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="KdFxd-YrfLyibWVKEqrB-5" vertex="1">
-          <mxGeometry x="452" y="40" width="90" height="60" as="geometry" />
+          <mxGeometry x="452" y="25" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KdFxd-YrfLyibWVKEqrB-16" value="&lt;p class=&quot;western&quot; style=&quot;margin-bottom: 0in&quot; lang=&quot;en-GB&quot;&gt;&lt;br/&gt;Draft proposed amendments&lt;/p&gt;&lt;br/&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="KdFxd-YrfLyibWVKEqrB-5" vertex="1">
-          <mxGeometry x="90" y="40" width="80" height="60" as="geometry" />
+          <mxGeometry x="90" y="25" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KdFxd-YrfLyibWVKEqrB-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="KdFxd-YrfLyibWVKEqrB-5" source="KdFxd-YrfLyibWVKEqrB-20" target="KdFxd-YrfLyibWVKEqrB-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KdFxd-YrfLyibWVKEqrB-20" value="&lt;p class=&quot;western&quot; style=&quot;margin-bottom: 0in&quot; lang=&quot;en-GB&quot;&gt;Bill Publishing&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="KdFxd-YrfLyibWVKEqrB-5" vertex="1">
-          <mxGeometry x="330" y="40" width="70" height="60" as="geometry" />
+          <mxGeometry x="330" y="25" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KdFxd-YrfLyibWVKEqrB-6" value="ICT" style="swimlane;html=1;startSize=20;horizontal=0;" parent="KdFxd-YrfLyibWVKEqrB-1" vertex="1">
           <mxGeometry y="565" width="1150" height="110" as="geometry" />
@@ -138,7 +138,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KdFxd-YrfLyibWVKEqrB-18" value="&lt;p class=&quot;western&quot; style=&quot;margin-bottom: 0in&quot; lang=&quot;en-GB&quot;&gt;&lt;br/&gt;Drafting of Bill&lt;/p&gt;&lt;br/&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="240" y="520" width="80" height="60" as="geometry" />
+          <mxGeometry x="240" y="505" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KdFxd-YrfLyibWVKEqrB-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KdFxd-YrfLyibWVKEqrB-16" target="KdFxd-YrfLyibWVKEqrB-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
