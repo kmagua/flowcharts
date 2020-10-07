@@ -1,26 +1,26 @@
-<mxfile host="app.diagrams.net" modified="2020-10-07T09:25:37.920Z" agent="5.0 (Windows)" etag="SP-ampvtWsTIrrs_dgRA" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-07T09:25:50.377Z" agent="5.0 (Windows)" etag="lJnor9MPngKDQv_I4K5L" version="13.7.7" type="github">
   <diagram id="ZwxkQ6ED-N3nXjgtWsmm" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="R9JIJH1pjgctB749y3Gc-1" value="&lt;font face=&quot;Calibri, serif&quot;&gt;Committee letters for request of information / invitations &lt;/font&gt;" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="1">
-          <mxGeometry x="10" y="10" width="1150" height="620" as="geometry" />
+          <mxGeometry x="10" y="10" width="1150" height="690" as="geometry" />
         </mxCell>
         <mxCell id="R9JIJH1pjgctB749y3Gc-2" value="Clerk Assistant" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="R9JIJH1pjgctB749y3Gc-1">
-          <mxGeometry y="20" width="1150" height="120" as="geometry" />
+          <mxGeometry y="20" width="1150" height="190" as="geometry" />
         </mxCell>
         <mxCell id="R9JIJH1pjgctB749y3Gc-3" value="Table Office" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="R9JIJH1pjgctB749y3Gc-1">
-          <mxGeometry y="140" width="1150" height="120" as="geometry" />
+          <mxGeometry y="210" width="1150" height="120" as="geometry" />
         </mxCell>
         <mxCell id="R9JIJH1pjgctB749y3Gc-4" value="Clerk" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="R9JIJH1pjgctB749y3Gc-1">
-          <mxGeometry y="260" width="1150" height="120" as="geometry" />
+          <mxGeometry y="330" width="1150" height="120" as="geometry" />
         </mxCell>
         <mxCell id="R9JIJH1pjgctB749y3Gc-9" value="Record Office" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="R9JIJH1pjgctB749y3Gc-1">
-          <mxGeometry y="380" width="1150" height="120" as="geometry" />
+          <mxGeometry y="450" width="1150" height="120" as="geometry" />
         </mxCell>
         <mxCell id="R9JIJH1pjgctB749y3Gc-10" value="ICT Officer" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="R9JIJH1pjgctB749y3Gc-1">
-          <mxGeometry y="500" width="1150" height="120" as="geometry" />
+          <mxGeometry y="570" width="1150" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
