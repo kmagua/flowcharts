@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-07T13:06:05.407Z" agent="5.0 (Windows)" etag="jR8QujJdUlX0fv112Yr1" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-07T13:07:46.701Z" agent="5.0 (Windows)" etag="BxZ3WNZIAH2IvpnPchoU" version="13.7.7" type="github">
   <diagram id="L49nDd7WiCvF9cDpSTCV" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -70,16 +70,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="8L-_xUGGk6t0tHvqpUdU-51" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8L-_xUGGk6t0tHvqpUdU-3">
+          <mxGeometry x="950" y="175" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8L-_xUGGk6t0tHvqpUdU-15" value="Prepare issuance to requester" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8L-_xUGGk6t0tHvqpUdU-3">
+          <mxGeometry x="531" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="8L-_xUGGk6t0tHvqpUdU-24" value="Book material for the next resource materials collection development exercise" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="8L-_xUGGk6t0tHvqpUdU-3">
           <mxGeometry x="60" y="190" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="8L-_xUGGk6t0tHvqpUdU-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8L-_xUGGk6t0tHvqpUdU-12" target="8L-_xUGGk6t0tHvqpUdU-15">
+        <mxCell id="8L-_xUGGk6t0tHvqpUdU-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="8L-_xUGGk6t0tHvqpUdU-3" source="8L-_xUGGk6t0tHvqpUdU-12" target="8L-_xUGGk6t0tHvqpUdU-15">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="601" y="430" as="targetPoint" />
+            <mxPoint x="591" y="180" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="8L-_xUGGk6t0tHvqpUdU-15" value="Prepare issuance to requester" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="541" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8L-_xUGGk6t0tHvqpUdU-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8L-_xUGGk6t0tHvqpUdU-31" target="8L-_xUGGk6t0tHvqpUdU-12">
           <mxGeometry relative="1" as="geometry">
@@ -119,6 +122,17 @@
         </mxCell>
         <mxCell id="8L-_xUGGk6t0tHvqpUdU-43" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="498" y="303" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8L-_xUGGk6t0tHvqpUdU-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8L-_xUGGk6t0tHvqpUdU-47" target="8L-_xUGGk6t0tHvqpUdU-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="961" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8L-_xUGGk6t0tHvqpUdU-47" value="Issue resource" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="741" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8L-_xUGGk6t0tHvqpUdU-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8L-_xUGGk6t0tHvqpUdU-15" target="8L-_xUGGk6t0tHvqpUdU-47">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
