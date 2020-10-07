@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-07T05:38:41.823Z" agent="5.0 (Windows)" etag="1hm1q6cuh1H3uPV-Nvvl" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-07T05:39:22.147Z" agent="5.0 (Windows)" etag="GejwZGZxUkvujmI-MInc" version="13.7.7" type="github">
   <diagram id="0JgoW0CUqfs-v9tvcyth" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="YAh0zy8l2tCjz80Ia1jp-27" value="Note to Requester" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" vertex="1" parent="YAh0zy8l2tCjz80Ia1jp-2">
           <mxGeometry x="710" y="130" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="YAh0zy8l2tCjz80Ia1jp-18" value="Note to Requester" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="YAh0zy8l2tCjz80Ia1jp-2">
+        <mxCell id="YAh0zy8l2tCjz80Ia1jp-18" value="Rejection Note to Requester" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="YAh0zy8l2tCjz80Ia1jp-2">
           <mxGeometry x="520" y="130" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YAh0zy8l2tCjz80Ia1jp-8" value="&lt;br/&gt;&lt;p style=&quot;margin-bottom: 0in&quot;&gt;Request for Legal advice&lt;/p&gt;&lt;br/&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="YAh0zy8l2tCjz80Ia1jp-2">
@@ -28,6 +28,15 @@
         <mxCell id="YAh0zy8l2tCjz80Ia1jp-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="YAh0zy8l2tCjz80Ia1jp-2" source="YAh0zy8l2tCjz80Ia1jp-27" target="YAh0zy8l2tCjz80Ia1jp-31">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="910" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YAh0zy8l2tCjz80Ia1jp-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="YAh0zy8l2tCjz80Ia1jp-2" source="YAh0zy8l2tCjz80Ia1jp-18" target="YAh0zy8l2tCjz80Ia1jp-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="50" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="60" />
+              <mxPoint x="955" y="60" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="YAh0zy8l2tCjz80Ia1jp-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="YAh0zy8l2tCjz80Ia1jp-1" source="YAh0zy8l2tCjz80Ia1jp-8" target="YAh0zy8l2tCjz80Ia1jp-9">
