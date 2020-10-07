@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-07T12:55:14.011Z" agent="5.0 (Windows)" etag="OoBgk6H5KUET35-UXGXD" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-07T12:55:53.700Z" agent="5.0 (Windows)" etag="ySqfyE8TeFiTHhKQYp3N" version="13.7.7" type="github">
   <diagram id="L49nDd7WiCvF9cDpSTCV" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -86,7 +86,7 @@
             <mxPoint x="380" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8L-_xUGGk6t0tHvqpUdU-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8L-_xUGGk6t0tHvqpUdU-15" value="Prepare issuance to requester" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
