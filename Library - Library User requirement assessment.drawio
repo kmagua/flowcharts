@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-07T13:21:11.428Z" agent="5.0 (Windows)" etag="SCQwPLzwBdbKkrXQQ7So" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-07T13:22:12.065Z" agent="5.0 (Windows)" etag="LNePqCMGXmmEGfDlNs-8" version="13.7.7" type="github">
   <diagram id="Nvaw2gHJHcSBUKbXuP-K" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -33,8 +33,14 @@
         <mxCell id="lZmL2fSjqCGuLQ8A0n4v-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lZmL2fSjqCGuLQ8A0n4v-8" target="lZmL2fSjqCGuLQ8A0n4v-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="lZmL2fSjqCGuLQ8A0n4v-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lZmL2fSjqCGuLQ8A0n4v-11" target="lZmL2fSjqCGuLQ8A0n4v-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lZmL2fSjqCGuLQ8A0n4v-11" value="&lt;p class=&quot;western&quot; style=&quot;margin-bottom: 0in&quot; lang=&quot;en-GB&quot;&gt;Analyse feedback and prepare report&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="395" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lZmL2fSjqCGuLQ8A0n4v-13" value="Forward User requirements assessment report for consideration by collection development/selection committee" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="150" width="170" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
