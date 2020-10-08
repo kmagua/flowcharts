@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-08T06:40:59.161Z" agent="5.0 (Windows)" etag="8wbQ9FJnjFrDi2_r8ZrG" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-08T06:46:41.899Z" agent="5.0 (Windows)" etag="KVior1Ud1CanPVDphFrV" version="13.7.7" type="github">
   <diagram id="SXTozq6ZeHWE9rGXLbaS" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -8,38 +8,60 @@
           <mxGeometry x="10" y="10" width="1150" height="790" as="geometry" />
         </mxCell>
         <mxCell id="UTaOz-EDOdCA6VJAc9xe-2" value="Librarian" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="UTaOz-EDOdCA6VJAc9xe-1">
-          <mxGeometry y="20" width="1150" height="770" as="geometry" />
+          <mxGeometry y="20" width="1150" height="620" as="geometry" />
         </mxCell>
         <mxCell id="UTaOz-EDOdCA6VJAc9xe-5" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="UTaOz-EDOdCA6VJAc9xe-2">
-          <mxGeometry x="230" y="30" width="100" height="50" as="geometry" />
+          <mxGeometry x="230" y="10" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UTaOz-EDOdCA6VJAc9xe-8" value="Prepare an Abstract for each new resource received" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="UTaOz-EDOdCA6VJAc9xe-2">
-          <mxGeometry x="220" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UTaOz-EDOdCA6VJAc9xe-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="UTaOz-EDOdCA6VJAc9xe-2" source="UTaOz-EDOdCA6VJAc9xe-5" target="UTaOz-EDOdCA6VJAc9xe-8">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="280" y="145" as="targetPoint" />
+            <mxPoint x="280" y="125" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UTaOz-EDOdCA6VJAc9xe-16" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="UTaOz-EDOdCA6VJAc9xe-2">
-          <mxGeometry x="390" y="310" width="40" height="20" as="geometry" />
+          <mxGeometry x="390" y="290" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UTaOz-EDOdCA6VJAc9xe-17" value="is resource relevant to a select user or group" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="UTaOz-EDOdCA6VJAc9xe-2">
-          <mxGeometry x="460" y="280" width="160" height="100" as="geometry" />
+          <mxGeometry x="460" y="260" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="UTaOz-EDOdCA6VJAc9xe-21" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="UTaOz-EDOdCA6VJAc9xe-2">
-          <mxGeometry x="510" y="402" width="40" height="20" as="geometry" />
+          <mxGeometry x="510" y="382" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UTaOz-EDOdCA6VJAc9xe-13" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="UTaOz-EDOdCA6VJAc9xe-2">
-          <mxGeometry x="250" y="402" width="40" height="20" as="geometry" />
+          <mxGeometry x="250" y="382" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UTaOz-EDOdCA6VJAc9xe-19" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="UTaOz-EDOdCA6VJAc9xe-2">
-          <mxGeometry x="480" y="450" width="120" height="60" as="geometry" />
+        <mxCell id="UTaOz-EDOdCA6VJAc9xe-19" value="Send abstract to the relevant users or group&lt;br/&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="UTaOz-EDOdCA6VJAc9xe-2">
+          <mxGeometry x="480" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UTaOz-EDOdCA6VJAc9xe-11" value="Disseminate abstract to all MCAs and Staff" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="UTaOz-EDOdCA6VJAc9xe-2">
-          <mxGeometry x="220" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UTaOz-EDOdCA6VJAc9xe-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="UTaOz-EDOdCA6VJAc9xe-2" source="UTaOz-EDOdCA6VJAc9xe-17" target="UTaOz-EDOdCA6VJAc9xe-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UTaOz-EDOdCA6VJAc9xe-22" value="&lt;br/&gt;&lt;p style=&quot;margin-bottom: 0in&quot;&gt;sends abstract to the relevant users or&lt;br/&gt;group&lt;/p&gt;&lt;br/&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="UTaOz-EDOdCA6VJAc9xe-2">
+          <mxGeometry x="350" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UTaOz-EDOdCA6VJAc9xe-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="UTaOz-EDOdCA6VJAc9xe-2" source="UTaOz-EDOdCA6VJAc9xe-19" target="UTaOz-EDOdCA6VJAc9xe-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UTaOz-EDOdCA6VJAc9xe-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="UTaOz-EDOdCA6VJAc9xe-2" source="UTaOz-EDOdCA6VJAc9xe-11" target="UTaOz-EDOdCA6VJAc9xe-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UTaOz-EDOdCA6VJAc9xe-27" value="User/MCA/Group" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="UTaOz-EDOdCA6VJAc9xe-1">
+          <mxGeometry y="640" width="1150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="UTaOz-EDOdCA6VJAc9xe-41" value="Upon receipt of abstract, fill requisition forms and forward to the Library" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="UTaOz-EDOdCA6VJAc9xe-27">
+          <mxGeometry x="350" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UTaOz-EDOdCA6VJAc9xe-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="UTaOz-EDOdCA6VJAc9xe-1" source="UTaOz-EDOdCA6VJAc9xe-22" target="UTaOz-EDOdCA6VJAc9xe-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UTaOz-EDOdCA6VJAc9xe-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UTaOz-EDOdCA6VJAc9xe-9" target="UTaOz-EDOdCA6VJAc9xe-11">
@@ -47,11 +69,11 @@
         </mxCell>
         <mxCell id="UTaOz-EDOdCA6VJAc9xe-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UTaOz-EDOdCA6VJAc9xe-9" target="UTaOz-EDOdCA6VJAc9xe-17">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="480" y="360" as="targetPoint" />
+            <mxPoint x="480" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UTaOz-EDOdCA6VJAc9xe-9" value="is resource for general current awareness" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="210" y="310" width="160" height="100" as="geometry" />
+          <mxGeometry x="210" y="290" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="UTaOz-EDOdCA6VJAc9xe-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UTaOz-EDOdCA6VJAc9xe-8" target="UTaOz-EDOdCA6VJAc9xe-9">
           <mxGeometry relative="1" as="geometry" />
