@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-08T06:47:27.772Z" agent="5.0 (Windows)" etag="hb5sFzrRq-8qwapDTCTv" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-08T06:49:49.840Z" agent="5.0 (Windows)" etag="yBfdAjrp4ODxFnF-bbH9" version="13.7.7" type="github">
   <diagram id="SXTozq6ZeHWE9rGXLbaS" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -33,6 +33,9 @@
         <mxCell id="UTaOz-EDOdCA6VJAc9xe-13" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="UTaOz-EDOdCA6VJAc9xe-2">
           <mxGeometry x="250" y="382" width="40" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="UTaOz-EDOdCA6VJAc9xe-43" value="Process the requisition" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="UTaOz-EDOdCA6VJAc9xe-2">
+          <mxGeometry x="710" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="UTaOz-EDOdCA6VJAc9xe-19" value="Send abstract to the relevant users or group&lt;br/&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="UTaOz-EDOdCA6VJAc9xe-2">
           <mxGeometry x="480" y="430" width="120" height="60" as="geometry" />
         </mxCell>
@@ -41,6 +44,9 @@
         </mxCell>
         <mxCell id="UTaOz-EDOdCA6VJAc9xe-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="UTaOz-EDOdCA6VJAc9xe-2" source="UTaOz-EDOdCA6VJAc9xe-17" target="UTaOz-EDOdCA6VJAc9xe-19">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UTaOz-EDOdCA6VJAc9xe-47" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="UTaOz-EDOdCA6VJAc9xe-2">
+          <mxGeometry x="910" y="435" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UTaOz-EDOdCA6VJAc9xe-22" value="&lt;br/&gt;&lt;p style=&quot;margin-bottom: 0in&quot;&gt;sends abstract to the relevant users or&lt;br/&gt;group&lt;/p&gt;&lt;br/&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="UTaOz-EDOdCA6VJAc9xe-2">
           <mxGeometry x="350" y="540" width="120" height="60" as="geometry" />
@@ -55,6 +61,11 @@
             <mxPoint x="280" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="UTaOz-EDOdCA6VJAc9xe-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="UTaOz-EDOdCA6VJAc9xe-2" source="UTaOz-EDOdCA6VJAc9xe-43" target="UTaOz-EDOdCA6VJAc9xe-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="910" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="UTaOz-EDOdCA6VJAc9xe-27" value="User/MCA/Group" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="UTaOz-EDOdCA6VJAc9xe-1">
           <mxGeometry y="640" width="1150" height="150" as="geometry" />
         </mxCell>
@@ -62,6 +73,9 @@
           <mxGeometry x="350" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UTaOz-EDOdCA6VJAc9xe-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="UTaOz-EDOdCA6VJAc9xe-1" source="UTaOz-EDOdCA6VJAc9xe-22" target="UTaOz-EDOdCA6VJAc9xe-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UTaOz-EDOdCA6VJAc9xe-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="UTaOz-EDOdCA6VJAc9xe-1" source="UTaOz-EDOdCA6VJAc9xe-41" target="UTaOz-EDOdCA6VJAc9xe-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UTaOz-EDOdCA6VJAc9xe-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UTaOz-EDOdCA6VJAc9xe-9" target="UTaOz-EDOdCA6VJAc9xe-11">
