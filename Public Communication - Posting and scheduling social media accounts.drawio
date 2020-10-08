@@ -1,1 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2020-10-08T06:07:39.814Z" agent="5.0 (Windows)" version="13.7.7" etag="yBLkFV-RlGSO4b5fKh6A" type="github"><diagram id="DIXpSp0opUniXQTQ5LvC">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-08T06:09:35.335Z" agent="5.0 (Windows)" etag="3BrasbW6VJ36wAK5_ENf" version="13.7.7" type="github">
+  <diagram id="DIXpSp0opUniXQTQ5LvC" name="Page-1">
+    <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sHPXtAvutDmoHJ2y3Hx6-1" value="Posting and scheduling social media accounts" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="20" width="1120" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="sHPXtAvutDmoHJ2y3Hx6-2" value="Clerk/D-Procedure" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="sHPXtAvutDmoHJ2y3Hx6-1">
+          <mxGeometry y="20" width="1120" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="sHPXtAvutDmoHJ2y3Hx6-3" value="Public Communications Officer" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="sHPXtAvutDmoHJ2y3Hx6-1">
+          <mxGeometry y="270" width="1120" height="280" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
