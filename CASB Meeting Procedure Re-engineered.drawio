@@ -1,1 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2020-10-08T07:01:02.094Z" agent="5.0 (Windows)" version="13.7.7" etag="s4dj8plPsv6vD3r65Nvb" type="github"><diagram id="HAAz4Uk6-4tmhUEeWX3t">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-08T07:08:44.095Z" agent="5.0 (Windows)" etag="x0ZDhdbzaPlmSQ6irQ-Y" version="13.7.7" type="github">
+  <diagram id="HAAz4Uk6-4tmhUEeWX3t" name="Page-1">
+    <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UEdaMPH9OgB5JB1oIhFr-1" value="County Advisory Services Board - Meeting Procedure" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="1150" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="UEdaMPH9OgB5JB1oIhFr-2" value="Administrative Officer" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="UEdaMPH9OgB5JB1oIhFr-1">
+          <mxGeometry y="20" width="1150" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="UEdaMPH9OgB5JB1oIhFr-5" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="UEdaMPH9OgB5JB1oIhFr-2">
+          <mxGeometry x="180" y="10" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UEdaMPH9OgB5JB1oIhFr-8" value="Fill the meeting request form and submit for approval" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="UEdaMPH9OgB5JB1oIhFr-2">
+          <mxGeometry x="170" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UEdaMPH9OgB5JB1oIhFr-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="UEdaMPH9OgB5JB1oIhFr-2" source="UEdaMPH9OgB5JB1oIhFr-5" target="UEdaMPH9OgB5JB1oIhFr-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="125" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UEdaMPH9OgB5JB1oIhFr-3" value="Clerk" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="UEdaMPH9OgB5JB1oIhFr-1">
+          <mxGeometry y="260" width="1150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="UEdaMPH9OgB5JB1oIhFr-9" value="Receives the form and validates the content and forwards to the Speaker for approval" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="UEdaMPH9OgB5JB1oIhFr-3">
+          <mxGeometry x="150" y="30" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UEdaMPH9OgB5JB1oIhFr-4" value="Speaker" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="UEdaMPH9OgB5JB1oIhFr-1">
+          <mxGeometry y="380" width="1150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="UEdaMPH9OgB5JB1oIhFr-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="UEdaMPH9OgB5JB1oIhFr-1" source="UEdaMPH9OgB5JB1oIhFr-8" target="UEdaMPH9OgB5JB1oIhFr-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
