@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-08T07:30:57.835Z" agent="5.0 (Windows)" etag="4cKf_Euz3ybA9akDx0h6" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-08T07:32:22.630Z" agent="5.0 (Windows)" etag="BSIfZvbUCXPmmTqzIRKC" version="13.7.7" type="github">
   <diagram id="HAAz4Uk6-4tmhUEeWX3t" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -57,6 +57,9 @@
         <mxCell id="UEdaMPH9OgB5JB1oIhFr-15" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="UEdaMPH9OgB5JB1oIhFr-4">
           <mxGeometry x="278" y="7.5" width="40" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="UEdaMPH9OgB5JB1oIhFr-41" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="UEdaMPH9OgB5JB1oIhFr-4">
+          <mxGeometry x="129" y="44" width="40" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="UEdaMPH9OgB5JB1oIhFr-11" value="Approved?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="UEdaMPH9OgB5JB1oIhFr-4">
           <mxGeometry x="169" y="27.5" width="80" height="80" as="geometry" />
         </mxCell>
@@ -77,12 +80,20 @@
         <mxCell id="UEdaMPH9OgB5JB1oIhFr-22" value="CASB Member" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="UEdaMPH9OgB5JB1oIhFr-1">
           <mxGeometry y="515" width="1159" height="135" as="geometry" />
         </mxCell>
+        <mxCell id="UEdaMPH9OgB5JB1oIhFr-38" value="Receive meeting minutes" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="UEdaMPH9OgB5JB1oIhFr-22">
+          <mxGeometry x="705" y="35" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="UEdaMPH9OgB5JB1oIhFr-25" value="Receive notification to confirm attendance" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="UEdaMPH9OgB5JB1oIhFr-22">
-          <mxGeometry x="330" y="37.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="34.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UEdaMPH9OgB5JB1oIhFr-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="UEdaMPH9OgB5JB1oIhFr-1" source="UEdaMPH9OgB5JB1oIhFr-25" target="UEdaMPH9OgB5JB1oIhFr-13">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="390" y="472.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UEdaMPH9OgB5JB1oIhFr-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="UEdaMPH9OgB5JB1oIhFr-1" source="UEdaMPH9OgB5JB1oIhFr-38" target="UEdaMPH9OgB5JB1oIhFr-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="780" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UEdaMPH9OgB5JB1oIhFr-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UEdaMPH9OgB5JB1oIhFr-16" target="UEdaMPH9OgB5JB1oIhFr-8">
