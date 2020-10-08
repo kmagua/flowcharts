@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-08T07:21:20.718Z" agent="5.0 (Windows)" etag="G2psR4Lpp_hJaOivq_GO" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-08T07:23:37.670Z" agent="5.0 (Windows)" etag="IxmN7w8kFmOT4Qn5s9jm" version="13.7.7" type="github">
   <diagram id="HAAz4Uk6-4tmhUEeWX3t" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -78,11 +78,17 @@
         <mxCell id="UEdaMPH9OgB5JB1oIhFr-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UEdaMPH9OgB5JB1oIhFr-11" target="UEdaMPH9OgB5JB1oIhFr-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="UEdaMPH9OgB5JB1oIhFr-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UEdaMPH9OgB5JB1oIhFr-20" target="UEdaMPH9OgB5JB1oIhFr-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UEdaMPH9OgB5JB1oIhFr-20" value="&lt;div align=&quot;center&quot;&gt;Fills a resource request form and once submitted, cafeteria and procurement gets a notification&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="540" y="140" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="UEdaMPH9OgB5JB1oIhFr-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UEdaMPH9OgB5JB1oIhFr-13" target="UEdaMPH9OgB5JB1oIhFr-20">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UEdaMPH9OgB5JB1oIhFr-28" value="Generate meeting Minutes after the meeting is held and circulate on need basis" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="155" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
