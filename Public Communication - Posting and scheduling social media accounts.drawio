@@ -1,17 +1,72 @@
-<mxfile host="app.diagrams.net" modified="2020-10-08T06:09:35.335Z" agent="5.0 (Windows)" etag="3BrasbW6VJ36wAK5_ENf" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-08T06:14:14.070Z" agent="5.0 (Windows)" etag="lSgvo6Ee9Y9-vWUZG1dq" version="13.7.7" type="github">
   <diagram id="DIXpSp0opUniXQTQ5LvC" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="sHPXtAvutDmoHJ2y3Hx6-1" value="Posting and scheduling social media accounts" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="1">
-          <mxGeometry x="10" y="20" width="1120" height="550" as="geometry" />
+          <mxGeometry x="10" y="20" width="1150" height="550" as="geometry" />
         </mxCell>
         <mxCell id="sHPXtAvutDmoHJ2y3Hx6-2" value="Clerk/D-Procedure" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="sHPXtAvutDmoHJ2y3Hx6-1">
-          <mxGeometry y="20" width="1120" height="250" as="geometry" />
+          <mxGeometry y="20" width="1150" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="sHPXtAvutDmoHJ2y3Hx6-5" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="sHPXtAvutDmoHJ2y3Hx6-2">
+          <mxGeometry x="66" y="10" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sHPXtAvutDmoHJ2y3Hx6-6" value="Notification of an event/plenary sitting of the Assembly" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sHPXtAvutDmoHJ2y3Hx6-2">
+          <mxGeometry x="56" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sHPXtAvutDmoHJ2y3Hx6-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="sHPXtAvutDmoHJ2y3Hx6-2" source="sHPXtAvutDmoHJ2y3Hx6-5" target="sHPXtAvutDmoHJ2y3Hx6-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="116" y="135" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="sHPXtAvutDmoHJ2y3Hx6-3" value="Public Communications Officer" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="sHPXtAvutDmoHJ2y3Hx6-1">
-          <mxGeometry y="270" width="1120" height="280" as="geometry" />
+          <mxGeometry y="270" width="1150" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="sHPXtAvutDmoHJ2y3Hx6-9" value="Assigning respective Communication Officer for the event coverage" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="sHPXtAvutDmoHJ2y3Hx6-3">
+          <mxGeometry x="56" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sHPXtAvutDmoHJ2y3Hx6-23" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="sHPXtAvutDmoHJ2y3Hx6-3">
+          <mxGeometry x="1040" y="160" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sHPXtAvutDmoHJ2y3Hx6-19" value="Prepare report on responses made" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="sHPXtAvutDmoHJ2y3Hx6-3">
+          <mxGeometry x="820" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sHPXtAvutDmoHJ2y3Hx6-17" value="Log in to the sites to receive an alert once response has been made on a post and respond" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="sHPXtAvutDmoHJ2y3Hx6-3">
+          <mxGeometry x="620" y="160" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sHPXtAvutDmoHJ2y3Hx6-15" value="Update the event to the social media account" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="sHPXtAvutDmoHJ2y3Hx6-3">
+          <mxGeometry x="430" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sHPXtAvutDmoHJ2y3Hx6-13" value="Event coverage (manual process)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="sHPXtAvutDmoHJ2y3Hx6-3">
+          <mxGeometry x="240" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sHPXtAvutDmoHJ2y3Hx6-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="sHPXtAvutDmoHJ2y3Hx6-3" source="sHPXtAvutDmoHJ2y3Hx6-13" target="sHPXtAvutDmoHJ2y3Hx6-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sHPXtAvutDmoHJ2y3Hx6-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="sHPXtAvutDmoHJ2y3Hx6-3" source="sHPXtAvutDmoHJ2y3Hx6-15" target="sHPXtAvutDmoHJ2y3Hx6-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sHPXtAvutDmoHJ2y3Hx6-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="sHPXtAvutDmoHJ2y3Hx6-3" source="sHPXtAvutDmoHJ2y3Hx6-17" target="sHPXtAvutDmoHJ2y3Hx6-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sHPXtAvutDmoHJ2y3Hx6-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="sHPXtAvutDmoHJ2y3Hx6-3" source="sHPXtAvutDmoHJ2y3Hx6-19" target="sHPXtAvutDmoHJ2y3Hx6-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1040" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sHPXtAvutDmoHJ2y3Hx6-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="sHPXtAvutDmoHJ2y3Hx6-1" source="sHPXtAvutDmoHJ2y3Hx6-6" target="sHPXtAvutDmoHJ2y3Hx6-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sHPXtAvutDmoHJ2y3Hx6-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sHPXtAvutDmoHJ2y3Hx6-11" target="sHPXtAvutDmoHJ2y3Hx6-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sHPXtAvutDmoHJ2y3Hx6-11" value="Prepare a pre-event update for posting to the social media accounts" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="66" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sHPXtAvutDmoHJ2y3Hx6-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sHPXtAvutDmoHJ2y3Hx6-9" target="sHPXtAvutDmoHJ2y3Hx6-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
