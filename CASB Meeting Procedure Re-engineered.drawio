@@ -1,20 +1,29 @@
-<mxfile host="app.diagrams.net" modified="2020-10-08T07:28:02.667Z" agent="5.0 (Windows)" etag="wtnuP75mm9gbannyn6XJ" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-08T07:30:49.768Z" agent="5.0 (Windows)" etag="i_IMgmOGK0hVbzk5AiDi" version="13.7.7" type="github">
   <diagram id="HAAz4Uk6-4tmhUEeWX3t" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="UEdaMPH9OgB5JB1oIhFr-1" value="County Advisory Services Board - Meeting Procedure" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="1">
-          <mxGeometry x="10" y="10" width="1150" height="650" as="geometry" />
+          <mxGeometry x="10" y="10" width="1159" height="650" as="geometry" />
         </mxCell>
         <mxCell id="UEdaMPH9OgB5JB1oIhFr-2" value="Administrative Officer" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="UEdaMPH9OgB5JB1oIhFr-1">
-          <mxGeometry y="20" width="1150" height="240" as="geometry" />
-        </mxCell>
-        <mxCell id="UEdaMPH9OgB5JB1oIhFr-30" value="Reports generated and shared with necessary persons" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="UEdaMPH9OgB5JB1oIhFr-2">
-          <mxGeometry x="730" y="28" width="130" height="60" as="geometry" />
+          <mxGeometry y="20" width="1159" height="240" as="geometry" />
         </mxCell>
         <mxCell id="UEdaMPH9OgB5JB1oIhFr-5" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="UEdaMPH9OgB5JB1oIhFr-2">
           <mxGeometry x="159" y="33" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UEdaMPH9OgB5JB1oIhFr-30" value="Reports generated and shared with necessary persons" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="UEdaMPH9OgB5JB1oIhFr-2">
+          <mxGeometry x="700" y="28" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UEdaMPH9OgB5JB1oIhFr-36" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="UEdaMPH9OgB5JB1oIhFr-2">
+          <mxGeometry x="1089" y="153" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UEdaMPH9OgB5JB1oIhFr-28" value="Generate meeting Minutes after the meeting is held and circulated" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="UEdaMPH9OgB5JB1oIhFr-2">
+          <mxGeometry x="700" y="148" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UEdaMPH9OgB5JB1oIhFr-20" value="&lt;div align=&quot;center&quot;&gt;Fills a resource request form and once submitted, cafeteria and procurement gets a notification&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;align=center;" vertex="1" parent="UEdaMPH9OgB5JB1oIhFr-2">
+          <mxGeometry x="515" y="133" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="UEdaMPH9OgB5JB1oIhFr-8" value="Fill the meeting request form and submit for approval" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="UEdaMPH9OgB5JB1oIhFr-2">
           <mxGeometry x="149" y="153" width="120" height="60" as="geometry" />
@@ -27,14 +36,23 @@
         <mxCell id="UEdaMPH9OgB5JB1oIhFr-13" value="Notification auto-generated and forwarded to the CASB members and the initiator" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="UEdaMPH9OgB5JB1oIhFr-2">
           <mxGeometry x="330" y="133" width="120" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="UEdaMPH9OgB5JB1oIhFr-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="UEdaMPH9OgB5JB1oIhFr-2" source="UEdaMPH9OgB5JB1oIhFr-13" target="UEdaMPH9OgB5JB1oIhFr-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UEdaMPH9OgB5JB1oIhFr-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="UEdaMPH9OgB5JB1oIhFr-2" source="UEdaMPH9OgB5JB1oIhFr-20" target="UEdaMPH9OgB5JB1oIhFr-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UEdaMPH9OgB5JB1oIhFr-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="UEdaMPH9OgB5JB1oIhFr-2" source="UEdaMPH9OgB5JB1oIhFr-30" target="UEdaMPH9OgB5JB1oIhFr-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UEdaMPH9OgB5JB1oIhFr-3" value="Clerk" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="UEdaMPH9OgB5JB1oIhFr-1">
-          <mxGeometry y="260" width="1150" height="120" as="geometry" />
+          <mxGeometry y="260" width="1159" height="120" as="geometry" />
         </mxCell>
         <mxCell id="UEdaMPH9OgB5JB1oIhFr-9" value="Receives the form and validates the content and forwards to the Speaker for approval" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="UEdaMPH9OgB5JB1oIhFr-3">
           <mxGeometry x="129" y="30" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="UEdaMPH9OgB5JB1oIhFr-4" value="Speaker" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="UEdaMPH9OgB5JB1oIhFr-1">
-          <mxGeometry y="380" width="1150" height="135" as="geometry" />
+          <mxGeometry y="380" width="1159" height="135" as="geometry" />
         </mxCell>
         <mxCell id="UEdaMPH9OgB5JB1oIhFr-15" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="UEdaMPH9OgB5JB1oIhFr-4">
           <mxGeometry x="278" y="7.5" width="40" height="20" as="geometry" />
@@ -57,7 +75,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UEdaMPH9OgB5JB1oIhFr-22" value="CASB Member" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="UEdaMPH9OgB5JB1oIhFr-1">
-          <mxGeometry y="515" width="1150" height="135" as="geometry" />
+          <mxGeometry y="515" width="1159" height="135" as="geometry" />
         </mxCell>
         <mxCell id="UEdaMPH9OgB5JB1oIhFr-25" value="Receive notification to confirm attendance" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="UEdaMPH9OgB5JB1oIhFr-22">
           <mxGeometry x="330" y="37.5" width="120" height="60" as="geometry" />
@@ -81,20 +99,17 @@
         <mxCell id="UEdaMPH9OgB5JB1oIhFr-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UEdaMPH9OgB5JB1oIhFr-11" target="UEdaMPH9OgB5JB1oIhFr-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UEdaMPH9OgB5JB1oIhFr-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UEdaMPH9OgB5JB1oIhFr-20" target="UEdaMPH9OgB5JB1oIhFr-28">
+        <mxCell id="UEdaMPH9OgB5JB1oIhFr-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UEdaMPH9OgB5JB1oIhFr-28" target="UEdaMPH9OgB5JB1oIhFr-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UEdaMPH9OgB5JB1oIhFr-20" value="&lt;div align=&quot;center&quot;&gt;Fills a resource request form and once submitted, cafeteria and procurement gets a notification&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;align=center;" vertex="1" parent="1">
-          <mxGeometry x="540" y="163" width="120" height="90" as="geometry" />
+        <mxCell id="UEdaMPH9OgB5JB1oIhFr-32" value="Notify the relevant staff on preparation of subsequent reports/action(s) required for next meeting " style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="910" y="163" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="UEdaMPH9OgB5JB1oIhFr-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UEdaMPH9OgB5JB1oIhFr-13" target="UEdaMPH9OgB5JB1oIhFr-20">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="UEdaMPH9OgB5JB1oIhFr-28" value="Generate meeting Minutes after the meeting is held and circulated" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="740" y="178" width="130" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="UEdaMPH9OgB5JB1oIhFr-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UEdaMPH9OgB5JB1oIhFr-30" target="UEdaMPH9OgB5JB1oIhFr-28">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="UEdaMPH9OgB5JB1oIhFr-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UEdaMPH9OgB5JB1oIhFr-32" target="UEdaMPH9OgB5JB1oIhFr-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1030" y="208" as="sourcePoint" />
+            <mxPoint x="1130" y="208" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
