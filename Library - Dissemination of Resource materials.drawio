@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-08T06:37:47.123Z" agent="5.0 (Windows)" etag="EFEA3SaoT9Q3hOlSTDsd" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-08T06:40:59.161Z" agent="5.0 (Windows)" etag="8wbQ9FJnjFrDi2_r8ZrG" version="13.7.7" type="github">
   <diagram id="SXTozq6ZeHWE9rGXLbaS" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -21,16 +21,36 @@
             <mxPoint x="280" y="145" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="UTaOz-EDOdCA6VJAc9xe-16" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="UTaOz-EDOdCA6VJAc9xe-2">
+          <mxGeometry x="390" y="310" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UTaOz-EDOdCA6VJAc9xe-17" value="is resource relevant to a select user or group" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="UTaOz-EDOdCA6VJAc9xe-2">
+          <mxGeometry x="460" y="280" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="UTaOz-EDOdCA6VJAc9xe-21" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="UTaOz-EDOdCA6VJAc9xe-2">
+          <mxGeometry x="510" y="402" width="40" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="UTaOz-EDOdCA6VJAc9xe-13" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="UTaOz-EDOdCA6VJAc9xe-2">
           <mxGeometry x="250" y="402" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UTaOz-EDOdCA6VJAc9xe-19" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="UTaOz-EDOdCA6VJAc9xe-2">
+          <mxGeometry x="480" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UTaOz-EDOdCA6VJAc9xe-11" value="Disseminate abstract to all MCAs and Staff" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="UTaOz-EDOdCA6VJAc9xe-2">
           <mxGeometry x="220" y="450" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="UTaOz-EDOdCA6VJAc9xe-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="UTaOz-EDOdCA6VJAc9xe-2" source="UTaOz-EDOdCA6VJAc9xe-17" target="UTaOz-EDOdCA6VJAc9xe-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UTaOz-EDOdCA6VJAc9xe-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UTaOz-EDOdCA6VJAc9xe-9" target="UTaOz-EDOdCA6VJAc9xe-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UTaOz-EDOdCA6VJAc9xe-9" value="&lt;br/&gt;&lt;p style=&quot;margin-bottom: 0in&quot;&gt;is for general current awareness&lt;/p&gt;&lt;br/&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="UTaOz-EDOdCA6VJAc9xe-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UTaOz-EDOdCA6VJAc9xe-9" target="UTaOz-EDOdCA6VJAc9xe-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UTaOz-EDOdCA6VJAc9xe-9" value="is resource for general current awareness" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="310" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="UTaOz-EDOdCA6VJAc9xe-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UTaOz-EDOdCA6VJAc9xe-8" target="UTaOz-EDOdCA6VJAc9xe-9">
