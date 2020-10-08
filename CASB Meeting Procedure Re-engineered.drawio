@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-08T07:30:49.768Z" agent="5.0 (Windows)" etag="i_IMgmOGK0hVbzk5AiDi" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-08T07:30:57.835Z" agent="5.0 (Windows)" etag="4cKf_Euz3ybA9akDx0h6" version="13.7.7" type="github">
   <diagram id="HAAz4Uk6-4tmhUEeWX3t" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
           <mxGeometry x="700" y="28" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UEdaMPH9OgB5JB1oIhFr-36" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="UEdaMPH9OgB5JB1oIhFr-2">
-          <mxGeometry x="1089" y="153" width="70" height="50" as="geometry" />
+          <mxGeometry x="1084" y="153" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UEdaMPH9OgB5JB1oIhFr-28" value="Generate meeting Minutes after the meeting is held and circulated" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="UEdaMPH9OgB5JB1oIhFr-2">
           <mxGeometry x="700" y="148" width="130" height="60" as="geometry" />
