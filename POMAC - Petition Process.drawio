@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-15T06:11:25.236Z" agent="5.0 (Windows)" etag="bmeBJU8r8257_zu2xslz" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-15T06:17:56.203Z" agent="5.0 (Windows)" etag="8y1DWWOBjNg4lHaIjOT4" version="13.8.0" type="github">
   <diagram id="znga5Cu131E_-9qryZF8" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -15,6 +15,12 @@
             <mxPoint x="100" y="135" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="XICMrNqC_bUasMm1yP-3-15" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="18WlAGKv3SEhdBKcBWfW-2">
+          <mxGeometry x="720" y="230" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XICMrNqC_bUasMm1yP-3-13" value="Recommend physical interview" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="18WlAGKv3SEhdBKcBWfW-2">
+          <mxGeometry x="660" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="tqYWSmG6XYO8T_lrHcQw-13" value="POMAC looks for judgement " style="whiteSpace=wrap;html=1;rounded=0;" parent="18WlAGKv3SEhdBKcBWfW-2" vertex="1">
           <mxGeometry x="240" y="560" width="120" height="60" as="geometry" />
         </mxCell>
@@ -24,8 +30,8 @@
         <mxCell id="tqYWSmG6XYO8T_lrHcQw-4" value="Petitioner fills the Petition form" style="rounded=0;whiteSpace=wrap;html=1;" parent="18WlAGKv3SEhdBKcBWfW-2" vertex="1">
           <mxGeometry x="40" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XICMrNqC_bUasMm1yP-3-7" value="Secretary Petitions convenes a meeting during which petition reports are projected before the committee. The committee approves those that meet requirements and recommend physical interview. Committee recommends remedial meausre for those rejected" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="18WlAGKv3SEhdBKcBWfW-2">
-          <mxGeometry x="380" y="100" width="240" height="110" as="geometry" />
+        <mxCell id="XICMrNqC_bUasMm1yP-3-7" value="Secretary Petitions convenes a meeting during which petition reports are projected before the committee." style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="18WlAGKv3SEhdBKcBWfW-2">
+          <mxGeometry x="430" y="130" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tqYWSmG6XYO8T_lrHcQw-1" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" parent="18WlAGKv3SEhdBKcBWfW-2" vertex="1">
           <mxGeometry x="50" y="20" width="100" height="50" as="geometry" />
@@ -82,6 +88,27 @@
         </mxCell>
         <mxCell id="XICMrNqC_bUasMm1yP-3-5" value="POMAC secretariat receives petition summary from submitted reports" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XICMrNqC_bUasMm1yP-3-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XICMrNqC_bUasMm1yP-3-11" target="XICMrNqC_bUasMm1yP-3-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XICMrNqC_bUasMm1yP-3-11" value="Approved?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="210" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XICMrNqC_bUasMm1yP-3-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XICMrNqC_bUasMm1yP-3-7" target="XICMrNqC_bUasMm1yP-3-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XICMrNqC_bUasMm1yP-3-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XICMrNqC_bUasMm1yP-3-16" target="XICMrNqC_bUasMm1yP-3-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XICMrNqC_bUasMm1yP-3-16" value="Physical interviews done at the prison" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XICMrNqC_bUasMm1yP-3-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XICMrNqC_bUasMm1yP-3-13" target="XICMrNqC_bUasMm1yP-3-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XICMrNqC_bUasMm1yP-3-18" value="Forward approved petition to NIS for security intelligence report" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="640" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
