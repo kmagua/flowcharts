@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-15T06:43:15.653Z" agent="5.0 (Windows)" etag="YrEMwq3d7atM-Aj6uUIy" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-15T06:46:00.499Z" agent="5.0 (Windows)" etag="56n1HepSVyA_RsICLU2a" version="13.8.0" type="github">
   <diagram id="znga5Cu131E_-9qryZF8" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -34,7 +34,7 @@
           <mxGeometry x="445" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tqYWSmG6XYO8T_lrHcQw-9" value="Generation of petition number" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="18WlAGKv3SEhdBKcBWfW-2" vertex="1">
-          <mxGeometry x="240" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="256" y="220" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tqYWSmG6XYO8T_lrHcQw-5" value="Form submitted and received at POMAC" style="whiteSpace=wrap;html=1;rounded=0;" parent="18WlAGKv3SEhdBKcBWfW-2" vertex="1">
           <mxGeometry x="40" y="220" width="120" height="60" as="geometry" />
@@ -237,9 +237,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="262" y="460" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="252" y="440" />
-              <mxPoint x="240" y="440" />
-              <mxPoint x="240" y="320" />
+              <mxPoint x="252" y="320" />
             </Array>
           </mxGeometry>
         </mxCell>
