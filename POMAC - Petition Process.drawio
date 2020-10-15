@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-15T06:37:28.879Z" agent="5.0 (Windows)" etag="zTuR0ps5ZXyoAFKa_aJX" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-15T06:40:08.380Z" agent="5.0 (Windows)" etag="brnUkAQ6_5zXVeVnUVD-" version="13.8.0" type="github">
   <diagram id="znga5Cu131E_-9qryZF8" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -17,6 +17,9 @@
         </mxCell>
         <mxCell id="tqYWSmG6XYO8T_lrHcQw-1" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" parent="18WlAGKv3SEhdBKcBWfW-2" vertex="1">
           <mxGeometry x="50" y="9" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XICMrNqC_bUasMm1yP-3-61" value="Allow 30 days and if no feedback the petition can be resubmitted in future" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="18WlAGKv3SEhdBKcBWfW-2">
+          <mxGeometry x="650" y="49" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tqYWSmG6XYO8T_lrHcQw-4" value="Petitioner fills the Petition form" style="rounded=0;whiteSpace=wrap;html=1;" parent="18WlAGKv3SEhdBKcBWfW-2" vertex="1">
           <mxGeometry x="40" y="100" width="120" height="60" as="geometry" />
@@ -169,6 +172,16 @@
             <mxPoint x="1030" y="275" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="XICMrNqC_bUasMm1yP-3-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="18WlAGKv3SEhdBKcBWfW-2" source="XICMrNqC_bUasMm1yP-3-61" target="XICMrNqC_bUasMm1yP-3-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="850" y="60" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="770" y="80" />
+              <mxPoint x="1130" y="80" />
+              <mxPoint x="1130" y="301" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="XICMrNqC_bUasMm1yP-3-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XICMrNqC_bUasMm1yP-3-26" target="XICMrNqC_bUasMm1yP-3-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -192,12 +205,12 @@
         <mxCell id="XICMrNqC_bUasMm1yP-3-33" value="Forward petition to judiciary" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="946" y="730" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XICMrNqC_bUasMm1yP-3-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XICMrNqC_bUasMm1yP-3-36">
+        <mxCell id="XICMrNqC_bUasMm1yP-3-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="XICMrNqC_bUasMm1yP-3-61">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="730" y="150" as="targetPoint" />
+            <mxPoint x="806" y="505" as="sourcePoint" />
+            <mxPoint x="730" y="160" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="730" y="504" />
-              <mxPoint x="730" y="160" />
+              <mxPoint x="730" y="505" />
             </Array>
           </mxGeometry>
         </mxCell>
