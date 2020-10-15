@@ -1,20 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2020-10-14T17:56:29.639Z" agent="5.0 (Windows)" etag="AAp3gesbnMdzJRd-fEPm" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-15T04:42:34.037Z" agent="5.0 (Windows)" etag="wKrWYQWEBJVwW28mHA2I" version="13.8.0" type="github">
   <diagram id="znga5Cu131E_-9qryZF8" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="18WlAGKv3SEhdBKcBWfW-1" value="Petition Process" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="1">
-          <mxGeometry x="220" y="60" width="480" height="380" as="geometry" />
+        <mxCell id="18WlAGKv3SEhdBKcBWfW-1" value="Petition Process" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" parent="1" vertex="1">
+          <mxGeometry x="20" y="60" width="1120" height="740" as="geometry" />
         </mxCell>
-        <mxCell id="18WlAGKv3SEhdBKcBWfW-2" value="Lane 1" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="18WlAGKv3SEhdBKcBWfW-1">
-          <mxGeometry y="20" width="480" height="120" as="geometry" />
+        <mxCell id="18WlAGKv3SEhdBKcBWfW-2" value="Lane 1" style="swimlane;html=1;startSize=20;horizontal=0;" parent="18WlAGKv3SEhdBKcBWfW-1" vertex="1">
+          <mxGeometry y="20" width="1120" height="720" as="geometry" />
         </mxCell>
-        <mxCell id="18WlAGKv3SEhdBKcBWfW-3" value="Lane 2" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="18WlAGKv3SEhdBKcBWfW-1">
-          <mxGeometry y="140" width="480" height="120" as="geometry" />
+        <mxCell id="tqYWSmG6XYO8T_lrHcQw-1" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="18WlAGKv3SEhdBKcBWfW-2">
+          <mxGeometry x="210" y="30" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="18WlAGKv3SEhdBKcBWfW-4" value="Lane 3" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="18WlAGKv3SEhdBKcBWfW-1">
-          <mxGeometry y="260" width="480" height="120" as="geometry" />
+        <mxCell id="tqYWSmG6XYO8T_lrHcQw-4" value="Petitioner fills the Petition form" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="18WlAGKv3SEhdBKcBWfW-2">
+          <mxGeometry x="200" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tqYWSmG6XYO8T_lrHcQw-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="18WlAGKv3SEhdBKcBWfW-2" source="tqYWSmG6XYO8T_lrHcQw-1" target="tqYWSmG6XYO8T_lrHcQw-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="145" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tqYWSmG6XYO8T_lrHcQw-9" value="Generation of petition number" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="18WlAGKv3SEhdBKcBWfW-2">
+          <mxGeometry x="430" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tqYWSmG6XYO8T_lrHcQw-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tqYWSmG6XYO8T_lrHcQw-5" target="tqYWSmG6XYO8T_lrHcQw-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tqYWSmG6XYO8T_lrHcQw-5" value="Form submitted and received at POMAC" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tqYWSmG6XYO8T_lrHcQw-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tqYWSmG6XYO8T_lrHcQw-4" target="tqYWSmG6XYO8T_lrHcQw-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tqYWSmG6XYO8T_lrHcQw-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tqYWSmG6XYO8T_lrHcQw-7" target="tqYWSmG6XYO8T_lrHcQw-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tqYWSmG6XYO8T_lrHcQw-7" value="Verification and validation of data" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tqYWSmG6XYO8T_lrHcQw-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tqYWSmG6XYO8T_lrHcQw-9" target="tqYWSmG6XYO8T_lrHcQw-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tqYWSmG6XYO8T_lrHcQw-11" value="Data complete?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="640" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
