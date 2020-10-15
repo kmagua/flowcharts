@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-15T06:46:00.499Z" agent="5.0 (Windows)" etag="56n1HepSVyA_RsICLU2a" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-15T06:46:19.123Z" agent="5.0 (Windows)" etag="qGdAvTbe__WtFVVeJ_o7" version="13.8.0" type="github">
   <diagram id="znga5Cu131E_-9qryZF8" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -93,7 +93,7 @@
         <mxCell id="XICMrNqC_bUasMm1yP-3-5" value="POMAC secretariat receives petition summary from submitted reports" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="18WlAGKv3SEhdBKcBWfW-2">
           <mxGeometry x="330" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tqYWSmG6XYO8T_lrHcQw-13" value="POMAC looks for judgement " style="whiteSpace=wrap;html=1;rounded=0;" parent="18WlAGKv3SEhdBKcBWfW-2" vertex="1">
+        <mxCell id="tqYWSmG6XYO8T_lrHcQw-13" value="POMAC looks for judgement records" style="whiteSpace=wrap;html=1;rounded=0;" parent="18WlAGKv3SEhdBKcBWfW-2" vertex="1">
           <mxGeometry x="40" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tqYWSmG6XYO8T_lrHcQw-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="18WlAGKv3SEhdBKcBWfW-2" source="tqYWSmG6XYO8T_lrHcQw-4" target="tqYWSmG6XYO8T_lrHcQw-5" edge="1">
