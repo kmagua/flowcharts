@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-19T11:34:09.095Z" agent="5.0 (Windows)" etag="qxPo6KlN-3Y8E-kXdqFa" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-19T11:39:05.010Z" agent="5.0 (Windows)" etag="FRkoKrv_Wz1lT_lufXM4" version="13.8.0" type="github">
   <diagram id="tHyQBRfuijBE6Kjzy-yp" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -51,11 +51,23 @@
         <mxCell id="-Ks-MGX2oiENzWUd814f-27" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-Ks-MGX2oiENzWUd814f-5">
           <mxGeometry x="324" y="729" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-Ks-MGX2oiENzWUd814f-29" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="-Ks-MGX2oiENzWUd814f-5">
+        <mxCell id="-Ks-MGX2oiENzWUd814f-29" value="Generate notifications for stakeholders to request for information" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="-Ks-MGX2oiENzWUd814f-5">
           <mxGeometry x="275" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-Ks-MGX2oiENzWUd814f-31" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-Ks-MGX2oiENzWUd814f-5">
           <mxGeometry x="329" y="610" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ks-MGX2oiENzWUd814f-34" value="CEO/Secretary receives reports from all stakeholders and forwards to secretariat" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="-Ks-MGX2oiENzWUd814f-5">
+          <mxGeometry x="270" y="410" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ks-MGX2oiENzWUd814f-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="-Ks-MGX2oiENzWUd814f-5" source="-Ks-MGX2oiENzWUd814f-29" target="-Ks-MGX2oiENzWUd814f-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ks-MGX2oiENzWUd814f-36" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="-Ks-MGX2oiENzWUd814f-5">
+          <mxGeometry x="275" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ks-MGX2oiENzWUd814f-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="-Ks-MGX2oiENzWUd814f-5" source="-Ks-MGX2oiENzWUd814f-34" target="-Ks-MGX2oiENzWUd814f-36">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-Ks-MGX2oiENzWUd814f-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Ks-MGX2oiENzWUd814f-19" target="-Ks-MGX2oiENzWUd814f-21">
           <mxGeometry relative="1" as="geometry" />
