@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-19T11:50:54.314Z" agent="5.0 (Windows)" etag="77NHr_hgB3-G82YeiO0g" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-19T11:52:08.764Z" agent="5.0 (Windows)" etag="-8R6sUU8gmDPprMLt3c9" version="13.8.0" type="github">
   <diagram id="tHyQBRfuijBE6Kjzy-yp" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -131,8 +131,8 @@
         <mxCell id="-Ks-MGX2oiENzWUd814f-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Ks-MGX2oiENzWUd814f-41" target="-Ks-MGX2oiENzWUd814f-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-Ks-MGX2oiENzWUd814f-51" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="421" width="120" height="60" as="geometry" />
+        <mxCell id="-Ks-MGX2oiENzWUd814f-51" value="Secretary Schedules meeting and generates reports for each member&#39;s dashboard" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="421" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
