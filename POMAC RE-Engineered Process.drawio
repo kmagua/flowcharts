@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-19T13:52:31.381Z" agent="5.0 (Windows)" etag="FV_DczB0_co7YqAlV2Uh" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-19T14:42:04.140Z" agent="5.0 (Windows)" etag="oGC3M898zLurNW7QDEHb" version="13.8.0" type="github">
   <diagram id="tHyQBRfuijBE6Kjzy-yp" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="10" y="10" width="1150" height="810" as="geometry" />
         </mxCell>
         <mxCell id="-Ks-MGX2oiENzWUd814f-6" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-Ks-MGX2oiENzWUd814f-5">
-          <mxGeometry x="90" y="50" width="90" height="50" as="geometry" />
+          <mxGeometry x="90" y="31" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-Ks-MGX2oiENzWUd814f-12" value="Petitioner/Applicant fills in the Petition form online and submits" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-Ks-MGX2oiENzWUd814f-5">
           <mxGeometry x="75" y="170" width="120" height="60" as="geometry" />
@@ -137,6 +137,14 @@
         <mxCell id="-Ks-MGX2oiENzWUd814f-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="-Ks-MGX2oiENzWUd814f-5" source="-Ks-MGX2oiENzWUd814f-63" target="-Ks-MGX2oiENzWUd814f-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="-Ks-MGX2oiENzWUd814f-70" value="Approved?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="-Ks-MGX2oiENzWUd814f-5">
+          <mxGeometry x="720" y="190" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ks-MGX2oiENzWUd814f-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="-Ks-MGX2oiENzWUd814f-5" source="-Ks-MGX2oiENzWUd814f-66" target="-Ks-MGX2oiENzWUd814f-70">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="-Ks-MGX2oiENzWUd814f-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Ks-MGX2oiENzWUd814f-19" target="-Ks-MGX2oiENzWUd814f-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -179,10 +187,10 @@
         <mxCell id="-Ks-MGX2oiENzWUd814f-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Ks-MGX2oiENzWUd814f-57" target="-Ks-MGX2oiENzWUd814f-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-Ks-MGX2oiENzWUd814f-68" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="200" width="120" height="60" as="geometry" />
+        <mxCell id="-Ks-MGX2oiENzWUd814f-71" value="Secretariat fills the legal instrument for recommendations" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="57" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-Ks-MGX2oiENzWUd814f-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Ks-MGX2oiENzWUd814f-66" target="-Ks-MGX2oiENzWUd814f-68">
+        <mxCell id="-Ks-MGX2oiENzWUd814f-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Ks-MGX2oiENzWUd814f-70" target="-Ks-MGX2oiENzWUd814f-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
