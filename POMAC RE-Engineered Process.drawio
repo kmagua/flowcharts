@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-19T11:43:42.276Z" agent="5.0 (Windows)" etag="xVjAU4vScyiKhOUFy5uc" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-19T11:45:56.795Z" agent="5.0 (Windows)" etag="H4r2k37087Txp088Rl0d" version="13.8.0" type="github">
   <diagram id="tHyQBRfuijBE6Kjzy-yp" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -76,6 +76,15 @@
         </mxCell>
         <mxCell id="-Ks-MGX2oiENzWUd814f-40" value="Admissible?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="-Ks-MGX2oiENzWUd814f-5">
           <mxGeometry x="295" y="150" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ks-MGX2oiENzWUd814f-41" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="-Ks-MGX2oiENzWUd814f-5">
+          <mxGeometry x="480" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ks-MGX2oiENzWUd814f-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="-Ks-MGX2oiENzWUd814f-5" source="-Ks-MGX2oiENzWUd814f-40" target="-Ks-MGX2oiENzWUd814f-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ks-MGX2oiENzWUd814f-43" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-Ks-MGX2oiENzWUd814f-5">
+          <mxGeometry x="400" y="170" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-Ks-MGX2oiENzWUd814f-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Ks-MGX2oiENzWUd814f-19" target="-Ks-MGX2oiENzWUd814f-21">
           <mxGeometry relative="1" as="geometry" />
