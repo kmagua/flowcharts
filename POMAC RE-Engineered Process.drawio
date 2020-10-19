@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-19T12:13:25.771Z" agent="5.0 (Windows)" etag="jktU2poeVsAoRU2D1L1Y" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-19T12:33:53.934Z" agent="5.0 (Windows)" etag="o7pASb_zeMgvh6XZHKPd" version="13.8.0" type="github">
   <diagram id="tHyQBRfuijBE6Kjzy-yp" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -130,6 +130,12 @@
         </mxCell>
         <mxCell id="-Ks-MGX2oiENzWUd814f-65" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-Ks-MGX2oiENzWUd814f-5">
           <mxGeometry x="754" y="570" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ks-MGX2oiENzWUd814f-66" value="On receipt of NIS report, convene full committee meeting to approve full committee recommendations based on NIS recommendations" style="whiteSpace=wrap;html=1;" vertex="1" parent="-Ks-MGX2oiENzWUd814f-5">
+          <mxGeometry x="670" y="360" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ks-MGX2oiENzWUd814f-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="-Ks-MGX2oiENzWUd814f-5" source="-Ks-MGX2oiENzWUd814f-63" target="-Ks-MGX2oiENzWUd814f-66">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-Ks-MGX2oiENzWUd814f-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Ks-MGX2oiENzWUd814f-19" target="-Ks-MGX2oiENzWUd814f-21">
           <mxGeometry relative="1" as="geometry" />
