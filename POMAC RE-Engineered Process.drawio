@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-19T11:24:52.440Z" agent="5.0 (Windows)" etag="U62rAQQx24sYixGvwo4q" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-19T11:30:05.725Z" agent="5.0 (Windows)" etag="MR4lEh_stVt2O4SAdRPP" version="13.8.0" type="github">
   <diagram id="tHyQBRfuijBE6Kjzy-yp" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -17,6 +17,24 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="135" y="175" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-Ks-MGX2oiENzWUd814f-13" value="POMAC acknowledges of Petition " style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="-Ks-MGX2oiENzWUd814f-5">
+          <mxGeometry x="75" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ks-MGX2oiENzWUd814f-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="-Ks-MGX2oiENzWUd814f-5" source="-Ks-MGX2oiENzWUd814f-12" target="-Ks-MGX2oiENzWUd814f-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ks-MGX2oiENzWUd814f-15" value="Secretariat Performs Eligibility" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="-Ks-MGX2oiENzWUd814f-5">
+          <mxGeometry x="75" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ks-MGX2oiENzWUd814f-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="-Ks-MGX2oiENzWUd814f-5" source="-Ks-MGX2oiENzWUd814f-13" target="-Ks-MGX2oiENzWUd814f-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ks-MGX2oiENzWUd814f-17" value="Petition number" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="-Ks-MGX2oiENzWUd814f-5">
+          <mxGeometry x="75" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ks-MGX2oiENzWUd814f-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="-Ks-MGX2oiENzWUd814f-5" source="-Ks-MGX2oiENzWUd814f-15" target="-Ks-MGX2oiENzWUd814f-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
