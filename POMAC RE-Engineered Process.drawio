@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-19T14:47:17.570Z" agent="5.0 (Windows)" etag="RRA-_64HHph2T4F2Ie6r" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-19T14:53:37.577Z" agent="5.0 (Windows)" etag="rC_xCakVyuvu0k3bfdj3" version="13.8.0" type="github">
   <diagram id="tHyQBRfuijBE6Kjzy-yp" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -149,7 +149,32 @@
           <mxGeometry x="754" y="158" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-Ks-MGX2oiENzWUd814f-78" value="Pardon Approved?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="-Ks-MGX2oiENzWUd814f-5">
-          <mxGeometry x="959" y="202" width="80" height="80" as="geometry" />
+          <mxGeometry x="960" y="440" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ks-MGX2oiENzWUd814f-79" value="AG receives feedback from Head of Public service" style="whiteSpace=wrap;html=1;" vertex="1" parent="-Ks-MGX2oiENzWUd814f-5">
+          <mxGeometry x="940" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ks-MGX2oiENzWUd814f-85" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-Ks-MGX2oiENzWUd814f-5">
+          <mxGeometry x="995" y="520" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ks-MGX2oiENzWUd814f-83" value="AG forwards to" style="whiteSpace=wrap;html=1;" vertex="1" parent="-Ks-MGX2oiENzWUd814f-5">
+          <mxGeometry x="940" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ks-MGX2oiENzWUd814f-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="-Ks-MGX2oiENzWUd814f-5" source="-Ks-MGX2oiENzWUd814f-79" target="-Ks-MGX2oiENzWUd814f-83">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1000" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Ks-MGX2oiENzWUd814f-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="-Ks-MGX2oiENzWUd814f-5" source="-Ks-MGX2oiENzWUd814f-83" target="-Ks-MGX2oiENzWUd814f-78">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1000" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Ks-MGX2oiENzWUd814f-90" value="POMAC forwards for gazettement" style="whiteSpace=wrap;html=1;" vertex="1" parent="-Ks-MGX2oiENzWUd814f-5">
+          <mxGeometry x="940" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ks-MGX2oiENzWUd814f-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="-Ks-MGX2oiENzWUd814f-5" source="-Ks-MGX2oiENzWUd814f-78" target="-Ks-MGX2oiENzWUd814f-90">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-Ks-MGX2oiENzWUd814f-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Ks-MGX2oiENzWUd814f-19" target="-Ks-MGX2oiENzWUd814f-21">
           <mxGeometry relative="1" as="geometry" />
@@ -202,10 +227,8 @@
         <mxCell id="-Ks-MGX2oiENzWUd814f-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Ks-MGX2oiENzWUd814f-70" target="-Ks-MGX2oiENzWUd814f-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-Ks-MGX2oiENzWUd814f-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.513;entryY=0.088;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-Ks-MGX2oiENzWUd814f-74" target="-Ks-MGX2oiENzWUd814f-78">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1010" y="220" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="-Ks-MGX2oiENzWUd814f-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Ks-MGX2oiENzWUd814f-74" target="-Ks-MGX2oiENzWUd814f-79">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-Ks-MGX2oiENzWUd814f-74" value="Pardon warranty is forwarded to H.E the president through Head of Civil Service" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="80" width="120" height="60" as="geometry" />
