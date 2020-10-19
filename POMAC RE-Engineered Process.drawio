@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-19T11:39:05.010Z" agent="5.0 (Windows)" etag="FRkoKrv_Wz1lT_lufXM4" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-19T11:42:53.833Z" agent="5.0 (Windows)" etag="5W0bmEZE7D4wzbJeCfrQ" version="13.8.0" type="github">
   <diagram id="tHyQBRfuijBE6Kjzy-yp" name="Page-1">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -63,8 +63,8 @@
         <mxCell id="-Ks-MGX2oiENzWUd814f-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="-Ks-MGX2oiENzWUd814f-5" source="-Ks-MGX2oiENzWUd814f-29" target="-Ks-MGX2oiENzWUd814f-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-Ks-MGX2oiENzWUd814f-36" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="-Ks-MGX2oiENzWUd814f-5">
-          <mxGeometry x="275" y="290" width="120" height="60" as="geometry" />
+        <mxCell id="-Ks-MGX2oiENzWUd814f-36" value="Secretariat updates any missing information and prepares petition summary and admissibility recommendation" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="-Ks-MGX2oiENzWUd814f-5">
+          <mxGeometry x="250" y="290" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="-Ks-MGX2oiENzWUd814f-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="-Ks-MGX2oiENzWUd814f-5" source="-Ks-MGX2oiENzWUd814f-34" target="-Ks-MGX2oiENzWUd814f-36">
           <mxGeometry relative="1" as="geometry" />
