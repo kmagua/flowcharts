@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-20T06:50:43.339Z" agent="5.0 (Windows)" etag="hcxJGd-uPzhb41zaVeOe" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-20T06:50:59.960Z" agent="5.0 (Windows)" etag="_glK5G8VKKy-aSj_f_MP" version="13.8.0" type="github">
   <diagram id="tHyQBRfuijBE6Kjzy-yp" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -185,7 +185,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-Ks-MGX2oiENzWUd814f-74" value="Pardon warranty is forwarded to H.E the president through Head of Civil Service" style="whiteSpace=wrap;html=1;" parent="-Ks-MGX2oiENzWUd814f-5" vertex="1">
-          <mxGeometry x="952" y="50" width="120" height="60" as="geometry" />
+          <mxGeometry x="952" y="45" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-Ks-MGX2oiENzWUd814f-92" value="Implementation of&lt;br/&gt;recommendation&lt;br/&gt;" style="whiteSpace=wrap;html=1;" parent="-Ks-MGX2oiENzWUd814f-5" vertex="1">
           <mxGeometry x="892" y="660" width="120" height="60" as="geometry" />
@@ -233,7 +233,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-Ks-MGX2oiENzWUd814f-71" value="Secretariat fills the legal instrument of&amp;nbsp; recommendations for signing by secretary and the chairperson" style="whiteSpace=wrap;html=1;" parent="-Ks-MGX2oiENzWUd814f-5" vertex="1">
-          <mxGeometry x="672" y="40" width="160" height="80" as="geometry" />
+          <mxGeometry x="672" y="40" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="-Ks-MGX2oiENzWUd814f-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="-Ks-MGX2oiENzWUd814f-5" source="-Ks-MGX2oiENzWUd814f-71" target="-Ks-MGX2oiENzWUd814f-74" edge="1">
           <mxGeometry relative="1" as="geometry" />
