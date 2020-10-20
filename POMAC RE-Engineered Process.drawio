@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-20T06:23:06.336Z" agent="5.0 (Windows)" etag="da5j55ER8MOI_YmDv4Ck" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-20T06:27:36.988Z" agent="5.0 (Windows)" etag="t34CfUoWVk4ddLRlXLuw" version="13.8.0" type="github">
   <diagram id="tHyQBRfuijBE6Kjzy-yp" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -151,7 +151,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-Ks-MGX2oiENzWUd814f-73" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="-Ks-MGX2oiENzWUd814f-5" vertex="1">
-          <mxGeometry x="746" y="220" width="40" height="20" as="geometry" />
+          <mxGeometry x="747" y="216" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-Ks-MGX2oiENzWUd814f-78" value="Pardon Approved?" style="rhombus;whiteSpace=wrap;html=1;" parent="-Ks-MGX2oiENzWUd814f-5" vertex="1">
           <mxGeometry x="912" y="440" width="80" height="80" as="geometry" />
@@ -224,6 +224,25 @@
         <mxCell id="-Ks-MGX2oiENzWUd814f-113" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="-Ks-MGX2oiENzWUd814f-5" vertex="1">
           <mxGeometry x="626" y="489" width="40" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="6u8wpM2GopLzyl4acvI8-3" value="is pardon presidential?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="-Ks-MGX2oiENzWUd814f-5">
+          <mxGeometry x="695.5" y="146" width="113" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6u8wpM2GopLzyl4acvI8-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="-Ks-MGX2oiENzWUd814f-5" source="-Ks-MGX2oiENzWUd814f-70" target="6u8wpM2GopLzyl4acvI8-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="852" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Ks-MGX2oiENzWUd814f-71" value="Secretariat fills the legal instrument of&amp;nbsp; recommendations for signing by secretary and the chairperson" style="whiteSpace=wrap;html=1;" parent="-Ks-MGX2oiENzWUd814f-5" vertex="1">
+          <mxGeometry x="672" y="40" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ks-MGX2oiENzWUd814f-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="-Ks-MGX2oiENzWUd814f-5" source="-Ks-MGX2oiENzWUd814f-71" target="-Ks-MGX2oiENzWUd814f-74" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6u8wpM2GopLzyl4acvI8-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="-Ks-MGX2oiENzWUd814f-5" source="6u8wpM2GopLzyl4acvI8-3" target="-Ks-MGX2oiENzWUd814f-71">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="615.5" y="173" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="-Ks-MGX2oiENzWUd814f-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-Ks-MGX2oiENzWUd814f-19" target="-Ks-MGX2oiENzWUd814f-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -266,15 +285,6 @@
         <mxCell id="-Ks-MGX2oiENzWUd814f-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-Ks-MGX2oiENzWUd814f-57" target="-Ks-MGX2oiENzWUd814f-59" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-Ks-MGX2oiENzWUd814f-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-Ks-MGX2oiENzWUd814f-71" target="-Ks-MGX2oiENzWUd814f-74" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-Ks-MGX2oiENzWUd814f-71" value="Secretariat fills the legal instrument of&amp;nbsp; recommendations for signing by secretary and the chairperson" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="682" y="70" width="160" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="-Ks-MGX2oiENzWUd814f-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-Ks-MGX2oiENzWUd814f-70" target="-Ks-MGX2oiENzWUd814f-71" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="-Ks-MGX2oiENzWUd814f-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="-Ks-MGX2oiENzWUd814f-103" target="-Ks-MGX2oiENzWUd814f-102" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1197" y="490" as="targetPoint" />
@@ -296,8 +306,8 @@
             <mxPoint x="642" y="200" as="targetPoint" />
             <Array as="points">
               <mxPoint x="642" y="290" />
-              <mxPoint x="642" y="50" />
-              <mxPoint x="1097" y="50" />
+              <mxPoint x="642" y="40" />
+              <mxPoint x="1097" y="40" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -306,10 +316,13 @@
             <mxPoint x="612" y="660" as="targetPoint" />
             <Array as="points">
               <mxPoint x="642" y="660" />
-              <mxPoint x="642" y="50" />
-              <mxPoint x="1097" y="50" />
+              <mxPoint x="642" y="40" />
+              <mxPoint x="1097" y="40" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="6u8wpM2GopLzyl4acvI8-9" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="757" y="137" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
