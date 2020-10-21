@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-21T12:01:12.315Z" agent="5.0 (Windows)" etag="RbiEWOY82pxvq_-huXxQ" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-21T12:03:08.057Z" agent="5.0 (Windows)" etag="Lh1Tdyrl1M-2BV_jg0zW" version="13.8.0" type="github">
   <diagram id="tHyQBRfuijBE6Kjzy-yp" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -110,10 +110,10 @@
           <mxGeometry x="311" y="123" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-Ks-MGX2oiENzWUd814f-53" value="Committee Members accesses the petitioner&#39;s dashboard and completes the score sheet and makes his/her recommendation" style="whiteSpace=wrap;html=1;" parent="-Ks-MGX2oiENzWUd814f-5" vertex="1">
-          <mxGeometry x="431" y="520" width="170" height="60" as="geometry" />
+          <mxGeometry x="431" y="430" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-Ks-MGX2oiENzWUd814f-55" value="System generate outcome report based on majority votes.Tie is a pass." style="whiteSpace=wrap;html=1;" parent="-Ks-MGX2oiENzWUd814f-5" vertex="1">
-          <mxGeometry x="456" y="620" width="120" height="60" as="geometry" />
+          <mxGeometry x="456" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-Ks-MGX2oiENzWUd814f-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="-Ks-MGX2oiENzWUd814f-5" source="-Ks-MGX2oiENzWUd814f-53" target="-Ks-MGX2oiENzWUd814f-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -121,8 +121,10 @@
         <mxCell id="-Ks-MGX2oiENzWUd814f-57" value="Plan for Interview with offender" style="whiteSpace=wrap;html=1;" parent="-Ks-MGX2oiENzWUd814f-5" vertex="1">
           <mxGeometry x="456" y="743" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-Ks-MGX2oiENzWUd814f-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="-Ks-MGX2oiENzWUd814f-5" source="-Ks-MGX2oiENzWUd814f-55" target="-Ks-MGX2oiENzWUd814f-57" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="-Ks-MGX2oiENzWUd814f-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="-Ks-MGX2oiENzWUd814f-5" source="-Ks-MGX2oiENzWUd814f-55" target="oIdW3g8atySKWdZ8UZkE-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="516" y="640" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="-Ks-MGX2oiENzWUd814f-61" value="recommended for pardon?" style="rhombus;whiteSpace=wrap;html=1;" parent="-Ks-MGX2oiENzWUd814f-5" vertex="1">
           <mxGeometry x="671" y="540" width="130" height="80" as="geometry" />
@@ -289,6 +291,32 @@
         <mxCell id="oIdW3g8atySKWdZ8UZkE-1" value="System generate outcome report based on majority votes.Tie is a pass." style="whiteSpace=wrap;html=1;" vertex="1" parent="-Ks-MGX2oiENzWUd814f-5">
           <mxGeometry x="676" y="647" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="-Ks-MGX2oiENzWUd814f-44" value="CEO approves and forwards to secretary petitions sub-committee" style="whiteSpace=wrap;html=1;" parent="-Ks-MGX2oiENzWUd814f-5" vertex="1">
+          <mxGeometry x="456" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ks-MGX2oiENzWUd814f-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="-Ks-MGX2oiENzWUd814f-5" source="-Ks-MGX2oiENzWUd814f-41" target="-Ks-MGX2oiENzWUd814f-44" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ks-MGX2oiENzWUd814f-51" value="Secretary Schedules meeting and generates reports for each member&#39;s dashboard" style="whiteSpace=wrap;html=1;" parent="-Ks-MGX2oiENzWUd814f-5" vertex="1">
+          <mxGeometry x="446" y="350" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ks-MGX2oiENzWUd814f-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="-Ks-MGX2oiENzWUd814f-5" source="-Ks-MGX2oiENzWUd814f-44" target="-Ks-MGX2oiENzWUd814f-51" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ks-MGX2oiENzWUd814f-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="-Ks-MGX2oiENzWUd814f-5" source="-Ks-MGX2oiENzWUd814f-51" target="-Ks-MGX2oiENzWUd814f-53" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oIdW3g8atySKWdZ8UZkE-4" value="Approved?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="-Ks-MGX2oiENzWUd814f-5">
+          <mxGeometry x="476" y="630" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oIdW3g8atySKWdZ8UZkE-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="-Ks-MGX2oiENzWUd814f-5" source="oIdW3g8atySKWdZ8UZkE-4" target="-Ks-MGX2oiENzWUd814f-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="516" y="793" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oIdW3g8atySKWdZ8UZkE-7" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-Ks-MGX2oiENzWUd814f-5">
+          <mxGeometry x="510" y="710" width="40" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="-Ks-MGX2oiENzWUd814f-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-Ks-MGX2oiENzWUd814f-19" target="-Ks-MGX2oiENzWUd814f-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -297,21 +325,6 @@
         </mxCell>
         <mxCell id="-Ks-MGX2oiENzWUd814f-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-Ks-MGX2oiENzWUd814f-17" target="-Ks-MGX2oiENzWUd814f-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-Ks-MGX2oiENzWUd814f-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-Ks-MGX2oiENzWUd814f-44" target="-Ks-MGX2oiENzWUd814f-51" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-Ks-MGX2oiENzWUd814f-44" value="CEO approves and forwards to secretary petitions sub-committee" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="466" y="300" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-Ks-MGX2oiENzWUd814f-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-Ks-MGX2oiENzWUd814f-41" target="-Ks-MGX2oiENzWUd814f-44" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-Ks-MGX2oiENzWUd814f-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-Ks-MGX2oiENzWUd814f-51" target="-Ks-MGX2oiENzWUd814f-53" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-Ks-MGX2oiENzWUd814f-51" value="Secretary Schedules meeting and generates reports for each member&#39;s dashboard" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="456" y="421" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-Ks-MGX2oiENzWUd814f-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="-Ks-MGX2oiENzWUd814f-59" target="oIdW3g8atySKWdZ8UZkE-1" edge="1">
           <mxGeometry relative="1" as="geometry">
