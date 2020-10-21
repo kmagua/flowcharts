@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-21T10:21:58.176Z" agent="5.0 (Windows)" etag="mMRnTE2LneMp0KwMrBKJ" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-21T10:22:21.654Z" agent="5.0 (Windows)" etag="GBt-klVktm7WL1M_Lxie" version="13.8.0" type="github">
   <diagram id="tHyQBRfuijBE6Kjzy-yp" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -109,7 +109,7 @@
         <mxCell id="-Ks-MGX2oiENzWUd814f-50" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="-Ks-MGX2oiENzWUd814f-5" vertex="1">
           <mxGeometry x="311" y="123" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-Ks-MGX2oiENzWUd814f-53" value="Committee Members accesses the petition data and completes the score sheet and makes final recommendation" style="whiteSpace=wrap;html=1;" parent="-Ks-MGX2oiENzWUd814f-5" vertex="1">
+        <mxCell id="-Ks-MGX2oiENzWUd814f-53" value="Committee Members accesses the petitioner&#39;s dashboard and completes the score sheet and makes final recommendation" style="whiteSpace=wrap;html=1;" parent="-Ks-MGX2oiENzWUd814f-5" vertex="1">
           <mxGeometry x="431" y="520" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-Ks-MGX2oiENzWUd814f-55" value="System generate outcome report based on majority votes.Tie is a pass." style="whiteSpace=wrap;html=1;" parent="-Ks-MGX2oiENzWUd814f-5" vertex="1">
