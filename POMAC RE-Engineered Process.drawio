@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-21T11:48:12.367Z" agent="5.0 (Windows)" etag="TIli7m6C2ZSDB4FPnCx5" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-21T12:00:20.422Z" agent="5.0 (Windows)" etag="GAaGyXXZqdsF1NIeqjyP" version="13.8.0" type="github">
   <diagram id="tHyQBRfuijBE6Kjzy-yp" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -125,16 +125,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-Ks-MGX2oiENzWUd814f-61" value="recommended for pardon?" style="rhombus;whiteSpace=wrap;html=1;" parent="-Ks-MGX2oiENzWUd814f-5" vertex="1">
-          <mxGeometry x="671" y="610" width="130" height="80" as="geometry" />
+          <mxGeometry x="671" y="540" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-Ks-MGX2oiENzWUd814f-63" value="Request for NIS recommendations" style="whiteSpace=wrap;html=1;" parent="-Ks-MGX2oiENzWUd814f-5" vertex="1">
-          <mxGeometry x="676" y="489" width="120" height="60" as="geometry" />
+          <mxGeometry x="676" y="449" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-Ks-MGX2oiENzWUd814f-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="-Ks-MGX2oiENzWUd814f-5" source="-Ks-MGX2oiENzWUd814f-61" target="-Ks-MGX2oiENzWUd814f-63" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-Ks-MGX2oiENzWUd814f-65" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="-Ks-MGX2oiENzWUd814f-5" vertex="1">
-          <mxGeometry x="730" y="570" width="40" height="20" as="geometry" />
+          <mxGeometry x="730" y="520" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-Ks-MGX2oiENzWUd814f-66" value="On receipt of NIS report, convene full committee meeting to approve full committee recommendations based on NIS recommendations" style="whiteSpace=wrap;html=1;" parent="-Ks-MGX2oiENzWUd814f-5" vertex="1">
           <mxGeometry x="646" y="340" width="180" height="80" as="geometry" />
@@ -286,6 +286,9 @@
         <mxCell id="-Ks-MGX2oiENzWUd814f-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="-Ks-MGX2oiENzWUd814f-5" source="-Ks-MGX2oiENzWUd814f-21" target="-Ks-MGX2oiENzWUd814f-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="oIdW3g8atySKWdZ8UZkE-1" value="System generate outcome report based on majority votes.Tie is a pass." style="whiteSpace=wrap;html=1;" vertex="1" parent="-Ks-MGX2oiENzWUd814f-5">
+          <mxGeometry x="676" y="647" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="-Ks-MGX2oiENzWUd814f-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-Ks-MGX2oiENzWUd814f-19" target="-Ks-MGX2oiENzWUd814f-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -310,8 +313,10 @@
         <mxCell id="-Ks-MGX2oiENzWUd814f-51" value="Secretary Schedules meeting and generates reports for each member&#39;s dashboard" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="456" y="421" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-Ks-MGX2oiENzWUd814f-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-Ks-MGX2oiENzWUd814f-59" target="-Ks-MGX2oiENzWUd814f-61" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="-Ks-MGX2oiENzWUd814f-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="-Ks-MGX2oiENzWUd814f-59" target="oIdW3g8atySKWdZ8UZkE-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="746" y="690" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="-Ks-MGX2oiENzWUd814f-59" value="Members interview offender and each member updates his/her observations on the score sheet with a recommendation" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="666" y="748" width="160" height="70" as="geometry" />
@@ -347,11 +352,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-Ks-MGX2oiENzWUd814f-112" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="-Ks-MGX2oiENzWUd814f-61" target="-Ks-MGX2oiENzWUd814f-103" edge="1">
+        <mxCell id="-Ks-MGX2oiENzWUd814f-112" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="-Ks-MGX2oiENzWUd814f-61" target="-Ks-MGX2oiENzWUd814f-103" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="596" y="660" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="626" y="660" />
+              <mxPoint x="626" y="590" />
               <mxPoint x="626" y="40" />
               <mxPoint x="1134" y="40" />
               <mxPoint x="1134" y="440" />
@@ -361,6 +366,11 @@
         </mxCell>
         <mxCell id="6u8wpM2GopLzyl4acvI8-9" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="741" y="137" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oIdW3g8atySKWdZ8UZkE-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="oIdW3g8atySKWdZ8UZkE-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="746" y="630" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
