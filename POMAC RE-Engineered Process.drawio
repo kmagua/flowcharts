@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-21T10:22:21.654Z" agent="5.0 (Windows)" etag="GBt-klVktm7WL1M_Lxie" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-21T11:48:12.367Z" agent="5.0 (Windows)" etag="TIli7m6C2ZSDB4FPnCx5" version="13.8.0" type="github">
   <diagram id="tHyQBRfuijBE6Kjzy-yp" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -109,7 +109,7 @@
         <mxCell id="-Ks-MGX2oiENzWUd814f-50" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="-Ks-MGX2oiENzWUd814f-5" vertex="1">
           <mxGeometry x="311" y="123" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-Ks-MGX2oiENzWUd814f-53" value="Committee Members accesses the petitioner&#39;s dashboard and completes the score sheet and makes final recommendation" style="whiteSpace=wrap;html=1;" parent="-Ks-MGX2oiENzWUd814f-5" vertex="1">
+        <mxCell id="-Ks-MGX2oiENzWUd814f-53" value="Committee Members accesses the petitioner&#39;s dashboard and completes the score sheet and makes his/her recommendation" style="whiteSpace=wrap;html=1;" parent="-Ks-MGX2oiENzWUd814f-5" vertex="1">
           <mxGeometry x="431" y="520" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-Ks-MGX2oiENzWUd814f-55" value="System generate outcome report based on majority votes.Tie is a pass." style="whiteSpace=wrap;html=1;" parent="-Ks-MGX2oiENzWUd814f-5" vertex="1">
@@ -313,7 +313,7 @@
         <mxCell id="-Ks-MGX2oiENzWUd814f-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-Ks-MGX2oiENzWUd814f-59" target="-Ks-MGX2oiENzWUd814f-61" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-Ks-MGX2oiENzWUd814f-59" value="Members interview offender and each member updates his/her observations and recommendations on the system" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="-Ks-MGX2oiENzWUd814f-59" value="Members interview offender and each member updates his/her observations on the score sheet with a recommendation" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="666" y="748" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="-Ks-MGX2oiENzWUd814f-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-Ks-MGX2oiENzWUd814f-57" target="-Ks-MGX2oiENzWUd814f-59" edge="1">
