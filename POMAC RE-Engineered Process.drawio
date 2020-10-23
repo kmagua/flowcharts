@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-23T09:28:55.499Z" agent="5.0 (Windows)" etag="rmrAk3KY_9-8IeOUGbWP" version="13.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-23T10:40:28.686Z" agent="5.0 (Windows)" etag="G8kDwBL3ApGxN6tO1o-R" version="13.8.1" type="github">
   <diagram id="tHyQBRfuijBE6Kjzy-yp" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -158,23 +158,15 @@
         <mxCell id="-Ks-MGX2oiENzWUd814f-78" value="Pardon Granted?" style="rhombus;whiteSpace=wrap;html=1;" parent="-Ks-MGX2oiENzWUd814f-5" vertex="1">
           <mxGeometry x="890" y="440" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-Ks-MGX2oiENzWUd814f-79" value="AG receives feedback from Head of Public service" style="whiteSpace=wrap;html=1;" parent="-Ks-MGX2oiENzWUd814f-5" vertex="1">
-          <mxGeometry x="936" y="190" width="120" height="60" as="geometry" />
+        <mxCell id="-Ks-MGX2oiENzWUd814f-79" value="POMAC receives notification of petition outcome" style="whiteSpace=wrap;html=1;" parent="-Ks-MGX2oiENzWUd814f-5" vertex="1">
+          <mxGeometry x="936" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-Ks-MGX2oiENzWUd814f-85" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="-Ks-MGX2oiENzWUd814f-5" vertex="1">
           <mxGeometry x="931" y="520" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-Ks-MGX2oiENzWUd814f-83" value="AG forwards to POMAC" style="whiteSpace=wrap;html=1;" parent="-Ks-MGX2oiENzWUd814f-5" vertex="1">
-          <mxGeometry x="926" y="320" width="140" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-Ks-MGX2oiENzWUd814f-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="-Ks-MGX2oiENzWUd814f-5" source="-Ks-MGX2oiENzWUd814f-79" target="-Ks-MGX2oiENzWUd814f-83" edge="1">
+        <mxCell id="-Ks-MGX2oiENzWUd814f-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="-Ks-MGX2oiENzWUd814f-5" source="-Ks-MGX2oiENzWUd814f-79" target="-Ks-MGX2oiENzWUd814f-78" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="936" y="330" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-Ks-MGX2oiENzWUd814f-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="-Ks-MGX2oiENzWUd814f-5" source="-Ks-MGX2oiENzWUd814f-83" target="-Ks-MGX2oiENzWUd814f-78" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="936" y="460" as="targetPoint" />
+            <mxPoint x="996" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-Ks-MGX2oiENzWUd814f-90" value="POMAC forwards for gazettement" style="whiteSpace=wrap;html=1;" parent="-Ks-MGX2oiENzWUd814f-5" vertex="1">
