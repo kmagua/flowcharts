@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-23T11:55:38.269Z" agent="5.0 (Windows)" etag="SejywxZx1u52xO_vUk5L" version="13.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-23T12:00:46.185Z" agent="5.0 (Windows)" etag="QIsVcKoQwFuMKHG97hNf" version="13.8.1" type="github">
   <diagram id="tHyQBRfuijBE6Kjzy-yp" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -11,28 +11,15 @@
           <mxGeometry x="66" y="31" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-Ks-MGX2oiENzWUd814f-12" value="Petitioner/Applicant fills in the Petition form online and submits" style="rounded=0;whiteSpace=wrap;html=1;" parent="-Ks-MGX2oiENzWUd814f-5" vertex="1">
-          <mxGeometry x="51" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="51" y="117" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-Ks-MGX2oiENzWUd814f-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="-Ks-MGX2oiENzWUd814f-5" source="-Ks-MGX2oiENzWUd814f-6" target="-Ks-MGX2oiENzWUd814f-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="111" y="175" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-Ks-MGX2oiENzWUd814f-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="-Ks-MGX2oiENzWUd814f-5" source="-Ks-MGX2oiENzWUd814f-12" target="-Ks-MGX2oiENzWUd814f-15" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="170" y="270" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-Ks-MGX2oiENzWUd814f-15" value="Secretariat Performs Eligibility &lt;font color=&quot;#FF0080&quot;&gt;--- THIS IS A DECISION - if eligible generate petition #&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="-Ks-MGX2oiENzWUd814f-5" vertex="1">
-          <mxGeometry x="51" y="295" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="-Ks-MGX2oiENzWUd814f-17" value="Petition number" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" parent="-Ks-MGX2oiENzWUd814f-5" vertex="1">
-          <mxGeometry x="51" y="520" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-Ks-MGX2oiENzWUd814f-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="-Ks-MGX2oiENzWUd814f-5" source="-Ks-MGX2oiENzWUd814f-13" target="-Ks-MGX2oiENzWUd814f-17" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="111" y="440" as="sourcePoint" />
-          </mxGeometry>
+          <mxGeometry x="51" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-Ks-MGX2oiENzWUd814f-23" value="Recommendations" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" parent="-Ks-MGX2oiENzWUd814f-5" vertex="1">
           <mxGeometry x="206" y="757" width="130" height="50" as="geometry" />
@@ -307,12 +294,26 @@
         <mxCell id="oIdW3g8atySKWdZ8UZkE-7" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="-Ks-MGX2oiENzWUd814f-5" vertex="1">
           <mxGeometry x="510" y="710" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-Ks-MGX2oiENzWUd814f-13" value="POMAC acknowledges receipt of Petition&lt;font color=&quot;#FF0080&quot;&gt; -&amp;nbsp; To go after Number is generated (Applicant and Petitioner)&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="-Ks-MGX2oiENzWUd814f-5" vertex="1">
-          <mxGeometry x="51" y="404" width="120" height="60" as="geometry" />
+        <mxCell id="-Ks-MGX2oiENzWUd814f-13" value="Send receipt acknowledgement to Petitioner and Applicant " style="whiteSpace=wrap;html=1;rounded=0;" parent="-Ks-MGX2oiENzWUd814f-5" vertex="1">
+          <mxGeometry x="51" y="530" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sN-pXaPOq3LDXP0OLPHR-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="-Ks-MGX2oiENzWUd814f-5" source="-Ks-MGX2oiENzWUd814f-15" target="-Ks-MGX2oiENzWUd814f-13">
+        <mxCell id="sN-pXaPOq3LDXP0OLPHR-3" value="meets Eligibility?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="-Ks-MGX2oiENzWUd814f-5">
+          <mxGeometry x="71" y="230" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ks-MGX2oiENzWUd814f-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="-Ks-MGX2oiENzWUd814f-5" source="-Ks-MGX2oiENzWUd814f-12" target="sN-pXaPOq3LDXP0OLPHR-3" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="111" y="435" as="targetPoint" />
+            <mxPoint x="111" y="240" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sN-pXaPOq3LDXP0OLPHR-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="-Ks-MGX2oiENzWUd814f-5" source="sN-pXaPOq3LDXP0OLPHR-3" target="-Ks-MGX2oiENzWUd814f-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="111" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sN-pXaPOq3LDXP0OLPHR-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="-Ks-MGX2oiENzWUd814f-5" source="-Ks-MGX2oiENzWUd814f-17" target="-Ks-MGX2oiENzWUd814f-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="111" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-Ks-MGX2oiENzWUd814f-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-Ks-MGX2oiENzWUd814f-19" target="-Ks-MGX2oiENzWUd814f-21" edge="1">
@@ -320,9 +321,6 @@
         </mxCell>
         <mxCell id="-Ks-MGX2oiENzWUd814f-19" value="Forward to CEO for approval" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="61" y="670" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-Ks-MGX2oiENzWUd814f-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-Ks-MGX2oiENzWUd814f-17" target="-Ks-MGX2oiENzWUd814f-19" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-Ks-MGX2oiENzWUd814f-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="-Ks-MGX2oiENzWUd814f-59" target="oIdW3g8atySKWdZ8UZkE-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -398,6 +396,9 @@
         </mxCell>
         <mxCell id="oIdW3g8atySKWdZ8UZkE-10" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="594" y="662" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sN-pXaPOq3LDXP0OLPHR-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Ks-MGX2oiENzWUd814f-13" target="-Ks-MGX2oiENzWUd814f-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
