@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-23T08:52:28.748Z" agent="5.0 (Windows)" etag="7cI2jzmoqM8nawEGwmLd" version="13.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-23T09:06:36.455Z" agent="5.0 (Windows)" etag="Lg8WsGfTjKd3XdpG_e6t" version="13.8.1" type="github">
   <diagram id="tHyQBRfuijBE6Kjzy-yp" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -186,7 +186,7 @@
         <mxCell id="-Ks-MGX2oiENzWUd814f-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="-Ks-MGX2oiENzWUd814f-5" source="-Ks-MGX2oiENzWUd814f-74" target="-Ks-MGX2oiENzWUd814f-79" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-Ks-MGX2oiENzWUd814f-74" value="Pardon warranty is forwarded to H.E the president through Head of Civil Service" style="whiteSpace=wrap;html=1;" parent="-Ks-MGX2oiENzWUd814f-5" vertex="1">
+        <mxCell id="-Ks-MGX2oiENzWUd814f-74" value="Pardon warranty is forwarded to H.E the president" style="whiteSpace=wrap;html=1;" parent="-Ks-MGX2oiENzWUd814f-5" vertex="1">
           <mxGeometry x="936" y="45" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-Ks-MGX2oiENzWUd814f-92" value="Implementation of&lt;br&gt;recommendation (update petition outcome)" style="whiteSpace=wrap;html=1;" parent="-Ks-MGX2oiENzWUd814f-5" vertex="1">
