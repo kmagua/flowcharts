@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-02T12:15:39.787Z" agent="5.0 (Windows)" etag="qHT_AnmcrvXmI_ECDHKE" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-02T12:17:33.223Z" agent="5.0 (Windows)" etag="_RSZz6gQ7G_Wr5_1NAzE" version="13.8.8" type="github">
   <diagram id="tHyQBRfuijBE6Kjzy-yp" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -43,16 +43,10 @@
           <mxGeometry x="240" y="620" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-Ks-MGX2oiENzWUd814f-34" value="CEO/Secretary receives reports from all stakeholders and forwards to secretariat" style="whiteSpace=wrap;html=1;rounded=0;" parent="-Ks-MGX2oiENzWUd814f-5" vertex="1">
-          <mxGeometry x="246" y="410" width="130" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-Ks-MGX2oiENzWUd814f-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="-Ks-MGX2oiENzWUd814f-5" source="-Ks-MGX2oiENzWUd814f-29" target="-Ks-MGX2oiENzWUd814f-34" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="246" y="340" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-Ks-MGX2oiENzWUd814f-36" value="Secretariat updates any missing information and prepares petition summary and admissibility recommendation" style="whiteSpace=wrap;html=1;rounded=0;" parent="-Ks-MGX2oiENzWUd814f-5" vertex="1">
-          <mxGeometry x="226" y="290" width="170" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="-Ks-MGX2oiENzWUd814f-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="-Ks-MGX2oiENzWUd814f-5" source="-Ks-MGX2oiENzWUd814f-34" target="-Ks-MGX2oiENzWUd814f-36" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="226" y="250" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="-Ks-MGX2oiENzWUd814f-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="-Ks-MGX2oiENzWUd814f-5" source="-Ks-MGX2oiENzWUd814f-36" target="-Ks-MGX2oiENzWUd814f-40" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -297,6 +291,17 @@
         </mxCell>
         <mxCell id="sN-pXaPOq3LDXP0OLPHR-12" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="-Ks-MGX2oiENzWUd814f-5" vertex="1">
           <mxGeometry x="106" y="324" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gZBhymeAfZyvqRHIvQGu-2" value="Stakeholders receive information request and send feedback" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="-Ks-MGX2oiENzWUd814f-5">
+          <mxGeometry x="251" y="430" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gZBhymeAfZyvqRHIvQGu-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="-Ks-MGX2oiENzWUd814f-5" source="-Ks-MGX2oiENzWUd814f-29" target="gZBhymeAfZyvqRHIvQGu-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gZBhymeAfZyvqRHIvQGu-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="-Ks-MGX2oiENzWUd814f-5" source="gZBhymeAfZyvqRHIvQGu-2" target="-Ks-MGX2oiENzWUd814f-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="311" y="355" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="-Ks-MGX2oiENzWUd814f-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-Ks-MGX2oiENzWUd814f-19" target="-Ks-MGX2oiENzWUd814f-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
