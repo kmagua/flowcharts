@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-11-05T07:05:24.171Z" agent="5.0 (Windows)" etag="xmr4an9NO5FGV5rBxi9G" version="13.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-05T07:06:11.626Z" agent="5.0 (Windows)" etag="cU_R3T5qji4_-Ja9rigo" version="13.9.1" type="github">
   <diagram id="AS_vAL803tgbhomy-etc" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="bzjPsa7Bnyj8pUQ7Ct00-1" value="PMIS - Accounts Process" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="1">
-          <mxGeometry y="10" width="1150" height="670" as="geometry" />
+          <mxGeometry y="10" width="1150" height="740" as="geometry" />
         </mxCell>
         <mxCell id="bzjPsa7Bnyj8pUQ7Ct00-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="bzjPsa7Bnyj8pUQ7Ct00-1" source="bzjPsa7Bnyj8pUQ7Ct00-17" target="bzjPsa7Bnyj8pUQ7Ct00-19">
           <mxGeometry relative="1" as="geometry" />
@@ -47,13 +47,19 @@
           <mxGeometry x="451.75" y="20" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bzjPsa7Bnyj8pUQ7Ct00-5" value="Cashier" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="bzjPsa7Bnyj8pUQ7Ct00-1">
-          <mxGeometry y="430" width="1150" height="120" as="geometry" />
+          <mxGeometry y="430" width="1150" height="190" as="geometry" />
         </mxCell>
         <mxCell id="bzjPsa7Bnyj8pUQ7Ct00-21" value="Receive the electronic file, verify, validate and generate payment schedules" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="bzjPsa7Bnyj8pUQ7Ct00-5">
-          <mxGeometry x="735" y="30" width="120" height="60" as="geometry" />
+          <mxGeometry x="735" y="6" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bzjPsa7Bnyj8pUQ7Ct00-23" value="Upload approved schedules to the Internet Banking system through API and request for exchequer from IFMIS via a secure API" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="bzjPsa7Bnyj8pUQ7Ct00-5">
+          <mxGeometry x="720" y="90" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="bzjPsa7Bnyj8pUQ7Ct00-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="bzjPsa7Bnyj8pUQ7Ct00-5" source="bzjPsa7Bnyj8pUQ7Ct00-21" target="bzjPsa7Bnyj8pUQ7Ct00-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bzjPsa7Bnyj8pUQ7Ct00-6" value="Pensioner" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="bzjPsa7Bnyj8pUQ7Ct00-1">
-          <mxGeometry y="550" width="1150" height="120" as="geometry" />
+          <mxGeometry y="620" width="1150" height="120" as="geometry" />
         </mxCell>
         <mxCell id="bzjPsa7Bnyj8pUQ7Ct00-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bzjPsa7Bnyj8pUQ7Ct00-11" target="bzjPsa7Bnyj8pUQ7Ct00-13">
           <mxGeometry relative="1" as="geometry" />
@@ -71,12 +77,6 @@
           <mxGeometry x="467.5" y="230" width="127.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bzjPsa7Bnyj8pUQ7Ct00-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bzjPsa7Bnyj8pUQ7Ct00-13" target="bzjPsa7Bnyj8pUQ7Ct00-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="bzjPsa7Bnyj8pUQ7Ct00-23" value="Upload approved schedules to the Internet Banking system through API and request for exchequer from IFMIS via a secure API" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="905" y="455" width="150" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="bzjPsa7Bnyj8pUQ7Ct00-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bzjPsa7Bnyj8pUQ7Ct00-21" target="bzjPsa7Bnyj8pUQ7Ct00-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
