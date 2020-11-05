@@ -1,1 +1,63 @@
-<mxfile host="app.diagrams.net" modified="2020-11-05T06:35:39.971Z" agent="5.0 (Windows)" version="13.9.1" etag="_5LaZ99sc7kyENzaq06_" type="github"><diagram id="AS_vAL803tgbhomy-etc">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-05T06:56:57.089Z" agent="5.0 (Windows)" etag="3VfIlDyg-QeQB8csKU8G" version="13.9.1" type="github">
+  <diagram id="AS_vAL803tgbhomy-etc" name="Page-1">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bzjPsa7Bnyj8pUQ7Ct00-1" value="PMIS - Accounts Process" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="1">
+          <mxGeometry y="10" width="1150" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="bzjPsa7Bnyj8pUQ7Ct00-2" value="Team Lead Accounts" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="bzjPsa7Bnyj8pUQ7Ct00-1">
+          <mxGeometry y="20" width="1150" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="bzjPsa7Bnyj8pUQ7Ct00-7" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="bzjPsa7Bnyj8pUQ7Ct00-2">
+          <mxGeometry x="130" y="10" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bzjPsa7Bnyj8pUQ7Ct00-8" value="Receive claims payment schedule" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bzjPsa7Bnyj8pUQ7Ct00-2">
+          <mxGeometry x="115" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bzjPsa7Bnyj8pUQ7Ct00-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="bzjPsa7Bnyj8pUQ7Ct00-2" source="bzjPsa7Bnyj8pUQ7Ct00-7" target="bzjPsa7Bnyj8pUQ7Ct00-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="175" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bzjPsa7Bnyj8pUQ7Ct00-3" value="Accountant" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="bzjPsa7Bnyj8pUQ7Ct00-1">
+          <mxGeometry y="190" width="1150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="bzjPsa7Bnyj8pUQ7Ct00-13" value="Generate payment voucher and pensioner letter" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="bzjPsa7Bnyj8pUQ7Ct00-3">
+          <mxGeometry x="322.5" y="30" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bzjPsa7Bnyj8pUQ7Ct00-4" value="Voucher Approver" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="bzjPsa7Bnyj8pUQ7Ct00-1">
+          <mxGeometry y="310" width="1150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="bzjPsa7Bnyj8pUQ7Ct00-17" value="Verify, validate, approve and electronically stamp the payment voucher. Pensioner letter is auto generated" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="bzjPsa7Bnyj8pUQ7Ct00-4">
+          <mxGeometry x="536.75" y="20" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bzjPsa7Bnyj8pUQ7Ct00-5" value="Cashier" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="bzjPsa7Bnyj8pUQ7Ct00-1">
+          <mxGeometry y="430" width="1150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="bzjPsa7Bnyj8pUQ7Ct00-6" value="Pensioner" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="bzjPsa7Bnyj8pUQ7Ct00-1">
+          <mxGeometry y="550" width="1150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="bzjPsa7Bnyj8pUQ7Ct00-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bzjPsa7Bnyj8pUQ7Ct00-11" target="bzjPsa7Bnyj8pUQ7Ct00-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bzjPsa7Bnyj8pUQ7Ct00-11" value="Distribute the workload equally to accountants with time-stamping and dashboard monitoring" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="325" y="130" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bzjPsa7Bnyj8pUQ7Ct00-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bzjPsa7Bnyj8pUQ7Ct00-8" target="bzjPsa7Bnyj8pUQ7Ct00-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bzjPsa7Bnyj8pUQ7Ct00-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bzjPsa7Bnyj8pUQ7Ct00-15" target="bzjPsa7Bnyj8pUQ7Ct00-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bzjPsa7Bnyj8pUQ7Ct00-15" value="Verify and examine for correctness, append digital signature as per directorate approval" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="552.5" y="230" width="127.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bzjPsa7Bnyj8pUQ7Ct00-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bzjPsa7Bnyj8pUQ7Ct00-13" target="bzjPsa7Bnyj8pUQ7Ct00-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
