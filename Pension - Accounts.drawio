@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-05T07:06:53.067Z" agent="5.0 (Windows)" etag="FqIX7UxYySvZTqcBmGhX" version="13.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-05T07:13:13.084Z" agent="5.0 (Windows)" etag="5jWTC1MPkczM66DRb-6t" version="13.9.1" type="github">
   <diagram id="AS_vAL803tgbhomy-etc" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -77,6 +77,12 @@
           <mxGeometry x="467.5" y="230" width="127.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bzjPsa7Bnyj8pUQ7Ct00-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bzjPsa7Bnyj8pUQ7Ct00-13" target="bzjPsa7Bnyj8pUQ7Ct00-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bzjPsa7Bnyj8pUQ7Ct00-27" value="&lt;div&gt;The Lump sum payment is transmitted to IB (CBK) via an API for further transmission to the pensioner&#39;s account.&lt;/div&gt;&lt;div&gt;An alert is sent to payroll for Monthly pension payment&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="939" y="544" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="bzjPsa7Bnyj8pUQ7Ct00-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bzjPsa7Bnyj8pUQ7Ct00-23" target="bzjPsa7Bnyj8pUQ7Ct00-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
