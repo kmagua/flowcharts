@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-05T06:58:12.881Z" agent="5.0 (Windows)" etag="63wOIWJCFFr7qec9VvpR" version="13.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-05T07:03:55.784Z" agent="5.0 (Windows)" etag="U91xI1fJP9z-xITngJ-Q" version="13.9.1" type="github">
   <diagram id="AS_vAL803tgbhomy-etc" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -39,11 +39,21 @@
         <mxCell id="bzjPsa7Bnyj8pUQ7Ct00-5" value="Cashier" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="bzjPsa7Bnyj8pUQ7Ct00-1">
           <mxGeometry y="430" width="1150" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="bzjPsa7Bnyj8pUQ7Ct00-21" value="Receive the electronic file, verify, validate and generate payment schedules" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="bzjPsa7Bnyj8pUQ7Ct00-5">
+          <mxGeometry x="820" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="bzjPsa7Bnyj8pUQ7Ct00-6" value="Pensioner" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="bzjPsa7Bnyj8pUQ7Ct00-1">
           <mxGeometry y="550" width="1150" height="120" as="geometry" />
         </mxCell>
         <mxCell id="bzjPsa7Bnyj8pUQ7Ct00-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="bzjPsa7Bnyj8pUQ7Ct00-1" source="bzjPsa7Bnyj8pUQ7Ct00-17" target="bzjPsa7Bnyj8pUQ7Ct00-19">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bzjPsa7Bnyj8pUQ7Ct00-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="bzjPsa7Bnyj8pUQ7Ct00-1" source="bzjPsa7Bnyj8pUQ7Ct00-19" target="bzjPsa7Bnyj8pUQ7Ct00-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="880" y="250" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="bzjPsa7Bnyj8pUQ7Ct00-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bzjPsa7Bnyj8pUQ7Ct00-11" target="bzjPsa7Bnyj8pUQ7Ct00-13">
           <mxGeometry relative="1" as="geometry" />
@@ -61,6 +71,12 @@
           <mxGeometry x="552.5" y="230" width="127.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bzjPsa7Bnyj8pUQ7Ct00-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bzjPsa7Bnyj8pUQ7Ct00-13" target="bzjPsa7Bnyj8pUQ7Ct00-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bzjPsa7Bnyj8pUQ7Ct00-23" value="Upload approved schedules to the Internet Banking system through API and request for exchequer from IFMIS via a secure API" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="990" y="455" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="bzjPsa7Bnyj8pUQ7Ct00-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bzjPsa7Bnyj8pUQ7Ct00-21" target="bzjPsa7Bnyj8pUQ7Ct00-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
