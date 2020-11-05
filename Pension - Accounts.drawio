@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-11-05T07:17:09.572Z" agent="5.0 (Windows)" etag="r5oB2dxQew9GqjaXr04P" version="13.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-05T07:18:53.702Z" agent="5.0 (Windows)" etag="KBzvK-QhQBFizHqfoQUr" version="13.9.1" type="github">
   <diagram id="AS_vAL803tgbhomy-etc" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="bzjPsa7Bnyj8pUQ7Ct00-1" value="PMIS - Accounts Process" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="1">
-          <mxGeometry x="4" y="10" width="1150" height="770" as="geometry" />
+          <mxGeometry x="4" y="10" width="1150" height="790" as="geometry" />
         </mxCell>
         <mxCell id="bzjPsa7Bnyj8pUQ7Ct00-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="bzjPsa7Bnyj8pUQ7Ct00-1" source="bzjPsa7Bnyj8pUQ7Ct00-17" target="bzjPsa7Bnyj8pUQ7Ct00-19">
           <mxGeometry relative="1" as="geometry" />
@@ -65,10 +65,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bzjPsa7Bnyj8pUQ7Ct00-6" value="Pensioner" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="bzjPsa7Bnyj8pUQ7Ct00-1">
-          <mxGeometry y="650" width="1150" height="120" as="geometry" />
+          <mxGeometry y="650" width="1150" height="140" as="geometry" />
         </mxCell>
         <mxCell id="bzjPsa7Bnyj8pUQ7Ct00-29" value="Receive alert via USSD, email, sms and API. The pensioner letter is availed to the pensioner through the portal (downloadable)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="bzjPsa7Bnyj8pUQ7Ct00-6">
-          <mxGeometry x="816" y="40" width="210" height="60" as="geometry" />
+          <mxGeometry x="842" y="40" width="158" height="90" as="geometry" />
         </mxCell>
         <mxCell id="bzjPsa7Bnyj8pUQ7Ct00-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="bzjPsa7Bnyj8pUQ7Ct00-1" source="bzjPsa7Bnyj8pUQ7Ct00-15" target="bzjPsa7Bnyj8pUQ7Ct00-17">
           <mxGeometry relative="1" as="geometry" />
@@ -91,6 +91,12 @@
           <mxGeometry x="845" y="542" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="bzjPsa7Bnyj8pUQ7Ct00-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bzjPsa7Bnyj8pUQ7Ct00-23" target="bzjPsa7Bnyj8pUQ7Ct00-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bzjPsa7Bnyj8pUQ7Ct00-31" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="725" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bzjPsa7Bnyj8pUQ7Ct00-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bzjPsa7Bnyj8pUQ7Ct00-29" target="bzjPsa7Bnyj8pUQ7Ct00-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
