@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-05T07:18:53.702Z" agent="5.0 (Windows)" etag="KBzvK-QhQBFizHqfoQUr" version="13.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-05T07:22:18.633Z" agent="5.0 (Windows)" etag="xuT9nlfEdoISxM2zPYhe" version="13.9.1" type="github">
   <diagram id="AS_vAL803tgbhomy-etc" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -9,13 +9,6 @@
         </mxCell>
         <mxCell id="bzjPsa7Bnyj8pUQ7Ct00-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="bzjPsa7Bnyj8pUQ7Ct00-1" source="bzjPsa7Bnyj8pUQ7Ct00-17" target="bzjPsa7Bnyj8pUQ7Ct00-19">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="bzjPsa7Bnyj8pUQ7Ct00-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="bzjPsa7Bnyj8pUQ7Ct00-1" source="bzjPsa7Bnyj8pUQ7Ct00-19" target="bzjPsa7Bnyj8pUQ7Ct00-21">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="701" y="250" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="bzjPsa7Bnyj8pUQ7Ct00-2" value="Team Lead Accounts" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="bzjPsa7Bnyj8pUQ7Ct00-1">
           <mxGeometry y="20" width="1150" height="170" as="geometry" />
@@ -97,6 +90,17 @@
           <mxGeometry x="1060" y="725" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bzjPsa7Bnyj8pUQ7Ct00-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bzjPsa7Bnyj8pUQ7Ct00-29" target="bzjPsa7Bnyj8pUQ7Ct00-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bzjPsa7Bnyj8pUQ7Ct00-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bzjPsa7Bnyj8pUQ7Ct00-33" target="bzjPsa7Bnyj8pUQ7Ct00-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bzjPsa7Bnyj8pUQ7Ct00-33" value="Alert to cash office.Feeback to Pensioner via USSD, email, sms and API" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="230" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bzjPsa7Bnyj8pUQ7Ct00-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bzjPsa7Bnyj8pUQ7Ct00-19" target="bzjPsa7Bnyj8pUQ7Ct00-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
