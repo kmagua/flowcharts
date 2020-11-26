@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-26T06:57:53.983Z" agent="5.0 (Windows)" etag="KE_IYI1_C2GDlVPfSQVi" version="13.10.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-26T06:58:45.756Z" agent="5.0 (Windows)" etag="9MgW1weij6mRMbsP_mue" version="13.10.2" type="github">
   <diagram id="BvhlkT9Ul9FyrsT8X-tj" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -86,7 +86,7 @@
         <mxCell id="p53rdiJHdvj2qYngNVLq-17" value="Workplans are presented and recommendations made based on organization&#39;s priorities inline with the approved budget" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="p53rdiJHdvj2qYngNVLq-16">
           <mxGeometry x="70" y="19" width="200" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="p53rdiJHdvj2qYngNVLq-20" value="Committee input" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="p53rdiJHdvj2qYngNVLq-16">
+        <mxCell id="p53rdiJHdvj2qYngNVLq-20" value="Approved Budget, Committee&#39;s input" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="p53rdiJHdvj2qYngNVLq-16">
           <mxGeometry x="321" y="19" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p53rdiJHdvj2qYngNVLq-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="p53rdiJHdvj2qYngNVLq-16" source="p53rdiJHdvj2qYngNVLq-20" target="p53rdiJHdvj2qYngNVLq-17">
