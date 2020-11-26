@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-11-26T06:30:42.241Z" agent="5.0 (Windows)" etag="qggAdH15mW7jFqOH88-D" version="13.10.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-26T06:33:38.007Z" agent="5.0 (Windows)" etag="xTIcCETVtHdRszkop8H_" version="13.10.2" type="github">
   <diagram id="BvhlkT9Ul9FyrsT8X-tj" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="p53rdiJHdvj2qYngNVLq-1" value="Performance Contracting" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="20" width="1100" height="480" as="geometry" />
+          <mxGeometry x="40" y="20" width="1100" height="530" as="geometry" />
         </mxCell>
         <mxCell id="p53rdiJHdvj2qYngNVLq-2" value="Director" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="p53rdiJHdvj2qYngNVLq-1">
           <mxGeometry y="20" width="1100" height="220" as="geometry" />
@@ -22,13 +22,21 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="p53rdiJHdvj2qYngNVLq-3" value="HoDs" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="p53rdiJHdvj2qYngNVLq-1">
-          <mxGeometry y="240" width="1100" height="120" as="geometry" />
+          <mxGeometry y="240" width="1100" height="170" as="geometry" />
         </mxCell>
         <mxCell id="p53rdiJHdvj2qYngNVLq-9" value="HoDs invite staff in respective departments to fill performance targets on the system" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="p53rdiJHdvj2qYngNVLq-3">
           <mxGeometry x="250" y="40" width="160" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="p53rdiJHdvj2qYngNVLq-11" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Template should allow staff to specify whether to include target in MinistryPC&lt;/li&gt;&lt;li&gt;Staff targets must have timelines&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" vertex="1" parent="p53rdiJHdvj2qYngNVLq-3">
+          <mxGeometry x="530" y="25" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="p53rdiJHdvj2qYngNVLq-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="p53rdiJHdvj2qYngNVLq-3" source="p53rdiJHdvj2qYngNVLq-11" target="p53rdiJHdvj2qYngNVLq-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="p53rdiJHdvj2qYngNVLq-4" value="Lane 3" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="p53rdiJHdvj2qYngNVLq-1">
-          <mxGeometry y="360" width="1100" height="120" as="geometry" />
+          <mxGeometry y="410" width="1100" height="120" as="geometry" />
         </mxCell>
         <mxCell id="p53rdiJHdvj2qYngNVLq-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="p53rdiJHdvj2qYngNVLq-1" source="p53rdiJHdvj2qYngNVLq-8" target="p53rdiJHdvj2qYngNVLq-9">
           <mxGeometry relative="1" as="geometry" />
