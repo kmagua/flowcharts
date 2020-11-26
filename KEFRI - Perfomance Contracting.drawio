@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-26T06:48:25.825Z" agent="5.0 (Windows)" etag="fDcT2INFI9izELceHtlH" version="13.10.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-26T06:54:48.782Z" agent="5.0 (Windows)" etag="mVuLCVHHDJsSdyS5uybq" version="13.10.2" type="github">
   <diagram id="BvhlkT9Ul9FyrsT8X-tj" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -10,9 +10,12 @@
         <mxCell id="p53rdiJHdvj2qYngNVLq-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="p53rdiJHdvj2qYngNVLq-1" source="p53rdiJHdvj2qYngNVLq-8" target="p53rdiJHdvj2qYngNVLq-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p53rdiJHdvj2qYngNVLq-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="p53rdiJHdvj2qYngNVLq-1" source="p53rdiJHdvj2qYngNVLq-9" target="p53rdiJHdvj2qYngNVLq-17">
+        <mxCell id="p53rdiJHdvj2qYngNVLq-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="p53rdiJHdvj2qYngNVLq-1" source="p53rdiJHdvj2qYngNVLq-9" target="p53rdiJHdvj2qYngNVLq-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p53rdiJHdvj2qYngNVLq-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="p53rdiJHdvj2qYngNVLq-1" source="p53rdiJHdvj2qYngNVLq-14" target="p53rdiJHdvj2qYngNVLq-17">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="170" y="429" as="targetPoint" />
+            <mxPoint x="170" y="569" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="p53rdiJHdvj2qYngNVLq-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="p53rdiJHdvj2qYngNVLq-1" source="p53rdiJHdvj2qYngNVLq-17" target="p53rdiJHdvj2qYngNVLq-26">
@@ -37,7 +40,7 @@
             <mxPoint x="170" y="126" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p53rdiJHdvj2qYngNVLq-3" value="HoDs/Staff" style="swimlane;html=1;startSize=30;horizontal=0;" vertex="1" parent="p53rdiJHdvj2qYngNVLq-1">
+        <mxCell id="p53rdiJHdvj2qYngNVLq-3" value="HoDs" style="swimlane;html=1;startSize=30;horizontal=0;" vertex="1" parent="p53rdiJHdvj2qYngNVLq-1">
           <mxGeometry y="240" width="1100" height="170" as="geometry" />
         </mxCell>
         <mxCell id="p53rdiJHdvj2qYngNVLq-9" value="HoDs invite staff in respective departments to fill performance targets on the system" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="p53rdiJHdvj2qYngNVLq-3">
@@ -54,7 +57,7 @@
         <mxCell id="p53rdiJHdvj2qYngNVLq-26" value="Receive notifications on respective approved staff targets" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="p53rdiJHdvj2qYngNVLq-3">
           <mxGeometry x="540" y="39" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="p53rdiJHdvj2qYngNVLq-28" value="Staff updates targets" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="p53rdiJHdvj2qYngNVLq-3">
+        <mxCell id="p53rdiJHdvj2qYngNVLq-28" value="Staff updates targets quartely" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="p53rdiJHdvj2qYngNVLq-3">
           <mxGeometry x="709" y="39" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p53rdiJHdvj2qYngNVLq-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="p53rdiJHdvj2qYngNVLq-3" source="p53rdiJHdvj2qYngNVLq-26" target="p53rdiJHdvj2qYngNVLq-28">
@@ -65,6 +68,17 @@
         </mxCell>
         <mxCell id="p53rdiJHdvj2qYngNVLq-4" value="&lt;div&gt;Pre-consultative &lt;br&gt;&lt;/div&gt;&lt;div&gt;committee&lt;/div&gt;" style="swimlane;html=1;startSize=30;horizontal=0;" vertex="1" parent="p53rdiJHdvj2qYngNVLq-1">
           <mxGeometry y="410" width="1100" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="p53rdiJHdvj2qYngNVLq-14" value="Workplans are presented and recommendations made based on organization&#39;s priorities" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="p53rdiJHdvj2qYngNVLq-4">
+          <mxGeometry x="90" y="19" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p53rdiJHdvj2qYngNVLq-21" value="Committee input" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="p53rdiJHdvj2qYngNVLq-4">
+          <mxGeometry x="321" y="19" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p53rdiJHdvj2qYngNVLq-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="p53rdiJHdvj2qYngNVLq-4" source="p53rdiJHdvj2qYngNVLq-21" target="p53rdiJHdvj2qYngNVLq-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="49" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="p53rdiJHdvj2qYngNVLq-16" value="Board" style="swimlane;html=1;startSize=30;horizontal=0;" vertex="1" parent="p53rdiJHdvj2qYngNVLq-1">
           <mxGeometry y="530" width="1100" height="120" as="geometry" />
@@ -80,16 +94,16 @@
             <mxPoint x="260" y="49" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p53rdiJHdvj2qYngNVLq-33" value="&lt;div&gt;Pre-consultative &lt;br&gt;&lt;/div&gt;&lt;div&gt;committee&lt;/div&gt;" style="swimlane;html=1;startSize=30;horizontal=0;" vertex="1" parent="p53rdiJHdvj2qYngNVLq-1">
+        <mxCell id="p53rdiJHdvj2qYngNVLq-37" value="&lt;div&gt;Pre-consultative &lt;br&gt;&lt;/div&gt;&lt;div&gt;committee&lt;/div&gt;" style="swimlane;html=1;startSize=30;horizontal=0;" vertex="1" parent="p53rdiJHdvj2qYngNVLq-1">
           <mxGeometry y="650" width="1100" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="p53rdiJHdvj2qYngNVLq-34" value="Workplans are presented and recommendations made based on organization&#39;s priorities" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="p53rdiJHdvj2qYngNVLq-33">
+        <mxCell id="p53rdiJHdvj2qYngNVLq-38" value="Workplans are presented and recommendations made based on organization&#39;s priorities" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="p53rdiJHdvj2qYngNVLq-37">
           <mxGeometry x="90" y="19" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="p53rdiJHdvj2qYngNVLq-35" value="Committee input" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="p53rdiJHdvj2qYngNVLq-33">
+        <mxCell id="p53rdiJHdvj2qYngNVLq-39" value="Committee input" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="p53rdiJHdvj2qYngNVLq-37">
           <mxGeometry x="321" y="19" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="p53rdiJHdvj2qYngNVLq-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="p53rdiJHdvj2qYngNVLq-33" source="p53rdiJHdvj2qYngNVLq-35" target="p53rdiJHdvj2qYngNVLq-34">
+        <mxCell id="p53rdiJHdvj2qYngNVLq-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="p53rdiJHdvj2qYngNVLq-37" source="p53rdiJHdvj2qYngNVLq-39" target="p53rdiJHdvj2qYngNVLq-38">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="280" y="49" as="targetPoint" />
           </mxGeometry>
