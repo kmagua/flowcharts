@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-26T06:37:30.409Z" agent="5.0 (Windows)" etag="_0uAEkLhf7n0_MOvxId6" version="13.10.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-26T06:38:36.130Z" agent="5.0 (Windows)" etag="BkSHjyjA89ixceo4WyFw" version="13.10.2" type="github">
   <diagram id="BvhlkT9Ul9FyrsT8X-tj" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -41,6 +41,14 @@
         <mxCell id="p53rdiJHdvj2qYngNVLq-14" value="Workplans are presented and recommendations made based on organization&#39;s priorities" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="p53rdiJHdvj2qYngNVLq-4">
           <mxGeometry x="250" y="25" width="160" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="p53rdiJHdvj2qYngNVLq-21" value="Committee input" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="p53rdiJHdvj2qYngNVLq-4">
+          <mxGeometry x="512" y="25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p53rdiJHdvj2qYngNVLq-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="p53rdiJHdvj2qYngNVLq-4" source="p53rdiJHdvj2qYngNVLq-21" target="p53rdiJHdvj2qYngNVLq-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="55" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="p53rdiJHdvj2qYngNVLq-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="p53rdiJHdvj2qYngNVLq-1" source="p53rdiJHdvj2qYngNVLq-8" target="p53rdiJHdvj2qYngNVLq-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -52,6 +60,14 @@
         </mxCell>
         <mxCell id="p53rdiJHdvj2qYngNVLq-17" value="Recommended workplans are reviewd by the board" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="p53rdiJHdvj2qYngNVLq-16">
           <mxGeometry x="260" y="25" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p53rdiJHdvj2qYngNVLq-20" value="Board Input" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="p53rdiJHdvj2qYngNVLq-16">
+          <mxGeometry x="510" y="25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p53rdiJHdvj2qYngNVLq-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="p53rdiJHdvj2qYngNVLq-16" source="p53rdiJHdvj2qYngNVLq-20" target="p53rdiJHdvj2qYngNVLq-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="55" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="p53rdiJHdvj2qYngNVLq-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="p53rdiJHdvj2qYngNVLq-1" source="p53rdiJHdvj2qYngNVLq-14" target="p53rdiJHdvj2qYngNVLq-17">
           <mxGeometry relative="1" as="geometry">
