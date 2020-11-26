@@ -1,1 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2020-11-26T06:24:05.998Z" agent="5.0 (Windows)" version="13.10.2" etag="rUOMriA9jaHOsivwNZxZ" type="github"><diagram id="BvhlkT9Ul9FyrsT8X-tj">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-26T06:27:58.494Z" agent="5.0 (Windows)" etag="zcF3Jk2awfF1_fPd75sl" version="13.10.2" type="github">
+  <diagram id="BvhlkT9Ul9FyrsT8X-tj" name="Page-1">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="p53rdiJHdvj2qYngNVLq-1" value="Performance Contracting" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="20" width="1100" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="p53rdiJHdvj2qYngNVLq-2" value="Director" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="p53rdiJHdvj2qYngNVLq-1">
+          <mxGeometry y="20" width="1100" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="p53rdiJHdvj2qYngNVLq-5" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="p53rdiJHdvj2qYngNVLq-2">
+          <mxGeometry x="280" y="17" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="p53rdiJHdvj2qYngNVLq-8" value="Director invites HoDs to prepare their annual performance contracts" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="p53rdiJHdvj2qYngNVLq-2">
+          <mxGeometry x="270" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p53rdiJHdvj2qYngNVLq-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="p53rdiJHdvj2qYngNVLq-2" source="p53rdiJHdvj2qYngNVLq-5" target="p53rdiJHdvj2qYngNVLq-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="132" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p53rdiJHdvj2qYngNVLq-3" value="HoDs" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="p53rdiJHdvj2qYngNVLq-1">
+          <mxGeometry y="240" width="1100" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="p53rdiJHdvj2qYngNVLq-4" value="Lane 3" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="p53rdiJHdvj2qYngNVLq-1">
+          <mxGeometry y="360" width="1100" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
