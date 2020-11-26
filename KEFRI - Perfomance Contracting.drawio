@@ -1,21 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2020-11-26T06:47:54.611Z" agent="5.0 (Windows)" etag="KGHg8-bM90k0SwAhjhbS" version="13.10.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-26T06:48:25.825Z" agent="5.0 (Windows)" etag="fDcT2INFI9izELceHtlH" version="13.10.2" type="github">
   <diagram id="BvhlkT9Ul9FyrsT8X-tj" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="p53rdiJHdvj2qYngNVLq-1" value="Performance Contracting" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="20" width="1100" height="650" as="geometry" />
+          <mxGeometry x="40" y="20" width="1100" height="770" as="geometry" />
         </mxCell>
         <mxCell id="p53rdiJHdvj2qYngNVLq-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="p53rdiJHdvj2qYngNVLq-1" source="p53rdiJHdvj2qYngNVLq-8" target="p53rdiJHdvj2qYngNVLq-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p53rdiJHdvj2qYngNVLq-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="p53rdiJHdvj2qYngNVLq-1" source="p53rdiJHdvj2qYngNVLq-9" target="p53rdiJHdvj2qYngNVLq-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="p53rdiJHdvj2qYngNVLq-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="p53rdiJHdvj2qYngNVLq-1" source="p53rdiJHdvj2qYngNVLq-14" target="p53rdiJHdvj2qYngNVLq-17">
+        <mxCell id="p53rdiJHdvj2qYngNVLq-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="p53rdiJHdvj2qYngNVLq-1" source="p53rdiJHdvj2qYngNVLq-9" target="p53rdiJHdvj2qYngNVLq-17">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="170" y="569" as="targetPoint" />
+            <mxPoint x="170" y="429" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="p53rdiJHdvj2qYngNVLq-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="p53rdiJHdvj2qYngNVLq-1" source="p53rdiJHdvj2qYngNVLq-17" target="p53rdiJHdvj2qYngNVLq-26">
@@ -69,17 +66,6 @@
         <mxCell id="p53rdiJHdvj2qYngNVLq-4" value="&lt;div&gt;Pre-consultative &lt;br&gt;&lt;/div&gt;&lt;div&gt;committee&lt;/div&gt;" style="swimlane;html=1;startSize=30;horizontal=0;" vertex="1" parent="p53rdiJHdvj2qYngNVLq-1">
           <mxGeometry y="410" width="1100" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="p53rdiJHdvj2qYngNVLq-14" value="Workplans are presented and recommendations made based on organization&#39;s priorities" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="p53rdiJHdvj2qYngNVLq-4">
-          <mxGeometry x="90" y="19" width="160" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="p53rdiJHdvj2qYngNVLq-21" value="Committee input" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="p53rdiJHdvj2qYngNVLq-4">
-          <mxGeometry x="321" y="19" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="p53rdiJHdvj2qYngNVLq-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="p53rdiJHdvj2qYngNVLq-4" source="p53rdiJHdvj2qYngNVLq-21" target="p53rdiJHdvj2qYngNVLq-14">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="280" y="49" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="p53rdiJHdvj2qYngNVLq-16" value="Board" style="swimlane;html=1;startSize=30;horizontal=0;" vertex="1" parent="p53rdiJHdvj2qYngNVLq-1">
           <mxGeometry y="530" width="1100" height="120" as="geometry" />
         </mxCell>
@@ -92,6 +78,20 @@
         <mxCell id="p53rdiJHdvj2qYngNVLq-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="p53rdiJHdvj2qYngNVLq-16" source="p53rdiJHdvj2qYngNVLq-20" target="p53rdiJHdvj2qYngNVLq-17">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="260" y="49" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p53rdiJHdvj2qYngNVLq-33" value="&lt;div&gt;Pre-consultative &lt;br&gt;&lt;/div&gt;&lt;div&gt;committee&lt;/div&gt;" style="swimlane;html=1;startSize=30;horizontal=0;" vertex="1" parent="p53rdiJHdvj2qYngNVLq-1">
+          <mxGeometry y="650" width="1100" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="p53rdiJHdvj2qYngNVLq-34" value="Workplans are presented and recommendations made based on organization&#39;s priorities" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="p53rdiJHdvj2qYngNVLq-33">
+          <mxGeometry x="90" y="19" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p53rdiJHdvj2qYngNVLq-35" value="Committee input" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="p53rdiJHdvj2qYngNVLq-33">
+          <mxGeometry x="321" y="19" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p53rdiJHdvj2qYngNVLq-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="p53rdiJHdvj2qYngNVLq-33" source="p53rdiJHdvj2qYngNVLq-35" target="p53rdiJHdvj2qYngNVLq-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="49" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="p53rdiJHdvj2qYngNVLq-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p53rdiJHdvj2qYngNVLq-28">
