@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-26T06:38:36.130Z" agent="5.0 (Windows)" etag="BkSHjyjA89ixceo4WyFw" version="13.10.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-26T06:40:57.726Z" agent="5.0 (Windows)" etag="EgunnRl3hCO1O94svaU-" version="13.10.2" type="github">
   <diagram id="BvhlkT9Ul9FyrsT8X-tj" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -21,7 +21,7 @@
             <mxPoint x="330" y="132" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p53rdiJHdvj2qYngNVLq-3" value="HoDs" style="swimlane;html=1;startSize=30;horizontal=0;" vertex="1" parent="p53rdiJHdvj2qYngNVLq-1">
+        <mxCell id="p53rdiJHdvj2qYngNVLq-3" value="HoDs/Staff" style="swimlane;html=1;startSize=30;horizontal=0;" vertex="1" parent="p53rdiJHdvj2qYngNVLq-1">
           <mxGeometry y="240" width="1100" height="170" as="geometry" />
         </mxCell>
         <mxCell id="p53rdiJHdvj2qYngNVLq-9" value="HoDs invite staff in respective departments to fill performance targets on the system" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="p53rdiJHdvj2qYngNVLq-3">
@@ -34,6 +34,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="470" y="70" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="p53rdiJHdvj2qYngNVLq-26" value="Receive notifications on respective approved staff targets" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="p53rdiJHdvj2qYngNVLq-3">
+          <mxGeometry x="800" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p53rdiJHdvj2qYngNVLq-4" value="&lt;div&gt;Pre-consultative &lt;br&gt;&lt;/div&gt;&lt;div&gt;committee&lt;/div&gt;" style="swimlane;html=1;startSize=30;horizontal=0;" vertex="1" parent="p53rdiJHdvj2qYngNVLq-1">
           <mxGeometry y="410" width="1100" height="120" as="geometry" />
@@ -72,6 +75,14 @@
         <mxCell id="p53rdiJHdvj2qYngNVLq-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="p53rdiJHdvj2qYngNVLq-1" source="p53rdiJHdvj2qYngNVLq-14" target="p53rdiJHdvj2qYngNVLq-17">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="330" y="575" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p53rdiJHdvj2qYngNVLq-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="p53rdiJHdvj2qYngNVLq-1" source="p53rdiJHdvj2qYngNVLq-17" target="p53rdiJHdvj2qYngNVLq-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="630" />
+              <mxPoint x="860" y="630" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
