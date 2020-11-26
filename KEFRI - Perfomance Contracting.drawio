@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-26T06:45:57.559Z" agent="5.0 (Windows)" etag="7pAjfzxLxy29htd9pHCR" version="13.10.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-26T06:47:12.951Z" agent="5.0 (Windows)" etag="ys4MtJSGsVU03fl8rYOh" version="13.10.2" type="github">
   <diagram id="BvhlkT9Ul9FyrsT8X-tj" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -18,11 +18,11 @@
             <mxPoint x="170" y="569" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p53rdiJHdvj2qYngNVLq-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="p53rdiJHdvj2qYngNVLq-1" source="p53rdiJHdvj2qYngNVLq-17" target="p53rdiJHdvj2qYngNVLq-26">
+        <mxCell id="p53rdiJHdvj2qYngNVLq-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="p53rdiJHdvj2qYngNVLq-1" source="p53rdiJHdvj2qYngNVLq-17" target="p53rdiJHdvj2qYngNVLq-26">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="170" y="624" />
-              <mxPoint x="600" y="624" />
+              <mxPoint x="595" y="624" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -55,10 +55,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="p53rdiJHdvj2qYngNVLq-26" value="Receive notifications on respective approved staff targets" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="p53rdiJHdvj2qYngNVLq-3">
-          <mxGeometry x="540" y="39" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="39" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="p53rdiJHdvj2qYngNVLq-28" value="Staff and HoDs update the staff targets" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="p53rdiJHdvj2qYngNVLq-3">
-          <mxGeometry x="740" y="39" width="120" height="60" as="geometry" />
+        <mxCell id="p53rdiJHdvj2qYngNVLq-28" value="Staff updates targets" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="p53rdiJHdvj2qYngNVLq-3">
+          <mxGeometry x="740" y="39" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p53rdiJHdvj2qYngNVLq-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="p53rdiJHdvj2qYngNVLq-3" source="p53rdiJHdvj2qYngNVLq-26" target="p53rdiJHdvj2qYngNVLq-28">
           <mxGeometry relative="1" as="geometry" />
