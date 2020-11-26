@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-26T06:29:38.495Z" agent="5.0 (Windows)" etag="T0uNsfjb4B6LSBdQxKFo" version="13.10.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-26T06:30:42.241Z" agent="5.0 (Windows)" etag="qggAdH15mW7jFqOH88-D" version="13.10.2" type="github">
   <diagram id="BvhlkT9Ul9FyrsT8X-tj" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -13,8 +13,8 @@
         <mxCell id="p53rdiJHdvj2qYngNVLq-5" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="p53rdiJHdvj2qYngNVLq-2">
           <mxGeometry x="280" y="17" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="p53rdiJHdvj2qYngNVLq-8" value="Director invites HoDs to prepare their annual performance contracts" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="p53rdiJHdvj2qYngNVLq-2">
-          <mxGeometry x="270" y="140" width="120" height="60" as="geometry" />
+        <mxCell id="p53rdiJHdvj2qYngNVLq-8" value="Director invites HoDs to prepare their annual performance contracts within agreed timeline" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="p53rdiJHdvj2qYngNVLq-2">
+          <mxGeometry x="250" y="140" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p53rdiJHdvj2qYngNVLq-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="p53rdiJHdvj2qYngNVLq-2" source="p53rdiJHdvj2qYngNVLq-5" target="p53rdiJHdvj2qYngNVLq-8">
           <mxGeometry relative="1" as="geometry">
