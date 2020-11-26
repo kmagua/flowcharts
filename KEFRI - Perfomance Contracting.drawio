@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-26T07:04:45.858Z" agent="5.0 (Windows)" etag="qWPGHExiQrlfdxGpN9lt" version="13.10.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-26T07:53:14.768Z" agent="5.0 (Windows)" etag="pjZMijSqYH_WDozEIfdW" version="13.10.2" type="github">
   <diagram id="BvhlkT9Ul9FyrsT8X-tj" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -45,11 +45,16 @@
             <mxPoint x="140" y="126" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p53rdiJHdvj2qYngNVLq-50" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="p53rdiJHdvj2qYngNVLq-2">
-          <mxGeometry x="890" y="114" width="120" height="60" as="geometry" />
+        <mxCell id="p53rdiJHdvj2qYngNVLq-52" value="Access statutory reports" style="whiteSpace=wrap;html=1;" vertex="1" parent="p53rdiJHdvj2qYngNVLq-2">
+          <mxGeometry x="890" y="119" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="p53rdiJHdvj2qYngNVLq-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="p53rdiJHdvj2qYngNVLq-1" source="p53rdiJHdvj2qYngNVLq-46" target="p53rdiJHdvj2qYngNVLq-50">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="p53rdiJHdvj2qYngNVLq-54" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="p53rdiJHdvj2qYngNVLq-2">
+          <mxGeometry x="1070" y="124" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="p53rdiJHdvj2qYngNVLq-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="p53rdiJHdvj2qYngNVLq-2" source="p53rdiJHdvj2qYngNVLq-52" target="p53rdiJHdvj2qYngNVLq-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1090" y="149" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="p53rdiJHdvj2qYngNVLq-3" value="HoDs" style="swimlane;html=1;startSize=30;horizontal=0;" vertex="1" parent="p53rdiJHdvj2qYngNVLq-1">
           <mxGeometry y="240" width="1150" height="170" as="geometry" />
@@ -118,6 +123,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="250" y="49" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="p53rdiJHdvj2qYngNVLq-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="p53rdiJHdvj2qYngNVLq-1" source="p53rdiJHdvj2qYngNVLq-46" target="p53rdiJHdvj2qYngNVLq-52">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p53rdiJHdvj2qYngNVLq-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p53rdiJHdvj2qYngNVLq-32" target="p53rdiJHdvj2qYngNVLq-46">
           <mxGeometry relative="1" as="geometry" />
