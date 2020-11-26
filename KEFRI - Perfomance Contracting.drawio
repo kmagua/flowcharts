@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-26T06:45:34.253Z" agent="5.0 (Windows)" etag="F5tNU0CF009geXQ649Rw" version="13.10.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-26T06:45:57.559Z" agent="5.0 (Windows)" etag="7pAjfzxLxy29htd9pHCR" version="13.10.2" type="github">
   <diagram id="BvhlkT9Ul9FyrsT8X-tj" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="170" y="624" />
-              <mxPoint x="700" y="624" />
+              <mxPoint x="600" y="624" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -55,7 +55,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="p53rdiJHdvj2qYngNVLq-26" value="Receive notifications on respective approved staff targets" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="p53rdiJHdvj2qYngNVLq-3">
-          <mxGeometry x="611" y="34" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="39" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p53rdiJHdvj2qYngNVLq-28" value="Staff and HoDs update the staff targets" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="p53rdiJHdvj2qYngNVLq-3">
+          <mxGeometry x="740" y="39" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p53rdiJHdvj2qYngNVLq-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="p53rdiJHdvj2qYngNVLq-3" source="p53rdiJHdvj2qYngNVLq-26" target="p53rdiJHdvj2qYngNVLq-28">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p53rdiJHdvj2qYngNVLq-4" value="&lt;div&gt;Pre-consultative &lt;br&gt;&lt;/div&gt;&lt;div&gt;committee&lt;/div&gt;" style="swimlane;html=1;startSize=30;horizontal=0;" vertex="1" parent="p53rdiJHdvj2qYngNVLq-1">
           <mxGeometry y="410" width="1100" height="120" as="geometry" />
@@ -84,12 +90,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="260" y="49" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="p53rdiJHdvj2qYngNVLq-28" value="Staff and HoDs update the staff targets" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="880" y="294" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="p53rdiJHdvj2qYngNVLq-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p53rdiJHdvj2qYngNVLq-26" target="p53rdiJHdvj2qYngNVLq-28">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
