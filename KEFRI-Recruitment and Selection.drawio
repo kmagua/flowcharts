@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-29T07:27:40.827Z" agent="5.0 (Windows)" etag="2MARk_5-_yILQsW8QFIp" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-29T07:29:37.493Z" agent="5.0 (Windows)" etag="Pg8muC7LE4eIKskXm-3b" version="13.10.4" type="github">
   <diagram id="REOELQYu35U8tUqML4uu" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -101,10 +101,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nr64mT80ZBLKgg4U0c5f-40" value="SHRMO compiles the inputs given by KeHRMAC into the shortlisting report" style="whiteSpace=wrap;html=1;" vertex="1" parent="nr64mT80ZBLKgg4U0c5f-5">
-          <mxGeometry x="295" y="353" width="120" height="60" as="geometry" />
+          <mxGeometry x="295" y="335" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nr64mT80ZBLKgg4U0c5f-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nr64mT80ZBLKgg4U0c5f-5" source="nr64mT80ZBLKgg4U0c5f-38" target="nr64mT80ZBLKgg4U0c5f-40">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nr64mT80ZBLKgg4U0c5f-46" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="nr64mT80ZBLKgg4U0c5f-5">
+          <mxGeometry x="507.5" y="371" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nr64mT80ZBLKgg4U0c5f-48" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="nr64mT80ZBLKgg4U0c5f-5">
+          <mxGeometry x="563" y="315" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nr64mT80ZBLKgg4U0c5f-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nr64mT80ZBLKgg4U0c5f-28" target="nr64mT80ZBLKgg4U0c5f-36">
           <mxGeometry relative="1" as="geometry" />
@@ -114,6 +120,21 @@
         </mxCell>
         <mxCell id="nr64mT80ZBLKgg4U0c5f-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nr64mT80ZBLKgg4U0c5f-26" target="nr64mT80ZBLKgg4U0c5f-28">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nr64mT80ZBLKgg4U0c5f-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nr64mT80ZBLKgg4U0c5f-42" target="nr64mT80ZBLKgg4U0c5f-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nr64mT80ZBLKgg4U0c5f-42" value="DDHR recommends an interview panel for the Director&#39;s approval" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="223" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nr64mT80ZBLKgg4U0c5f-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nr64mT80ZBLKgg4U0c5f-40" target="nr64mT80ZBLKgg4U0c5f-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nr64mT80ZBLKgg4U0c5f-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nr64mT80ZBLKgg4U0c5f-44" target="nr64mT80ZBLKgg4U0c5f-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nr64mT80ZBLKgg4U0c5f-44" value="Director/CEO Approves?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="213" width="105" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
