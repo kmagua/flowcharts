@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-29T06:08:49.658Z" agent="5.0 (Windows)" etag="2UEQvmrOLgSN8eF_53so" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-29T06:09:53.370Z" agent="5.0 (Windows)" etag="D9wmUsqy5Vq46qOmVo41" version="13.10.4" type="github">
   <diagram id="rh0mucq8AUeVXR-K46Hd" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -20,6 +20,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="120" y="130" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="z-MluRmv4vpyXfdSz0gX-21" value="Received approved plan and forward to KeHRMAC" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="z-MluRmv4vpyXfdSz0gX-2">
+          <mxGeometry x="455" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z-MluRmv4vpyXfdSz0gX-3" value="EC" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="z-MluRmv4vpyXfdSz0gX-1">
           <mxGeometry y="200" width="1150" height="120" as="geometry" />
@@ -46,6 +49,9 @@
         </mxCell>
         <mxCell id="z-MluRmv4vpyXfdSz0gX-6" value="BoD" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="z-MluRmv4vpyXfdSz0gX-1">
           <mxGeometry y="560" width="1150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="z-MluRmv4vpyXfdSz0gX-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="z-MluRmv4vpyXfdSz0gX-1" source="z-MluRmv4vpyXfdSz0gX-13" target="z-MluRmv4vpyXfdSz0gX-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="z-MluRmv4vpyXfdSz0gX-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z-MluRmv4vpyXfdSz0gX-11" target="z-MluRmv4vpyXfdSz0gX-13">
           <mxGeometry relative="1" as="geometry" />
