@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-29T07:56:41.268Z" agent="5.0 (Windows)" etag="7YS3UVwa8Ms7xun1wFZo" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-29T07:59:45.670Z" agent="5.0 (Windows)" etag="Wru6gYR9UyUhDJLEN7XC" version="13.10.4" type="github">
   <diagram id="REOELQYu35U8tUqML4uu" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -161,7 +161,7 @@
           <mxGeometry x="820" y="135" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nr64mT80ZBLKgg4U0c5f-69" value="DDHR informs all applicants notifying them the status of their application" style="whiteSpace=wrap;html=1;" vertex="1" parent="nr64mT80ZBLKgg4U0c5f-5">
-          <mxGeometry x="870" y="120.5" width="120" height="70" as="geometry" />
+          <mxGeometry x="890" y="120.5" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="nr64mT80ZBLKgg4U0c5f-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nr64mT80ZBLKgg4U0c5f-5" source="nr64mT80ZBLKgg4U0c5f-67" target="nr64mT80ZBLKgg4U0c5f-69">
           <mxGeometry relative="1" as="geometry" />
@@ -181,6 +181,20 @@
               <mxPoint x="650" y="296" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="nr64mT80ZBLKgg4U0c5f-81" value="&lt;div&gt;Successful &lt;br&gt;&lt;/div&gt;&lt;div&gt;candidate &lt;br&gt;&lt;/div&gt;&lt;div&gt;accepts offer?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="nr64mT80ZBLKgg4U0c5f-5">
+          <mxGeometry x="870" y="265.5" width="160" height="94.5" as="geometry" />
+        </mxCell>
+        <mxCell id="nr64mT80ZBLKgg4U0c5f-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="nr64mT80ZBLKgg4U0c5f-5" source="nr64mT80ZBLKgg4U0c5f-69" target="nr64mT80ZBLKgg4U0c5f-81">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="950" y="265.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nr64mT80ZBLKgg4U0c5f-87" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="nr64mT80ZBLKgg4U0c5f-5">
+          <mxGeometry x="910" y="590" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nr64mT80ZBLKgg4U0c5f-88" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="nr64mT80ZBLKgg4U0c5f-5">
+          <mxGeometry x="946" y="401" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nr64mT80ZBLKgg4U0c5f-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nr64mT80ZBLKgg4U0c5f-28" target="nr64mT80ZBLKgg4U0c5f-36">
           <mxGeometry relative="1" as="geometry" />
@@ -221,6 +235,17 @@
         </mxCell>
         <mxCell id="nr64mT80ZBLKgg4U0c5f-80" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="704" y="146" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nr64mT80ZBLKgg4U0c5f-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nr64mT80ZBLKgg4U0c5f-83" target="nr64mT80ZBLKgg4U0c5f-87">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="960" y="597.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nr64mT80ZBLKgg4U0c5f-83" value="DDHR Appoints the candidate" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="467.25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nr64mT80ZBLKgg4U0c5f-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nr64mT80ZBLKgg4U0c5f-81" target="nr64mT80ZBLKgg4U0c5f-83">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
