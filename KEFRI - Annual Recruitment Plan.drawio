@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-29T06:18:59.839Z" agent="5.0 (Windows)" etag="h8uD4CCkrxcE55BIPmUz" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-29T06:19:20.624Z" agent="5.0 (Windows)" etag="jYXk-hr1vAOmh1O82-kh" version="13.10.4" type="github">
   <diagram id="rh0mucq8AUeVXR-K46Hd" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -64,6 +64,9 @@
         <mxCell id="z-MluRmv4vpyXfdSz0gX-5" value="HRC" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="z-MluRmv4vpyXfdSz0gX-1">
           <mxGeometry y="440" width="1150" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="z-MluRmv4vpyXfdSz0gX-37" value="Approved?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="z-MluRmv4vpyXfdSz0gX-5">
+          <mxGeometry x="736" y="20" width="80" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="z-MluRmv4vpyXfdSz0gX-6" value="BoD" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="z-MluRmv4vpyXfdSz0gX-1">
           <mxGeometry y="560" width="1150" height="120" as="geometry" />
         </mxCell>
@@ -100,6 +103,9 @@
               <mxPoint x="250" y="170" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="z-MluRmv4vpyXfdSz0gX-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z-MluRmv4vpyXfdSz0gX-27" target="z-MluRmv4vpyXfdSz0gX-37">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="z-MluRmv4vpyXfdSz0gX-27" value="Forward to HRC" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="726" y="360" width="120" height="60" as="geometry" />
