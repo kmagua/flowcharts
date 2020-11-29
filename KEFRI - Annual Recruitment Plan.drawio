@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2020-11-29T05:57:24.836Z" agent="5.0 (Windows)" version="13.10.4" etag="_2_EWBVEoAQmaEedGv5S" type="github"><diagram id="rh0mucq8AUeVXR-K46Hd">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-29T06:00:16.933Z" agent="5.0 (Windows)" etag="jK5nccKcerFL-wmP4VGB" version="13.10.4" type="github">
+  <diagram id="rh0mucq8AUeVXR-K46Hd" name="Page-1">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="z-MluRmv4vpyXfdSz0gX-1" value="Annual Recruitment plan" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="1150" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="z-MluRmv4vpyXfdSz0gX-2" value="DDHR" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="z-MluRmv4vpyXfdSz0gX-1">
+          <mxGeometry y="20" width="1150" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="z-MluRmv4vpyXfdSz0gX-3" value="EC" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="z-MluRmv4vpyXfdSz0gX-1">
+          <mxGeometry y="200" width="1150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="z-MluRmv4vpyXfdSz0gX-4" value="KeHRMAC" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="z-MluRmv4vpyXfdSz0gX-1">
+          <mxGeometry y="320" width="1150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="z-MluRmv4vpyXfdSz0gX-5" value="HRC" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="z-MluRmv4vpyXfdSz0gX-1">
+          <mxGeometry y="440" width="1150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="z-MluRmv4vpyXfdSz0gX-6" value="BoD" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="z-MluRmv4vpyXfdSz0gX-1">
+          <mxGeometry y="560" width="1150" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
