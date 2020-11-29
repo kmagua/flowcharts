@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-29T07:03:55.925Z" agent="5.0 (Windows)" etag="pPqGioATFlipmpv48MU4" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-29T07:12:08.289Z" agent="5.0 (Windows)" etag="eZavHUKP2SDLivDUIuCg" version="13.10.4" type="github">
   <diagram id="REOELQYu35U8tUqML4uu" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -8,7 +8,48 @@
           <mxGeometry x="10" y="10" width="1150" height="810" as="geometry" />
         </mxCell>
         <mxCell id="nr64mT80ZBLKgg4U0c5f-6" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="nr64mT80ZBLKgg4U0c5f-5">
-          <mxGeometry x="110" y="40" width="100" height="50" as="geometry" />
+          <mxGeometry x="120" y="40" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nr64mT80ZBLKgg4U0c5f-7" value="SHRMO compiles the Approved Annual Recruitment Plan into a vacancy notice and submit for approval" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nr64mT80ZBLKgg4U0c5f-5">
+          <mxGeometry x="90" y="150" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="nr64mT80ZBLKgg4U0c5f-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="nr64mT80ZBLKgg4U0c5f-5" source="nr64mT80ZBLKgg4U0c5f-6" target="nr64mT80ZBLKgg4U0c5f-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="165" y="165" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nr64mT80ZBLKgg4U0c5f-12" value="DDHR Approves?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="nr64mT80ZBLKgg4U0c5f-5">
+          <mxGeometry x="125" y="300" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nr64mT80ZBLKgg4U0c5f-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="nr64mT80ZBLKgg4U0c5f-5" source="nr64mT80ZBLKgg4U0c5f-7" target="nr64mT80ZBLKgg4U0c5f-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="165" y="305" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nr64mT80ZBLKgg4U0c5f-13" value="Vacancy notice is submitted to Procurement for advertisement on media" style="whiteSpace=wrap;html=1;" vertex="1" parent="nr64mT80ZBLKgg4U0c5f-5">
+          <mxGeometry x="100" y="440" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nr64mT80ZBLKgg4U0c5f-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nr64mT80ZBLKgg4U0c5f-5" source="nr64mT80ZBLKgg4U0c5f-12" target="nr64mT80ZBLKgg4U0c5f-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nr64mT80ZBLKgg4U0c5f-15" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="nr64mT80ZBLKgg4U0c5f-5">
+          <mxGeometry x="164" y="395" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nr64mT80ZBLKgg4U0c5f-18" value="DDHR Comments" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="nr64mT80ZBLKgg4U0c5f-5">
+          <mxGeometry x="6" y="275" width="70" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="nr64mT80ZBLKgg4U0c5f-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=70;entryDy=65;entryPerimeter=0;" edge="1" parent="nr64mT80ZBLKgg4U0c5f-5" source="nr64mT80ZBLKgg4U0c5f-12" target="nr64mT80ZBLKgg4U0c5f-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="65" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nr64mT80ZBLKgg4U0c5f-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="nr64mT80ZBLKgg4U0c5f-5" source="nr64mT80ZBLKgg4U0c5f-18" target="nr64mT80ZBLKgg4U0c5f-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="41" y="175" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="41" y="185" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
