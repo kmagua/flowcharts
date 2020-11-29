@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-29T07:44:10.387Z" agent="5.0 (Windows)" etag="Q25R8wMrMyZ8rHmQJKwj" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-29T07:46:58.427Z" agent="5.0 (Windows)" etag="Md5mhKfvd7WGMXBMXDOl" version="13.10.4" type="github">
   <diagram id="REOELQYu35U8tUqML4uu" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -127,6 +127,9 @@
         <mxCell id="nr64mT80ZBLKgg4U0c5f-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nr64mT80ZBLKgg4U0c5f-5" source="nr64mT80ZBLKgg4U0c5f-55" target="nr64mT80ZBLKgg4U0c5f-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="nr64mT80ZBLKgg4U0c5f-61" value="DDHR presents the Interview Report to the HRC for concurrence and input" style="whiteSpace=wrap;html=1;" vertex="1" parent="nr64mT80ZBLKgg4U0c5f-5">
+          <mxGeometry x="752.5" y="535" width="140" height="65" as="geometry" />
+        </mxCell>
         <mxCell id="nr64mT80ZBLKgg4U0c5f-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nr64mT80ZBLKgg4U0c5f-28" target="nr64mT80ZBLKgg4U0c5f-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -168,13 +171,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nr64mT80ZBLKgg4U0c5f-59" value="SHRMO incorporates KeHRMAC&#39;s inputs into the interview report for DDHR" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="787.5" y="680" width="120" height="70" as="geometry" />
+          <mxGeometry x="772.5" y="680" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="nr64mT80ZBLKgg4U0c5f-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nr64mT80ZBLKgg4U0c5f-57" target="nr64mT80ZBLKgg4U0c5f-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nr64mT80ZBLKgg4U0c5f-61" value="DDHR presents the Interview Report to the HRC for concurrence" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="787.5" y="545" width="120" height="65" as="geometry" />
+        <mxCell id="nr64mT80ZBLKgg4U0c5f-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nr64mT80ZBLKgg4U0c5f-61" target="nr64mT80ZBLKgg4U0c5f-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nr64mT80ZBLKgg4U0c5f-63" value="SHRMO incorporates HRC’s inputs into the interview report" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="772.5" y="402.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
