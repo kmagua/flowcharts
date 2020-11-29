@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-29T07:14:21.881Z" agent="5.0 (Windows)" etag="n6g4_pYoqKWCgUrVjITQ" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-29T07:17:32.826Z" agent="5.0 (Windows)" etag="uM6zsq2I6KTRmtW7RqOQ" version="13.10.4" type="github">
   <diagram id="REOELQYu35U8tUqML4uu" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -8,56 +8,74 @@
           <mxGeometry x="10" y="10" width="1150" height="810" as="geometry" />
         </mxCell>
         <mxCell id="nr64mT80ZBLKgg4U0c5f-6" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="nr64mT80ZBLKgg4U0c5f-5">
-          <mxGeometry x="120" y="40" width="90" height="50" as="geometry" />
+          <mxGeometry x="120" y="31" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nr64mT80ZBLKgg4U0c5f-7" value="SHRMO compiles the Approved Annual Recruitment Plan into a vacancy notice and submit for approval" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nr64mT80ZBLKgg4U0c5f-5">
-          <mxGeometry x="90" y="150" width="150" height="70" as="geometry" />
+          <mxGeometry x="90" y="141" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="nr64mT80ZBLKgg4U0c5f-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="nr64mT80ZBLKgg4U0c5f-5" source="nr64mT80ZBLKgg4U0c5f-6" target="nr64mT80ZBLKgg4U0c5f-7">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="165" y="165" as="targetPoint" />
+            <mxPoint x="165" y="156" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nr64mT80ZBLKgg4U0c5f-12" value="DDHR Approves?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="nr64mT80ZBLKgg4U0c5f-5">
-          <mxGeometry x="125" y="300" width="80" height="80" as="geometry" />
+          <mxGeometry x="125" y="261" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nr64mT80ZBLKgg4U0c5f-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="nr64mT80ZBLKgg4U0c5f-5" source="nr64mT80ZBLKgg4U0c5f-7" target="nr64mT80ZBLKgg4U0c5f-12">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="165" y="305" as="targetPoint" />
+            <mxPoint x="165" y="296" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nr64mT80ZBLKgg4U0c5f-13" value="Vacancy notice is submitted to Procurement for advertisement on media" style="whiteSpace=wrap;html=1;" vertex="1" parent="nr64mT80ZBLKgg4U0c5f-5">
-          <mxGeometry x="100" y="440" width="130" height="60" as="geometry" />
+          <mxGeometry x="100" y="395" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nr64mT80ZBLKgg4U0c5f-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nr64mT80ZBLKgg4U0c5f-5" source="nr64mT80ZBLKgg4U0c5f-12" target="nr64mT80ZBLKgg4U0c5f-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nr64mT80ZBLKgg4U0c5f-15" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="nr64mT80ZBLKgg4U0c5f-5">
-          <mxGeometry x="164" y="395" width="40" height="20" as="geometry" />
+          <mxGeometry x="160" y="351" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nr64mT80ZBLKgg4U0c5f-18" value="DDHR Comments" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="nr64mT80ZBLKgg4U0c5f-5">
-          <mxGeometry x="6" y="275" width="70" height="100" as="geometry" />
+          <mxGeometry x="6" y="236" width="70" height="100" as="geometry" />
         </mxCell>
         <mxCell id="nr64mT80ZBLKgg4U0c5f-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=70;entryDy=65;entryPerimeter=0;" edge="1" parent="nr64mT80ZBLKgg4U0c5f-5" source="nr64mT80ZBLKgg4U0c5f-12" target="nr64mT80ZBLKgg4U0c5f-18">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="65" y="340" as="targetPoint" />
+            <mxPoint x="65" y="331" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nr64mT80ZBLKgg4U0c5f-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="nr64mT80ZBLKgg4U0c5f-5" source="nr64mT80ZBLKgg4U0c5f-18" target="nr64mT80ZBLKgg4U0c5f-7">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="41" y="175" as="targetPoint" />
+            <mxPoint x="41" y="166" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="41" y="185" />
+              <mxPoint x="41" y="176" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="nr64mT80ZBLKgg4U0c5f-21" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="nr64mT80ZBLKgg4U0c5f-5">
-          <mxGeometry x="85" y="315" width="40" height="20" as="geometry" />
+          <mxGeometry x="85" y="282" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="nr64mT80ZBLKgg4U0c5f-22" value="DDHR Receive applications" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="115" y="590" width="120" height="60" as="geometry" />
+        <mxCell id="nr64mT80ZBLKgg4U0c5f-22" value="DDHR Receive applications until closure" style="whiteSpace=wrap;html=1;" vertex="1" parent="nr64mT80ZBLKgg4U0c5f-5">
+          <mxGeometry x="105" y="502" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nr64mT80ZBLKgg4U0c5f-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nr64mT80ZBLKgg4U0c5f-13" target="nr64mT80ZBLKgg4U0c5f-22">
+        <mxCell id="nr64mT80ZBLKgg4U0c5f-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nr64mT80ZBLKgg4U0c5f-5" source="nr64mT80ZBLKgg4U0c5f-13" target="nr64mT80ZBLKgg4U0c5f-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nr64mT80ZBLKgg4U0c5f-24" value="DDHR Recommends shortlisting panel" style="whiteSpace=wrap;html=1;" vertex="1" parent="nr64mT80ZBLKgg4U0c5f-5">
+          <mxGeometry x="105" y="618" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nr64mT80ZBLKgg4U0c5f-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nr64mT80ZBLKgg4U0c5f-5" source="nr64mT80ZBLKgg4U0c5f-22" target="nr64mT80ZBLKgg4U0c5f-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nr64mT80ZBLKgg4U0c5f-26" value="Director/CEO Approves?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="nr64mT80ZBLKgg4U0c5f-5">
+          <mxGeometry x="110" y="721" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nr64mT80ZBLKgg4U0c5f-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nr64mT80ZBLKgg4U0c5f-5" source="nr64mT80ZBLKgg4U0c5f-24" target="nr64mT80ZBLKgg4U0c5f-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nr64mT80ZBLKgg4U0c5f-28" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="741" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nr64mT80ZBLKgg4U0c5f-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nr64mT80ZBLKgg4U0c5f-26" target="nr64mT80ZBLKgg4U0c5f-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
