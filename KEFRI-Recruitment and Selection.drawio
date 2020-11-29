@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-29T07:59:45.670Z" agent="5.0 (Windows)" etag="Wru6gYR9UyUhDJLEN7XC" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-29T08:01:27.694Z" agent="5.0 (Windows)" etag="io9wtzWi7OBRZXpJGng1" version="13.10.4" type="github">
   <diagram id="REOELQYu35U8tUqML4uu" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -92,49 +92,49 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nr64mT80ZBLKgg4U0c5f-36" value="Shortlisting Panel assesses the applicants against the shortlisting criteria and prepares a report for DDHR" style="whiteSpace=wrap;html=1;" vertex="1" parent="nr64mT80ZBLKgg4U0c5f-5">
-          <mxGeometry x="280" y="610" width="150" height="68" as="geometry" />
+          <mxGeometry x="272" y="610" width="150" height="68" as="geometry" />
         </mxCell>
         <mxCell id="nr64mT80ZBLKgg4U0c5f-38" value="DDHR presents the shortlisting report to KeHRMAC for inputs taking into cognizance the constitutional and regulatory requirements" style="whiteSpace=wrap;html=1;" vertex="1" parent="nr64mT80ZBLKgg4U0c5f-5">
-          <mxGeometry x="270" y="470" width="170" height="80" as="geometry" />
+          <mxGeometry x="262" y="470" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nr64mT80ZBLKgg4U0c5f-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nr64mT80ZBLKgg4U0c5f-5" source="nr64mT80ZBLKgg4U0c5f-36" target="nr64mT80ZBLKgg4U0c5f-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nr64mT80ZBLKgg4U0c5f-40" value="SHRMO compiles the inputs given by KeHRMAC into the shortlisting report" style="whiteSpace=wrap;html=1;" vertex="1" parent="nr64mT80ZBLKgg4U0c5f-5">
-          <mxGeometry x="295" y="335" width="120" height="75" as="geometry" />
+          <mxGeometry x="287" y="335" width="120" height="75" as="geometry" />
         </mxCell>
         <mxCell id="nr64mT80ZBLKgg4U0c5f-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nr64mT80ZBLKgg4U0c5f-5" source="nr64mT80ZBLKgg4U0c5f-38" target="nr64mT80ZBLKgg4U0c5f-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nr64mT80ZBLKgg4U0c5f-46" value="Director appoints the interview Panel" style="whiteSpace=wrap;html=1;" vertex="1" parent="nr64mT80ZBLKgg4U0c5f-5">
-          <mxGeometry x="507.5" y="371" width="120" height="60" as="geometry" />
+          <mxGeometry x="499.5" y="371" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nr64mT80ZBLKgg4U0c5f-48" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="nr64mT80ZBLKgg4U0c5f-5">
-          <mxGeometry x="535" y="316" width="40" height="20" as="geometry" />
+          <mxGeometry x="527" y="316" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nr64mT80ZBLKgg4U0c5f-49" value="Director/CEO comments" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="nr64mT80ZBLKgg4U0c5f-5">
-          <mxGeometry x="527.5" y="70" width="80" height="100" as="geometry" />
+          <mxGeometry x="519.5" y="70" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="nr64mT80ZBLKgg4U0c5f-55" value="Interview panel will assesses applicants against the interview criteria andprepares an interview report for DDHR" style="whiteSpace=wrap;html=1;" vertex="1" parent="nr64mT80ZBLKgg4U0c5f-5">
-          <mxGeometry x="491.5" y="511" width="152" height="79" as="geometry" />
+          <mxGeometry x="483.5" y="511" width="152" height="79" as="geometry" />
         </mxCell>
         <mxCell id="nr64mT80ZBLKgg4U0c5f-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nr64mT80ZBLKgg4U0c5f-5" source="nr64mT80ZBLKgg4U0c5f-46" target="nr64mT80ZBLKgg4U0c5f-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nr64mT80ZBLKgg4U0c5f-57" value="DDHR presents the Interview Report to the KeHRMAC for consideration and input taking into cognizance the constitutional and regulatory requirements" style="whiteSpace=wrap;html=1;" vertex="1" parent="nr64mT80ZBLKgg4U0c5f-5">
-          <mxGeometry x="472.5" y="660" width="190" height="90" as="geometry" />
+          <mxGeometry x="464.5" y="660" width="190" height="90" as="geometry" />
         </mxCell>
         <mxCell id="nr64mT80ZBLKgg4U0c5f-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nr64mT80ZBLKgg4U0c5f-5" source="nr64mT80ZBLKgg4U0c5f-55" target="nr64mT80ZBLKgg4U0c5f-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nr64mT80ZBLKgg4U0c5f-61" value="DDHR presents the Interview Report to the HRC for concurrence and input" style="whiteSpace=wrap;html=1;" vertex="1" parent="nr64mT80ZBLKgg4U0c5f-5">
-          <mxGeometry x="700" y="535" width="140" height="65" as="geometry" />
+          <mxGeometry x="692" y="535" width="140" height="65" as="geometry" />
         </mxCell>
         <mxCell id="nr64mT80ZBLKgg4U0c5f-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nr64mT80ZBLKgg4U0c5f-5" source="nr64mT80ZBLKgg4U0c5f-59" target="nr64mT80ZBLKgg4U0c5f-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nr64mT80ZBLKgg4U0c5f-59" value="SHRMO incorporates KeHRMAC&#39;s inputs into the interview report for DDHR" style="whiteSpace=wrap;html=1;" vertex="1" parent="nr64mT80ZBLKgg4U0c5f-5">
-          <mxGeometry x="710" y="670" width="120" height="70" as="geometry" />
+          <mxGeometry x="702" y="670" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="nr64mT80ZBLKgg4U0c5f-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nr64mT80ZBLKgg4U0c5f-5" source="nr64mT80ZBLKgg4U0c5f-57" target="nr64mT80ZBLKgg4U0c5f-59">
           <mxGeometry relative="1" as="geometry" />
@@ -143,64 +143,64 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nr64mT80ZBLKgg4U0c5f-63" value="SHRMO incorporates HRC’s inputs into the interview report" style="whiteSpace=wrap;html=1;" vertex="1" parent="nr64mT80ZBLKgg4U0c5f-5">
-          <mxGeometry x="710" y="400.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="702" y="400.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nr64mT80ZBLKgg4U0c5f-65" value="Interview Report is submitted to the BoD for approval" style="whiteSpace=wrap;html=1;" vertex="1" parent="nr64mT80ZBLKgg4U0c5f-5">
-          <mxGeometry x="710" y="265.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="702" y="265.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nr64mT80ZBLKgg4U0c5f-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nr64mT80ZBLKgg4U0c5f-5" source="nr64mT80ZBLKgg4U0c5f-63" target="nr64mT80ZBLKgg4U0c5f-65">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nr64mT80ZBLKgg4U0c5f-67" value="Board Approves?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="nr64mT80ZBLKgg4U0c5f-5">
-          <mxGeometry x="730" y="115.5" width="80" height="80" as="geometry" />
+          <mxGeometry x="722" y="115.5" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nr64mT80ZBLKgg4U0c5f-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nr64mT80ZBLKgg4U0c5f-5" source="nr64mT80ZBLKgg4U0c5f-65" target="nr64mT80ZBLKgg4U0c5f-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nr64mT80ZBLKgg4U0c5f-71" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="nr64mT80ZBLKgg4U0c5f-5">
-          <mxGeometry x="820" y="135" width="40" height="20" as="geometry" />
+          <mxGeometry x="812" y="135" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nr64mT80ZBLKgg4U0c5f-69" value="DDHR informs all applicants notifying them the status of their application" style="whiteSpace=wrap;html=1;" vertex="1" parent="nr64mT80ZBLKgg4U0c5f-5">
-          <mxGeometry x="890" y="120.5" width="120" height="70" as="geometry" />
+          <mxGeometry x="882" y="120.5" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="nr64mT80ZBLKgg4U0c5f-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nr64mT80ZBLKgg4U0c5f-5" source="nr64mT80ZBLKgg4U0c5f-67" target="nr64mT80ZBLKgg4U0c5f-69">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nr64mT80ZBLKgg4U0c5f-76" value="Board Comments" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="nr64mT80ZBLKgg4U0c5f-5">
-          <mxGeometry x="620" y="90.5" width="60" height="100" as="geometry" />
+          <mxGeometry x="612" y="90.5" width="60" height="100" as="geometry" />
         </mxCell>
         <mxCell id="nr64mT80ZBLKgg4U0c5f-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=60;entryDy=65;entryPerimeter=0;" edge="1" parent="nr64mT80ZBLKgg4U0c5f-5" source="nr64mT80ZBLKgg4U0c5f-67" target="nr64mT80ZBLKgg4U0c5f-76">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="670" y="155.5" as="targetPoint" />
+            <mxPoint x="662" y="155.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nr64mT80ZBLKgg4U0c5f-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="nr64mT80ZBLKgg4U0c5f-5" source="nr64mT80ZBLKgg4U0c5f-76" target="nr64mT80ZBLKgg4U0c5f-65">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="650" y="271" as="targetPoint" />
+            <mxPoint x="642" y="271" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="650" y="296" />
+              <mxPoint x="642" y="296" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="nr64mT80ZBLKgg4U0c5f-81" value="&lt;div&gt;Successful &lt;br&gt;&lt;/div&gt;&lt;div&gt;candidate &lt;br&gt;&lt;/div&gt;&lt;div&gt;accepts offer?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="nr64mT80ZBLKgg4U0c5f-5">
-          <mxGeometry x="870" y="265.5" width="160" height="94.5" as="geometry" />
+          <mxGeometry x="862" y="265.5" width="160" height="94.5" as="geometry" />
         </mxCell>
         <mxCell id="nr64mT80ZBLKgg4U0c5f-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="nr64mT80ZBLKgg4U0c5f-5" source="nr64mT80ZBLKgg4U0c5f-69" target="nr64mT80ZBLKgg4U0c5f-81">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="950" y="265.5" as="targetPoint" />
+            <mxPoint x="942" y="265.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nr64mT80ZBLKgg4U0c5f-87" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="nr64mT80ZBLKgg4U0c5f-5">
-          <mxGeometry x="910" y="590" width="80" height="50" as="geometry" />
+          <mxGeometry x="902" y="590" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nr64mT80ZBLKgg4U0c5f-88" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="nr64mT80ZBLKgg4U0c5f-5">
-          <mxGeometry x="946" y="401" width="40" height="20" as="geometry" />
+          <mxGeometry x="938" y="401" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nr64mT80ZBLKgg4U0c5f-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nr64mT80ZBLKgg4U0c5f-28" target="nr64mT80ZBLKgg4U0c5f-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nr64mT80ZBLKgg4U0c5f-28" value="Director appoints the shortlisting panel" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="305" y="741" width="120" height="60" as="geometry" />
+          <mxGeometry x="297" y="741" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nr64mT80ZBLKgg4U0c5f-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nr64mT80ZBLKgg4U0c5f-26" target="nr64mT80ZBLKgg4U0c5f-28">
           <mxGeometry relative="1" as="geometry" />
@@ -209,7 +209,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nr64mT80ZBLKgg4U0c5f-42" value="DDHR recommends an interview panel for the Director&#39;s approval" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="305" y="223" width="120" height="60" as="geometry" />
+          <mxGeometry x="297" y="223" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nr64mT80ZBLKgg4U0c5f-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nr64mT80ZBLKgg4U0c5f-40" target="nr64mT80ZBLKgg4U0c5f-42">
           <mxGeometry relative="1" as="geometry" />
@@ -219,33 +219,42 @@
         </mxCell>
         <mxCell id="nr64mT80ZBLKgg4U0c5f-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nr64mT80ZBLKgg4U0c5f-44" target="nr64mT80ZBLKgg4U0c5f-49">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="577.5" y="123" as="targetPoint" />
+            <mxPoint x="569.5" y="123" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nr64mT80ZBLKgg4U0c5f-44" value="Director/CEO Approves?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="525" y="213" width="105" height="80" as="geometry" />
+          <mxGeometry x="517" y="213" width="105" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nr64mT80ZBLKgg4U0c5f-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nr64mT80ZBLKgg4U0c5f-49" target="nr64mT80ZBLKgg4U0c5f-42">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="477.5" y="130" as="targetPoint" />
+            <mxPoint x="469.5" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nr64mT80ZBLKgg4U0c5f-54" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="545" y="193" width="40" height="20" as="geometry" />
+          <mxGeometry x="537" y="193" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nr64mT80ZBLKgg4U0c5f-80" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="704" y="146" width="40" height="20" as="geometry" />
+          <mxGeometry x="696" y="146" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nr64mT80ZBLKgg4U0c5f-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nr64mT80ZBLKgg4U0c5f-83" target="nr64mT80ZBLKgg4U0c5f-87">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="960" y="597.25" as="targetPoint" />
+            <mxPoint x="952" y="597.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nr64mT80ZBLKgg4U0c5f-83" value="DDHR Appoints the candidate" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="467.25" width="120" height="60" as="geometry" />
+          <mxGeometry x="892" y="467.25" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nr64mT80ZBLKgg4U0c5f-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nr64mT80ZBLKgg4U0c5f-81" target="nr64mT80ZBLKgg4U0c5f-83">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nr64mT80ZBLKgg4U0c5f-89" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1072" y="292.75" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nr64mT80ZBLKgg4U0c5f-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nr64mT80ZBLKgg4U0c5f-81" target="nr64mT80ZBLKgg4U0c5f-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nr64mT80ZBLKgg4U0c5f-91" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="302" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
