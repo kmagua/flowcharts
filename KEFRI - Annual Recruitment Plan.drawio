@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-29T06:10:38.376Z" agent="5.0 (Windows)" etag="N1nsf2738ZGpRLhCSgoZ" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-29T06:13:39.159Z" agent="5.0 (Windows)" etag="yBuHm1pHPof6We4FCgQ1" version="13.10.4" type="github">
   <diagram id="rh0mucq8AUeVXR-K46Hd" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -21,8 +21,8 @@
             <mxPoint x="120" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="z-MluRmv4vpyXfdSz0gX-21" value="Received approved plan and forward to KeHRMAC" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="z-MluRmv4vpyXfdSz0gX-2">
-          <mxGeometry x="455" y="110" width="120" height="60" as="geometry" />
+        <mxCell id="z-MluRmv4vpyXfdSz0gX-21" value="Received approved plan and forward to KeHRMAC for rationalization and recommendation" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="z-MluRmv4vpyXfdSz0gX-2">
+          <mxGeometry x="455" y="90" width="135" height="80" as="geometry" />
         </mxCell>
         <mxCell id="z-MluRmv4vpyXfdSz0gX-3" value="EC" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="z-MluRmv4vpyXfdSz0gX-1">
           <mxGeometry y="200" width="1150" height="120" as="geometry" />
@@ -47,6 +47,9 @@
         <mxCell id="z-MluRmv4vpyXfdSz0gX-4" value="KeHRMAC" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="z-MluRmv4vpyXfdSz0gX-1">
           <mxGeometry y="320" width="1150" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="z-MluRmv4vpyXfdSz0gX-24" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="z-MluRmv4vpyXfdSz0gX-4">
+          <mxGeometry x="557" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="z-MluRmv4vpyXfdSz0gX-5" value="HRC" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="z-MluRmv4vpyXfdSz0gX-1">
           <mxGeometry y="440" width="1150" height="120" as="geometry" />
         </mxCell>
@@ -55,6 +58,13 @@
         </mxCell>
         <mxCell id="z-MluRmv4vpyXfdSz0gX-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="z-MluRmv4vpyXfdSz0gX-1" source="z-MluRmv4vpyXfdSz0gX-13" target="z-MluRmv4vpyXfdSz0gX-21">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z-MluRmv4vpyXfdSz0gX-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="z-MluRmv4vpyXfdSz0gX-1" source="z-MluRmv4vpyXfdSz0gX-21" target="z-MluRmv4vpyXfdSz0gX-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="617" y="150" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="z-MluRmv4vpyXfdSz0gX-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z-MluRmv4vpyXfdSz0gX-11" target="z-MluRmv4vpyXfdSz0gX-13">
           <mxGeometry relative="1" as="geometry" />
