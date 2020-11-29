@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-29T06:15:52.040Z" agent="5.0 (Windows)" etag="c_ZsGOns18gRZB2V_Alg" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-29T06:18:39.587Z" agent="5.0 (Windows)" etag="FM_TN2CG4PJzNemYmQon" version="13.10.4" type="github">
   <diagram id="rh0mucq8AUeVXR-K46Hd" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -50,6 +50,17 @@
         <mxCell id="z-MluRmv4vpyXfdSz0gX-26" value="Approved?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="z-MluRmv4vpyXfdSz0gX-4">
           <mxGeometry x="576" y="20" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="z-MluRmv4vpyXfdSz0gX-29" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="z-MluRmv4vpyXfdSz0gX-4">
+          <mxGeometry x="656" y="38" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="z-MluRmv4vpyXfdSz0gX-31" value="KeHRMAC Comments" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="z-MluRmv4vpyXfdSz0gX-4">
+          <mxGeometry x="460" y="5" width="70" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="z-MluRmv4vpyXfdSz0gX-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=70;entryDy=55;entryPerimeter=0;" edge="1" parent="z-MluRmv4vpyXfdSz0gX-4" source="z-MluRmv4vpyXfdSz0gX-26" target="z-MluRmv4vpyXfdSz0gX-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="496" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="z-MluRmv4vpyXfdSz0gX-5" value="HRC" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="z-MluRmv4vpyXfdSz0gX-1">
           <mxGeometry y="440" width="1150" height="120" as="geometry" />
         </mxCell>
@@ -68,6 +79,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="z-MluRmv4vpyXfdSz0gX-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="z-MluRmv4vpyXfdSz0gX-1" source="z-MluRmv4vpyXfdSz0gX-31" target="z-MluRmv4vpyXfdSz0gX-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="405" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="z-MluRmv4vpyXfdSz0gX-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z-MluRmv4vpyXfdSz0gX-11" target="z-MluRmv4vpyXfdSz0gX-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -84,6 +100,12 @@
               <mxPoint x="250" y="170" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="z-MluRmv4vpyXfdSz0gX-27" value="Forward to HRC" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="726" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z-MluRmv4vpyXfdSz0gX-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z-MluRmv4vpyXfdSz0gX-26" target="z-MluRmv4vpyXfdSz0gX-27">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
