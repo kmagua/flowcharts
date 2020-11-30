@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-30T17:32:38.492Z" agent="5.0 (Windows)" etag="oCnpFOgpY_lHGPv3pIsF" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-30T17:34:45.764Z" agent="5.0 (Windows)" etag="OF_gdZhbEnAaytC9-1Fc" version="13.10.4" type="github">
   <diagram id="TgsOetUIMMD29B5rdHni" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -23,6 +23,9 @@
         </mxCell>
         <mxCell id="y23m5HL0FmxXgGwVUjin-21" value="Table plan and budget to Consultative Committee" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="y23m5HL0FmxXgGwVUjin-2">
           <mxGeometry x="590" y="90" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="y23m5HL0FmxXgGwVUjin-32" value="Submit to director for approval" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="y23m5HL0FmxXgGwVUjin-2">
+          <mxGeometry x="741" y="105" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y23m5HL0FmxXgGwVUjin-3" value="Head, Training" style="swimlane;html=1;startSize=30;horizontal=0;" vertex="1" parent="y23m5HL0FmxXgGwVUjin-1">
           <mxGeometry y="210" width="1150" height="140" as="geometry" />
@@ -57,8 +60,8 @@
         <mxCell id="y23m5HL0FmxXgGwVUjin-20" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="y23m5HL0FmxXgGwVUjin-4">
           <mxGeometry x="510" y="38.5" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="y23m5HL0FmxXgGwVUjin-30" value="Rationalize " style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="y23m5HL0FmxXgGwVUjin-4">
-          <mxGeometry x="741" y="30" width="120" height="60" as="geometry" />
+        <mxCell id="y23m5HL0FmxXgGwVUjin-30" value="Rationalization of plan and budget " style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="y23m5HL0FmxXgGwVUjin-4">
+          <mxGeometry x="741" y="-30" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="y23m5HL0FmxXgGwVUjin-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="y23m5HL0FmxXgGwVUjin-1" source="y23m5HL0FmxXgGwVUjin-8" target="y23m5HL0FmxXgGwVUjin-9">
           <mxGeometry relative="1" as="geometry" />
@@ -99,6 +102,9 @@
               <mxPoint x="801" y="535" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="y23m5HL0FmxXgGwVUjin-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="y23m5HL0FmxXgGwVUjin-1" source="y23m5HL0FmxXgGwVUjin-30" target="y23m5HL0FmxXgGwVUjin-32">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
