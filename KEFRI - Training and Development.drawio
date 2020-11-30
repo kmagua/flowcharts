@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-30T17:26:36.640Z" agent="5.0 (Windows)" etag="IlT4vRENe9aBpwU_pZRl" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-30T17:28:40.739Z" agent="5.0 (Windows)" etag="Oe5M-VAR9BTsz9PAF8vP" version="13.10.4" type="github">
   <diagram id="TgsOetUIMMD29B5rdHni" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -63,6 +63,9 @@
         <mxCell id="y23m5HL0FmxXgGwVUjin-13" value="&lt;div&gt;Consultative&lt;/div&gt;&lt;div&gt;committee&lt;/div&gt;" style="swimlane;html=1;startSize=30;horizontal=0;" vertex="1" parent="y23m5HL0FmxXgGwVUjin-1">
           <mxGeometry y="470" width="1150" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="y23m5HL0FmxXgGwVUjin-24" value="Approved?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="y23m5HL0FmxXgGwVUjin-13">
+          <mxGeometry x="680" y="13" width="80" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="y23m5HL0FmxXgGwVUjin-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="y23m5HL0FmxXgGwVUjin-1" source="y23m5HL0FmxXgGwVUjin-11" target="y23m5HL0FmxXgGwVUjin-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -78,6 +81,14 @@
         </mxCell>
         <mxCell id="y23m5HL0FmxXgGwVUjin-23" value="Director" style="swimlane;html=1;startSize=30;horizontal=0;" vertex="1" parent="y23m5HL0FmxXgGwVUjin-1">
           <mxGeometry y="600" width="1150" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="y23m5HL0FmxXgGwVUjin-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="y23m5HL0FmxXgGwVUjin-1" source="y23m5HL0FmxXgGwVUjin-21" target="y23m5HL0FmxXgGwVUjin-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="155" />
+              <mxPoint x="720" y="470" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
