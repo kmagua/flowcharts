@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-30T16:28:02.991Z" agent="5.0 (Windows)" etag="GfEkL48l1CRT4hJrLqlQ" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-30T16:31:18.401Z" agent="5.0 (Windows)" etag="J7NeFkhtzEziM367HnHT" version="13.10.4" type="github">
   <diagram id="He2L0gwN6_XgsiDIinQj" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -21,6 +21,9 @@
             <mxPoint x="180" y="145" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="4ku78tlM-AvbY3TtJWE6-26" value="Officer is notified of approval and proceeds on leave on the set date" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="4ku78tlM-AvbY3TtJWE6-2">
+          <mxGeometry x="630" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="4ku78tlM-AvbY3TtJWE6-3" value="HOD" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="4ku78tlM-AvbY3TtJWE6-1">
           <mxGeometry y="250" width="1150" height="140" as="geometry" />
         </mxCell>
@@ -36,11 +39,11 @@
         <mxCell id="4ku78tlM-AvbY3TtJWE6-4" value="Reliever" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="4ku78tlM-AvbY3TtJWE6-1">
           <mxGeometry y="390" width="1150" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="4ku78tlM-AvbY3TtJWE6-13" value="Receive notification to cover for officer on leave" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="4ku78tlM-AvbY3TtJWE6-4">
-          <mxGeometry x="320" y="40" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="4ku78tlM-AvbY3TtJWE6-15" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4ku78tlM-AvbY3TtJWE6-4">
           <mxGeometry x="375" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4ku78tlM-AvbY3TtJWE6-24" value="Receive notification to cover for officer on leave" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;" vertex="1" parent="4ku78tlM-AvbY3TtJWE6-4">
+          <mxGeometry x="320" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4ku78tlM-AvbY3TtJWE6-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="4ku78tlM-AvbY3TtJWE6-1" source="4ku78tlM-AvbY3TtJWE6-8" target="4ku78tlM-AvbY3TtJWE6-9">
           <mxGeometry relative="1" as="geometry" />
@@ -53,8 +56,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4ku78tlM-AvbY3TtJWE6-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4ku78tlM-AvbY3TtJWE6-11" target="4ku78tlM-AvbY3TtJWE6-13">
+        <mxCell id="4ku78tlM-AvbY3TtJWE6-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="4ku78tlM-AvbY3TtJWE6-1" source="4ku78tlM-AvbY3TtJWE6-24" target="4ku78tlM-AvbY3TtJWE6-26">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4ku78tlM-AvbY3TtJWE6-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4ku78tlM-AvbY3TtJWE6-11" target="4ku78tlM-AvbY3TtJWE6-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="440" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="4ku78tlM-AvbY3TtJWE6-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4ku78tlM-AvbY3TtJWE6-11" target="4ku78tlM-AvbY3TtJWE6-19">
           <mxGeometry relative="1" as="geometry">
