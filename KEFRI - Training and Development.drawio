@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-30T17:41:09.917Z" agent="5.0 (Windows)" etag="miC5rdcSc7AAuDgsvYXD" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-30T17:41:57.033Z" agent="5.0 (Windows)" etag="KRukkj5hPKwWTgYTEbqT" version="13.10.4" type="github">
   <diagram id="TgsOetUIMMD29B5rdHni" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -101,6 +101,12 @@
         </mxCell>
         <mxCell id="y23m5HL0FmxXgGwVUjin-36" value="Notify officers on their training projections" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="y23m5HL0FmxXgGwVUjin-3">
           <mxGeometry x="840" y="29" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y23m5HL0FmxXgGwVUjin-38" value="Ensure plan and budget are implemented as approved" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="y23m5HL0FmxXgGwVUjin-3">
+          <mxGeometry x="1010" y="29" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y23m5HL0FmxXgGwVUjin-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="y23m5HL0FmxXgGwVUjin-3" source="y23m5HL0FmxXgGwVUjin-36" target="y23m5HL0FmxXgGwVUjin-38">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="y23m5HL0FmxXgGwVUjin-4" value="HRT &amp;amp; DC" style="swimlane;html=1;startSize=30;horizontal=0;" vertex="1" parent="y23m5HL0FmxXgGwVUjin-1">
           <mxGeometry y="350" width="1150" height="120" as="geometry" />
