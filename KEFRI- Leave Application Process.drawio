@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-11-30T16:31:18.401Z" agent="5.0 (Windows)" etag="J7NeFkhtzEziM367HnHT" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-30T16:38:07.878Z" agent="5.0 (Windows)" etag="X_P8H0QTrOXu4jaEtAH-" version="13.10.4" type="github">
   <diagram id="He2L0gwN6_XgsiDIinQj" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="4ku78tlM-AvbY3TtJWE6-1" value="Leave Management Process" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="1">
-          <mxGeometry x="10" y="10" width="1150" height="510" as="geometry" />
+          <mxGeometry x="10" y="10" width="1150" height="640" as="geometry" />
         </mxCell>
         <mxCell id="4ku78tlM-AvbY3TtJWE6-2" value="Officer" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="4ku78tlM-AvbY3TtJWE6-1">
           <mxGeometry y="20" width="1150" height="230" as="geometry" />
@@ -22,7 +22,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4ku78tlM-AvbY3TtJWE6-26" value="Officer is notified of approval and proceeds on leave on the set date" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="4ku78tlM-AvbY3TtJWE6-2">
-          <mxGeometry x="630" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="130" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="4ku78tlM-AvbY3TtJWE6-32" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4ku78tlM-AvbY3TtJWE6-2">
+          <mxGeometry x="1040" y="140" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4ku78tlM-AvbY3TtJWE6-3" value="HOD" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="4ku78tlM-AvbY3TtJWE6-1">
           <mxGeometry y="250" width="1150" height="140" as="geometry" />
@@ -59,6 +62,17 @@
         <mxCell id="4ku78tlM-AvbY3TtJWE6-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="4ku78tlM-AvbY3TtJWE6-1" source="4ku78tlM-AvbY3TtJWE6-24" target="4ku78tlM-AvbY3TtJWE6-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="4ku78tlM-AvbY3TtJWE6-33" value="DDHR" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="4ku78tlM-AvbY3TtJWE6-1">
+          <mxGeometry y="510" width="1150" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="4ku78tlM-AvbY3TtJWE6-35" value="Receive notification about the leave and for processing of applicable dues" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;" vertex="1" parent="4ku78tlM-AvbY3TtJWE6-33">
+          <mxGeometry x="305" y="30" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="4ku78tlM-AvbY3TtJWE6-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="4ku78tlM-AvbY3TtJWE6-1" source="4ku78tlM-AvbY3TtJWE6-24" target="4ku78tlM-AvbY3TtJWE6-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="4ku78tlM-AvbY3TtJWE6-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4ku78tlM-AvbY3TtJWE6-11" target="4ku78tlM-AvbY3TtJWE6-24">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="390" y="440" as="targetPoint" />
@@ -73,6 +87,17 @@
           <mxGeometry x="350" y="290" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4ku78tlM-AvbY3TtJWE6-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4ku78tlM-AvbY3TtJWE6-9" target="4ku78tlM-AvbY3TtJWE6-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4ku78tlM-AvbY3TtJWE6-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4ku78tlM-AvbY3TtJWE6-28" target="4ku78tlM-AvbY3TtJWE6-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1050" y="195" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4ku78tlM-AvbY3TtJWE6-28" value="On resumption, notify supervisor and relieving officer" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="850" y="165" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4ku78tlM-AvbY3TtJWE6-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4ku78tlM-AvbY3TtJWE6-26" target="4ku78tlM-AvbY3TtJWE6-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
