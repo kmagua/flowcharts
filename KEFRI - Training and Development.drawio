@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-30T17:34:45.764Z" agent="5.0 (Windows)" etag="OF_gdZhbEnAaytC9-1Fc" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-30T17:37:47.019Z" agent="5.0 (Windows)" etag="Y7dKFELgsAAGvPLZwtnS" version="13.10.4" type="github">
   <diagram id="TgsOetUIMMD29B5rdHni" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -51,6 +51,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="y23m5HL0FmxXgGwVUjin-36" value="Notify officers on their training projections" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="y23m5HL0FmxXgGwVUjin-3">
+          <mxGeometry x="910" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="y23m5HL0FmxXgGwVUjin-4" value="HRT &amp;amp; DC" style="swimlane;html=1;startSize=30;horizontal=0;" vertex="1" parent="y23m5HL0FmxXgGwVUjin-1">
           <mxGeometry y="350" width="1150" height="120" as="geometry" />
         </mxCell>
@@ -88,6 +91,9 @@
         <mxCell id="y23m5HL0FmxXgGwVUjin-23" value="Director" style="swimlane;html=1;startSize=30;horizontal=0;" vertex="1" parent="y23m5HL0FmxXgGwVUjin-1">
           <mxGeometry y="600" width="1150" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="y23m5HL0FmxXgGwVUjin-34" value="Approved?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="y23m5HL0FmxXgGwVUjin-23">
+          <mxGeometry x="850" y="25" width="80" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="y23m5HL0FmxXgGwVUjin-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="y23m5HL0FmxXgGwVUjin-1" source="y23m5HL0FmxXgGwVUjin-21" target="y23m5HL0FmxXgGwVUjin-29">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="720" y="500" as="targetPoint" />
@@ -105,6 +111,20 @@
         </mxCell>
         <mxCell id="y23m5HL0FmxXgGwVUjin-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="y23m5HL0FmxXgGwVUjin-1" source="y23m5HL0FmxXgGwVUjin-30" target="y23m5HL0FmxXgGwVUjin-32">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y23m5HL0FmxXgGwVUjin-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="y23m5HL0FmxXgGwVUjin-1" source="y23m5HL0FmxXgGwVUjin-32" target="y23m5HL0FmxXgGwVUjin-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="890" y="155" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y23m5HL0FmxXgGwVUjin-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="y23m5HL0FmxXgGwVUjin-1" source="y23m5HL0FmxXgGwVUjin-34" target="y23m5HL0FmxXgGwVUjin-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="970" y="665" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
