@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-30T17:41:57.033Z" agent="5.0 (Windows)" etag="KRukkj5hPKwWTgYTEbqT" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-30T17:44:39.278Z" agent="5.0 (Windows)" etag="FpJXZn5o4EQV_87wFTUy" version="13.10.4" type="github">
   <diagram id="TgsOetUIMMD29B5rdHni" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -59,7 +59,7 @@
           <mxGeometry y="20" width="1150" height="190" as="geometry" />
         </mxCell>
         <mxCell id="y23m5HL0FmxXgGwVUjin-5" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="y23m5HL0FmxXgGwVUjin-2">
-          <mxGeometry x="85" width="110" height="50" as="geometry" />
+          <mxGeometry x="100" y="10" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="y23m5HL0FmxXgGwVUjin-8" value="Request staff through the Heads of Divisions, thematic areas and eco-regional research programmes to submit their annual training and development projections" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="y23m5HL0FmxXgGwVUjin-2">
           <mxGeometry x="40" y="89" width="200" height="80" as="geometry" />
@@ -74,6 +74,18 @@
         </mxCell>
         <mxCell id="y23m5HL0FmxXgGwVUjin-32" value="Submit to director for approval" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="y23m5HL0FmxXgGwVUjin-2">
           <mxGeometry x="671" y="94" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y23m5HL0FmxXgGwVUjin-40" value="Perform Training Evaluation every 3 years to assess the impact of training and development programme" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="y23m5HL0FmxXgGwVUjin-2">
+          <mxGeometry x="990" y="99" width="150" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="y23m5HL0FmxXgGwVUjin-42" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="y23m5HL0FmxXgGwVUjin-2">
+          <mxGeometry x="1025" y="20" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y23m5HL0FmxXgGwVUjin-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="y23m5HL0FmxXgGwVUjin-2" source="y23m5HL0FmxXgGwVUjin-40" target="y23m5HL0FmxXgGwVUjin-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1065" y="8.5" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="y23m5HL0FmxXgGwVUjin-3" value="Head, Training" style="swimlane;html=1;startSize=30;horizontal=0;" vertex="1" parent="y23m5HL0FmxXgGwVUjin-1">
           <mxGeometry y="210" width="1150" height="140" as="geometry" />
@@ -103,7 +115,7 @@
           <mxGeometry x="840" y="29" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y23m5HL0FmxXgGwVUjin-38" value="Ensure plan and budget are implemented as approved" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="y23m5HL0FmxXgGwVUjin-3">
-          <mxGeometry x="1010" y="29" width="120" height="60" as="geometry" />
+          <mxGeometry x="1005" y="29" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y23m5HL0FmxXgGwVUjin-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="y23m5HL0FmxXgGwVUjin-3" source="y23m5HL0FmxXgGwVUjin-36" target="y23m5HL0FmxXgGwVUjin-38">
           <mxGeometry relative="1" as="geometry" />
@@ -131,6 +143,9 @@
         </mxCell>
         <mxCell id="y23m5HL0FmxXgGwVUjin-34" value="Approved?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="y23m5HL0FmxXgGwVUjin-23">
           <mxGeometry x="780" y="14" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="y23m5HL0FmxXgGwVUjin-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="y23m5HL0FmxXgGwVUjin-1" source="y23m5HL0FmxXgGwVUjin-38" target="y23m5HL0FmxXgGwVUjin-40">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
