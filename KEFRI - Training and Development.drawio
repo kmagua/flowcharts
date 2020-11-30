@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-30T17:29:03.810Z" agent="5.0 (Windows)" etag="PWWLSU8-siY7iSZMlTh7" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-30T17:32:38.492Z" agent="5.0 (Windows)" etag="oCnpFOgpY_lHGPv3pIsF" version="13.10.4" type="github">
   <diagram id="TgsOetUIMMD29B5rdHni" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -57,14 +57,17 @@
         <mxCell id="y23m5HL0FmxXgGwVUjin-20" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="y23m5HL0FmxXgGwVUjin-4">
           <mxGeometry x="510" y="38.5" width="40" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="y23m5HL0FmxXgGwVUjin-30" value="Rationalize " style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="y23m5HL0FmxXgGwVUjin-4">
+          <mxGeometry x="741" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="y23m5HL0FmxXgGwVUjin-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="y23m5HL0FmxXgGwVUjin-1" source="y23m5HL0FmxXgGwVUjin-8" target="y23m5HL0FmxXgGwVUjin-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="y23m5HL0FmxXgGwVUjin-13" value="&lt;div&gt;Consultative&lt;/div&gt;&lt;div&gt;committee&lt;/div&gt;" style="swimlane;html=1;startSize=30;horizontal=0;" vertex="1" parent="y23m5HL0FmxXgGwVUjin-1">
           <mxGeometry y="470" width="1150" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="y23m5HL0FmxXgGwVUjin-24" value="Approved?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="y23m5HL0FmxXgGwVUjin-13">
-          <mxGeometry x="680" y="13" width="80" height="80" as="geometry" />
+        <mxCell id="y23m5HL0FmxXgGwVUjin-29" value="Make recommendation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="y23m5HL0FmxXgGwVUjin-13">
+          <mxGeometry x="660" y="35" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y23m5HL0FmxXgGwVUjin-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="y23m5HL0FmxXgGwVUjin-1" source="y23m5HL0FmxXgGwVUjin-11" target="y23m5HL0FmxXgGwVUjin-14">
           <mxGeometry relative="1" as="geometry" />
@@ -82,10 +85,18 @@
         <mxCell id="y23m5HL0FmxXgGwVUjin-23" value="Director" style="swimlane;html=1;startSize=30;horizontal=0;" vertex="1" parent="y23m5HL0FmxXgGwVUjin-1">
           <mxGeometry y="600" width="1150" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="y23m5HL0FmxXgGwVUjin-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="y23m5HL0FmxXgGwVUjin-1" source="y23m5HL0FmxXgGwVUjin-21" target="y23m5HL0FmxXgGwVUjin-24">
+        <mxCell id="y23m5HL0FmxXgGwVUjin-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="y23m5HL0FmxXgGwVUjin-1" source="y23m5HL0FmxXgGwVUjin-21" target="y23m5HL0FmxXgGwVUjin-29">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="500" as="targetPoint" />
             <Array as="points">
               <mxPoint x="720" y="155" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y23m5HL0FmxXgGwVUjin-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="y23m5HL0FmxXgGwVUjin-1" source="y23m5HL0FmxXgGwVUjin-29" target="y23m5HL0FmxXgGwVUjin-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="801" y="535" />
             </Array>
           </mxGeometry>
         </mxCell>
