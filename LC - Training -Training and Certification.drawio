@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-02T18:16:03.720Z" agent="5.0 (Windows)" etag="7R_-WxRiBm4c3bVMjIqn" version="13.10.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-02T18:17:23.095Z" agent="5.0 (Windows)" etag="PzPMGJAb8w8K3_RLGJ3M" version="13.10.5" type="github">
   <diagram id="uGPZgziH7StoF2qraDm7" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
           <mxGeometry x="220" y="-35" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TOX-AXd9uwdbG_oPJI73-13" value="Student is tested on acquired" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="TOX-AXd9uwdbG_oPJI73-3">
-          <mxGeometry x="625" y="30" width="125" height="70" as="geometry" />
+          <mxGeometry x="625" y="40" width="125" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TOX-AXd9uwdbG_oPJI73-4" value="Lane 3" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="TOX-AXd9uwdbG_oPJI73-1">
           <mxGeometry y="390" width="1150" height="120" as="geometry" />
@@ -45,6 +45,10 @@
         <mxCell id="TOX-AXd9uwdbG_oPJI73-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TOX-AXd9uwdbG_oPJI73-11" target="TOX-AXd9uwdbG_oPJI73-13">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="490" y="390" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="590" y="280" />
+              <mxPoint x="590" y="350" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
