@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-02T18:18:26.652Z" agent="5.0 (Windows)" etag="rX-A0UJpP7AgdW3ZWtmE" version="13.10.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-02T18:22:06.839Z" agent="5.0 (Windows)" etag="PVQh1m3RfvaSelxmDusp" version="13.10.5" type="github">
   <diagram id="uGPZgziH7StoF2qraDm7" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -7,53 +7,62 @@
         <mxCell id="TOX-AXd9uwdbG_oPJI73-1" value="Training and Certification" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="10" width="1150" height="510" as="geometry" />
         </mxCell>
+        <mxCell id="TOX-AXd9uwdbG_oPJI73-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="TOX-AXd9uwdbG_oPJI73-1" source="TOX-AXd9uwdbG_oPJI73-8" target="TOX-AXd9uwdbG_oPJI73-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TOX-AXd9uwdbG_oPJI73-2" value="Instructor" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="TOX-AXd9uwdbG_oPJI73-1">
           <mxGeometry y="20" width="1150" height="250" as="geometry" />
         </mxCell>
         <mxCell id="TOX-AXd9uwdbG_oPJI73-5" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="TOX-AXd9uwdbG_oPJI73-2">
-          <mxGeometry x="230" y="10" width="100" height="50" as="geometry" />
+          <mxGeometry x="60" y="10" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TOX-AXd9uwdbG_oPJI73-8" value="Issue student with a&amp;nbsp; weekly training program" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TOX-AXd9uwdbG_oPJI73-2">
-          <mxGeometry x="220" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TOX-AXd9uwdbG_oPJI73-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="TOX-AXd9uwdbG_oPJI73-2" source="TOX-AXd9uwdbG_oPJI73-5" target="TOX-AXd9uwdbG_oPJI73-8">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="280" y="135" as="targetPoint" />
+            <mxPoint x="110" y="135" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TOX-AXd9uwdbG_oPJI73-3" value="Student" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="TOX-AXd9uwdbG_oPJI73-1">
           <mxGeometry y="270" width="1150" height="120" as="geometry" />
         </mxCell>
         <mxCell id="TOX-AXd9uwdbG_oPJI73-9" value="Training is conducted as per the program" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="TOX-AXd9uwdbG_oPJI73-3">
-          <mxGeometry x="220" y="-35" width="120" height="70" as="geometry" />
+          <mxGeometry x="50" y="-35" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="TOX-AXd9uwdbG_oPJI73-13" value="Student is tested on acquired" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="TOX-AXd9uwdbG_oPJI73-3">
-          <mxGeometry x="625" y="40" width="125" height="60" as="geometry" />
+        <mxCell id="TOX-AXd9uwdbG_oPJI73-13" value="Student is tested on skills acquired" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="TOX-AXd9uwdbG_oPJI73-3">
+          <mxGeometry x="360" y="30" width="125" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TOX-AXd9uwdbG_oPJI73-15" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="TOX-AXd9uwdbG_oPJI73-3">
-          <mxGeometry x="830" y="30" width="80" height="80" as="geometry" />
+        <mxCell id="TOX-AXd9uwdbG_oPJI73-15" value="module passed?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="TOX-AXd9uwdbG_oPJI73-3">
+          <mxGeometry x="540" y="20" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TOX-AXd9uwdbG_oPJI73-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="TOX-AXd9uwdbG_oPJI73-3" source="TOX-AXd9uwdbG_oPJI73-13" target="TOX-AXd9uwdbG_oPJI73-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TOX-AXd9uwdbG_oPJI73-19" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="TOX-AXd9uwdbG_oPJI73-3">
+          <mxGeometry x="635" y="38" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TOX-AXd9uwdbG_oPJI73-17" value="Complete survey form" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="TOX-AXd9uwdbG_oPJI73-3">
+          <mxGeometry x="690" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TOX-AXd9uwdbG_oPJI73-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="TOX-AXd9uwdbG_oPJI73-3" source="TOX-AXd9uwdbG_oPJI73-15" target="TOX-AXd9uwdbG_oPJI73-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TOX-AXd9uwdbG_oPJI73-4" value="Lane 3" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="TOX-AXd9uwdbG_oPJI73-1">
           <mxGeometry y="390" width="1150" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="TOX-AXd9uwdbG_oPJI73-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="TOX-AXd9uwdbG_oPJI73-1" source="TOX-AXd9uwdbG_oPJI73-8" target="TOX-AXd9uwdbG_oPJI73-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="TOX-AXd9uwdbG_oPJI73-11" value="Training progress is captured in the system (class attendance log)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="230" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TOX-AXd9uwdbG_oPJI73-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TOX-AXd9uwdbG_oPJI73-9" target="TOX-AXd9uwdbG_oPJI73-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TOX-AXd9uwdbG_oPJI73-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TOX-AXd9uwdbG_oPJI73-11" target="TOX-AXd9uwdbG_oPJI73-13">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="490" y="390" as="sourcePoint" />
+            <mxPoint x="320" y="390" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="590" y="280" />
-              <mxPoint x="590" y="350" />
+              <mxPoint x="420" y="280" />
+              <mxPoint x="420" y="350" />
             </Array>
           </mxGeometry>
         </mxCell>
