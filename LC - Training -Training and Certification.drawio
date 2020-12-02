@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2020-12-02T18:26:39.501Z" agent="5.0 (Windows)" etag="MD6UKeHHjL6v2-xhLLin" version="13.10.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-02T18:30:23.830Z" agent="5.0 (Windows)" etag="fG2C0-LjgfD7UNByWKQ3" version="13.10.5" type="github">
   <diagram id="uGPZgziH7StoF2qraDm7" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="TOX-AXd9uwdbG_oPJI73-1" value="Training and Certification" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="1">
-          <mxGeometry x="10" y="10" width="1150" height="750" as="geometry" />
+          <mxGeometry y="10" width="1160" height="750" as="geometry" />
         </mxCell>
         <mxCell id="TOX-AXd9uwdbG_oPJI73-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="TOX-AXd9uwdbG_oPJI73-1" source="TOX-AXd9uwdbG_oPJI73-8" target="TOX-AXd9uwdbG_oPJI73-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TOX-AXd9uwdbG_oPJI73-2" value="Instructor" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="TOX-AXd9uwdbG_oPJI73-1">
-          <mxGeometry y="20" width="1150" height="250" as="geometry" />
+          <mxGeometry y="20" width="1160" height="250" as="geometry" />
         </mxCell>
         <mxCell id="TOX-AXd9uwdbG_oPJI73-5" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="TOX-AXd9uwdbG_oPJI73-2">
           <mxGeometry x="60" y="10" width="100" height="50" as="geometry" />
@@ -25,7 +25,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TOX-AXd9uwdbG_oPJI73-3" value="Student" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="TOX-AXd9uwdbG_oPJI73-1">
-          <mxGeometry y="270" width="1150" height="220" as="geometry" />
+          <mxGeometry y="270" width="1160" height="220" as="geometry" />
         </mxCell>
         <mxCell id="TOX-AXd9uwdbG_oPJI73-9" value="Training is conducted as per the program" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="TOX-AXd9uwdbG_oPJI73-3">
           <mxGeometry x="50" y="-35" width="120" height="70" as="geometry" />
@@ -57,19 +57,25 @@
           <mxGeometry x="690" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TOX-AXd9uwdbG_oPJI73-4" value="Center Administrator" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="TOX-AXd9uwdbG_oPJI73-1">
-          <mxGeometry y="490" width="1150" height="130" as="geometry" />
+          <mxGeometry y="490" width="1160" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="TOX-AXd9uwdbG_oPJI73-23" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="TOX-AXd9uwdbG_oPJI73-4">
-          <mxGeometry x="690" y="70" width="120" height="60" as="geometry" />
+        <mxCell id="TOX-AXd9uwdbG_oPJI73-23" value="Generate certificate" style="whiteSpace=wrap;html=1;" vertex="1" parent="TOX-AXd9uwdbG_oPJI73-4">
+          <mxGeometry x="690" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TOX-AXd9uwdbG_oPJI73-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="TOX-AXd9uwdbG_oPJI73-1" source="TOX-AXd9uwdbG_oPJI73-22" target="TOX-AXd9uwdbG_oPJI73-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TOX-AXd9uwdbG_oPJI73-25" value="CEO/DTS/CA" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="TOX-AXd9uwdbG_oPJI73-1">
-          <mxGeometry y="620" width="1150" height="130" as="geometry" />
+          <mxGeometry y="620" width="1160" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="TOX-AXd9uwdbG_oPJI73-26" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="TOX-AXd9uwdbG_oPJI73-25">
-          <mxGeometry x="690" y="70" width="120" height="60" as="geometry" />
+        <mxCell id="TOX-AXd9uwdbG_oPJI73-27" value="Signing of certificate" style="whiteSpace=wrap;html=1;" vertex="1" parent="TOX-AXd9uwdbG_oPJI73-25">
+          <mxGeometry x="690" y="35" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TOX-AXd9uwdbG_oPJI73-33" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="TOX-AXd9uwdbG_oPJI73-25">
+          <mxGeometry x="1060" y="40" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TOX-AXd9uwdbG_oPJI73-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="TOX-AXd9uwdbG_oPJI73-1" source="TOX-AXd9uwdbG_oPJI73-23" target="TOX-AXd9uwdbG_oPJI73-27">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TOX-AXd9uwdbG_oPJI73-11" value="Training progress is captured in the system (class attendance log)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="250" width="120" height="60" as="geometry" />
@@ -85,6 +91,17 @@
               <mxPoint x="420" y="350" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="TOX-AXd9uwdbG_oPJI73-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TOX-AXd9uwdbG_oPJI73-29" target="TOX-AXd9uwdbG_oPJI73-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1050" y="695" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TOX-AXd9uwdbG_oPJI73-29" value="Issue certificate to student" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="665" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TOX-AXd9uwdbG_oPJI73-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TOX-AXd9uwdbG_oPJI73-27" target="TOX-AXd9uwdbG_oPJI73-29">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
