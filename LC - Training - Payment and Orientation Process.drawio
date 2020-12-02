@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-02T17:33:01.693Z" agent="5.0 (Windows)" etag="2i2uszJVp3VHIrnRFN3_" version="13.10.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-02T17:37:03.978Z" agent="5.0 (Windows)" etag="yYsnLTqODz4FUZ2KlnCr" version="13.10.5" type="github">
   <diagram id="Pqlc716QHQSJm35RJsEu" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -27,16 +27,28 @@
         <mxCell id="e2lktKPJc9hpXsIobjqQ-9" value="Student is issued with an admission number and a notification on reporting date" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="e2lktKPJc9hpXsIobjqQ-3">
           <mxGeometry x="200" y="30" width="140" height="67.5" as="geometry" />
         </mxCell>
-        <mxCell id="e2lktKPJc9hpXsIobjqQ-4" value="Lane 3" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="e2lktKPJc9hpXsIobjqQ-1">
+        <mxCell id="e2lktKPJc9hpXsIobjqQ-4" value="Instructor" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="e2lktKPJc9hpXsIobjqQ-1">
           <mxGeometry y="375" width="1150" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="e2lktKPJc9hpXsIobjqQ-13" value="Plan schedule for introduction and orientation and share with student" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="e2lktKPJc9hpXsIobjqQ-4">
+          <mxGeometry x="430" y="30" width="140" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="e2lktKPJc9hpXsIobjqQ-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="e2lktKPJc9hpXsIobjqQ-1" source="e2lktKPJc9hpXsIobjqQ-8" target="e2lktKPJc9hpXsIobjqQ-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2lktKPJc9hpXsIobjqQ-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e2lktKPJc9hpXsIobjqQ-11" target="e2lktKPJc9hpXsIobjqQ-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e2lktKPJc9hpXsIobjqQ-11" value="Upon reporting student is issued with identification card (A photo is taken and updated on student profile)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="440" y="269" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="e2lktKPJc9hpXsIobjqQ-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e2lktKPJc9hpXsIobjqQ-9" target="e2lktKPJc9hpXsIobjqQ-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2lktKPJc9hpXsIobjqQ-15" value="Introduction and orientation of the student (based on checklist)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="415" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="e2lktKPJc9hpXsIobjqQ-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e2lktKPJc9hpXsIobjqQ-13" target="e2lktKPJc9hpXsIobjqQ-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
