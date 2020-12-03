@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-03T05:06:29.322Z" agent="5.0 (Windows)" etag="Vd2y5067yyszqFD0rmOP" version="13.10.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-03T05:06:52.704Z" agent="5.0 (Windows)" etag="ihGYa2VLxzbSk11qtP_s" version="13.10.6" type="github">
   <diagram id="IWARdDuZ1ql6BfNOUT5s" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -35,11 +35,13 @@
             <mxPoint x="450" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aD70b2e0ycqTwXBgA6Ax-16" value="Receive acknowldgement and request to submit materials" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="aD70b2e0ycqTwXBgA6Ax-2">
-          <mxGeometry x="320" y="190" width="120" height="60" as="geometry" />
+        <mxCell id="aD70b2e0ycqTwXBgA6Ax-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="aD70b2e0ycqTwXBgA6Ax-2" source="aD70b2e0ycqTwXBgA6Ax-14" target="aD70b2e0ycqTwXBgA6Ax-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="190" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="aD70b2e0ycqTwXBgA6Ax-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="aD70b2e0ycqTwXBgA6Ax-2" source="aD70b2e0ycqTwXBgA6Ax-14" target="aD70b2e0ycqTwXBgA6Ax-16">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="aD70b2e0ycqTwXBgA6Ax-23" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="aD70b2e0ycqTwXBgA6Ax-2">
+          <mxGeometry x="320" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aD70b2e0ycqTwXBgA6Ax-3" value="Reception" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="aD70b2e0ycqTwXBgA6Ax-1">
           <mxGeometry y="280" width="1150" height="135" as="geometry" />
@@ -53,8 +55,10 @@
         <mxCell id="aD70b2e0ycqTwXBgA6Ax-21" value="Deliver materials to production centre" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="530" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aD70b2e0ycqTwXBgA6Ax-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aD70b2e0ycqTwXBgA6Ax-16" target="aD70b2e0ycqTwXBgA6Ax-21">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="aD70b2e0ycqTwXBgA6Ax-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="aD70b2e0ycqTwXBgA6Ax-23" target="aD70b2e0ycqTwXBgA6Ax-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="250" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
