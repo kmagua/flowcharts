@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-03T05:01:28.062Z" agent="5.0 (Windows)" etag="ApENsgPOHojOjgcARIPQ" version="13.10.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-03T05:04:21.969Z" agent="5.0 (Windows)" etag="tMvj4Km5YIuqAs6vnNM4" version="13.10.6" type="github">
   <diagram id="IWARdDuZ1ql6BfNOUT5s" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -7,28 +7,42 @@
         <mxCell id="aD70b2e0ycqTwXBgA6Ax-1" value="Production - Receiving of Production Material" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="10" width="1150" height="595" as="geometry" />
         </mxCell>
+        <mxCell id="aD70b2e0ycqTwXBgA6Ax-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="aD70b2e0ycqTwXBgA6Ax-1" source="aD70b2e0ycqTwXBgA6Ax-14" target="aD70b2e0ycqTwXBgA6Ax-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aD70b2e0ycqTwXBgA6Ax-2" value="Client" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="aD70b2e0ycqTwXBgA6Ax-1">
           <mxGeometry y="20" width="1150" height="200" as="geometry" />
         </mxCell>
         <mxCell id="aD70b2e0ycqTwXBgA6Ax-10" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="aD70b2e0ycqTwXBgA6Ax-2">
-          <mxGeometry x="220" y="10" width="90" height="50" as="geometry" />
+          <mxGeometry x="100" y="10" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aD70b2e0ycqTwXBgA6Ax-13" value="New client registers an account with the council&#39;s online portal, an existing client logs in with the existing account" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aD70b2e0ycqTwXBgA6Ax-2">
-          <mxGeometry x="180" y="120" width="170" height="70" as="geometry" />
+          <mxGeometry x="60" y="120" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="aD70b2e0ycqTwXBgA6Ax-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="aD70b2e0ycqTwXBgA6Ax-2" source="aD70b2e0ycqTwXBgA6Ax-10" target="aD70b2e0ycqTwXBgA6Ax-13">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="265" y="135" as="targetPoint" />
+            <mxPoint x="145" y="135" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aD70b2e0ycqTwXBgA6Ax-14" value="Fill in the material and order details form" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="aD70b2e0ycqTwXBgA6Ax-2">
-          <mxGeometry x="440" y="125" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="125" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aD70b2e0ycqTwXBgA6Ax-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="aD70b2e0ycqTwXBgA6Ax-2" source="aD70b2e0ycqTwXBgA6Ax-13" target="aD70b2e0ycqTwXBgA6Ax-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="aD70b2e0ycqTwXBgA6Ax-18" value="&lt;div&gt;Cost estimate shown,&lt;/div&gt;&lt;div&gt;Types of leather and where to buy,&lt;/div&gt;&lt;div&gt;Estimated time to complete order&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="aD70b2e0ycqTwXBgA6Ax-2">
+          <mxGeometry x="537" y="125" width="213" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aD70b2e0ycqTwXBgA6Ax-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="aD70b2e0ycqTwXBgA6Ax-2" source="aD70b2e0ycqTwXBgA6Ax-18" target="aD70b2e0ycqTwXBgA6Ax-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="155" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="aD70b2e0ycqTwXBgA6Ax-3" value="Reception" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="aD70b2e0ycqTwXBgA6Ax-1">
           <mxGeometry y="220" width="1150" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="aD70b2e0ycqTwXBgA6Ax-16" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="aD70b2e0ycqTwXBgA6Ax-3">
+          <mxGeometry x="320" y="47.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aD70b2e0ycqTwXBgA6Ax-4" value="Quality assurance" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="aD70b2e0ycqTwXBgA6Ax-1">
           <mxGeometry y="355" width="1150" height="120" as="geometry" />
