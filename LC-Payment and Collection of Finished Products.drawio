@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-03T06:12:34.463Z" agent="5.0 (Windows)" etag="OjQ56iBf_asrmoHCckbz" version="13.10.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-03T06:13:01.592Z" agent="5.0 (Windows)" etag="6xym1kt0yb3si0cyxup0" version="13.10.6" type="github">
   <diagram id="sDaHL3oUhYIQM5YOXVi2" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -31,6 +31,12 @@
           <mxGeometry y="360" width="1140" height="120" as="geometry" />
         </mxCell>
         <mxCell id="QtgEVoFr9BnThGwDQ1Jx-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="QtgEVoFr9BnThGwDQ1Jx-1" source="QtgEVoFr9BnThGwDQ1Jx-9" target="QtgEVoFr9BnThGwDQ1Jx-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QtgEVoFr9BnThGwDQ1Jx-12" value="Items in store?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="265" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QtgEVoFr9BnThGwDQ1Jx-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QtgEVoFr9BnThGwDQ1Jx-10" target="QtgEVoFr9BnThGwDQ1Jx-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
