@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-12-03T05:08:21.890Z" agent="5.0 (Windows)" etag="lvtF6r2zsTbxKDqhbyTU" version="13.10.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-03T05:09:11.685Z" agent="5.0 (Windows)" etag="BBvyHnrumLuKjRbVtxi9" version="13.10.6" type="github">
   <diagram id="IWARdDuZ1ql6BfNOUT5s" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="aD70b2e0ycqTwXBgA6Ax-1" value="Production - Receiving of Production Material" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="1">
-          <mxGeometry x="10" y="10" width="1150" height="655" as="geometry" />
+          <mxGeometry x="10" y="10" width="1150" height="665" as="geometry" />
         </mxCell>
         <mxCell id="aD70b2e0ycqTwXBgA6Ax-2" value="Client" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="aD70b2e0ycqTwXBgA6Ax-1">
           <mxGeometry y="20" width="1150" height="260" as="geometry" />
@@ -50,10 +50,16 @@
           <mxGeometry x="495" y="40" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="aD70b2e0ycqTwXBgA6Ax-4" value="Quality assurance" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="aD70b2e0ycqTwXBgA6Ax-1">
-          <mxGeometry y="415" width="1150" height="120" as="geometry" />
+          <mxGeometry y="415" width="1150" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="aD70b2e0ycqTwXBgA6Ax-26" value="Materials of good standard?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="aD70b2e0ycqTwXBgA6Ax-4">
+          <mxGeometry x="510" y="20" width="140" height="95" as="geometry" />
         </mxCell>
         <mxCell id="aD70b2e0ycqTwXBgA6Ax-9" value="Store Keeper" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="aD70b2e0ycqTwXBgA6Ax-1">
-          <mxGeometry y="535" width="1150" height="120" as="geometry" />
+          <mxGeometry y="545" width="1150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="aD70b2e0ycqTwXBgA6Ax-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="aD70b2e0ycqTwXBgA6Ax-1" source="aD70b2e0ycqTwXBgA6Ax-24" target="aD70b2e0ycqTwXBgA6Ax-26">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aD70b2e0ycqTwXBgA6Ax-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aD70b2e0ycqTwXBgA6Ax-21" target="aD70b2e0ycqTwXBgA6Ax-24">
           <mxGeometry relative="1" as="geometry" />
