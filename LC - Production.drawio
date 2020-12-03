@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-03T05:41:57.728Z" agent="5.0 (Windows)" etag="SI6LvdWD-vO8cFF8BZrB" version="13.10.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-03T05:42:39.068Z" agent="5.0 (Windows)" etag="bxlY213__5OEf8STuA-W" version="13.10.6" type="github">
   <diagram id="o7_8EQ_F5hT5oQO3mwsf" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -43,6 +43,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xW_DpHAZmuYJ1CRfOqS2-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xW_DpHAZmuYJ1CRfOqS2-1" source="xW_DpHAZmuYJ1CRfOqS2-11" target="xW_DpHAZmuYJ1CRfOqS2-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xW_DpHAZmuYJ1CRfOqS2-15" value="Meets requirement/ Quality?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="770" y="405" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xW_DpHAZmuYJ1CRfOqS2-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xW_DpHAZmuYJ1CRfOqS2-13" target="xW_DpHAZmuYJ1CRfOqS2-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
