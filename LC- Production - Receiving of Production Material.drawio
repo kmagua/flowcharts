@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-03T05:08:11.138Z" agent="5.0 (Windows)" etag="mgjFBwVbT4mK0XuXEgFP" version="13.10.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-03T05:08:21.890Z" agent="5.0 (Windows)" etag="lvtF6r2zsTbxKDqhbyTU" version="13.10.6" type="github">
   <diagram id="IWARdDuZ1ql6BfNOUT5s" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -46,7 +46,7 @@
         <mxCell id="aD70b2e0ycqTwXBgA6Ax-3" value="Reception" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="aD70b2e0ycqTwXBgA6Ax-1">
           <mxGeometry y="280" width="1150" height="135" as="geometry" />
         </mxCell>
-        <mxCell id="aD70b2e0ycqTwXBgA6Ax-24" value="Completes items reception form on the customer&#39;s submitted request and submit to quality assurance" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="aD70b2e0ycqTwXBgA6Ax-3">
+        <mxCell id="aD70b2e0ycqTwXBgA6Ax-24" value="Completes items reception form on the customer&#39;s submitted request and submit record to quality assurance" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="aD70b2e0ycqTwXBgA6Ax-3">
           <mxGeometry x="495" y="40" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="aD70b2e0ycqTwXBgA6Ax-4" value="Quality assurance" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="aD70b2e0ycqTwXBgA6Ax-1">
