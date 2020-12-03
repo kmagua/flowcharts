@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-03T05:34:51.989Z" agent="5.0 (Windows)" etag="plQ3SdEyCJK_zdRv3Wol" version="13.10.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-03T05:41:57.728Z" agent="5.0 (Windows)" etag="SI6LvdWD-vO8cFF8BZrB" version="13.10.6" type="github">
   <diagram id="o7_8EQ_F5hT5oQO3mwsf" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -21,16 +21,28 @@
             <mxPoint x="260" y="135" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="xW_DpHAZmuYJ1CRfOqS2-11" value="Once finished, notify QA to inspect" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="xW_DpHAZmuYJ1CRfOqS2-2">
+          <mxGeometry x="410" y="145" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="xW_DpHAZmuYJ1CRfOqS2-3" value="Leather Technician" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="xW_DpHAZmuYJ1CRfOqS2-1">
           <mxGeometry y="250" width="1150" height="125" as="geometry" />
         </mxCell>
         <mxCell id="xW_DpHAZmuYJ1CRfOqS2-9" value="Production of leather products" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="xW_DpHAZmuYJ1CRfOqS2-3">
           <mxGeometry x="200" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xW_DpHAZmuYJ1CRfOqS2-4" value="Lane 3" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="xW_DpHAZmuYJ1CRfOqS2-1">
+        <mxCell id="xW_DpHAZmuYJ1CRfOqS2-4" value="QA" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="xW_DpHAZmuYJ1CRfOqS2-1">
           <mxGeometry y="375" width="1150" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="xW_DpHAZmuYJ1CRfOqS2-13" value="Perform quality inspection of finished products" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="xW_DpHAZmuYJ1CRfOqS2-4">
+          <mxGeometry x="540" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="xW_DpHAZmuYJ1CRfOqS2-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xW_DpHAZmuYJ1CRfOqS2-1" source="xW_DpHAZmuYJ1CRfOqS2-8" target="xW_DpHAZmuYJ1CRfOqS2-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xW_DpHAZmuYJ1CRfOqS2-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xW_DpHAZmuYJ1CRfOqS2-1" source="xW_DpHAZmuYJ1CRfOqS2-9" target="xW_DpHAZmuYJ1CRfOqS2-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xW_DpHAZmuYJ1CRfOqS2-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xW_DpHAZmuYJ1CRfOqS2-1" source="xW_DpHAZmuYJ1CRfOqS2-11" target="xW_DpHAZmuYJ1CRfOqS2-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
