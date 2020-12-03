@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-03T05:24:09.396Z" agent="5.0 (Windows)" etag="ezMrvR8uVMhkWluaFmAO" version="13.10.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-03T05:25:23.805Z" agent="5.0 (Windows)" etag="eh-brO7K550wgMASqPNX" version="13.10.6" type="github">
   <diagram id="t4WjZeM2-GUBWeaEdBS7" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -39,7 +39,13 @@
         <mxCell id="xgxU6Ofg0BOZaNesFyZN-5" value="Technician" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="xgxU6Ofg0BOZaNesFyZN-1">
           <mxGeometry y="520" width="670" height="150" as="geometry" />
         </mxCell>
+        <mxCell id="xgxU6Ofg0BOZaNesFyZN-14" value="Technician receives materials" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="xgxU6Ofg0BOZaNesFyZN-5">
+          <mxGeometry x="275" y="59.375" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="xgxU6Ofg0BOZaNesFyZN-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xgxU6Ofg0BOZaNesFyZN-1" source="xgxU6Ofg0BOZaNesFyZN-10" target="xgxU6Ofg0BOZaNesFyZN-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xgxU6Ofg0BOZaNesFyZN-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xgxU6Ofg0BOZaNesFyZN-1" source="xgxU6Ofg0BOZaNesFyZN-12" target="xgxU6Ofg0BOZaNesFyZN-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
