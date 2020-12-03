@@ -1,23 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2020-12-03T05:17:22.351Z" agent="5.0 (Windows)" etag="IDo4JOKJErg9WtP8wyDx" version="13.10.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-03T05:17:35.661Z" agent="5.0 (Windows)" etag="glx7-xpW6PajBCcuZgzE" version="13.10.6" type="github">
   <diagram id="t4WjZeM2-GUBWeaEdBS7" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="xgxU6Ofg0BOZaNesFyZN-1" value="Storage and Issuance" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="1">
-          <mxGeometry x="290" y="90" width="480" height="500" as="geometry" />
+          <mxGeometry x="290" y="90" width="480" height="580" as="geometry" />
         </mxCell>
         <mxCell id="xgxU6Ofg0BOZaNesFyZN-2" value="Centre Administrator" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="xgxU6Ofg0BOZaNesFyZN-1">
-          <mxGeometry y="20" width="480" height="120" as="geometry" />
+          <mxGeometry y="20" width="480" height="200" as="geometry" />
         </mxCell>
         <mxCell id="xgxU6Ofg0BOZaNesFyZN-3" value="SLT" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="xgxU6Ofg0BOZaNesFyZN-1">
-          <mxGeometry y="140" width="480" height="120" as="geometry" />
+          <mxGeometry y="220" width="480" height="120" as="geometry" />
         </mxCell>
         <mxCell id="xgxU6Ofg0BOZaNesFyZN-4" value="Store Keeper" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="xgxU6Ofg0BOZaNesFyZN-1">
-          <mxGeometry y="260" width="480" height="120" as="geometry" />
+          <mxGeometry y="340" width="480" height="120" as="geometry" />
         </mxCell>
         <mxCell id="xgxU6Ofg0BOZaNesFyZN-5" value="Technician" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="xgxU6Ofg0BOZaNesFyZN-1">
-          <mxGeometry y="380" width="480" height="120" as="geometry" />
+          <mxGeometry y="460" width="480" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
