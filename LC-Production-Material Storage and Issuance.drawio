@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-03T05:19:54.005Z" agent="5.0 (Windows)" etag="MTTTch3EM3iRQDCw6HMv" version="13.10.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-03T05:22:19.761Z" agent="5.0 (Windows)" etag="XfitQV90rVYuosLbcdbN" version="13.10.6" type="github">
   <diagram id="t4WjZeM2-GUBWeaEdBS7" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -24,8 +24,8 @@
         <mxCell id="xgxU6Ofg0BOZaNesFyZN-3" value="SLT" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="xgxU6Ofg0BOZaNesFyZN-1">
           <mxGeometry y="220" width="480" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="xgxU6Ofg0BOZaNesFyZN-10" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="xgxU6Ofg0BOZaNesFyZN-3">
-          <mxGeometry x="150" y="47.5" width="120" height="60" as="geometry" />
+        <mxCell id="xgxU6Ofg0BOZaNesFyZN-10" value="Senior leather technician fills the production material request form and submits to the store keeper" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="xgxU6Ofg0BOZaNesFyZN-3">
+          <mxGeometry x="130" y="47.5" width="160" height="72.5" as="geometry" />
         </mxCell>
         <mxCell id="xgxU6Ofg0BOZaNesFyZN-4" value="Store Keeper" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="xgxU6Ofg0BOZaNesFyZN-1">
           <mxGeometry y="370" width="480" height="150" as="geometry" />
