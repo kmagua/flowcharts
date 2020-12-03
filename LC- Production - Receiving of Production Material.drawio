@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-03T04:58:07.344Z" agent="5.0 (Windows)" etag="tz3tZt-FjVf6oz4_lSZk" version="13.10.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-03T05:00:18.340Z" agent="5.0 (Windows)" etag="hu3yWcmPX6aKMHxlwZg-" version="13.10.6" type="github">
   <diagram id="IWARdDuZ1ql6BfNOUT5s" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -12,6 +12,14 @@
         </mxCell>
         <mxCell id="aD70b2e0ycqTwXBgA6Ax-10" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="aD70b2e0ycqTwXBgA6Ax-2">
           <mxGeometry x="220" y="10" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aD70b2e0ycqTwXBgA6Ax-13" value="New client registers an account with the council&#39;s online portal, an existing client logs in with the existing account" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aD70b2e0ycqTwXBgA6Ax-2">
+          <mxGeometry x="180" y="120" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="aD70b2e0ycqTwXBgA6Ax-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="aD70b2e0ycqTwXBgA6Ax-2" source="aD70b2e0ycqTwXBgA6Ax-10" target="aD70b2e0ycqTwXBgA6Ax-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="265" y="135" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="aD70b2e0ycqTwXBgA6Ax-3" value="Reception" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="aD70b2e0ycqTwXBgA6Ax-1">
           <mxGeometry y="220" width="1150" height="120" as="geometry" />
