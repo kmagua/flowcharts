@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-03T05:18:09.457Z" agent="5.0 (Windows)" etag="QEiOzpdxLUPe-HHH3RQB" version="13.10.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-03T05:19:17.735Z" agent="5.0 (Windows)" etag="ZGBjnfs9nnFx19lTY-3e" version="13.10.6" type="github">
   <diagram id="t4WjZeM2-GUBWeaEdBS7" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -12,6 +12,14 @@
         </mxCell>
         <mxCell id="xgxU6Ofg0BOZaNesFyZN-6" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="xgxU6Ofg0BOZaNesFyZN-2">
           <mxGeometry x="160" y="10" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xgxU6Ofg0BOZaNesFyZN-9" value="Produces job card in line with production schedule and send it to SLT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xgxU6Ofg0BOZaNesFyZN-2">
+          <mxGeometry x="150" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xgxU6Ofg0BOZaNesFyZN-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="xgxU6Ofg0BOZaNesFyZN-2" source="xgxU6Ofg0BOZaNesFyZN-6" target="xgxU6Ofg0BOZaNesFyZN-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="135" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="xgxU6Ofg0BOZaNesFyZN-3" value="SLT" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="xgxU6Ofg0BOZaNesFyZN-1">
           <mxGeometry y="220" width="480" height="120" as="geometry" />
