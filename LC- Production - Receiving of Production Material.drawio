@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-03T05:09:11.685Z" agent="5.0 (Windows)" etag="BBvyHnrumLuKjRbVtxi9" version="13.10.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-03T05:11:40.989Z" agent="5.0 (Windows)" etag="Jvj_U4kEF3TgfVeVzhOm" version="13.10.6" type="github">
   <diagram id="IWARdDuZ1ql6BfNOUT5s" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -54,6 +54,12 @@
         </mxCell>
         <mxCell id="aD70b2e0ycqTwXBgA6Ax-26" value="Materials of good standard?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="aD70b2e0ycqTwXBgA6Ax-4">
           <mxGeometry x="510" y="20" width="140" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="aD70b2e0ycqTwXBgA6Ax-28" value="Order is generated and acknowledgment sent to client. Good are taken to the store to Store and a notification sent to SLT and CA." style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="aD70b2e0ycqTwXBgA6Ax-4">
+          <mxGeometry x="750" y="23.5" width="150" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="aD70b2e0ycqTwXBgA6Ax-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="aD70b2e0ycqTwXBgA6Ax-4" source="aD70b2e0ycqTwXBgA6Ax-26" target="aD70b2e0ycqTwXBgA6Ax-28">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aD70b2e0ycqTwXBgA6Ax-9" value="Store Keeper" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="aD70b2e0ycqTwXBgA6Ax-1">
           <mxGeometry y="545" width="1150" height="120" as="geometry" />
