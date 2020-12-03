@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-03T05:46:11.446Z" agent="5.0 (Windows)" etag="jlsyOhXZH3aapsl65HEr" version="13.10.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-03T05:46:23.239Z" agent="5.0 (Windows)" etag="CUHb0HnX7lwt1u1ii1sx" version="13.10.6" type="github">
   <diagram id="o7_8EQ_F5hT5oQO3mwsf" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -47,6 +47,9 @@
         </mxCell>
         <mxCell id="xW_DpHAZmuYJ1CRfOqS2-13" value="Perform quality inspection of finished products" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="xW_DpHAZmuYJ1CRfOqS2-4">
           <mxGeometry x="430" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xW_DpHAZmuYJ1CRfOqS2-24" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xW_DpHAZmuYJ1CRfOqS2-4">
+          <mxGeometry x="760" y="35" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xW_DpHAZmuYJ1CRfOqS2-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xW_DpHAZmuYJ1CRfOqS2-15" target="xW_DpHAZmuYJ1CRfOqS2-17">
           <mxGeometry relative="1" as="geometry" />
