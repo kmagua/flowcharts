@@ -1,40 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2020-12-03T05:22:47.547Z" agent="5.0 (Windows)" etag="341PC8XuXEz81W3e94rk" version="13.10.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-03T05:23:11.603Z" agent="5.0 (Windows)" etag="GcZb45cr9Uur-9A5skLc" version="13.10.6" type="github">
   <diagram id="t4WjZeM2-GUBWeaEdBS7" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="xgxU6Ofg0BOZaNesFyZN-1" value="Storage and Issuance" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="1">
-          <mxGeometry x="290" y="90" width="480" height="670" as="geometry" />
-        </mxCell>
-        <mxCell id="xgxU6Ofg0BOZaNesFyZN-2" value="Centre Administrator" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="xgxU6Ofg0BOZaNesFyZN-1">
-          <mxGeometry y="20" width="480" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="xgxU6Ofg0BOZaNesFyZN-6" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="xgxU6Ofg0BOZaNesFyZN-2">
-          <mxGeometry x="160" y="10" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="xgxU6Ofg0BOZaNesFyZN-9" value="Produces job card in line with production schedule and send it to SLT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xgxU6Ofg0BOZaNesFyZN-2">
-          <mxGeometry x="140" y="120" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="xgxU6Ofg0BOZaNesFyZN-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="xgxU6Ofg0BOZaNesFyZN-2" source="xgxU6Ofg0BOZaNesFyZN-6" target="xgxU6Ofg0BOZaNesFyZN-9">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="210" y="135" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xgxU6Ofg0BOZaNesFyZN-3" value="SLT" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="xgxU6Ofg0BOZaNesFyZN-1">
-          <mxGeometry y="220" width="480" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="xgxU6Ofg0BOZaNesFyZN-10" value="Senior leather technician fills the production material request form and submits to the store keeper" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="xgxU6Ofg0BOZaNesFyZN-3">
-          <mxGeometry x="130" y="47.5" width="160" height="72.5" as="geometry" />
-        </mxCell>
-        <mxCell id="xgxU6Ofg0BOZaNesFyZN-4" value="Store Keeper" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="xgxU6Ofg0BOZaNesFyZN-1">
-          <mxGeometry y="370" width="480" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="xgxU6Ofg0BOZaNesFyZN-5" value="Technician" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="xgxU6Ofg0BOZaNesFyZN-1">
-          <mxGeometry y="520" width="480" height="150" as="geometry" />
+          <mxGeometry x="210" y="30" width="670" height="670" as="geometry" />
         </mxCell>
         <mxCell id="xgxU6Ofg0BOZaNesFyZN-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xgxU6Ofg0BOZaNesFyZN-1" source="xgxU6Ofg0BOZaNesFyZN-9" target="xgxU6Ofg0BOZaNesFyZN-10">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xgxU6Ofg0BOZaNesFyZN-2" value="Centre Administrator" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="xgxU6Ofg0BOZaNesFyZN-1">
+          <mxGeometry y="20" width="670" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="xgxU6Ofg0BOZaNesFyZN-6" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="xgxU6Ofg0BOZaNesFyZN-2">
+          <mxGeometry x="285" y="10" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xgxU6Ofg0BOZaNesFyZN-9" value="Produces job card in line with production schedule and send it to SLT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xgxU6Ofg0BOZaNesFyZN-2">
+          <mxGeometry x="265" y="120" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xgxU6Ofg0BOZaNesFyZN-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="xgxU6Ofg0BOZaNesFyZN-2" source="xgxU6Ofg0BOZaNesFyZN-6" target="xgxU6Ofg0BOZaNesFyZN-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="335" y="135" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xgxU6Ofg0BOZaNesFyZN-3" value="SLT" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="xgxU6Ofg0BOZaNesFyZN-1">
+          <mxGeometry y="220" width="670" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="xgxU6Ofg0BOZaNesFyZN-10" value="Senior leather technician fills the production material request form and submits to the store keeper" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="xgxU6Ofg0BOZaNesFyZN-3">
+          <mxGeometry x="255" y="47.5" width="160" height="72.5" as="geometry" />
+        </mxCell>
+        <mxCell id="xgxU6Ofg0BOZaNesFyZN-4" value="Store Keeper" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="xgxU6Ofg0BOZaNesFyZN-1">
+          <mxGeometry y="370" width="670" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="xgxU6Ofg0BOZaNesFyZN-5" value="Technician" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="xgxU6Ofg0BOZaNesFyZN-1">
+          <mxGeometry y="520" width="670" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
