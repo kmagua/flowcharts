@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-03T06:14:41.421Z" agent="5.0 (Windows)" etag="XN2gxz51waK4CZy7zqLJ" version="13.10.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-03T06:19:40.125Z" agent="5.0 (Windows)" etag="mO9n7OSE8USiAL9hGNrH" version="13.10.6" type="github">
   <diagram id="sDaHL3oUhYIQM5YOXVi2" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -36,10 +36,16 @@
         <mxCell id="QtgEVoFr9BnThGwDQ1Jx-4" value="SLT" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="QtgEVoFr9BnThGwDQ1Jx-1">
           <mxGeometry y="360" width="1140" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="QtgEVoFr9BnThGwDQ1Jx-17" value="Receive notification " style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="QtgEVoFr9BnThGwDQ1Jx-4">
+          <mxGeometry x="360" y="44" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="QtgEVoFr9BnThGwDQ1Jx-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="QtgEVoFr9BnThGwDQ1Jx-1" source="QtgEVoFr9BnThGwDQ1Jx-9" target="QtgEVoFr9BnThGwDQ1Jx-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QtgEVoFr9BnThGwDQ1Jx-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QtgEVoFr9BnThGwDQ1Jx-12" target="QtgEVoFr9BnThGwDQ1Jx-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QtgEVoFr9BnThGwDQ1Jx-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QtgEVoFr9BnThGwDQ1Jx-12" target="QtgEVoFr9BnThGwDQ1Jx-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QtgEVoFr9BnThGwDQ1Jx-12" value="Items paid for?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
