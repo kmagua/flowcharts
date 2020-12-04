@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-12-04T05:50:23.696Z" agent="5.0 (Windows)" etag="lTPnRbtu9MnKgZveYpon" version="13.10.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-04T05:52:38.952Z" agent="5.0 (Windows)" etag="v3_NqOSWeL7OonZgR_zP" version="13.10.6" type="github">
   <diagram id="sDaHL3oUhYIQM5YOXVi2" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="QtgEVoFr9BnThGwDQ1Jx-1" value="Production - Payment and Collection of Finished Products" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" parent="1" vertex="1">
-          <mxGeometry x="20" y="10" width="1140" height="835" as="geometry" />
+          <mxGeometry x="20" y="10" width="1140" height="810" as="geometry" />
         </mxCell>
         <mxCell id="QtgEVoFr9BnThGwDQ1Jx-2" value="Client" style="swimlane;html=1;startSize=20;horizontal=0;" parent="QtgEVoFr9BnThGwDQ1Jx-1" vertex="1">
           <mxGeometry y="20" width="1140" height="220" as="geometry" />
@@ -69,9 +69,6 @@
         <mxCell id="QtgEVoFr9BnThGwDQ1Jx-4" value="SLT" style="swimlane;html=1;startSize=20;horizontal=0;" parent="QtgEVoFr9BnThGwDQ1Jx-1" vertex="1">
           <mxGeometry y="584" width="1140" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="qshhsQpP-9BkvkcFFcNP-8" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="QtgEVoFr9BnThGwDQ1Jx-4">
-          <mxGeometry x="840" y="26" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="QtgEVoFr9BnThGwDQ1Jx-20" value="Receive notification to request for sample of goods for the customer from the store" style="whiteSpace=wrap;html=1;rounded=0;" parent="QtgEVoFr9BnThGwDQ1Jx-4" vertex="1">
           <mxGeometry x="320" y="19" width="140" height="74" as="geometry" />
         </mxCell>
@@ -79,10 +76,21 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QtgEVoFr9BnThGwDQ1Jx-19" value="Store" style="swimlane;html=1;startSize=20;horizontal=0;" parent="QtgEVoFr9BnThGwDQ1Jx-1" vertex="1">
-          <mxGeometry y="704" width="1140" height="131" as="geometry" />
+          <mxGeometry y="704" width="1140" height="106" as="geometry" />
         </mxCell>
         <mxCell id="qshhsQpP-9BkvkcFFcNP-10" value="Prepare sample of goods for the client" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="QtgEVoFr9BnThGwDQ1Jx-19">
-          <mxGeometry x="330" y="60" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="35.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qshhsQpP-9BkvkcFFcNP-8" value="Issue goods to customer. Order is closed." style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="QtgEVoFr9BnThGwDQ1Jx-19">
+          <mxGeometry x="840" y="35.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qshhsQpP-9BkvkcFFcNP-14" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="QtgEVoFr9BnThGwDQ1Jx-19">
+          <mxGeometry x="1038" y="40.5" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qshhsQpP-9BkvkcFFcNP-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="QtgEVoFr9BnThGwDQ1Jx-19" source="qshhsQpP-9BkvkcFFcNP-8" target="qshhsQpP-9BkvkcFFcNP-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1040" y="65.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="qshhsQpP-9BkvkcFFcNP-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="QtgEVoFr9BnThGwDQ1Jx-1" source="qshhsQpP-9BkvkcFFcNP-6" target="qshhsQpP-9BkvkcFFcNP-8">
           <mxGeometry relative="1" as="geometry" />
