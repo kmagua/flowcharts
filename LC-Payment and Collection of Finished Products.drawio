@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-04T05:53:50.964Z" agent="5.0 (Windows)" etag="ndOpoXJZhGb9P7pQoNJu" version="13.10.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-04T05:54:05.890Z" agent="5.0 (Windows)" etag="0leSiqBJB79KIYY5A2oX" version="13.10.6" type="github">
   <diagram id="sDaHL3oUhYIQM5YOXVi2" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qshhsQpP-9BkvkcFFcNP-16" value="Customer pays" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="QtgEVoFr9BnThGwDQ1Jx-2">
-          <mxGeometry x="510" y="105" width="120" height="60" as="geometry" />
+          <mxGeometry x="510" y="127" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QtgEVoFr9BnThGwDQ1Jx-3" value="Receptionist" style="swimlane;html=1;startSize=20;horizontal=0;" parent="QtgEVoFr9BnThGwDQ1Jx-1" vertex="1">
           <mxGeometry y="240" width="1140" height="344" as="geometry" />
