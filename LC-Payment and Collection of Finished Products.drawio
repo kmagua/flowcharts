@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-04T05:40:27.924Z" agent="5.0 (Windows)" etag="on51ATvEJR_HOyIFxnKR" version="13.10.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-04T05:46:44.600Z" agent="5.0 (Windows)" etag="LV2kynx4p7DgEkPWh0L6" version="13.10.6" type="github">
   <diagram id="sDaHL3oUhYIQM5YOXVi2" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -29,6 +29,9 @@
         </mxCell>
         <mxCell id="qshhsQpP-9BkvkcFFcNP-2" value="Client inspect and verifies the final products" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="QtgEVoFr9BnThGwDQ1Jx-3">
           <mxGeometry x="670" y="-93" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qshhsQpP-9BkvkcFFcNP-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="QtgEVoFr9BnThGwDQ1Jx-3" source="qshhsQpP-9BkvkcFFcNP-4" target="qshhsQpP-9BkvkcFFcNP-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qshhsQpP-9BkvkcFFcNP-4" value="Accepts goods?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="QtgEVoFr9BnThGwDQ1Jx-3">
           <mxGeometry x="860" y="-103" width="80" height="80" as="geometry" />
@@ -70,6 +73,9 @@
         </mxCell>
         <mxCell id="QtgEVoFr9BnThGwDQ1Jx-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="QtgEVoFr9BnThGwDQ1Jx-3" source="QtgEVoFr9BnThGwDQ1Jx-10" target="QtgEVoFr9BnThGwDQ1Jx-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qshhsQpP-9BkvkcFFcNP-6" value="Prepare a dispatch form for customer to take to stores to collect items" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="QtgEVoFr9BnThGwDQ1Jx-3">
+          <mxGeometry x="830" y="50" width="140" height="77" as="geometry" />
         </mxCell>
         <mxCell id="QtgEVoFr9BnThGwDQ1Jx-4" value="SLT" style="swimlane;html=1;startSize=20;horizontal=0;" parent="QtgEVoFr9BnThGwDQ1Jx-1" vertex="1">
           <mxGeometry y="584" width="1140" height="120" as="geometry" />
