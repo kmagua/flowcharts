@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-05T15:59:44.441Z" agent="5.0 (Windows)" etag="tv2Kw5nPCDqZCYMBz9Ns" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-05T16:04:39.736Z" agent="5.0 (Windows)" etag="VcEcPhsC-nqXDiA0BcGp" version="13.10.9" type="github">
   <diagram id="5-Zab5vDNF4LBHiWge62" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -6,6 +6,17 @@
         <mxCell id="1" parent="0" />
         <mxCell id="2TRREouervGF3PXGptxk-1" value="&#xa;CUSTOMER INVOICE PROCESSING (ACCOUNTS RECEIVABLE)&#xa;" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="10" y="10" width="1150" height="810" as="geometry" />
+        </mxCell>
+        <mxCell id="2TRREouervGF3PXGptxk-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="2TRREouervGF3PXGptxk-1">
+          <mxGeometry x="190" y="40" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2TRREouervGF3PXGptxk-5" value="Revenue Accountant receives billing documents e.g. Meter readings/LSOs/LPOs from the Maintenance and Enterprise sections" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2TRREouervGF3PXGptxk-1">
+          <mxGeometry x="150" y="160" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="2TRREouervGF3PXGptxk-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="2TRREouervGF3PXGptxk-1" source="2TRREouervGF3PXGptxk-2" target="2TRREouervGF3PXGptxk-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="180" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
