@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-05T07:01:54.202Z" agent="5.0 (Windows)" etag="tVYrWfcPBY633O7Q2pcm" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-05T07:02:10.805Z" agent="5.0 (Windows)" etag="_fLRfAsIfghFGg0wB12G" version="13.10.9" type="github">
   <diagram id="uc0_SV3gPutvzjMln_G1" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -135,12 +135,6 @@
         </mxCell>
         <mxCell id="XGWN-mqswAZI33q1c_55-84" value="Payment Accountant generates a Payment Voucher and forwards to examination" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="XGWN-mqswAZI33q1c_55-36">
           <mxGeometry x="190" y="327" width="140" height="69" as="geometry" />
-        </mxCell>
-        <mxCell id="XGWN-mqswAZI33q1c_55-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XGWN-mqswAZI33q1c_55-36" target="XGWN-mqswAZI33q1c_55-84">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="270" y="354" as="sourcePoint" />
-            <mxPoint x="270" y="490" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="XGWN-mqswAZI33q1c_55-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XGWN-mqswAZI33q1c_55-42">
           <mxGeometry relative="1" as="geometry">
