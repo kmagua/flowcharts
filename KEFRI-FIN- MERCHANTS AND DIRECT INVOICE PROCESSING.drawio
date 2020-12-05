@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-05T06:40:07.900Z" agent="5.0 (Windows)" etag="Y9yBbnpjWkj2WmBS07Ua" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-05T06:44:07.692Z" agent="5.0 (Windows)" etag="-s2XL1RtESUCUpU5NhJx" version="13.10.9" type="github">
   <diagram id="1mt4vwLYY_OGF_tediNy" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -76,6 +76,9 @@
         <mxCell id="YcZZJkjSdOPoPSPX9Uab-33" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="YcZZJkjSdOPoPSPX9Uab-5">
           <mxGeometry x="290" y="771" width="40" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="YcZZJkjSdOPoPSPX9Uab-43" value="&lt;div&gt;Expenditure &lt;br&gt;&lt;/div&gt;&lt;div&gt;inline with budget?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="YcZZJkjSdOPoPSPX9Uab-5">
+          <mxGeometry x="684" y="209.25" width="140" height="111" as="geometry" />
+        </mxCell>
         <mxCell id="YcZZJkjSdOPoPSPX9Uab-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YcZZJkjSdOPoPSPX9Uab-16">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="270" y="560" as="targetPoint" />
@@ -104,16 +107,11 @@
         <mxCell id="YcZZJkjSdOPoPSPX9Uab-38" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="502" y="639" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="YcZZJkjSdOPoPSPX9Uab-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YcZZJkjSdOPoPSPX9Uab-39" target="YcZZJkjSdOPoPSPX9Uab-41">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="668" y="283.79999999999995" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="YcZZJkjSdOPoPSPX9Uab-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YcZZJkjSdOPoPSPX9Uab-39" target="YcZZJkjSdOPoPSPX9Uab-43">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YcZZJkjSdOPoPSPX9Uab-39" value="Vote Book Accountant posts to vote book to capture the expenditure" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="438" y="250" width="140" height="67.5" as="geometry" />
-        </mxCell>
-        <mxCell id="YcZZJkjSdOPoPSPX9Uab-41" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="668" y="253.75" width="120" height="60" as="geometry" />
+        <mxCell id="YcZZJkjSdOPoPSPX9Uab-39" value="Vote Book Accountant posts to vote book to capture the expenditure and checks if expenditure inline with budget" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="423" y="230" width="170" height="87.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
