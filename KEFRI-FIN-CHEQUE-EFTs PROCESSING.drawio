@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-05T15:48:07.002Z" agent="5.0 (Windows)" etag="GUISyE4C2zlm3Z_aPbwQ" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-05T15:50:21.586Z" agent="5.0 (Windows)" etag="jVjV0pPixSWPtyZ1eiiD" version="13.10.9" type="github">
   <diagram id="JjQCEzhE8u5LjKaULpIY" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -45,11 +45,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="omrt5kF8QAQMkNh0Hckq-9" value="Warrants are sorted as per the bank account" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="510" width="120" height="60" as="geometry" />
+        <mxCell id="omrt5kF8QAQMkNh0Hckq-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="omrt5kF8QAQMkNh0Hckq-9" target="omrt5kF8QAQMkNh0Hckq-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="omrt5kF8QAQMkNh0Hckq-9" value="Accountant cash office sorts Warrants as per the bank account" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="500" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="omrt5kF8QAQMkNh0Hckq-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="omrt5kF8QAQMkNh0Hckq-8" target="omrt5kF8QAQMkNh0Hckq-9">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="omrt5kF8QAQMkNh0Hckq-19" value="Accountant cash office Draw cheques on confirmation of funds availability in accounts" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="640" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
