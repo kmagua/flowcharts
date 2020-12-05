@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-05T15:34:43.049Z" agent="5.0 (Windows)" etag="sntEgzu6K9CwgAdWJIiH" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-05T15:35:08.741Z" agent="5.0 (Windows)" etag="WbzjjQLaQkMKxgND2l2K" version="13.10.9" type="github">
   <diagram id="XhQwJ2qdskYso5jSBTM0" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -75,6 +75,9 @@
         <mxCell id="C6VPRwYoLAlLiU8AVAww-32" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="C6VPRwYoLAlLiU8AVAww-1">
           <mxGeometry x="123" y="537" width="40" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="C6VPRwYoLAlLiU8AVAww-39" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="C6VPRwYoLAlLiU8AVAww-1">
+          <mxGeometry x="736" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="C6VPRwYoLAlLiU8AVAww-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C6VPRwYoLAlLiU8AVAww-19" target="C6VPRwYoLAlLiU8AVAww-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -107,6 +110,11 @@
         </mxCell>
         <mxCell id="C6VPRwYoLAlLiU8AVAww-33" value="Cash office receipt copy is filed" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C6VPRwYoLAlLiU8AVAww-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="C6VPRwYoLAlLiU8AVAww-35" target="C6VPRwYoLAlLiU8AVAww-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="806" y="460" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="C6VPRwYoLAlLiU8AVAww-35" value="Receipts are posted in the respective cash book" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="746" y="320" width="120" height="60" as="geometry" />
