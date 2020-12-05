@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-05T06:39:02.115Z" agent="5.0 (Windows)" etag="s3-LPzsUuSVKIuj8GGNO" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-05T06:39:24.023Z" agent="5.0 (Windows)" etag="8JM2Eh1iEl54W3bnxvxF" version="13.10.9" type="github">
   <diagram id="1mt4vwLYY_OGF_tediNy" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="210" y="40" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YcZZJkjSdOPoPSPX9Uab-9" value="The DDF receives duly authorized merchant documents from supply chain and utility bills" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="YcZZJkjSdOPoPSPX9Uab-5">
-          <mxGeometry x="180" y="170" width="160" height="70" as="geometry" />
+          <mxGeometry x="180" y="159" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="YcZZJkjSdOPoPSPX9Uab-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="YcZZJkjSdOPoPSPX9Uab-5" source="YcZZJkjSdOPoPSPX9Uab-6" target="YcZZJkjSdOPoPSPX9Uab-9">
           <mxGeometry relative="1" as="geometry">
@@ -49,7 +49,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="120" y="291" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="120" y="205" />
+              <mxPoint x="120" y="194" />
             </Array>
           </mxGeometry>
         </mxCell>
