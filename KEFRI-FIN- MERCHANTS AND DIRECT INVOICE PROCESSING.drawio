@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-05T06:47:26.364Z" agent="5.0 (Windows)" etag="yrx9GIKBZQjXMfE3MQSE" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-05T06:48:37.603Z" agent="5.0 (Windows)" etag="xb8JFPP-XhOJpuEgjqrA" version="13.10.9" type="github">
   <diagram id="1mt4vwLYY_OGF_tediNy" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -85,7 +85,7 @@
         <mxCell id="YcZZJkjSdOPoPSPX9Uab-52" value="Cash available?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="YcZZJkjSdOPoPSPX9Uab-5">
           <mxGeometry x="696" y="563.13" width="116" height="86.87" as="geometry" />
         </mxCell>
-        <mxCell id="YcZZJkjSdOPoPSPX9Uab-54" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="YcZZJkjSdOPoPSPX9Uab-5">
+        <mxCell id="YcZZJkjSdOPoPSPX9Uab-54" value="Cash office Accountant draws a cheque /EFT in favor of the merchant" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="YcZZJkjSdOPoPSPX9Uab-5">
           <mxGeometry x="679" y="720" width="150" height="71.01" as="geometry" />
         </mxCell>
         <mxCell id="YcZZJkjSdOPoPSPX9Uab-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="YcZZJkjSdOPoPSPX9Uab-5" source="YcZZJkjSdOPoPSPX9Uab-52" target="YcZZJkjSdOPoPSPX9Uab-54">
