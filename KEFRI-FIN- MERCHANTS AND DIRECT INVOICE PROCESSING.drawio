@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-12-05T06:22:50.997Z" agent="5.0 (Windows)" etag="Vath5F6P9l8Fm648kZeY" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-05T06:27:52.699Z" agent="5.0 (Windows)" etag="Uw0QpA5OO4R5XPpGSXYY" version="13.10.9" type="github">
   <diagram id="1mt4vwLYY_OGF_tediNy" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="YcZZJkjSdOPoPSPX9Uab-5" value="MERCHANTS AND DIRECT INVOICE PROCESSING" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="10" y="10" width="1150" height="810" as="geometry" />
+          <mxGeometry x="10" y="9" width="1150" height="810" as="geometry" />
         </mxCell>
         <mxCell id="YcZZJkjSdOPoPSPX9Uab-6" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="YcZZJkjSdOPoPSPX9Uab-5">
           <mxGeometry x="210" y="40" width="100" height="50" as="geometry" />
@@ -16,6 +16,35 @@
         <mxCell id="YcZZJkjSdOPoPSPX9Uab-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="YcZZJkjSdOPoPSPX9Uab-5" source="YcZZJkjSdOPoPSPX9Uab-6" target="YcZZJkjSdOPoPSPX9Uab-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="260" y="165" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YcZZJkjSdOPoPSPX9Uab-10" value="DDF verifies the bill/merchant documents and authorizes for payments" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="YcZZJkjSdOPoPSPX9Uab-5">
+          <mxGeometry x="190" y="281" width="140" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="YcZZJkjSdOPoPSPX9Uab-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="YcZZJkjSdOPoPSPX9Uab-5" source="YcZZJkjSdOPoPSPX9Uab-9" target="YcZZJkjSdOPoPSPX9Uab-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YcZZJkjSdOPoPSPX9Uab-16" value="Document/ Bills valid?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="YcZZJkjSdOPoPSPX9Uab-5">
+          <mxGeometry x="220" y="401" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YcZZJkjSdOPoPSPX9Uab-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="YcZZJkjSdOPoPSPX9Uab-5" source="YcZZJkjSdOPoPSPX9Uab-10" target="YcZZJkjSdOPoPSPX9Uab-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YcZZJkjSdOPoPSPX9Uab-12" value="Payment Accountant generates a Payment Voucher and forwards to examination" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="YcZZJkjSdOPoPSPX9Uab-5">
+          <mxGeometry x="200" y="571" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YcZZJkjSdOPoPSPX9Uab-14" value="The examination accountant conducts quality checks and forwards it to the AIE for authority to incur the expenditure" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="YcZZJkjSdOPoPSPX9Uab-5">
+          <mxGeometry x="410" y="691" width="160" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="YcZZJkjSdOPoPSPX9Uab-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="YcZZJkjSdOPoPSPX9Uab-5" source="YcZZJkjSdOPoPSPX9Uab-12" target="YcZZJkjSdOPoPSPX9Uab-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YcZZJkjSdOPoPSPX9Uab-20" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="YcZZJkjSdOPoPSPX9Uab-5">
+          <mxGeometry x="254" y="511" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YcZZJkjSdOPoPSPX9Uab-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YcZZJkjSdOPoPSPX9Uab-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
