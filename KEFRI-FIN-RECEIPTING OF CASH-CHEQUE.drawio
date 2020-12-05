@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-05T15:33:48.353Z" agent="5.0 (Windows)" etag="ygA01usoaBhd99OBhpBf" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-05T15:34:43.049Z" agent="5.0 (Windows)" etag="sntEgzu6K9CwgAdWJIiH" version="13.10.9" type="github">
   <diagram id="XhQwJ2qdskYso5jSBTM0" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -93,11 +93,23 @@
         <mxCell id="C6VPRwYoLAlLiU8AVAww-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C6VPRwYoLAlLiU8AVAww-24" target="C6VPRwYoLAlLiU8AVAww-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="C6VPRwYoLAlLiU8AVAww-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C6VPRwYoLAlLiU8AVAww-30" target="C6VPRwYoLAlLiU8AVAww-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="C6VPRwYoLAlLiU8AVAww-30" value="Cash &amp;amp; cheques received are banked" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C6VPRwYoLAlLiU8AVAww-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C6VPRwYoLAlLiU8AVAww-28" target="C6VPRwYoLAlLiU8AVAww-30">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C6VPRwYoLAlLiU8AVAww-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C6VPRwYoLAlLiU8AVAww-33" target="C6VPRwYoLAlLiU8AVAww-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C6VPRwYoLAlLiU8AVAww-33" value="Cash office receipt copy is filed" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C6VPRwYoLAlLiU8AVAww-35" value="Receipts are posted in the respective cash book" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="746" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
