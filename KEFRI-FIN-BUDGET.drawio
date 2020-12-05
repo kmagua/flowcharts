@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-05T15:01:56.825Z" agent="5.0 (Windows)" etag="jeriuDgudhi4J_rNHE0a" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-05T15:02:20.037Z" agent="5.0 (Windows)" etag="NIEiKcUC24JIHRIPAPlV" version="13.10.9" type="github">
   <diagram id="HKhS4auHpXQP0HFOkr7Z" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -24,8 +24,8 @@
         <mxCell id="jPiStXu903FzIQFQCjgb-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="jPiStXu903FzIQFQCjgb-1" source="jPiStXu903FzIQFQCjgb-5" target="jPiStXu903FzIQFQCjgb-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jPiStXu903FzIQFQCjgb-8" value="Spending units prepare and submit their respective revenue and expenditure estimates for discussion in the consultative meeting" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="jPiStXu903FzIQFQCjgb-1">
-          <mxGeometry x="200" y="450" width="180" height="81" as="geometry" />
+        <mxCell id="jPiStXu903FzIQFQCjgb-8" value="Spending units (cost centres) prepare and submit their respective revenue and expenditure estimates for discussion in the consultative meeting" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="jPiStXu903FzIQFQCjgb-1">
+          <mxGeometry x="200" y="440" width="180" height="91" as="geometry" />
         </mxCell>
         <mxCell id="jPiStXu903FzIQFQCjgb-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="jPiStXu903FzIQFQCjgb-1" source="jPiStXu903FzIQFQCjgb-6" target="jPiStXu903FzIQFQCjgb-8">
           <mxGeometry relative="1" as="geometry" />
