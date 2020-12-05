@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-05T06:29:30.898Z" agent="5.0 (Windows)" etag="hVfot70VoiZCDHJfXn1_" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-05T06:31:39.989Z" agent="5.0 (Windows)" etag="vxfQMXkB6_UAlPdfKQ9Q" version="13.10.9" type="github">
   <diagram id="1mt4vwLYY_OGF_tediNy" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -31,13 +31,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YcZZJkjSdOPoPSPX9Uab-12" value="Payment Accountant generates a Payment Voucher and forwards to examination" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="YcZZJkjSdOPoPSPX9Uab-5">
-          <mxGeometry x="200" y="551" width="120" height="60" as="geometry" />
+          <mxGeometry x="190" y="551" width="140" height="69" as="geometry" />
         </mxCell>
         <mxCell id="YcZZJkjSdOPoPSPX9Uab-14" value="The examination accountant conducts quality checks and forwards it to the AIE for authority to incur the expenditure" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="YcZZJkjSdOPoPSPX9Uab-5">
-          <mxGeometry x="410" y="691" width="160" height="76" as="geometry" />
-        </mxCell>
-        <mxCell id="YcZZJkjSdOPoPSPX9Uab-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="YcZZJkjSdOPoPSPX9Uab-5" source="YcZZJkjSdOPoPSPX9Uab-12" target="YcZZJkjSdOPoPSPX9Uab-14">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="180" y="681" width="160" height="76" as="geometry" />
         </mxCell>
         <mxCell id="YcZZJkjSdOPoPSPX9Uab-20" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="YcZZJkjSdOPoPSPX9Uab-5">
           <mxGeometry x="254" y="511" width="40" height="20" as="geometry" />
@@ -56,10 +53,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YcZZJkjSdOPoPSPX9Uab-27" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="YcZZJkjSdOPoPSPX9Uab-5">
-          <mxGeometry x="220" y="671" width="80" height="80" as="geometry" />
+        <mxCell id="YcZZJkjSdOPoPSPX9Uab-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="YcZZJkjSdOPoPSPX9Uab-5" source="YcZZJkjSdOPoPSPX9Uab-12" target="YcZZJkjSdOPoPSPX9Uab-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="671" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="YcZZJkjSdOPoPSPX9Uab-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="YcZZJkjSdOPoPSPX9Uab-5" source="YcZZJkjSdOPoPSPX9Uab-12" target="YcZZJkjSdOPoPSPX9Uab-27">
+        <mxCell id="YcZZJkjSdOPoPSPX9Uab-29" value="Meets quality checks?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="YcZZJkjSdOPoPSPX9Uab-5">
+          <mxGeometry x="440" y="669" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="YcZZJkjSdOPoPSPX9Uab-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="YcZZJkjSdOPoPSPX9Uab-5" source="YcZZJkjSdOPoPSPX9Uab-14" target="YcZZJkjSdOPoPSPX9Uab-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YcZZJkjSdOPoPSPX9Uab-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YcZZJkjSdOPoPSPX9Uab-16">
