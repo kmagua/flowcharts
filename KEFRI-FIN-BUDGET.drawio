@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-05T15:10:37.388Z" agent="5.0 (Windows)" etag="EZNsYnsVNzRL6n-75xZZ" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-05T15:15:04.384Z" agent="5.0 (Windows)" etag="XhGVQ8iiLG99YXmEYFWK" version="13.10.9" type="github">
   <diagram id="HKhS4auHpXQP0HFOkr7Z" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -8,42 +8,56 @@
           <mxGeometry x="10" y="10" width="1150" height="810" as="geometry" />
         </mxCell>
         <mxCell id="jPiStXu903FzIQFQCjgb-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="jPiStXu903FzIQFQCjgb-1">
-          <mxGeometry x="230" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="24.88" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jPiStXu903FzIQFQCjgb-5" value="Institute receives (through CEO) its allocation (ceiling) in the Printed Estimate from the National Treasury and communicates the same to the SDD R&amp;amp;D and SSD-Corporate services" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jPiStXu903FzIQFQCjgb-1">
-          <mxGeometry x="200" y="160" width="180" height="120" as="geometry" />
+          <mxGeometry x="110" y="144.88" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="jPiStXu903FzIQFQCjgb-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="jPiStXu903FzIQFQCjgb-1" source="jPiStXu903FzIQFQCjgb-2" target="jPiStXu903FzIQFQCjgb-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="290" y="180" as="targetPoint" />
+            <mxPoint x="200" y="164.88" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jPiStXu903FzIQFQCjgb-6" value="SDD R &amp;amp; D and SDD- corporate services call for proposals from cost centres/spending units" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="jPiStXu903FzIQFQCjgb-1">
-          <mxGeometry x="210" y="330" width="160" height="74" as="geometry" />
+          <mxGeometry x="120" y="314.88" width="160" height="74" as="geometry" />
         </mxCell>
         <mxCell id="jPiStXu903FzIQFQCjgb-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="jPiStXu903FzIQFQCjgb-1" source="jPiStXu903FzIQFQCjgb-5" target="jPiStXu903FzIQFQCjgb-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jPiStXu903FzIQFQCjgb-8" value="Spending units (cost centres) prepare and submit their respective revenue and expenditure estimates for discussion in the consultative meeting" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="jPiStXu903FzIQFQCjgb-1">
-          <mxGeometry x="190" y="440" width="200" height="91" as="geometry" />
+          <mxGeometry x="100" y="424.88" width="200" height="91" as="geometry" />
         </mxCell>
         <mxCell id="jPiStXu903FzIQFQCjgb-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="jPiStXu903FzIQFQCjgb-1" source="jPiStXu903FzIQFQCjgb-6" target="jPiStXu903FzIQFQCjgb-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jPiStXu903FzIQFQCjgb-10" value="Director convenes a consultative meeting for Budget discussion" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="jPiStXu903FzIQFQCjgb-1">
-          <mxGeometry x="230" y="590" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="574.88" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jPiStXu903FzIQFQCjgb-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="jPiStXu903FzIQFQCjgb-1" source="jPiStXu903FzIQFQCjgb-8" target="jPiStXu903FzIQFQCjgb-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jPiStXu903FzIQFQCjgb-30" value="DDF communicates with the accountant Vote book for the opening and postings of the allocated itemized budget done in the respective cost centres for the financial Year" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="jPiStXu903FzIQFQCjgb-1">
-          <mxGeometry x="983" y="679.25" width="150" height="121" as="geometry" />
+          <mxGeometry x="893" y="664.13" width="150" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="jPiStXu903FzIQFQCjgb-33" value="Accountant&amp;nbsp; opens and post the itemized budgets as per spending unit in the vote book" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="jPiStXu903FzIQFQCjgb-1">
+          <mxGeometry x="893" y="534.88" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jPiStXu903FzIQFQCjgb-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="jPiStXu903FzIQFQCjgb-1" source="jPiStXu903FzIQFQCjgb-30" target="jPiStXu903FzIQFQCjgb-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jPiStXu903FzIQFQCjgb-37" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="jPiStXu903FzIQFQCjgb-1">
+          <mxGeometry x="908" y="393.88" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jPiStXu903FzIQFQCjgb-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="jPiStXu903FzIQFQCjgb-1" source="jPiStXu903FzIQFQCjgb-33" target="jPiStXu903FzIQFQCjgb-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="968" y="449.88" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="jPiStXu903FzIQFQCjgb-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jPiStXu903FzIQFQCjgb-12" target="jPiStXu903FzIQFQCjgb-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jPiStXu903FzIQFQCjgb-12" value="Heads of cost centres defend their budgets i n the consultative meeting" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="220" y="720" width="160" height="80" as="geometry" />
+          <mxGeometry x="130" y="704.88" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jPiStXu903FzIQFQCjgb-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jPiStXu903FzIQFQCjgb-10" target="jPiStXu903FzIQFQCjgb-12">
           <mxGeometry relative="1" as="geometry" />
@@ -52,51 +66,51 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jPiStXu903FzIQFQCjgb-14" value="Consultative meeting reviews the budget proposals made by various cost centres and approval is made to the&amp;nbsp; respective cost centres" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="480" y="715" width="200" height="90" as="geometry" />
+          <mxGeometry x="390" y="699.88" width="200" height="90" as="geometry" />
         </mxCell>
         <mxCell id="jPiStXu903FzIQFQCjgb-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jPiStXu903FzIQFQCjgb-16" target="jPiStXu903FzIQFQCjgb-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jPiStXu903FzIQFQCjgb-16" value="All expenditure per activity are then compiled into KEFRI Budget upon rationalization in the consultative meeting" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="560" width="180" height="90" as="geometry" />
+          <mxGeometry x="400" y="544.88" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="jPiStXu903FzIQFQCjgb-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jPiStXu903FzIQFQCjgb-18" target="jPiStXu903FzIQFQCjgb-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jPiStXu903FzIQFQCjgb-18" value="DDF prepares a consolidated cost centres budget and itemized budget" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="500" y="405" width="160" height="75" as="geometry" />
+          <mxGeometry x="410" y="389.88" width="160" height="75" as="geometry" />
         </mxCell>
         <mxCell id="jPiStXu903FzIQFQCjgb-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jPiStXu903FzIQFQCjgb-20" target="jPiStXu903FzIQFQCjgb-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jPiStXu903FzIQFQCjgb-20" value="SDD – Corporate services compiles the budgets and presents it to the Director for submission to the BOD" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="480" y="270" width="200" height="70" as="geometry" />
+          <mxGeometry x="390" y="254.88" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="jPiStXu903FzIQFQCjgb-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jPiStXu903FzIQFQCjgb-22" target="jPiStXu903FzIQFQCjgb-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jPiStXu903FzIQFQCjgb-22" value="Director forwards the budget to the BOD for Approval" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="774" y="270" width="140" height="70" as="geometry" />
+          <mxGeometry x="684" y="254.88" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="jPiStXu903FzIQFQCjgb-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jPiStXu903FzIQFQCjgb-24" target="jPiStXu903FzIQFQCjgb-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jPiStXu903FzIQFQCjgb-24" value="Board approves Budget for the Institute spending units" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="774" y="410" width="140" height="75" as="geometry" />
+          <mxGeometry x="684" y="394.88" width="140" height="75" as="geometry" />
         </mxCell>
         <mxCell id="jPiStXu903FzIQFQCjgb-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jPiStXu903FzIQFQCjgb-26" target="jPiStXu903FzIQFQCjgb-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jPiStXu903FzIQFQCjgb-26" value="Director forwards the&amp;nbsp; budget&amp;nbsp; to the SDD-Corporate services" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="774" y="572.5" width="140" height="67.5" as="geometry" />
+          <mxGeometry x="684" y="557.38" width="140" height="67.5" as="geometry" />
         </mxCell>
         <mxCell id="jPiStXu903FzIQFQCjgb-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jPiStXu903FzIQFQCjgb-28" target="jPiStXu903FzIQFQCjgb-30">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="974" y="754" as="targetPoint" />
+            <mxPoint x="884" y="738.88" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jPiStXu903FzIQFQCjgb-28" value="SDDs-Corporate forwards the&amp;nbsp; budget to the DDF" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="784" y="719.75" width="120" height="60" as="geometry" />
+          <mxGeometry x="694" y="704.63" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
