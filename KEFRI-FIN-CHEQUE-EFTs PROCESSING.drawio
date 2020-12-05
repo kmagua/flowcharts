@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-05T15:38:40.637Z" agent="5.0 (Windows)" etag="WnwSUyWwDD5W96pTUfcM" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-05T15:39:14.491Z" agent="5.0 (Windows)" etag="W2-iHrBXlfm2PTw-75tH" version="13.10.9" type="github">
   <diagram id="JjQCEzhE8u5LjKaULpIY" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -6,6 +6,17 @@
         <mxCell id="1" parent="0" />
         <mxCell id="omrt5kF8QAQMkNh0Hckq-1" value="&#xa;CHEQUE/EFTs PROCESSING&#xa;" style="swimlane;startSize=30;" vertex="1" parent="1">
           <mxGeometry x="10" y="10" width="1150" height="810" as="geometry" />
+        </mxCell>
+        <mxCell id="omrt5kF8QAQMkNh0Hckq-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="omrt5kF8QAQMkNh0Hckq-1">
+          <mxGeometry x="250" y="50" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="omrt5kF8QAQMkNh0Hckq-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="omrt5kF8QAQMkNh0Hckq-1">
+          <mxGeometry x="240" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="omrt5kF8QAQMkNh0Hckq-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="omrt5kF8QAQMkNh0Hckq-1" source="omrt5kF8QAQMkNh0Hckq-2" target="omrt5kF8QAQMkNh0Hckq-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="190" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
