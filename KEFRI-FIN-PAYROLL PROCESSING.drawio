@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-05T14:38:17.670Z" agent="5.0 (Windows)" etag="woge3c-XcDxLnUFgg1Cs" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-05T14:38:47.482Z" agent="5.0 (Windows)" etag="ytE3MIDv2ZTQ_GIPgpGt" version="13.10.9" type="github">
   <diagram id="3awrSkJuFKPsmrS7k47G" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -8,92 +8,92 @@
           <mxGeometry x="10" y="10" width="1150" height="810" as="geometry" />
         </mxCell>
         <mxCell id="ExbaMdFKqMui6jrxIC88-61" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ExbaMdFKqMui6jrxIC88-60">
-          <mxGeometry x="190" y="50" width="100" height="50" as="geometry" />
+          <mxGeometry x="320" y="50" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ExbaMdFKqMui6jrxIC88-64" value="Examination accountant section receives payment voucher (PV) on payroll items from HR already approved by AIE and check for completeness and accuracy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ExbaMdFKqMui6jrxIC88-60">
-          <mxGeometry x="150" y="177" width="180" height="83" as="geometry" />
+          <mxGeometry x="280" y="177" width="180" height="83" as="geometry" />
         </mxCell>
         <mxCell id="ExbaMdFKqMui6jrxIC88-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ExbaMdFKqMui6jrxIC88-60" source="ExbaMdFKqMui6jrxIC88-61" target="ExbaMdFKqMui6jrxIC88-64">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="240" y="175" as="targetPoint" />
+            <mxPoint x="370" y="175" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ExbaMdFKqMui6jrxIC88-65" value="&lt;div&gt;Complete/&lt;/div&gt;&lt;div&gt;Accurate?&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="ExbaMdFKqMui6jrxIC88-60">
-          <mxGeometry x="180" y="324" width="120" height="80" as="geometry" />
+          <mxGeometry x="310" y="324" width="120" height="80" as="geometry" />
         </mxCell>
         <object label="" id="ExbaMdFKqMui6jrxIC88-66">
           <mxCell style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ExbaMdFKqMui6jrxIC88-60" source="ExbaMdFKqMui6jrxIC88-64" target="ExbaMdFKqMui6jrxIC88-65">
             <mxGeometry relative="1" as="geometry">
               <Array as="points">
-                <mxPoint x="240" y="280" />
-                <mxPoint x="240" y="280" />
+                <mxPoint x="370" y="280" />
+                <mxPoint x="370" y="280" />
               </Array>
             </mxGeometry>
           </mxCell>
         </object>
         <mxCell id="ExbaMdFKqMui6jrxIC88-71" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ExbaMdFKqMui6jrxIC88-60">
-          <mxGeometry x="236" y="440" width="40" height="20" as="geometry" />
+          <mxGeometry x="366" y="440" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ExbaMdFKqMui6jrxIC88-74" value="&lt;div&gt;Comments to HR for corrections/ amendments &lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="ExbaMdFKqMui6jrxIC88-60">
-          <mxGeometry x="20" y="299" width="80" height="121" as="geometry" />
+          <mxGeometry x="150" y="299" width="80" height="121" as="geometry" />
         </mxCell>
         <mxCell id="ExbaMdFKqMui6jrxIC88-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=80;entryDy=65;entryPerimeter=0;" edge="1" parent="ExbaMdFKqMui6jrxIC88-60" source="ExbaMdFKqMui6jrxIC88-65" target="ExbaMdFKqMui6jrxIC88-74">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="100" y="364" as="targetPoint" />
+            <mxPoint x="230" y="364" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ExbaMdFKqMui6jrxIC88-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ExbaMdFKqMui6jrxIC88-60" source="ExbaMdFKqMui6jrxIC88-74" target="ExbaMdFKqMui6jrxIC88-64">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="60" y="199" as="targetPoint" />
+            <mxPoint x="190" y="199" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="60" y="219" />
+              <mxPoint x="190" y="219" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ExbaMdFKqMui6jrxIC88-77" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ExbaMdFKqMui6jrxIC88-60">
-          <mxGeometry x="130" y="340" width="40" height="20" as="geometry" />
+          <mxGeometry x="260" y="340" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ExbaMdFKqMui6jrxIC88-80" value="Vote book accountant in expenditure" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="ExbaMdFKqMui6jrxIC88-60">
-          <mxGeometry x="434" y="659" width="141" height="70" as="geometry" />
+          <mxGeometry x="564" y="659" width="141" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ExbaMdFKqMui6jrxIC88-86" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ExbaMdFKqMui6jrxIC88-60">
-          <mxGeometry x="500" y="440" width="40" height="20" as="geometry" />
+          <mxGeometry x="630" y="440" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ExbaMdFKqMui6jrxIC88-92" value="Cash Available?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="ExbaMdFKqMui6jrxIC88-60">
-          <mxGeometry x="445" y="190" width="120" height="80" as="geometry" />
+          <mxGeometry x="575" y="190" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ExbaMdFKqMui6jrxIC88-93" value="Cash office accountant draws a cheque/EFT in favor of the beneficiary" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="ExbaMdFKqMui6jrxIC88-60">
-          <mxGeometry x="720" y="190" width="130" height="80" as="geometry" />
+          <mxGeometry x="850" y="190" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ExbaMdFKqMui6jrxIC88-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ExbaMdFKqMui6jrxIC88-60" source="ExbaMdFKqMui6jrxIC88-92" target="ExbaMdFKqMui6jrxIC88-92">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="505" y="180" as="targetPoint" />
+            <mxPoint x="635" y="180" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="585" y="230" />
-              <mxPoint x="585" y="160" />
-              <mxPoint x="505" y="160" />
+              <mxPoint x="715" y="230" />
+              <mxPoint x="715" y="160" />
+              <mxPoint x="635" y="160" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ExbaMdFKqMui6jrxIC88-99" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ExbaMdFKqMui6jrxIC88-60">
-          <mxGeometry x="742.5" y="480" width="85" height="50" as="geometry" />
+          <mxGeometry x="872.5" y="480" width="85" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ExbaMdFKqMui6jrxIC88-100" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ExbaMdFKqMui6jrxIC88-60">
-          <mxGeometry x="621" y="212" width="40" height="20" as="geometry" />
+          <mxGeometry x="751" y="212" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ExbaMdFKqMui6jrxIC88-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ExbaMdFKqMui6jrxIC88-60" source="ExbaMdFKqMui6jrxIC88-92" target="ExbaMdFKqMui6jrxIC88-93">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="644.5" y="230" as="targetPoint" />
+            <mxPoint x="774.5" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ExbaMdFKqMui6jrxIC88-104" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ExbaMdFKqMui6jrxIC88-60">
-          <mxGeometry x="555" y="170" width="40" height="20" as="geometry" />
+          <mxGeometry x="685" y="170" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ExbaMdFKqMui6jrxIC88-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ExbaMdFKqMui6jrxIC88-67" target="ExbaMdFKqMui6jrxIC88-78">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ExbaMdFKqMui6jrxIC88-67" value="Examination accountant numbers the PV and forwards to salary advnace accountant" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="504" width="160" height="76" as="geometry" />
+          <mxGeometry x="300" y="504" width="160" height="76" as="geometry" />
         </mxCell>
         <mxCell id="ExbaMdFKqMui6jrxIC88-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ExbaMdFKqMui6jrxIC88-65" target="ExbaMdFKqMui6jrxIC88-67">
           <mxGeometry relative="1" as="geometry" />
@@ -102,45 +102,45 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ExbaMdFKqMui6jrxIC88-78" value="Accountant salary advance posts in Ledgers and forwards to vote book" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="175" y="668" width="150" height="72" as="geometry" />
+          <mxGeometry x="305" y="668" width="150" height="72" as="geometry" />
         </mxCell>
         <mxCell id="ExbaMdFKqMui6jrxIC88-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ExbaMdFKqMui6jrxIC88-82" target="ExbaMdFKqMui6jrxIC88-84">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ExbaMdFKqMui6jrxIC88-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ExbaMdFKqMui6jrxIC88-82" target="ExbaMdFKqMui6jrxIC88-74">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="745" y="562" as="targetPoint" />
+            <mxPoint x="875" y="562" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="640" y="562" />
-              <mxPoint x="640" y="790" />
-              <mxPoint x="70" y="790" />
+              <mxPoint x="770" y="562" />
+              <mxPoint x="770" y="790" />
+              <mxPoint x="200" y="790" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ExbaMdFKqMui6jrxIC88-82" value="&lt;div&gt;Expenditure in line &lt;br&gt;&lt;/div&gt;&lt;div&gt;with budget allocation?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="420" y="514" width="190" height="96" as="geometry" />
+          <mxGeometry x="550" y="514" width="190" height="96" as="geometry" />
         </mxCell>
         <mxCell id="ExbaMdFKqMui6jrxIC88-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ExbaMdFKqMui6jrxIC88-80" target="ExbaMdFKqMui6jrxIC88-82">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ExbaMdFKqMui6jrxIC88-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ExbaMdFKqMui6jrxIC88-84" target="ExbaMdFKqMui6jrxIC88-92">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="515" y="276" as="targetPoint" />
+            <mxPoint x="645" y="276" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ExbaMdFKqMui6jrxIC88-84" value="DDF authorizes payment" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="455" y="356" width="120" height="60" as="geometry" />
+          <mxGeometry x="585" y="356" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ExbaMdFKqMui6jrxIC88-89" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="609" y="590" width="40" height="20" as="geometry" />
+          <mxGeometry x="739" y="590" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ExbaMdFKqMui6jrxIC88-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ExbaMdFKqMui6jrxIC88-95" target="ExbaMdFKqMui6jrxIC88-99">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="795" y="490" as="targetPoint" />
+            <mxPoint x="925" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ExbaMdFKqMui6jrxIC88-95" value="PV is stamped as paid and payment is released to the beneficiary" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="735" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="865" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ExbaMdFKqMui6jrxIC88-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ExbaMdFKqMui6jrxIC88-93" target="ExbaMdFKqMui6jrxIC88-95">
           <mxGeometry relative="1" as="geometry" />
