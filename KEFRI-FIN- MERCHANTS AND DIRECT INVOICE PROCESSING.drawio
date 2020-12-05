@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-05T06:39:24.023Z" agent="5.0 (Windows)" etag="8JM2Eh1iEl54W3bnxvxF" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-05T06:40:07.900Z" agent="5.0 (Windows)" etag="Y9yBbnpjWkj2WmBS07Ua" version="13.10.9" type="github">
   <diagram id="1mt4vwLYY_OGF_tediNy" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -68,7 +68,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YcZZJkjSdOPoPSPX9Uab-29" value="Meets quality checks?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="YcZZJkjSdOPoPSPX9Uab-5">
-          <mxGeometry x="440" y="669" width="100" height="100" as="geometry" />
+          <mxGeometry x="448" y="669" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="YcZZJkjSdOPoPSPX9Uab-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="YcZZJkjSdOPoPSPX9Uab-5" source="YcZZJkjSdOPoPSPX9Uab-14" target="YcZZJkjSdOPoPSPX9Uab-29">
           <mxGeometry relative="1" as="geometry" />
@@ -90,7 +90,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YcZZJkjSdOPoPSPX9Uab-34" value="AIE authorizes payment voucher and forwards to examination" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="425" y="550" width="150" height="70" as="geometry" />
+          <mxGeometry x="433" y="550" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="YcZZJkjSdOPoPSPX9Uab-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YcZZJkjSdOPoPSPX9Uab-29" target="YcZZJkjSdOPoPSPX9Uab-34">
           <mxGeometry relative="1" as="geometry" />
@@ -99,13 +99,21 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YcZZJkjSdOPoPSPX9Uab-36" value="Examination accountant numbers the payment voucher and forwards to Vote Book Section" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="420" y="405" width="160" height="75" as="geometry" />
+          <mxGeometry x="428" y="405" width="160" height="75" as="geometry" />
         </mxCell>
         <mxCell id="YcZZJkjSdOPoPSPX9Uab-38" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="494" y="639" width="40" height="20" as="geometry" />
+          <mxGeometry x="502" y="639" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YcZZJkjSdOPoPSPX9Uab-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YcZZJkjSdOPoPSPX9Uab-39" target="YcZZJkjSdOPoPSPX9Uab-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="668" y="283.79999999999995" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="YcZZJkjSdOPoPSPX9Uab-39" value="Vote Book Accountant posts to vote book to capture the expenditure" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="440" y="257.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="438" y="250" width="140" height="67.5" as="geometry" />
+        </mxCell>
+        <mxCell id="YcZZJkjSdOPoPSPX9Uab-41" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="668" y="253.75" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
