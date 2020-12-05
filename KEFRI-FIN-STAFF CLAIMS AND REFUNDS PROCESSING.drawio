@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-05T07:00:30.561Z" agent="5.0 (Windows)" etag="g5oyqKIBQ_-PGAe3YO0z" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-05T07:01:54.202Z" agent="5.0 (Windows)" etag="tVYrWfcPBY633O7Q2pcm" version="13.10.9" type="github">
   <diagram id="uc0_SV3gPutvzjMln_G1" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -70,46 +70,46 @@
           <mxGeometry x="290" y="771" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XGWN-mqswAZI33q1c_55-55" value="&lt;div&gt;Expenditure &lt;br&gt;&lt;/div&gt;&lt;div&gt;inline with budget?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="XGWN-mqswAZI33q1c_55-36">
-          <mxGeometry x="684" y="209.25" width="140" height="111" as="geometry" />
+          <mxGeometry x="691" y="209.25" width="140" height="111" as="geometry" />
         </mxCell>
         <mxCell id="XGWN-mqswAZI33q1c_55-56" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XGWN-mqswAZI33q1c_55-36">
-          <mxGeometry x="750" y="361" width="40" height="20" as="geometry" />
+          <mxGeometry x="757" y="361" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XGWN-mqswAZI33q1c_55-57" value="Cash available?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="XGWN-mqswAZI33q1c_55-36">
-          <mxGeometry x="696" y="563.13" width="116" height="86.87" as="geometry" />
+          <mxGeometry x="703" y="563.13" width="116" height="86.87" as="geometry" />
         </mxCell>
         <mxCell id="XGWN-mqswAZI33q1c_55-58" value="Cash office Accountant draws a cheque /EFT in favor of the merchant" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="XGWN-mqswAZI33q1c_55-36">
-          <mxGeometry x="679" y="720" width="150" height="71.01" as="geometry" />
+          <mxGeometry x="686" y="720" width="150" height="71.01" as="geometry" />
         </mxCell>
         <mxCell id="XGWN-mqswAZI33q1c_55-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XGWN-mqswAZI33q1c_55-36" source="XGWN-mqswAZI33q1c_55-57" target="XGWN-mqswAZI33q1c_55-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XGWN-mqswAZI33q1c_55-60" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XGWN-mqswAZI33q1c_55-36">
-          <mxGeometry x="751" y="669" width="40" height="20" as="geometry" />
+          <mxGeometry x="758" y="669" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XGWN-mqswAZI33q1c_55-61" value="Cash office Accountant stamps the Payment Voucher as paid &amp;amp; files it. Cheque/Payment is released to the merchant" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="XGWN-mqswAZI33q1c_55-36">
-          <mxGeometry x="924" y="710.51" width="146" height="90" as="geometry" />
+          <mxGeometry x="927" y="710.51" width="146" height="90" as="geometry" />
         </mxCell>
         <mxCell id="XGWN-mqswAZI33q1c_55-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XGWN-mqswAZI33q1c_55-36" source="XGWN-mqswAZI33q1c_55-58" target="XGWN-mqswAZI33q1c_55-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XGWN-mqswAZI33q1c_55-63" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XGWN-mqswAZI33q1c_55-36">
-          <mxGeometry x="942" y="555.5" width="110" height="60" as="geometry" />
+          <mxGeometry x="945" y="555.5" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XGWN-mqswAZI33q1c_55-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="XGWN-mqswAZI33q1c_55-36" source="XGWN-mqswAZI33q1c_55-61" target="XGWN-mqswAZI33q1c_55-63">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="997" y="615.51" as="targetPoint" />
+            <mxPoint x="1000" y="615.51" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XGWN-mqswAZI33q1c_55-65" value="PV is returned to the cost centre head" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="XGWN-mqswAZI33q1c_55-36">
-          <mxGeometry x="937" y="234.75" width="120" height="60" as="geometry" />
+          <mxGeometry x="940" y="234.75" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XGWN-mqswAZI33q1c_55-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XGWN-mqswAZI33q1c_55-36" source="XGWN-mqswAZI33q1c_55-55" target="XGWN-mqswAZI33q1c_55-65">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XGWN-mqswAZI33q1c_55-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="XGWN-mqswAZI33q1c_55-36" source="XGWN-mqswAZI33q1c_55-65" target="XGWN-mqswAZI33q1c_55-63">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="974" y="374.75" as="targetPoint" />
+            <mxPoint x="977" y="374.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XGWN-mqswAZI33q1c_55-68" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XGWN-mqswAZI33q1c_55-36">
@@ -117,16 +117,16 @@
         </mxCell>
         <mxCell id="XGWN-mqswAZI33q1c_55-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="XGWN-mqswAZI33q1c_55-36" source="XGWN-mqswAZI33q1c_55-57" target="XGWN-mqswAZI33q1c_55-57">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="830" y="501" as="targetPoint" />
+            <mxPoint x="837" y="501" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="850" y="607" />
-              <mxPoint x="850" y="532" />
-              <mxPoint x="754" y="532" />
+              <mxPoint x="857" y="607" />
+              <mxPoint x="857" y="532" />
+              <mxPoint x="761" y="532" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="XGWN-mqswAZI33q1c_55-70" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XGWN-mqswAZI33q1c_55-36">
-          <mxGeometry x="820" y="555.5" width="40" height="20" as="geometry" />
+          <mxGeometry x="827" y="555.5" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XGWN-mqswAZI33q1c_55-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="XGWN-mqswAZI33q1c_55-36" source="XGWN-mqswAZI33q1c_55-42" target="XGWN-mqswAZI33q1c_55-45">
           <mxGeometry relative="1" as="geometry">
@@ -175,7 +175,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XGWN-mqswAZI33q1c_55-82" value="DDF Authorizes payment subject to availability of cash" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="704" y="420" width="120" height="74.75" as="geometry" />
+          <mxGeometry x="711" y="420" width="120" height="74.75" as="geometry" />
         </mxCell>
         <mxCell id="XGWN-mqswAZI33q1c_55-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XGWN-mqswAZI33q1c_55-55" target="XGWN-mqswAZI33q1c_55-82">
           <mxGeometry relative="1" as="geometry" />
