@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-05T14:38:47.482Z" agent="5.0 (Windows)" etag="ytE3MIDv2ZTQ_GIPgpGt" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-05T14:39:35.747Z" agent="5.0 (Windows)" etag="ebS0hNWMDScGctPULfqO" version="13.10.9" type="github">
   <diagram id="3awrSkJuFKPsmrS7k47G" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="320" y="50" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ExbaMdFKqMui6jrxIC88-64" value="Examination accountant section receives payment voucher (PV) on payroll items from HR already approved by AIE and check for completeness and accuracy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ExbaMdFKqMui6jrxIC88-60">
-          <mxGeometry x="280" y="177" width="180" height="83" as="geometry" />
+          <mxGeometry x="270" y="170" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ExbaMdFKqMui6jrxIC88-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ExbaMdFKqMui6jrxIC88-60" source="ExbaMdFKqMui6jrxIC88-61" target="ExbaMdFKqMui6jrxIC88-64">
           <mxGeometry relative="1" as="geometry">
