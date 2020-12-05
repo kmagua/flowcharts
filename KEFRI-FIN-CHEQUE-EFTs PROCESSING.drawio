@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-05T15:51:20.691Z" agent="5.0 (Windows)" etag="a7ARa0iBg3hk3KNQUNRk" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-05T15:55:22.314Z" agent="5.0 (Windows)" etag="PkTgtIZWWB1daBf-gyQ3" version="13.10.9" type="github">
   <diagram id="JjQCEzhE8u5LjKaULpIY" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -45,7 +45,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="omrt5kF8QAQMkNh0Hckq-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="omrt5kF8QAQMkNh0Hckq-9" target="omrt5kF8QAQMkNh0Hckq-19">
+        <mxCell id="omrt5kF8QAQMkNh0Hckq-19" value="Accountant cash office Draw cheques on confirmation of funds availability in accounts" style="whiteSpace=wrap;html=1;" vertex="1" parent="omrt5kF8QAQMkNh0Hckq-1">
+          <mxGeometry x="540" y="635" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="omrt5kF8QAQMkNh0Hckq-21" value="Bank signatories sign cheques as per bank account signing mandate" style="whiteSpace=wrap;html=1;" vertex="1" parent="omrt5kF8QAQMkNh0Hckq-1">
+          <mxGeometry x="545" y="470" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="omrt5kF8QAQMkNh0Hckq-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="omrt5kF8QAQMkNh0Hckq-1" source="omrt5kF8QAQMkNh0Hckq-19" target="omrt5kF8QAQMkNh0Hckq-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="omrt5kF8QAQMkNh0Hckq-30" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="omrt5kF8QAQMkNh0Hckq-1">
+          <mxGeometry x="192" y="620" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="omrt5kF8QAQMkNh0Hckq-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="omrt5kF8QAQMkNh0Hckq-9" target="omrt5kF8QAQMkNh0Hckq-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="omrt5kF8QAQMkNh0Hckq-9" value="Accountant cash office sorts Warrants as per the bank account" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -54,14 +66,29 @@
         <mxCell id="omrt5kF8QAQMkNh0Hckq-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="omrt5kF8QAQMkNh0Hckq-8" target="omrt5kF8QAQMkNh0Hckq-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="omrt5kF8QAQMkNh0Hckq-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="omrt5kF8QAQMkNh0Hckq-19" target="omrt5kF8QAQMkNh0Hckq-21">
+        <mxCell id="omrt5kF8QAQMkNh0Hckq-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="omrt5kF8QAQMkNh0Hckq-23" target="omrt5kF8QAQMkNh0Hckq-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="685" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="omrt5kF8QAQMkNh0Hckq-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="omrt5kF8QAQMkNh0Hckq-23" target="omrt5kF8QAQMkNh0Hckq-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="590" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="210" y="685" />
+              <mxPoint x="210" y="600" />
+              <mxPoint x="310" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="omrt5kF8QAQMkNh0Hckq-23" value="&lt;div&gt;cash&lt;/div&gt;&lt;div&gt;available?&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="645" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="omrt5kF8QAQMkNh0Hckq-31" value="Signed cheques are recorded in outward register for dispatch to the respective stakeholder, or presentation to the bank for transfer and/or withdrawal" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="310" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="omrt5kF8QAQMkNh0Hckq-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="omrt5kF8QAQMkNh0Hckq-21" target="omrt5kF8QAQMkNh0Hckq-31">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="omrt5kF8QAQMkNh0Hckq-19" value="Accountant cash office Draw cheques on confirmation of funds availability in accounts" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="640" width="140" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="omrt5kF8QAQMkNh0Hckq-21" value="Bank signatories sign cheques as per bank account signing mandate" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="640" width="130" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
