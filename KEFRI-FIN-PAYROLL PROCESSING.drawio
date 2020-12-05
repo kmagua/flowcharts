@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-05T14:19:17.925Z" agent="5.0 (Windows)" etag="rJubcTWpHZk8Owz4fP0Q" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-05T14:20:25.277Z" agent="5.0 (Windows)" etag="yiQTo8NLD929Qf8z02bR" version="13.10.9" type="github">
   <diagram id="3awrSkJuFKPsmrS7k47G" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -10,13 +10,19 @@
         <mxCell id="ExbaMdFKqMui6jrxIC88-61" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ExbaMdFKqMui6jrxIC88-60">
           <mxGeometry x="190" y="50" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ExbaMdFKqMui6jrxIC88-64" value="Examination accountant section receives payment voucher on payroll items from HR already approved by AIE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ExbaMdFKqMui6jrxIC88-60">
+        <mxCell id="ExbaMdFKqMui6jrxIC88-64" value="Examination accountant section receives payment voucher (PV) on payroll items from HR already approved by AIE and check for completeness and accuracy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ExbaMdFKqMui6jrxIC88-60">
           <mxGeometry x="150" y="177" width="180" height="83" as="geometry" />
         </mxCell>
         <mxCell id="ExbaMdFKqMui6jrxIC88-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ExbaMdFKqMui6jrxIC88-60" source="ExbaMdFKqMui6jrxIC88-61" target="ExbaMdFKqMui6jrxIC88-64">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="240" y="175" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ExbaMdFKqMui6jrxIC88-65" value="&lt;div&gt;Complete/&lt;/div&gt;&lt;div&gt;Accurate?&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="351.5" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ExbaMdFKqMui6jrxIC88-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ExbaMdFKqMui6jrxIC88-64" target="ExbaMdFKqMui6jrxIC88-65">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
