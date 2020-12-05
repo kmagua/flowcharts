@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-05T13:54:21.841Z" agent="5.0 (Windows)" etag="H4hvqVfIkozjdzPjEf3-" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-05T13:56:54.962Z" agent="5.0 (Windows)" etag="CcBB2NBZx_KGTmM6dEFb" version="13.10.9" type="github">
   <diagram id="x_uxSW0rY3zfUO0SCG1N" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="O7GpnW4-85XMZtPzeUqR-4" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="O7GpnW4-85XMZtPzeUqR-3">
           <mxGeometry x="270" y="40" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="O7GpnW4-85XMZtPzeUqR-5" value="Imprest holder/centre accountant submits an updated cashbook with the supporting documents for how money has been utilized" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="O7GpnW4-85XMZtPzeUqR-3">
+        <mxCell id="O7GpnW4-85XMZtPzeUqR-5" value="Imprest holder/Cost centre accountant submit duly signed imprest warrant form with a summary of the expenditure, all supporting documents" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="O7GpnW4-85XMZtPzeUqR-3">
           <mxGeometry x="220" y="140" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="O7GpnW4-85XMZtPzeUqR-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="O7GpnW4-85XMZtPzeUqR-3" source="O7GpnW4-85XMZtPzeUqR-4" target="O7GpnW4-85XMZtPzeUqR-5">
@@ -18,7 +18,7 @@
             <mxPoint x="315" y="165" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O7GpnW4-85XMZtPzeUqR-7" value="Imprest accountant generates a payment voucher and submits it to examination" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="O7GpnW4-85XMZtPzeUqR-3">
+        <mxCell id="O7GpnW4-85XMZtPzeUqR-7" value="Imprest accountant generates an imprest surrender voucher and submits it to examination" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="O7GpnW4-85XMZtPzeUqR-3">
           <mxGeometry x="240" y="560" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="O7GpnW4-85XMZtPzeUqR-8" value="Imprest accountant verifies the documents. " style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="O7GpnW4-85XMZtPzeUqR-3">
@@ -105,7 +105,7 @@
         <mxCell id="O7GpnW4-85XMZtPzeUqR-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O7GpnW4-85XMZtPzeUqR-30" target="O7GpnW4-85XMZtPzeUqR-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O7GpnW4-85XMZtPzeUqR-30" value="Examination accountant numbers the voucher and forwards to vote book" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="O7GpnW4-85XMZtPzeUqR-30" value="Examination accountant numbers the imprest voucher and forwards to vote book" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="479" y="400" width="150" height="65" as="geometry" />
         </mxCell>
         <mxCell id="O7GpnW4-85XMZtPzeUqR-31" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
