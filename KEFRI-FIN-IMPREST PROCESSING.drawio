@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-05T10:00:55.955Z" agent="5.0 (Windows)" etag="uCaHiKBzjHAyiJfMrMos" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-05T10:02:22.975Z" agent="5.0 (Windows)" etag="7aq2EshZGB-UQz1gIeOp" version="13.10.9" type="github">
   <diagram id="x-UUzvVaHj4vwNP_22vH" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -164,6 +164,20 @@
         <mxCell id="JOb5DQNQt9hg0U8gQbrx-78" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JOb5DQNQt9hg0U8gQbrx-1">
           <mxGeometry x="861" y="567" width="40" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="JOb5DQNQt9hg0U8gQbrx-83" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JOb5DQNQt9hg0U8gQbrx-1">
+          <mxGeometry x="965" y="457" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JOb5DQNQt9hg0U8gQbrx-84" value="Cash office Accountant stamps the Payment Voucher as paid &amp;amp; files it. Cheque/Payment is released to the merchant" style="whiteSpace=wrap;html=1;" vertex="1" parent="JOb5DQNQt9hg0U8gQbrx-1">
+          <mxGeometry x="944.5" y="705" width="141" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JOb5DQNQt9hg0U8gQbrx-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JOb5DQNQt9hg0U8gQbrx-1" source="JOb5DQNQt9hg0U8gQbrx-72" target="JOb5DQNQt9hg0U8gQbrx-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JOb5DQNQt9hg0U8gQbrx-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="JOb5DQNQt9hg0U8gQbrx-1" source="JOb5DQNQt9hg0U8gQbrx-84" target="JOb5DQNQt9hg0U8gQbrx-83">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1029.5" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="JOb5DQNQt9hg0U8gQbrx-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="JOb5DQNQt9hg0U8gQbrx-48" target="JOb5DQNQt9hg0U8gQbrx-51">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="582" y="357.5" as="targetPoint" />
@@ -208,6 +222,11 @@
         </mxCell>
         <mxCell id="JOb5DQNQt9hg0U8gQbrx-75" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="823" y="420" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JOb5DQNQt9hg0U8gQbrx-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JOb5DQNQt9hg0U8gQbrx-79" target="JOb5DQNQt9hg0U8gQbrx-83">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1025" y="461" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="JOb5DQNQt9hg0U8gQbrx-79" value="Return imprest to cost centre head" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="321" width="130" height="60" as="geometry" />
