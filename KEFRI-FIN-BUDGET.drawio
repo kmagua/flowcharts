@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-05T15:04:51.896Z" agent="5.0 (Windows)" etag="PLrFgX63v4K7EMxD6xO-" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-05T15:06:06.875Z" agent="5.0 (Windows)" etag="_nFAoZdYZVr2Oip1Zweo" version="13.10.9" type="github">
   <diagram id="HKhS4auHpXQP0HFOkr7Z" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -57,8 +57,14 @@
         <mxCell id="jPiStXu903FzIQFQCjgb-16" value="All expenditure per activity are then compiled into KEFRI Budget upon rationalization in the consultative meeting" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="560" width="180" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="jPiStXu903FzIQFQCjgb-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jPiStXu903FzIQFQCjgb-18" target="jPiStXu903FzIQFQCjgb-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jPiStXu903FzIQFQCjgb-18" value="DDF prepares a consolidated cost centres budget and itemized budget" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="500" y="405" width="160" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="jPiStXu903FzIQFQCjgb-20" value="SDD – Corporate services compiles the budgets and presents it to the Director for submission to the BOD" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="270" width="200" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
