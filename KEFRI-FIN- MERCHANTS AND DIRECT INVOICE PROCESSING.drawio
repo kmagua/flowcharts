@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-05T06:44:07.692Z" agent="5.0 (Windows)" etag="-s2XL1RtESUCUpU5NhJx" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-05T06:45:05.313Z" agent="5.0 (Windows)" etag="7FLFDO9gUjvB-3wkfMzQ" version="13.10.9" type="github">
   <diagram id="1mt4vwLYY_OGF_tediNy" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -79,6 +79,9 @@
         <mxCell id="YcZZJkjSdOPoPSPX9Uab-43" value="&lt;div&gt;Expenditure &lt;br&gt;&lt;/div&gt;&lt;div&gt;inline with budget?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="YcZZJkjSdOPoPSPX9Uab-5">
           <mxGeometry x="684" y="209.25" width="140" height="111" as="geometry" />
         </mxCell>
+        <mxCell id="YcZZJkjSdOPoPSPX9Uab-51" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="YcZZJkjSdOPoPSPX9Uab-5">
+          <mxGeometry x="750" y="361" width="40" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="YcZZJkjSdOPoPSPX9Uab-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YcZZJkjSdOPoPSPX9Uab-16">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="270" y="560" as="targetPoint" />
@@ -112,6 +115,12 @@
         </mxCell>
         <mxCell id="YcZZJkjSdOPoPSPX9Uab-39" value="Vote Book Accountant posts to vote book to capture the expenditure and checks if expenditure inline with budget" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="423" y="230" width="170" height="87.5" as="geometry" />
+        </mxCell>
+        <mxCell id="YcZZJkjSdOPoPSPX9Uab-45" value="DDF Authorizes payment" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="704" y="434.75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YcZZJkjSdOPoPSPX9Uab-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YcZZJkjSdOPoPSPX9Uab-43" target="YcZZJkjSdOPoPSPX9Uab-45">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
