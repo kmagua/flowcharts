@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-05T06:58:18.836Z" agent="5.0 (Windows)" etag="S-8SPf597LjycUld_A8U" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-05T06:59:23.207Z" agent="5.0 (Windows)" etag="pXyaq4rXRwm9et8w_I3o" version="13.10.9" type="github">
   <diagram id="uc0_SV3gPutvzjMln_G1" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -18,20 +18,18 @@
             <mxPoint x="260" y="165" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XGWN-mqswAZI33q1c_55-40" value="DDF verifies the bill/merchant documents and authorizes for payments" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="XGWN-mqswAZI33q1c_55-36">
-          <mxGeometry x="190" y="281" width="140" height="64" as="geometry" />
-        </mxCell>
-        <mxCell id="XGWN-mqswAZI33q1c_55-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XGWN-mqswAZI33q1c_55-36" source="XGWN-mqswAZI33q1c_55-38" target="XGWN-mqswAZI33q1c_55-40">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="XGWN-mqswAZI33q1c_55-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="XGWN-mqswAZI33q1c_55-36" source="XGWN-mqswAZI33q1c_55-38" target="XGWN-mqswAZI33q1c_55-84">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="281" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="XGWN-mqswAZI33q1c_55-42" value="Document/ Bills valid?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="XGWN-mqswAZI33q1c_55-36">
           <mxGeometry x="220" y="401" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="XGWN-mqswAZI33q1c_55-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XGWN-mqswAZI33q1c_55-36" source="XGWN-mqswAZI33q1c_55-40" target="XGWN-mqswAZI33q1c_55-42">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="XGWN-mqswAZI33q1c_55-44" value="Payment Accountant generates a Payment Voucher and forwards to examination" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="XGWN-mqswAZI33q1c_55-36">
-          <mxGeometry x="190" y="551" width="140" height="69" as="geometry" />
+        <mxCell id="XGWN-mqswAZI33q1c_55-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XGWN-mqswAZI33q1c_55-36" target="XGWN-mqswAZI33q1c_55-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="345" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="XGWN-mqswAZI33q1c_55-45" value="The examination accountant conducts quality checks and forwards it to the AIE for authority to incur the expenditure" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="XGWN-mqswAZI33q1c_55-36">
           <mxGeometry x="180" y="681" width="160" height="76" as="geometry" />
@@ -51,11 +49,6 @@
             <Array as="points">
               <mxPoint x="120" y="194" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XGWN-mqswAZI33q1c_55-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="XGWN-mqswAZI33q1c_55-36" source="XGWN-mqswAZI33q1c_55-44" target="XGWN-mqswAZI33q1c_55-45">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="260" y="671" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XGWN-mqswAZI33q1c_55-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="XGWN-mqswAZI33q1c_55-36" source="XGWN-mqswAZI33q1c_55-52" target="XGWN-mqswAZI33q1c_55-47">
@@ -135,9 +128,12 @@
         <mxCell id="XGWN-mqswAZI33q1c_55-70" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XGWN-mqswAZI33q1c_55-36">
           <mxGeometry x="820" y="555.5" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XGWN-mqswAZI33q1c_55-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XGWN-mqswAZI33q1c_55-42">
+        <mxCell id="XGWN-mqswAZI33q1c_55-84" value="Payment Accountant generates a Payment Voucher and forwards to examination" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="XGWN-mqswAZI33q1c_55-36">
+          <mxGeometry x="190" y="281" width="140" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="XGWN-mqswAZI33q1c_55-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="XGWN-mqswAZI33q1c_55-36" source="XGWN-mqswAZI33q1c_55-42" target="XGWN-mqswAZI33q1c_55-45">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="270" y="560" as="targetPoint" />
+            <mxPoint x="260" y="551" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XGWN-mqswAZI33q1c_55-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XGWN-mqswAZI33q1c_55-42">
