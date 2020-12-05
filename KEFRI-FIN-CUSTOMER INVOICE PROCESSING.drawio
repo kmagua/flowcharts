@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-05T16:07:44.415Z" agent="5.0 (Windows)" etag="3898Lf0f6TD953LCfB1Z" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-05T16:10:55.655Z" agent="5.0 (Windows)" etag="QQd7Q19G5t5uqLU7r85R" version="13.10.9" type="github">
   <diagram id="5-Zab5vDNF4LBHiWge62" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -21,7 +21,12 @@
         <mxCell id="2TRREouervGF3PXGptxk-6" value="Revenue Accountant verifies billing documents and generates invoice, original copy forwarded to the respective section for dispatch" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="2TRREouervGF3PXGptxk-1">
           <mxGeometry x="160" y="470" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="2TRREouervGF3PXGptxk-8" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="2TRREouervGF3PXGptxk-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2TRREouervGF3PXGptxk-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="377.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2TRREouervGF3PXGptxk-8" value="correct/ accurate/ complete?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="190" y="330" width="120" height="95" as="geometry" />
         </mxCell>
         <mxCell id="2TRREouervGF3PXGptxk-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2TRREouervGF3PXGptxk-5" target="2TRREouervGF3PXGptxk-8">
