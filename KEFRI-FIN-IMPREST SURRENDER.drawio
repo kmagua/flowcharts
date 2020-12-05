@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-05T14:02:50.900Z" agent="5.0 (Windows)" etag="lCSgAZh_QT0QoKHRZ2zd" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-05T14:06:46.018Z" agent="5.0 (Windows)" etag="I7eOFYqIwFytxrzfo1_8" version="13.10.9" type="github">
   <diagram id="x_uxSW0rY3zfUO0SCG1N" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -138,6 +138,14 @@
         </mxCell>
         <mxCell id="O7GpnW4-85XMZtPzeUqR-42" value="General ledger accountant does journal posting and forwards to cash office for filing" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="734" y="240" width="136" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="O7GpnW4-85XMZtPzeUqR-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O7GpnW4-85XMZtPzeUqR-49" target="O7GpnW4-85XMZtPzeUqR-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="456" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O7GpnW4-85XMZtPzeUqR-49" value="Receipts, invoice, GRNs, payment vouchers &amp;amp; miscellaneous receipt" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="150" width="175" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
