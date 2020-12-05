@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-05T09:43:18.416Z" agent="5.0 (Windows)" etag="t7GYkqrlGi3B_MtLtor5" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-05T09:45:05.012Z" agent="5.0 (Windows)" etag="WSQe7EEsJcQwXMXIRg5A" version="13.10.9" type="github">
   <diagram id="x-UUzvVaHj4vwNP_22vH" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -97,10 +97,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JOb5DQNQt9hg0U8gQbrx-47" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JOb5DQNQt9hg0U8gQbrx-1">
-          <mxGeometry x="561" y="772" width="40" height="20" as="geometry" />
+          <mxGeometry x="535" y="760" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JOb5DQNQt9hg0U8gQbrx-43" value="&lt;div&gt;AIE holders &lt;br&gt;&lt;/div&gt;&lt;div&gt;Approve?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="JOb5DQNQt9hg0U8gQbrx-1">
-          <mxGeometry x="525" y="580" width="130" height="90" as="geometry" />
+          <mxGeometry x="507" y="580" width="130" height="90" as="geometry" />
         </mxCell>
         <mxCell id="JOb5DQNQt9hg0U8gQbrx-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="JOb5DQNQt9hg0U8gQbrx-1" source="JOb5DQNQt9hg0U8gQbrx-39" target="JOb5DQNQt9hg0U8gQbrx-43">
           <mxGeometry relative="1" as="geometry">
@@ -116,11 +116,16 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="635" y="765" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="590" y="670" />
-              <mxPoint x="590" y="800" />
+              <mxPoint x="572" y="800" />
               <mxPoint x="50" y="800" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="JOb5DQNQt9hg0U8gQbrx-48" value="Imprest accountant posts the transaction in the applicant&#39;s ledger and forwards the warrant to examination section" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="492" y="420" width="180" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="JOb5DQNQt9hg0U8gQbrx-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JOb5DQNQt9hg0U8gQbrx-43" target="JOb5DQNQt9hg0U8gQbrx-48">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
