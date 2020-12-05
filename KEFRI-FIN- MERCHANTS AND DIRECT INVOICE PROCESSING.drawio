@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-05T06:34:55.307Z" agent="5.0 (Windows)" etag="tabcIyidRxCNPGQ_NurE" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-05T06:36:55.682Z" agent="5.0 (Windows)" etag="O6qX1XuG7aOWq2xUd2t8" version="13.10.9" type="github">
   <diagram id="1mt4vwLYY_OGF_tediNy" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -86,11 +86,20 @@
             <mxPoint x="170" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="YcZZJkjSdOPoPSPX9Uab-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YcZZJkjSdOPoPSPX9Uab-34" target="YcZZJkjSdOPoPSPX9Uab-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YcZZJkjSdOPoPSPX9Uab-34" value="AIE authorizes payment voucher and forwards to examination" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="425" y="550" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="YcZZJkjSdOPoPSPX9Uab-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YcZZJkjSdOPoPSPX9Uab-29" target="YcZZJkjSdOPoPSPX9Uab-34">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YcZZJkjSdOPoPSPX9Uab-36" value="Examination accountant numbers the payment voucher and forwards to Vote Book Section" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="405" width="160" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="YcZZJkjSdOPoPSPX9Uab-38" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="494" y="639" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
