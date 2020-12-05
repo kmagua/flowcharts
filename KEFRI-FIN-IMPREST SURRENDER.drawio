@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-05T13:56:54.962Z" agent="5.0 (Windows)" etag="CcBB2NBZx_KGTmM6dEFb" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-05T13:58:01.979Z" agent="5.0 (Windows)" etag="JwO_5II3uH6l22Zq_-Pu" version="13.10.9" type="github">
   <diagram id="x_uxSW0rY3zfUO0SCG1N" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -120,7 +120,7 @@
         <mxCell id="O7GpnW4-85XMZtPzeUqR-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O7GpnW4-85XMZtPzeUqR-35" target="O7GpnW4-85XMZtPzeUqR-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O7GpnW4-85XMZtPzeUqR-35" value="Vote book accountant expends and post to respective vote book and forwarded to DDF for authorization" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="O7GpnW4-85XMZtPzeUqR-35" value="Vote book accountant expends and reverses commitment earlier done and forwards to general ledger" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="474" y="240" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="O7GpnW4-85XMZtPzeUqR-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O7GpnW4-85XMZtPzeUqR-37" target="O7GpnW4-85XMZtPzeUqR-40">
