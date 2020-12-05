@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-05T15:10:15.298Z" agent="5.0 (Windows)" etag="PELRCDN5U6WjbWeJaCTE" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-05T15:10:37.388Z" agent="5.0 (Windows)" etag="EZNsYnsVNzRL6n-75xZZ" version="13.10.9" type="github">
   <diagram id="HKhS4auHpXQP0HFOkr7Z" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -35,6 +35,9 @@
         </mxCell>
         <mxCell id="jPiStXu903FzIQFQCjgb-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="jPiStXu903FzIQFQCjgb-1" source="jPiStXu903FzIQFQCjgb-8" target="jPiStXu903FzIQFQCjgb-10">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jPiStXu903FzIQFQCjgb-30" value="DDF communicates with the accountant Vote book for the opening and postings of the allocated itemized budget done in the respective cost centres for the financial Year" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="jPiStXu903FzIQFQCjgb-1">
+          <mxGeometry x="983" y="679.25" width="150" height="121" as="geometry" />
         </mxCell>
         <mxCell id="jPiStXu903FzIQFQCjgb-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jPiStXu903FzIQFQCjgb-12" target="jPiStXu903FzIQFQCjgb-14">
           <mxGeometry relative="1" as="geometry" />
@@ -93,10 +96,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jPiStXu903FzIQFQCjgb-28" value="SDDs-Corporate forwards the&amp;nbsp; budget to the DDF" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="784" y="723.75" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="jPiStXu903FzIQFQCjgb-30" value="DDF communicates with the accountant Vote book for the opening and postings of the allocated itemized budget done in the respective cost centres for the financial Year" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="689" width="150" height="130" as="geometry" />
+          <mxGeometry x="784" y="719.75" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
