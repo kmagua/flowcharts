@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-05T07:34:51.613Z" agent="5.0 (Windows)" etag="vNWcd4VTSn4gVWfcOIQN" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-05T07:36:07.599Z" agent="5.0 (Windows)" etag="oUmSxU_EfFwtSl9-suQj" version="13.10.9" type="github">
   <diagram id="x-UUzvVaHj4vwNP_22vH" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -8,32 +8,32 @@
           <mxGeometry x="10" y="10" width="1150" height="810" as="geometry" />
         </mxCell>
         <mxCell id="JOb5DQNQt9hg0U8gQbrx-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JOb5DQNQt9hg0U8gQbrx-1">
-          <mxGeometry x="175" y="40" width="100" height="50" as="geometry" />
+          <mxGeometry x="180" y="40" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JOb5DQNQt9hg0U8gQbrx-5" value="Applicant submits an application form duly filled together with workplans and budget to cost center head for approval" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JOb5DQNQt9hg0U8gQbrx-1">
-          <mxGeometry x="140" y="159" width="170" height="80" as="geometry" />
+          <mxGeometry x="145" y="159" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JOb5DQNQt9hg0U8gQbrx-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="JOb5DQNQt9hg0U8gQbrx-1" source="JOb5DQNQt9hg0U8gQbrx-2" target="JOb5DQNQt9hg0U8gQbrx-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="225" y="165" as="targetPoint" />
+            <mxPoint x="230" y="165" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JOb5DQNQt9hg0U8gQbrx-8" value="&lt;div&gt;Approved&lt;/div&gt;&lt;div&gt;by cost &lt;br&gt;&lt;/div&gt;&lt;div&gt;centre Head?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="JOb5DQNQt9hg0U8gQbrx-1">
-          <mxGeometry x="160" y="310" width="130" height="100" as="geometry" />
+          <mxGeometry x="165" y="310" width="130" height="100" as="geometry" />
         </mxCell>
         <mxCell id="JOb5DQNQt9hg0U8gQbrx-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JOb5DQNQt9hg0U8gQbrx-1" source="JOb5DQNQt9hg0U8gQbrx-5" target="JOb5DQNQt9hg0U8gQbrx-8">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="225" y="329" as="targetPoint" />
+            <mxPoint x="230" y="329" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JOb5DQNQt9hg0U8gQbrx-9" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="JOb5DQNQt9hg0U8gQbrx-1">
-          <mxGeometry x="165" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="170" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JOb5DQNQt9hg0U8gQbrx-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JOb5DQNQt9hg0U8gQbrx-1" source="JOb5DQNQt9hg0U8gQbrx-8" target="JOb5DQNQt9hg0U8gQbrx-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JOb5DQNQt9hg0U8gQbrx-11" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JOb5DQNQt9hg0U8gQbrx-1">
-          <mxGeometry x="222" y="440" width="40" height="20" as="geometry" />
+          <mxGeometry x="227" y="440" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JOb5DQNQt9hg0U8gQbrx-12" value="Rejection/ return comments" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="JOb5DQNQt9hg0U8gQbrx-1">
           <mxGeometry x="10" y="295" width="80" height="100" as="geometry" />
@@ -52,7 +52,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JOb5DQNQt9hg0U8gQbrx-17" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JOb5DQNQt9hg0U8gQbrx-1">
-          <mxGeometry x="110" y="339" width="40" height="20" as="geometry" />
+          <mxGeometry x="116" y="339" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
