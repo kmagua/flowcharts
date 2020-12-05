@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-05T09:56:37.489Z" agent="5.0 (Windows)" etag="VQlX0oVtM4czN8gDY-Ol" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-05T09:57:38.632Z" agent="5.0 (Windows)" etag="J-SXGv5dasOde8PFGuyZ" version="13.10.9" type="github">
   <diagram id="x-UUzvVaHj4vwNP_22vH" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -155,6 +155,12 @@
         <mxCell id="JOb5DQNQt9hg0U8gQbrx-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JOb5DQNQt9hg0U8gQbrx-1" source="JOb5DQNQt9hg0U8gQbrx-65" target="JOb5DQNQt9hg0U8gQbrx-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="JOb5DQNQt9hg0U8gQbrx-72" value="Cash office draws a cheque in favor of the applicant" style="whiteSpace=wrap;html=1;" vertex="1" parent="JOb5DQNQt9hg0U8gQbrx-1">
+          <mxGeometry x="759" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JOb5DQNQt9hg0U8gQbrx-74" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JOb5DQNQt9hg0U8gQbrx-1">
+          <mxGeometry x="813" y="673" width="40" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="JOb5DQNQt9hg0U8gQbrx-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="JOb5DQNQt9hg0U8gQbrx-48" target="JOb5DQNQt9hg0U8gQbrx-51">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="582" y="357.5" as="targetPoint" />
@@ -178,11 +184,17 @@
         <mxCell id="JOb5DQNQt9hg0U8gQbrx-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JOb5DQNQt9hg0U8gQbrx-54" target="JOb5DQNQt9hg0U8gQbrx-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="JOb5DQNQt9hg0U8gQbrx-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JOb5DQNQt9hg0U8gQbrx-70" target="JOb5DQNQt9hg0U8gQbrx-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JOb5DQNQt9hg0U8gQbrx-70" value="&lt;div&gt;cash &lt;br&gt;&lt;/div&gt;&lt;div&gt;available?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="779" y="587" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JOb5DQNQt9hg0U8gQbrx-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JOb5DQNQt9hg0U8gQbrx-67" target="JOb5DQNQt9hg0U8gQbrx-70">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JOb5DQNQt9hg0U8gQbrx-75" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="823" y="420" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
