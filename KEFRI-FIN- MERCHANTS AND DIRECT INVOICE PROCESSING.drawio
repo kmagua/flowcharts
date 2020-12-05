@@ -1,20 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-12-05T06:16:39.762Z" agent="5.0 (Windows)" etag="ttfQLhcFC-mQbTP8zI3t" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-05T06:18:34.424Z" agent="5.0 (Windows)" etag="SKSORugmDd4wdGdVUTyE" version="13.10.9" type="github">
   <diagram id="1mt4vwLYY_OGF_tediNy" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="YcZZJkjSdOPoPSPX9Uab-1" value="MERCHANTS AND DIRECT INVOICE PROCESSING" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="1">
-          <mxGeometry x="10" y="10" width="1150" height="380" as="geometry" />
-        </mxCell>
-        <mxCell id="YcZZJkjSdOPoPSPX9Uab-2" value="Lane 1" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="YcZZJkjSdOPoPSPX9Uab-1">
-          <mxGeometry y="20" width="1150" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="YcZZJkjSdOPoPSPX9Uab-3" value="Lane 2" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="YcZZJkjSdOPoPSPX9Uab-1">
-          <mxGeometry y="140" width="1150" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="YcZZJkjSdOPoPSPX9Uab-4" value="Lane 3" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="YcZZJkjSdOPoPSPX9Uab-1">
-          <mxGeometry y="260" width="1150" height="120" as="geometry" />
+        <mxCell id="YcZZJkjSdOPoPSPX9Uab-5" value="MERCHANTS AND DIRECT INVOICE PROCESSING" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="1150" height="810" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
