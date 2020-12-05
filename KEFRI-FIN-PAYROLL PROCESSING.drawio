@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-05T14:29:51.972Z" agent="5.0 (Windows)" etag="kux_ghh4wZUZT5H70_DM" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-05T14:32:20.411Z" agent="5.0 (Windows)" etag="1QZh2QqU4X-oPgLsq-F0" version="13.10.9" type="github">
   <diagram id="3awrSkJuFKPsmrS7k47G" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -53,8 +53,11 @@
         <mxCell id="ExbaMdFKqMui6jrxIC88-77" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ExbaMdFKqMui6jrxIC88-60">
           <mxGeometry x="130" y="340" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ExbaMdFKqMui6jrxIC88-80" value="Vote book accountant in expenditure and forwards to salary advance accountant" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="ExbaMdFKqMui6jrxIC88-60">
+        <mxCell id="ExbaMdFKqMui6jrxIC88-80" value="Vote book accountant in expenditure" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="ExbaMdFKqMui6jrxIC88-60">
           <mxGeometry x="434" y="659" width="141" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ExbaMdFKqMui6jrxIC88-86" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ExbaMdFKqMui6jrxIC88-60">
+          <mxGeometry x="500" y="440" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ExbaMdFKqMui6jrxIC88-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ExbaMdFKqMui6jrxIC88-67" target="ExbaMdFKqMui6jrxIC88-78">
           <mxGeometry relative="1" as="geometry" />
@@ -70,6 +73,31 @@
         </mxCell>
         <mxCell id="ExbaMdFKqMui6jrxIC88-78" value="Accountant salary advance posts in Ledgers and forwards to vote book" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="175" y="668" width="150" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="ExbaMdFKqMui6jrxIC88-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ExbaMdFKqMui6jrxIC88-82" target="ExbaMdFKqMui6jrxIC88-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ExbaMdFKqMui6jrxIC88-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ExbaMdFKqMui6jrxIC88-82" target="ExbaMdFKqMui6jrxIC88-74">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="745" y="562" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="640" y="562" />
+              <mxPoint x="640" y="790" />
+              <mxPoint x="70" y="790" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ExbaMdFKqMui6jrxIC88-82" value="&lt;div&gt;Expenditure in line &lt;br&gt;&lt;/div&gt;&lt;div&gt;with budget allocation?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="514" width="190" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="ExbaMdFKqMui6jrxIC88-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ExbaMdFKqMui6jrxIC88-80" target="ExbaMdFKqMui6jrxIC88-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ExbaMdFKqMui6jrxIC88-84" value="DDF authorizes payment" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="455" y="356" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ExbaMdFKqMui6jrxIC88-89" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="609" y="590" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
