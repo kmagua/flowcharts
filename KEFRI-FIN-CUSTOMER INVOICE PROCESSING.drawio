@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-05T16:21:44.907Z" agent="5.0 (Windows)" etag="6cQqDlVmW9KalTd_FZNx" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-05T16:22:43.039Z" agent="5.0 (Windows)" etag="4sswLHg0Y16aETIgo2mP" version="13.10.9" type="github">
   <diagram id="5-Zab5vDNF4LBHiWge62" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -98,6 +98,16 @@
         <mxCell id="2TRREouervGF3PXGptxk-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2TRREouervGF3PXGptxk-29" target="2TRREouervGF3PXGptxk-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="2TRREouervGF3PXGptxk-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="2TRREouervGF3PXGptxk-29" target="2TRREouervGF3PXGptxk-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="413" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="620" y="413" />
+              <mxPoint x="620" y="490" />
+              <mxPoint x="965" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="2TRREouervGF3PXGptxk-29" value="&lt;div&gt;Bad&lt;/div&gt;&lt;div&gt;Debt case?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="373" width="100" height="80" as="geometry" />
         </mxCell>
@@ -125,6 +135,9 @@
         </mxCell>
         <mxCell id="2TRREouervGF3PXGptxk-43" value="Debt is passed to the legal office for further follow up" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="890" y="226.5" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2TRREouervGF3PXGptxk-53" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="576" y="394" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
