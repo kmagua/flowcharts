@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-05T15:02:27.642Z" agent="5.0 (Windows)" etag="7qFrI1qjTXEJOuNG-RUu" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-05T15:03:19.322Z" agent="5.0 (Windows)" etag="JMo1sZ8oWLtHkCar__9G" version="13.10.9" type="github">
   <diagram id="HKhS4auHpXQP0HFOkr7Z" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -36,11 +36,17 @@
         <mxCell id="jPiStXu903FzIQFQCjgb-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="jPiStXu903FzIQFQCjgb-1" source="jPiStXu903FzIQFQCjgb-8" target="jPiStXu903FzIQFQCjgb-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="jPiStXu903FzIQFQCjgb-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jPiStXu903FzIQFQCjgb-12" target="jPiStXu903FzIQFQCjgb-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jPiStXu903FzIQFQCjgb-12" value="Heads of cost centres defend their budgets i n the consultative meeting" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="220" y="740" width="160" height="60" as="geometry" />
+          <mxGeometry x="220" y="720" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jPiStXu903FzIQFQCjgb-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jPiStXu903FzIQFQCjgb-10" target="jPiStXu903FzIQFQCjgb-12">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jPiStXu903FzIQFQCjgb-14" value="Consultative meeting reviews the budget proposals made by various cost centres and approval is made to the&amp;nbsp; respective cost centres" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="715" width="200" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
