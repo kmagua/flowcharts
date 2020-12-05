@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-05T15:50:21.586Z" agent="5.0 (Windows)" etag="jVjV0pPixSWPtyZ1eiiD" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-05T15:51:20.691Z" agent="5.0 (Windows)" etag="a7ARa0iBg3hk3KNQUNRk" version="13.10.9" type="github">
   <diagram id="JjQCEzhE8u5LjKaULpIY" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -54,8 +54,14 @@
         <mxCell id="omrt5kF8QAQMkNh0Hckq-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="omrt5kF8QAQMkNh0Hckq-8" target="omrt5kF8QAQMkNh0Hckq-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="omrt5kF8QAQMkNh0Hckq-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="omrt5kF8QAQMkNh0Hckq-19" target="omrt5kF8QAQMkNh0Hckq-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="omrt5kF8QAQMkNh0Hckq-19" value="Accountant cash office Draw cheques on confirmation of funds availability in accounts" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="640" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="omrt5kF8QAQMkNh0Hckq-21" value="Bank signatories sign cheques as per bank account signing mandate" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="640" width="130" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
