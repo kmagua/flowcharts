@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-05T16:11:16.087Z" agent="5.0 (Windows)" etag="QyCA9HuAJ_z5AJ7f93Vv" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-05T16:12:28.680Z" agent="5.0 (Windows)" etag="hSSgl5Q3XXx0zPaWgYBT" version="13.10.9" type="github">
   <diagram id="5-Zab5vDNF4LBHiWge62" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -21,7 +21,24 @@
         <mxCell id="2TRREouervGF3PXGptxk-6" value="Revenue Accountant verifies billing documents and generates invoice, original copy forwarded to the respective section for dispatch" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="2TRREouervGF3PXGptxk-1">
           <mxGeometry x="150" y="481" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="2TRREouervGF3PXGptxk-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2TRREouervGF3PXGptxk-8">
+        <mxCell id="2TRREouervGF3PXGptxk-16" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="2TRREouervGF3PXGptxk-1">
+          <mxGeometry x="240" y="430" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2TRREouervGF3PXGptxk-17" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="2TRREouervGF3PXGptxk-1">
+          <mxGeometry x="140" y="340" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2TRREouervGF3PXGptxk-18" value="Notes to return to originator" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="2TRREouervGF3PXGptxk-1">
+          <mxGeometry x="20" y="317.5" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="2TRREouervGF3PXGptxk-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="2TRREouervGF3PXGptxk-1" source="2TRREouervGF3PXGptxk-18" target="2TRREouervGF3PXGptxk-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="217.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="60" y="205" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2TRREouervGF3PXGptxk-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2TRREouervGF3PXGptxk-8" target="2TRREouervGF3PXGptxk-18">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="110" y="377.5" as="targetPoint" />
           </mxGeometry>
