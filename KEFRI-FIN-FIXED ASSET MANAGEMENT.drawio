@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-06T07:49:59.932Z" agent="5.0 (Windows)" etag="2q35BHN4jQfeFv5xg5Wv" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-06T07:54:15.974Z" agent="5.0 (Windows)" etag="tgR0YeqAteTzhv9C9uJX" version="13.10.9" type="github">
   <diagram id="-cmlFGgi6j457TbQA-Bj" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -28,6 +28,18 @@
         </mxCell>
         <mxCell id="1EdCu9Syr2TYHE6o0lRG-13" value="&lt;div&gt;is item an &lt;br&gt;&lt;/div&gt;&lt;div&gt;asset?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1EdCu9Syr2TYHE6o0lRG-1">
           <mxGeometry x="211" y="438" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1EdCu9Syr2TYHE6o0lRG-22" value="Tagged Asset Management" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1EdCu9Syr2TYHE6o0lRG-1">
+          <mxGeometry x="460" y="404" width="200" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="1EdCu9Syr2TYHE6o0lRG-23" value="Impairment" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1EdCu9Syr2TYHE6o0lRG-22">
+          <mxGeometry y="26" width="200" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="1EdCu9Syr2TYHE6o0lRG-24" value="Revaluation" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1EdCu9Syr2TYHE6o0lRG-22">
+          <mxGeometry y="52" width="200" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="1EdCu9Syr2TYHE6o0lRG-25" value="Disposal" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1EdCu9Syr2TYHE6o0lRG-22">
+          <mxGeometry y="78" width="200" height="26" as="geometry" />
         </mxCell>
         <mxCell id="1EdCu9Syr2TYHE6o0lRG-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1EdCu9Syr2TYHE6o0lRG-6" target="1EdCu9Syr2TYHE6o0lRG-13">
           <mxGeometry relative="1" as="geometry">
