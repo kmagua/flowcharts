@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-06T08:37:52.775Z" agent="5.0 (Windows)" etag="c7pjw33pEpyFUsl03RAm" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-06T08:38:39.507Z" agent="5.0 (Windows)" etag="RT3NsCBcRs6Yb9eILzwe" version="13.10.9" type="github">
   <diagram id="H1d659UwrJq4mEXI7UD1" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -68,8 +68,8 @@
         <mxCell id="GaWUunt8Xdnt5ZIhRWRH-16" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="305" y="390" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GaWUunt8Xdnt5ZIhRWRH-20" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="440" y="580" width="120" height="60" as="geometry" />
+        <mxCell id="GaWUunt8Xdnt5ZIhRWRH-20" value="GL accountant posts approved Journals to the General Ledger" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="570" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GaWUunt8Xdnt5ZIhRWRH-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GaWUunt8Xdnt5ZIhRWRH-19" target="GaWUunt8Xdnt5ZIhRWRH-20">
           <mxGeometry relative="1" as="geometry" />
