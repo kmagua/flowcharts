@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-06T08:53:56.313Z" agent="5.0 (Windows)" etag="q7D3K4m11FLJ26I61svk" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-06T09:01:49.312Z" agent="5.0 (Windows)" etag="HDacgGWpmGNAGMuyBy_h" version="13.10.9" type="github">
   <diagram id="i50wgoMUxbim1TL-9JWq" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -50,16 +50,37 @@
           <mxGeometry x="338" y="420" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qKIXarYdttRRwaTGImXm-22" value="Survey procedure" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="qKIXarYdttRRwaTGImXm-1">
-          <mxGeometry x="540" y="554" width="280" height="104" as="geometry" />
+          <mxGeometry x="550" y="396" width="440" height="262" as="geometry" />
         </mxCell>
-        <mxCell id="qKIXarYdttRRwaTGImXm-23" value="Item 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="qKIXarYdttRRwaTGImXm-22">
-          <mxGeometry y="26" width="280" height="26" as="geometry" />
+        <mxCell id="qKIXarYdttRRwaTGImXm-32" value="8. Survey team signs the report after confirming correctness of information" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="qKIXarYdttRRwaTGImXm-22">
+          <mxGeometry y="26" width="440" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="qKIXarYdttRRwaTGImXm-24" value="Item 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="qKIXarYdttRRwaTGImXm-22">
-          <mxGeometry y="52" width="280" height="26" as="geometry" />
+        <mxCell id="qKIXarYdttRRwaTGImXm-35" value="7. Record the cash balance in the board of survey template form" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="qKIXarYdttRRwaTGImXm-22">
+          <mxGeometry y="52" width="440" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="qKIXarYdttRRwaTGImXm-25" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="qKIXarYdttRRwaTGImXm-22">
-          <mxGeometry y="78" width="280" height="26" as="geometry" />
+        <mxCell id="qKIXarYdttRRwaTGImXm-24" value="6. Rule the cash book and the survey team to sign on the ruled -off page" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="qKIXarYdttRRwaTGImXm-22">
+          <mxGeometry y="78" width="440" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="qKIXarYdttRRwaTGImXm-26" value="5. Check balance in the Cash book and the bank reconciliation report" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="qKIXarYdttRRwaTGImXm-22">
+          <mxGeometry y="104" width="440" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="qKIXarYdttRRwaTGImXm-25" value="4. Record the bank balance in the board of survey template form" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="qKIXarYdttRRwaTGImXm-22">
+          <mxGeometry y="130" width="440" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="qKIXarYdttRRwaTGImXm-27" value="3. Match balance in the bank certificate against the bank statement and bank &#xa;reconciliation. If there is discrepancy, the general ledger makes the&#xa;necessary adjustment to correct the difference&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="qKIXarYdttRRwaTGImXm-22">
+          <mxGeometry y="156" width="440" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="qKIXarYdttRRwaTGImXm-28" value="2. Ensure the bank reconciliations are checked and signed by an independent officer." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="qKIXarYdttRRwaTGImXm-22">
+          <mxGeometry y="210" width="440" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="qKIXarYdttRRwaTGImXm-29" value="1. Record bank details (name, account number) on the board of survey report template form" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="qKIXarYdttRRwaTGImXm-22">
+          <mxGeometry y="236" width="440" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="qKIXarYdttRRwaTGImXm-33" value="Chairman of the survey team submits a report to the Director and a copy to DDF Office" style="whiteSpace=wrap;html=1;fontStyle=0;fillColor=none;startSize=26;" vertex="1" parent="qKIXarYdttRRwaTGImXm-1">
+          <mxGeometry x="690" y="230" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qKIXarYdttRRwaTGImXm-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qKIXarYdttRRwaTGImXm-1" source="qKIXarYdttRRwaTGImXm-22" target="qKIXarYdttRRwaTGImXm-33">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qKIXarYdttRRwaTGImXm-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qKIXarYdttRRwaTGImXm-14" target="qKIXarYdttRRwaTGImXm-18">
           <mxGeometry relative="1" as="geometry" />
@@ -70,7 +91,7 @@
         <mxCell id="qKIXarYdttRRwaTGImXm-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qKIXarYdttRRwaTGImXm-8" target="qKIXarYdttRRwaTGImXm-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qKIXarYdttRRwaTGImXm-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qKIXarYdttRRwaTGImXm-18" target="qKIXarYdttRRwaTGImXm-25">
+        <mxCell id="qKIXarYdttRRwaTGImXm-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="qKIXarYdttRRwaTGImXm-18" target="qKIXarYdttRRwaTGImXm-29">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="530" y="655" as="targetPoint" />
           </mxGeometry>
