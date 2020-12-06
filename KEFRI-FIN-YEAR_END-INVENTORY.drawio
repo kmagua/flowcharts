@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-06T09:28:41.404Z" agent="5.0 (Windows)" etag="5ogZIjb08DKWy8WlzSXE" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-06T09:28:53.668Z" agent="5.0 (Windows)" etag="g0KdmsCz02dQzQnGLeQE" version="13.10.9" type="github">
   <diagram id="rXfBTucpx7ZRULlcOLo7" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -46,7 +46,7 @@
           <mxGeometry x="140" y="309" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="aOSckwdE7s4XpZRk2Xrh-24" value="Stock take items" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="aOSckwdE7s4XpZRk2Xrh-4">
-          <mxGeometry x="440" y="391" width="630" height="236" as="geometry" />
+          <mxGeometry x="440" y="417" width="630" height="236" as="geometry" />
         </mxCell>
         <mxCell id="aOSckwdE7s4XpZRk2Xrh-26" value="7. Calculate the total value of stocks" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="aOSckwdE7s4XpZRk2Xrh-24">
           <mxGeometry y="26" width="630" height="26" as="geometry" />
