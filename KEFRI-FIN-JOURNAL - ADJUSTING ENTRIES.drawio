@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-06T08:38:39.507Z" agent="5.0 (Windows)" etag="RT3NsCBcRs6Yb9eILzwe" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-06T08:39:18.266Z" agent="5.0 (Windows)" etag="Eg0LkLxzdcyaEgVQ3qUt" version="13.10.9" type="github">
   <diagram id="H1d659UwrJq4mEXI7UD1" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -65,8 +65,16 @@
         <mxCell id="GaWUunt8Xdnt5ZIhRWRH-24" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="GaWUunt8Xdnt5ZIhRWRH-1">
           <mxGeometry x="370" y="580" width="40" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="GaWUunt8Xdnt5ZIhRWRH-28" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GaWUunt8Xdnt5ZIhRWRH-1">
+          <mxGeometry x="660" y="575" width="90" height="50" as="geometry" />
+        </mxCell>
         <mxCell id="GaWUunt8Xdnt5ZIhRWRH-16" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="305" y="390" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GaWUunt8Xdnt5ZIhRWRH-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GaWUunt8Xdnt5ZIhRWRH-20" target="GaWUunt8Xdnt5ZIhRWRH-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="610" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="GaWUunt8Xdnt5ZIhRWRH-20" value="GL accountant posts approved Journals to the General Ledger" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="440" y="570" width="140" height="80" as="geometry" />
