@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-06T08:34:22.625Z" agent="5.0 (Windows)" etag="TAnl9bFKtqlqrhFDC8Zw" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-06T08:37:33.159Z" agent="5.0 (Windows)" etag="M4ZQjXFhpBfbDHa5HvuQ" version="13.10.9" type="github">
   <diagram id="H1d659UwrJq4mEXI7UD1" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -24,7 +24,7 @@
         <mxCell id="GaWUunt8Xdnt5ZIhRWRH-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="GaWUunt8Xdnt5ZIhRWRH-1" source="GaWUunt8Xdnt5ZIhRWRH-5" target="GaWUunt8Xdnt5ZIhRWRH-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GaWUunt8Xdnt5ZIhRWRH-8" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="GaWUunt8Xdnt5ZIhRWRH-1">
+        <mxCell id="GaWUunt8Xdnt5ZIhRWRH-8" value="GL accountant submits to DDF for approval" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="GaWUunt8Xdnt5ZIhRWRH-1">
           <mxGeometry x="240" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GaWUunt8Xdnt5ZIhRWRH-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="GaWUunt8Xdnt5ZIhRWRH-1" source="GaWUunt8Xdnt5ZIhRWRH-6" target="GaWUunt8Xdnt5ZIhRWRH-8">
@@ -38,19 +38,38 @@
             <mxPoint x="170" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GaWUunt8Xdnt5ZIhRWRH-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="GaWUunt8Xdnt5ZIhRWRH-1" source="GaWUunt8Xdnt5ZIhRWRH-10" target="GaWUunt8Xdnt5ZIhRWRH-5">
+        <mxCell id="GaWUunt8Xdnt5ZIhRWRH-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="GaWUunt8Xdnt5ZIhRWRH-1" source="GaWUunt8Xdnt5ZIhRWRH-10" target="GaWUunt8Xdnt5ZIhRWRH-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="120" y="165" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="110" y="205" />
+              <mxPoint x="120" y="205" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="GaWUunt8Xdnt5ZIhRWRH-15" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="GaWUunt8Xdnt5ZIhRWRH-1">
           <mxGeometry x="185" y="310" width="40" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="GaWUunt8Xdnt5ZIhRWRH-19" value="&lt;div&gt;DDF &lt;br&gt;&lt;/div&gt;&lt;div&gt;approves?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="GaWUunt8Xdnt5ZIhRWRH-1">
+          <mxGeometry x="245" y="560" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GaWUunt8Xdnt5ZIhRWRH-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="GaWUunt8Xdnt5ZIhRWRH-1" source="GaWUunt8Xdnt5ZIhRWRH-8" target="GaWUunt8Xdnt5ZIhRWRH-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GaWUunt8Xdnt5ZIhRWRH-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="GaWUunt8Xdnt5ZIhRWRH-1" source="GaWUunt8Xdnt5ZIhRWRH-19" target="GaWUunt8Xdnt5ZIhRWRH-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="GaWUunt8Xdnt5ZIhRWRH-16" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="305" y="390" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GaWUunt8Xdnt5ZIhRWRH-20" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GaWUunt8Xdnt5ZIhRWRH-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GaWUunt8Xdnt5ZIhRWRH-19" target="GaWUunt8Xdnt5ZIhRWRH-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
