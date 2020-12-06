@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-06T09:11:54.458Z" agent="5.0 (Windows)" etag="zvOPttoNuqx2oq-f1ulW" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-06T09:12:43.955Z" agent="5.0 (Windows)" etag="MAZKXlK0PJdPB-txuppl" version="13.10.9" type="github">
   <diagram id="rXfBTucpx7ZRULlcOLo7" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -41,6 +41,15 @@
               <mxPoint x="70" y="195" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="aOSckwdE7s4XpZRk2Xrh-17" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="aOSckwdE7s4XpZRk2Xrh-4">
+          <mxGeometry x="140" y="309" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aOSckwdE7s4XpZRk2Xrh-20" value="DDF releases officers from HQ together with those from Stations where the stocks are held to conduct the exercise" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="450" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aOSckwdE7s4XpZRk2Xrh-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aOSckwdE7s4XpZRk2Xrh-11" target="aOSckwdE7s4XpZRk2Xrh-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
