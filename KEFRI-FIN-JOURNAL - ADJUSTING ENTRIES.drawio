@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-06T08:27:59.417Z" agent="5.0 (Windows)" etag="6O58m4-00ZDiasISeo8T" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-06T08:29:21.735Z" agent="5.0 (Windows)" etag="a4Ed2aOfoMVuK6ilhHYC" version="13.10.9" type="github">
   <diagram id="H1d659UwrJq4mEXI7UD1" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -6,6 +6,17 @@
         <mxCell id="1" parent="0" />
         <mxCell id="GaWUunt8Xdnt5ZIhRWRH-1" value="&#xa;JOURNAL / ADJUSTING ENTRIES&#xa;" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="10" y="10" width="1150" height="810" as="geometry" />
+        </mxCell>
+        <mxCell id="GaWUunt8Xdnt5ZIhRWRH-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GaWUunt8Xdnt5ZIhRWRH-1">
+          <mxGeometry x="260" y="50" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GaWUunt8Xdnt5ZIhRWRH-5" value="GL accountant receives Journals from other sections" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GaWUunt8Xdnt5ZIhRWRH-1">
+          <mxGeometry x="245" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GaWUunt8Xdnt5ZIhRWRH-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="GaWUunt8Xdnt5ZIhRWRH-1" source="GaWUunt8Xdnt5ZIhRWRH-2" target="GaWUunt8Xdnt5ZIhRWRH-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="305" y="175" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
