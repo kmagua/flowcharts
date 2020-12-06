@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-06T07:27:54.002Z" agent="5.0 (Windows)" etag="9W_xLZ9WqEX3T8tSfdAc" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-06T07:29:29.776Z" agent="5.0 (Windows)" etag="W9x5bXnH1Qr7P9y49X18" version="13.10.9" type="github">
   <diagram id="RGe8L_a2aIqyZJqOn9al" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -49,8 +49,14 @@
         <mxCell id="emNNlxBl1gfPlvWP9FHH-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="emNNlxBl1gfPlvWP9FHH-4" target="emNNlxBl1gfPlvWP9FHH-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="emNNlxBl1gfPlvWP9FHH-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="emNNlxBl1gfPlvWP9FHH-7" target="emNNlxBl1gfPlvWP9FHH-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="emNNlxBl1gfPlvWP9FHH-7" value="Revenue Accountant reconciles revenue with the GL to ensure the entries are correct" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="260" y="490" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="emNNlxBl1gfPlvWP9FHH-16" value="General Ledger Accountant posts in the respective revenue accounts and customers ledger accounts" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="640" width="170" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
