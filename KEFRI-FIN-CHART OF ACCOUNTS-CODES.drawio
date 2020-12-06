@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-06T08:14:16.803Z" agent="5.0 (Windows)" etag="eMyI_IdJ09KxOrsIKD3a" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-06T08:17:21.526Z" agent="5.0 (Windows)" etag="6DghQK7MDw--NQNKISeX" version="13.10.9" type="github">
   <diagram id="BbsPhjvvmLac4U86oqIc" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -41,8 +41,28 @@
         <mxCell id="iJsRZvcZcMVNx7B1bG_4-17" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="iJsRZvcZcMVNx7B1bG_4-1">
           <mxGeometry x="180" y="457" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="iJsRZvcZcMVNx7B1bG_4-19" value="Creation of account" style="swimlane;" vertex="1" parent="iJsRZvcZcMVNx7B1bG_4-1">
-          <mxGeometry x="520" y="480" width="290" height="200" as="geometry" />
+        <mxCell id="iJsRZvcZcMVNx7B1bG_4-20" value="Creation of account (GL accountant)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="iJsRZvcZcMVNx7B1bG_4-1">
+          <mxGeometry x="510" y="558" width="310" height="156" as="geometry" />
+        </mxCell>
+        <mxCell id="iJsRZvcZcMVNx7B1bG_4-22" value="5. Confirm the account created in general ledger" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="iJsRZvcZcMVNx7B1bG_4-20">
+          <mxGeometry y="26" width="310" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="iJsRZvcZcMVNx7B1bG_4-24" value="4. Enter the type of integration between GL Accounts and other cost element" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="iJsRZvcZcMVNx7B1bG_4-20">
+          <mxGeometry y="52" width="310" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="iJsRZvcZcMVNx7B1bG_4-25" value="3. Enter name and description for the Chart of Account" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="iJsRZvcZcMVNx7B1bG_4-20">
+          <mxGeometry y="78" width="310" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="iJsRZvcZcMVNx7B1bG_4-26" value="2. Enter a unique Chart of Accounts Code" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="iJsRZvcZcMVNx7B1bG_4-20">
+          <mxGeometry y="104" width="310" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="iJsRZvcZcMVNx7B1bG_4-23" value="1. Identify class of chart accounts" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="iJsRZvcZcMVNx7B1bG_4-20">
+          <mxGeometry y="130" width="310" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="iJsRZvcZcMVNx7B1bG_4-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="iJsRZvcZcMVNx7B1bG_4-1" source="iJsRZvcZcMVNx7B1bG_4-10" target="iJsRZvcZcMVNx7B1bG_4-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="515" y="610" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="iJsRZvcZcMVNx7B1bG_4-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iJsRZvcZcMVNx7B1bG_4-8" target="iJsRZvcZcMVNx7B1bG_4-10">
           <mxGeometry relative="1" as="geometry" />
