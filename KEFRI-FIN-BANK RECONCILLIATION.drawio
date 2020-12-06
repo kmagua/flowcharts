@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-06T09:38:50.913Z" agent="5.0 (Windows)" etag="KlaizjO5O9FF5E4JdUXi" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-06T09:39:59.960Z" agent="5.0 (Windows)" etag="Wztro1LE23Dz_3Xqa818" version="13.10.9" type="github">
   <diagram id="RUNVxOEm4AH4KbNoLji0" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -17,6 +17,12 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="330" y="200" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LS-6_WvsJKvdmhUSTRYt-6" value="Check payments in Cash book not yet recorded in bank statements. If not in bank statement update the reconciliation statement as unpresented cheques (Item I) Match receipts in bank statements not yet recorded in cash book. If not in the cash book&amp;nbsp;&amp;nbsp; update/post in items in cash book (Item II)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="379" width="240" height="141" as="geometry" />
+        </mxCell>
+        <mxCell id="LS-6_WvsJKvdmhUSTRYt-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LS-6_WvsJKvdmhUSTRYt-5" target="LS-6_WvsJKvdmhUSTRYt-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
