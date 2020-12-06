@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-06T08:50:26.280Z" agent="5.0 (Windows)" etag="8jweXJPF4ALJl1g5m_vc" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-06T08:53:56.313Z" agent="5.0 (Windows)" etag="q7D3K4m11FLJ26I61svk" version="13.10.9" type="github">
   <diagram id="i50wgoMUxbim1TL-9JWq" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -49,6 +49,18 @@
         <mxCell id="qKIXarYdttRRwaTGImXm-17" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="qKIXarYdttRRwaTGImXm-1">
           <mxGeometry x="338" y="420" width="40" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="qKIXarYdttRRwaTGImXm-22" value="Survey procedure" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="qKIXarYdttRRwaTGImXm-1">
+          <mxGeometry x="540" y="554" width="280" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="qKIXarYdttRRwaTGImXm-23" value="Item 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="qKIXarYdttRRwaTGImXm-22">
+          <mxGeometry y="26" width="280" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="qKIXarYdttRRwaTGImXm-24" value="Item 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="qKIXarYdttRRwaTGImXm-22">
+          <mxGeometry y="52" width="280" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="qKIXarYdttRRwaTGImXm-25" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="qKIXarYdttRRwaTGImXm-22">
+          <mxGeometry y="78" width="280" height="26" as="geometry" />
+        </mxCell>
         <mxCell id="qKIXarYdttRRwaTGImXm-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qKIXarYdttRRwaTGImXm-14" target="qKIXarYdttRRwaTGImXm-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -58,14 +70,13 @@
         <mxCell id="qKIXarYdttRRwaTGImXm-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qKIXarYdttRRwaTGImXm-8" target="qKIXarYdttRRwaTGImXm-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qKIXarYdttRRwaTGImXm-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qKIXarYdttRRwaTGImXm-18" target="qKIXarYdttRRwaTGImXm-20">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="qKIXarYdttRRwaTGImXm-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qKIXarYdttRRwaTGImXm-18" target="qKIXarYdttRRwaTGImXm-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="655" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="qKIXarYdttRRwaTGImXm-18" value="Survey team follows the following procedures during the exercise" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="620" width="160" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="qKIXarYdttRRwaTGImXm-20" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="625" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
