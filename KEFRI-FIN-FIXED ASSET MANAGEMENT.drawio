@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-06T07:37:11.224Z" agent="5.0 (Windows)" etag="TKNwn9jmbAqeUmmXAr4c" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-06T07:41:54.714Z" agent="5.0 (Windows)" etag="gSgb2E4a7QS_833o6BxU" version="13.10.9" type="github">
   <diagram id="-cmlFGgi6j457TbQA-Bj" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -9,6 +9,28 @@
         </mxCell>
         <mxCell id="1EdCu9Syr2TYHE6o0lRG-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1EdCu9Syr2TYHE6o0lRG-1">
           <mxGeometry x="231" y="40" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1EdCu9Syr2TYHE6o0lRG-5" value="Asset Accountant receives the payment documents (Institute acquired assets)/donor grant agreements (donated assets)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1EdCu9Syr2TYHE6o0lRG-1">
+          <mxGeometry x="191" y="150" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1EdCu9Syr2TYHE6o0lRG-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1EdCu9Syr2TYHE6o0lRG-1" source="1EdCu9Syr2TYHE6o0lRG-2" target="1EdCu9Syr2TYHE6o0lRG-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="281" y="165" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1EdCu9Syr2TYHE6o0lRG-8" value="LPOs, GRN, Invoices, delivery note, contract documents/ donor grant agreements, ownership documents" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1EdCu9Syr2TYHE6o0lRG-1">
+          <mxGeometry x="450" y="140" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="1EdCu9Syr2TYHE6o0lRG-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1EdCu9Syr2TYHE6o0lRG-1" source="1EdCu9Syr2TYHE6o0lRG-8" target="1EdCu9Syr2TYHE6o0lRG-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1EdCu9Syr2TYHE6o0lRG-6" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="231" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1EdCu9Syr2TYHE6o0lRG-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1EdCu9Syr2TYHE6o0lRG-5" target="1EdCu9Syr2TYHE6o0lRG-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
