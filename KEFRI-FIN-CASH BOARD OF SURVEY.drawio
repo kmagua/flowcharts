@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-06T08:45:30.118Z" agent="5.0 (Windows)" etag="h7BkGNPh3rIp7tbaoLkC" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-06T08:46:24.315Z" agent="5.0 (Windows)" etag="-b_DIi3lLSEWa8sbKDmu" version="13.10.9" type="github">
   <diagram id="i50wgoMUxbim1TL-9JWq" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -9,6 +9,14 @@
         </mxCell>
         <mxCell id="qKIXarYdttRRwaTGImXm-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qKIXarYdttRRwaTGImXm-1">
           <mxGeometry x="300" y="41" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qKIXarYdttRRwaTGImXm-5" value="The DDF Office writes to the Director seeking approval to conduct cash board of survey with a list of officers for the exercise" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qKIXarYdttRRwaTGImXm-1">
+          <mxGeometry x="260" y="160" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qKIXarYdttRRwaTGImXm-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="qKIXarYdttRRwaTGImXm-1" source="qKIXarYdttRRwaTGImXm-2" target="qKIXarYdttRRwaTGImXm-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="345" y="166" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
