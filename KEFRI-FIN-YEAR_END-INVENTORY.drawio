@@ -1,19 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-12-06T09:07:16.856Z" agent="5.0 (Windows)" etag="rgOueeHcT8C8gw_8JKQe" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-06T09:09:32.141Z" agent="5.0 (Windows)" etag="pl6k_gicxvUFTm4obCxQ" version="13.10.9" type="github">
   <diagram id="rXfBTucpx7ZRULlcOLo7" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="iOI0SfQ7fsjns38IrQZm-1" value="&#xa;YEAR END PROCEDURES - INVENTORY&#xa;" style="swimlane;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="10" y="10" width="1150" height="810" as="geometry">
-            <mxRectangle x="210" y="180" width="420" height="200" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="iOI0SfQ7fsjns38IrQZm-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iOI0SfQ7fsjns38IrQZm-1">
-          <mxGeometry x="200" y="290" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="iOI0SfQ7fsjns38IrQZm-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="160" width="120" height="60" as="geometry" />
+        <mxCell id="aOSckwdE7s4XpZRk2Xrh-4" value="INVENTORY" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="1150" height="810" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
