@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-06T08:00:23.218Z" agent="5.0 (Windows)" etag="nJCqXw1BP9mrL07H-rTY" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-06T08:01:21.079Z" agent="5.0 (Windows)" etag="o2UwzAlUn4Lk2Yf2QYe2" version="13.10.9" type="github">
   <diagram id="-cmlFGgi6j457TbQA-Bj" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -113,7 +113,7 @@
             <mxPoint x="929" y="465" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1EdCu9Syr2TYHE6o0lRG-36" value="On Disposal Asset accountant disposal of asset, the fixed asset register is updated&amp;nbsp; upon confirmation of receipt of payment" style="whiteSpace=wrap;html=1;fontStyle=0;fillColor=none;startSize=26;" vertex="1" parent="1">
+        <mxCell id="1EdCu9Syr2TYHE6o0lRG-36" value="On asset Disposal, Asset accountant updates asset register upon confirmation of receipt of payment" style="whiteSpace=wrap;html=1;fontStyle=0;fillColor=none;startSize=26;" vertex="1" parent="1">
           <mxGeometry x="851" y="280" width="156" height="90" as="geometry" />
         </mxCell>
         <mxCell id="1EdCu9Syr2TYHE6o0lRG-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1EdCu9Syr2TYHE6o0lRG-34" target="1EdCu9Syr2TYHE6o0lRG-36">
