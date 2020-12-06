@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-06T08:39:18.266Z" agent="5.0 (Windows)" etag="Eg0LkLxzdcyaEgVQ3qUt" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-06T08:39:43.874Z" agent="5.0 (Windows)" etag="OJsLVi4KC8kTxvLR5rrr" version="13.10.9" type="github">
   <diagram id="H1d659UwrJq4mEXI7UD1" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -8,82 +8,82 @@
           <mxGeometry x="10" y="10" width="1150" height="810" as="geometry" />
         </mxCell>
         <mxCell id="GaWUunt8Xdnt5ZIhRWRH-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GaWUunt8Xdnt5ZIhRWRH-1">
-          <mxGeometry x="255" y="50" width="90" height="50" as="geometry" />
+          <mxGeometry x="375" y="60" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GaWUunt8Xdnt5ZIhRWRH-5" value="GL accountant receives Journals from other sections" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GaWUunt8Xdnt5ZIhRWRH-1">
-          <mxGeometry x="225" y="170" width="150" height="70" as="geometry" />
+          <mxGeometry x="345" y="180" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="GaWUunt8Xdnt5ZIhRWRH-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="GaWUunt8Xdnt5ZIhRWRH-1" source="GaWUunt8Xdnt5ZIhRWRH-2" target="GaWUunt8Xdnt5ZIhRWRH-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="300" y="175" as="targetPoint" />
+            <mxPoint x="420" y="185" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GaWUunt8Xdnt5ZIhRWRH-6" value="&lt;div&gt;accurate/&lt;/div&gt;&lt;div&gt; complete?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="GaWUunt8Xdnt5ZIhRWRH-1">
-          <mxGeometry x="245" y="290" width="110" height="80" as="geometry" />
+          <mxGeometry x="365" y="300" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GaWUunt8Xdnt5ZIhRWRH-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="GaWUunt8Xdnt5ZIhRWRH-1" source="GaWUunt8Xdnt5ZIhRWRH-5" target="GaWUunt8Xdnt5ZIhRWRH-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GaWUunt8Xdnt5ZIhRWRH-8" value="GL accountant submits to DDF for approval" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="GaWUunt8Xdnt5ZIhRWRH-1">
-          <mxGeometry x="240" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GaWUunt8Xdnt5ZIhRWRH-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="GaWUunt8Xdnt5ZIhRWRH-1" source="GaWUunt8Xdnt5ZIhRWRH-6" target="GaWUunt8Xdnt5ZIhRWRH-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GaWUunt8Xdnt5ZIhRWRH-10" value="Return notes to source" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="GaWUunt8Xdnt5ZIhRWRH-1">
-          <mxGeometry x="80" y="265" width="80" height="100" as="geometry" />
+          <mxGeometry x="200" y="275" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="GaWUunt8Xdnt5ZIhRWRH-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=80;entryDy=65;entryPerimeter=0;" edge="1" parent="GaWUunt8Xdnt5ZIhRWRH-1" source="GaWUunt8Xdnt5ZIhRWRH-6" target="GaWUunt8Xdnt5ZIhRWRH-10">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="170" y="330" as="targetPoint" />
+            <mxPoint x="290" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GaWUunt8Xdnt5ZIhRWRH-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="GaWUunt8Xdnt5ZIhRWRH-1" source="GaWUunt8Xdnt5ZIhRWRH-10" target="GaWUunt8Xdnt5ZIhRWRH-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="120" y="165" as="targetPoint" />
+            <mxPoint x="240" y="175" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="120" y="205" />
+              <mxPoint x="240" y="215" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="GaWUunt8Xdnt5ZIhRWRH-15" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="GaWUunt8Xdnt5ZIhRWRH-1">
-          <mxGeometry x="185" y="310" width="40" height="20" as="geometry" />
+          <mxGeometry x="305" y="320" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GaWUunt8Xdnt5ZIhRWRH-19" value="&lt;div&gt;DDF &lt;br&gt;&lt;/div&gt;&lt;div&gt;approves?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="GaWUunt8Xdnt5ZIhRWRH-1">
-          <mxGeometry x="245" y="560" width="110" height="80" as="geometry" />
+          <mxGeometry x="365" y="570" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GaWUunt8Xdnt5ZIhRWRH-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="GaWUunt8Xdnt5ZIhRWRH-1" source="GaWUunt8Xdnt5ZIhRWRH-8" target="GaWUunt8Xdnt5ZIhRWRH-19">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="300" y="560" as="targetPoint" />
+            <mxPoint x="420" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GaWUunt8Xdnt5ZIhRWRH-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="GaWUunt8Xdnt5ZIhRWRH-1" source="GaWUunt8Xdnt5ZIhRWRH-19" target="GaWUunt8Xdnt5ZIhRWRH-10">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="170" y="600" as="targetPoint" />
+            <mxPoint x="290" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GaWUunt8Xdnt5ZIhRWRH-24" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="GaWUunt8Xdnt5ZIhRWRH-1">
-          <mxGeometry x="370" y="580" width="40" height="20" as="geometry" />
+          <mxGeometry x="490" y="590" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GaWUunt8Xdnt5ZIhRWRH-28" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GaWUunt8Xdnt5ZIhRWRH-1">
-          <mxGeometry x="660" y="575" width="90" height="50" as="geometry" />
+          <mxGeometry x="780" y="585" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GaWUunt8Xdnt5ZIhRWRH-16" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="305" y="390" width="40" height="20" as="geometry" />
+          <mxGeometry x="425" y="400" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GaWUunt8Xdnt5ZIhRWRH-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GaWUunt8Xdnt5ZIhRWRH-20" target="GaWUunt8Xdnt5ZIhRWRH-28">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="670" y="610" as="targetPoint" />
+            <mxPoint x="790" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GaWUunt8Xdnt5ZIhRWRH-20" value="GL accountant posts approved Journals to the General Ledger" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="440" y="570" width="140" height="80" as="geometry" />
+          <mxGeometry x="560" y="580" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GaWUunt8Xdnt5ZIhRWRH-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GaWUunt8Xdnt5ZIhRWRH-19" target="GaWUunt8Xdnt5ZIhRWRH-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GaWUunt8Xdnt5ZIhRWRH-25" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="190" y="590" width="40" height="20" as="geometry" />
+          <mxGeometry x="310" y="600" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
