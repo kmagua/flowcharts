@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-06T07:44:40.236Z" agent="5.0 (Windows)" etag="7GsM3nlHhtpZcTy_eTX3" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-06T07:45:46.684Z" agent="5.0 (Windows)" etag="qEq9zTfP0lsTWeZtN2yo" version="13.10.9" type="github">
   <diagram id="-cmlFGgi6j457TbQA-Bj" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -38,6 +38,12 @@
           <mxGeometry x="201" y="310" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1EdCu9Syr2TYHE6o0lRG-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1EdCu9Syr2TYHE6o0lRG-5" target="1EdCu9Syr2TYHE6o0lRG-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1EdCu9Syr2TYHE6o0lRG-14" value="Classify as an expense" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="11" y="458" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1EdCu9Syr2TYHE6o0lRG-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1EdCu9Syr2TYHE6o0lRG-13" target="1EdCu9Syr2TYHE6o0lRG-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
