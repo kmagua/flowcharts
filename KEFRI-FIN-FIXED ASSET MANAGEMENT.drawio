@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-06T07:47:31.390Z" agent="5.0 (Windows)" etag="aswqJ7VWk4G5ZdZJ8mi3" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-06T07:49:59.932Z" agent="5.0 (Windows)" etag="2q35BHN4jQfeFv5xg5Wv" version="13.10.9" type="github">
   <diagram id="-cmlFGgi6j457TbQA-Bj" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -46,11 +46,17 @@
         <mxCell id="1EdCu9Syr2TYHE6o0lRG-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1EdCu9Syr2TYHE6o0lRG-13" target="1EdCu9Syr2TYHE6o0lRG-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="1EdCu9Syr2TYHE6o0lRG-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1EdCu9Syr2TYHE6o0lRG-16" target="1EdCu9Syr2TYHE6o0lRG-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1EdCu9Syr2TYHE6o0lRG-16" value="Asset accountant captures details of asset and updates in the Fixed Asset" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="211" y="610" width="160" height="68" as="geometry" />
         </mxCell>
         <mxCell id="1EdCu9Syr2TYHE6o0lRG-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1EdCu9Syr2TYHE6o0lRG-13" target="1EdCu9Syr2TYHE6o0lRG-16">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1EdCu9Syr2TYHE6o0lRG-20" value="Asset accountant tags and assigs an asset number electronically" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="471" y="609" width="139" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
