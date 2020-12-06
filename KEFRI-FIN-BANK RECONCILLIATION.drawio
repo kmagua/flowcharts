@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-06T09:34:43.054Z" agent="5.0 (Windows)" etag="0tXBVDEROx-W_ab8pXjz" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-06T09:35:25.105Z" agent="5.0 (Windows)" etag="e_DuJb7nFosWlVA5Nf5W" version="13.10.9" type="github">
   <diagram id="RUNVxOEm4AH4KbNoLji0" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -6,6 +6,17 @@
         <mxCell id="1" parent="0" />
         <mxCell id="LS-6_WvsJKvdmhUSTRYt-1" value="BANK RECONCILLIATION" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="10" y="10" width="1150" height="810" as="geometry" />
+        </mxCell>
+        <mxCell id="LS-6_WvsJKvdmhUSTRYt-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="LS-6_WvsJKvdmhUSTRYt-1">
+          <mxGeometry x="280" y="60" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LS-6_WvsJKvdmhUSTRYt-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="LS-6_WvsJKvdmhUSTRYt-1">
+          <mxGeometry x="270" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LS-6_WvsJKvdmhUSTRYt-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="LS-6_WvsJKvdmhUSTRYt-1" source="LS-6_WvsJKvdmhUSTRYt-2" target="LS-6_WvsJKvdmhUSTRYt-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="200" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
