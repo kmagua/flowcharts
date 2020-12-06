@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-06T07:56:33.015Z" agent="5.0 (Windows)" etag="_MBxNxcRF11HSiHFwE-Z" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-06T07:58:41.129Z" agent="5.0 (Windows)" etag="eUHn9shC4D9NPIzypl2z" version="13.10.9" type="github">
   <diagram id="-cmlFGgi6j457TbQA-Bj" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -30,7 +30,7 @@
           <mxGeometry x="211" y="438" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1EdCu9Syr2TYHE6o0lRG-22" value="Tagged Asset Management" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1EdCu9Syr2TYHE6o0lRG-1">
-          <mxGeometry x="464" y="404" width="200" height="104" as="geometry" />
+          <mxGeometry x="544" y="404" width="200" height="104" as="geometry" />
         </mxCell>
         <mxCell id="1EdCu9Syr2TYHE6o0lRG-23" value="Impairment" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1EdCu9Syr2TYHE6o0lRG-22">
           <mxGeometry y="26" width="200" height="26" as="geometry" />
@@ -61,6 +61,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="1EdCu9Syr2TYHE6o0lRG-34" value="Fixed assets schedule is updated to reflect the Net Book&amp;nbsp; Value of the assets" style="whiteSpace=wrap;html=1;fontStyle=0;fillColor=none;startSize=26;" vertex="1" parent="1EdCu9Syr2TYHE6o0lRG-1">
+          <mxGeometry x="559" y="280" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1EdCu9Syr2TYHE6o0lRG-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1EdCu9Syr2TYHE6o0lRG-1" source="1EdCu9Syr2TYHE6o0lRG-22" target="1EdCu9Syr2TYHE6o0lRG-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1EdCu9Syr2TYHE6o0lRG-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1EdCu9Syr2TYHE6o0lRG-6" target="1EdCu9Syr2TYHE6o0lRG-13">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="291" y="450" as="targetPoint" />
@@ -88,16 +94,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1EdCu9Syr2TYHE6o0lRG-20" value="Asset accountant tags and assigs an asset number electronically" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="471" y="609" width="139" height="70" as="geometry" />
+          <mxGeometry x="551" y="609" width="139" height="70" as="geometry" />
         </mxCell>
         <mxCell id="1EdCu9Syr2TYHE6o0lRG-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1EdCu9Syr2TYHE6o0lRG-20" target="1EdCu9Syr2TYHE6o0lRG-23">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="541" y="570" />
-              <mxPoint x="410" y="570" />
-              <mxPoint x="410" y="453" />
+              <mxPoint x="621" y="570" />
+              <mxPoint x="490" y="570" />
+              <mxPoint x="490" y="453" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="1EdCu9Syr2TYHE6o0lRG-36" value="On Disposal Asset accountant disposal of asset, the fixed asset register is updated&amp;nbsp; upon confirmation of receipt of payment" style="whiteSpace=wrap;html=1;fontStyle=0;fillColor=none;startSize=26;" vertex="1" parent="1">
+          <mxGeometry x="844" y="280" width="156" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="1EdCu9Syr2TYHE6o0lRG-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1EdCu9Syr2TYHE6o0lRG-34" target="1EdCu9Syr2TYHE6o0lRG-36">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
