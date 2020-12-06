@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-06T08:48:12.106Z" agent="5.0 (Windows)" etag="iAJrpfDZAekuOWdkcgIf" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-06T08:49:43.530Z" agent="5.0 (Windows)" etag="pvXSQ3JslEY6wm3XtrBv" version="13.10.9" type="github">
   <diagram id="i50wgoMUxbim1TL-9JWq" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -26,6 +26,34 @@
             <mxPoint x="340" y="250" as="sourcePoint" />
             <mxPoint x="340" y="310" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="qKIXarYdttRRwaTGImXm-9" value="Director comments" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="qKIXarYdttRRwaTGImXm-1">
+          <mxGeometry x="90" y="285" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qKIXarYdttRRwaTGImXm-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=80;entryDy=65;entryPerimeter=0;" edge="1" parent="qKIXarYdttRRwaTGImXm-1" source="qKIXarYdttRRwaTGImXm-8" target="qKIXarYdttRRwaTGImXm-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qKIXarYdttRRwaTGImXm-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="qKIXarYdttRRwaTGImXm-1" source="qKIXarYdttRRwaTGImXm-9" target="qKIXarYdttRRwaTGImXm-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="195" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="130" y="205" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qKIXarYdttRRwaTGImXm-16" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="qKIXarYdttRRwaTGImXm-1">
+          <mxGeometry x="200" y="325" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qKIXarYdttRRwaTGImXm-17" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="qKIXarYdttRRwaTGImXm-1">
+          <mxGeometry x="338" y="420" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qKIXarYdttRRwaTGImXm-14" value="Each of the selected members is notified of their appointment" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qKIXarYdttRRwaTGImXm-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qKIXarYdttRRwaTGImXm-8" target="qKIXarYdttRRwaTGImXm-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
