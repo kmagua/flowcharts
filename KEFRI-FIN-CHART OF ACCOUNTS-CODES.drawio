@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-06T08:13:07.024Z" agent="5.0 (Windows)" etag="PfsEfZA6h9S2LaMUgJSu" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-06T08:14:16.803Z" agent="5.0 (Windows)" etag="eMyI_IdJ09KxOrsIKD3a" version="13.10.9" type="github">
   <diagram id="BbsPhjvvmLac4U86oqIc" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -40,6 +40,9 @@
         </mxCell>
         <mxCell id="iJsRZvcZcMVNx7B1bG_4-17" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="iJsRZvcZcMVNx7B1bG_4-1">
           <mxGeometry x="180" y="457" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iJsRZvcZcMVNx7B1bG_4-19" value="Creation of account" style="swimlane;" vertex="1" parent="iJsRZvcZcMVNx7B1bG_4-1">
+          <mxGeometry x="520" y="480" width="290" height="200" as="geometry" />
         </mxCell>
         <mxCell id="iJsRZvcZcMVNx7B1bG_4-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iJsRZvcZcMVNx7B1bG_4-8" target="iJsRZvcZcMVNx7B1bG_4-10">
           <mxGeometry relative="1" as="geometry" />
