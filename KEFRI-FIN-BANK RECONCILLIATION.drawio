@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-06T09:52:13.850Z" agent="5.0 (Windows)" etag="Ulu4Z9MsWFN2sGfYC1qP" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-06T09:53:07.831Z" agent="5.0 (Windows)" etag="YBH0GTuhZ7k-xjTcOHDn" version="13.10.9" type="github">
   <diagram id="RUNVxOEm4AH4KbNoLji0" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -8,39 +8,39 @@
           <mxGeometry x="10" y="10" width="1150" height="810" as="geometry" />
         </mxCell>
         <mxCell id="LS-6_WvsJKvdmhUSTRYt-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="LS-6_WvsJKvdmhUSTRYt-1">
-          <mxGeometry x="203" y="40" width="100" height="60" as="geometry" />
+          <mxGeometry x="150" y="48" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LS-6_WvsJKvdmhUSTRYt-5" value="General Ledger Accountant receives bank statement from the bank and an updated cash book from Cash Office Section for the period to be reconciled" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="LS-6_WvsJKvdmhUSTRYt-1">
-          <mxGeometry x="163" y="164" width="180" height="90" as="geometry" />
+          <mxGeometry x="110" y="172" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="LS-6_WvsJKvdmhUSTRYt-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="LS-6_WvsJKvdmhUSTRYt-1" source="LS-6_WvsJKvdmhUSTRYt-2" target="LS-6_WvsJKvdmhUSTRYt-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="253" y="180" as="targetPoint" />
+            <mxPoint x="200" y="188" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LS-6_WvsJKvdmhUSTRYt-18" value="Reconcilliation" style="swimlane;" vertex="1" parent="LS-6_WvsJKvdmhUSTRYt-1">
           <mxGeometry x="30" y="290" width="1000" height="460" as="geometry" />
         </mxCell>
         <mxCell id="LS-6_WvsJKvdmhUSTRYt-29" value="Adjust the cash book for stale cheques or any other identified adjustment above" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="LS-6_WvsJKvdmhUSTRYt-18">
-          <mxGeometry x="708" y="106" width="150" height="70" as="geometry" />
+          <mxGeometry x="655" y="114" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="LS-6_WvsJKvdmhUSTRYt-30" value="Confirm whether the reconciliation is balancing if not perform a reconciliation test analysis" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="LS-6_WvsJKvdmhUSTRYt-18">
-          <mxGeometry x="710.5" y="252" width="145" height="90" as="geometry" />
+          <mxGeometry x="657.5" y="260" width="145" height="90" as="geometry" />
         </mxCell>
         <mxCell id="LS-6_WvsJKvdmhUSTRYt-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="LS-6_WvsJKvdmhUSTRYt-29" target="LS-6_WvsJKvdmhUSTRYt-30" parent="LS-6_WvsJKvdmhUSTRYt-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LS-6_WvsJKvdmhUSTRYt-20" value="General Ledger Accountant Checks payments in Cash book not yet recorded in bank statements. If not in bank statement update the reconciliation statement as unpresented cheques (Item I) Match receipts in bank statements not yet recorded in cash book. If not in the cash book&amp;nbsp;&amp;nbsp; update/post in items in cash book (Item II)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="LS-6_WvsJKvdmhUSTRYt-18">
-          <mxGeometry x="103" y="60" width="240" height="141" as="geometry" />
+          <mxGeometry x="50" y="68" width="240" height="141" as="geometry" />
         </mxCell>
         <mxCell id="LS-6_WvsJKvdmhUSTRYt-23" value="Verify payments in Bank Statement not yet recorded in Cash book. If not in the cash book&amp;nbsp;&amp;nbsp; update/post in items in cash book. (Item III) eg bank charges" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="LS-6_WvsJKvdmhUSTRYt-18">
-          <mxGeometry x="123" y="271" width="200" height="100" as="geometry" />
+          <mxGeometry x="70" y="279" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="LS-6_WvsJKvdmhUSTRYt-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="LS-6_WvsJKvdmhUSTRYt-20" target="LS-6_WvsJKvdmhUSTRYt-23" parent="LS-6_WvsJKvdmhUSTRYt-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LS-6_WvsJKvdmhUSTRYt-25" value="Check receipts in Cash Book not yet recorded in Bank Statement. If not in bank statement update the reconciliation statement. (Item IV)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="LS-6_WvsJKvdmhUSTRYt-18">
-          <mxGeometry x="453" y="266" width="170" height="110" as="geometry" />
+          <mxGeometry x="400" y="274" width="170" height="110" as="geometry" />
         </mxCell>
         <mxCell id="LS-6_WvsJKvdmhUSTRYt-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="LS-6_WvsJKvdmhUSTRYt-23" target="LS-6_WvsJKvdmhUSTRYt-25" parent="LS-6_WvsJKvdmhUSTRYt-18">
           <mxGeometry relative="1" as="geometry" />
@@ -49,38 +49,38 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LS-6_WvsJKvdmhUSTRYt-27" value="Less the total of Item I &amp;amp; II from the bank balance and add the total of Item III &amp;amp; IV to the balance" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="LS-6_WvsJKvdmhUSTRYt-18">
-          <mxGeometry x="453" y="101" width="170" height="80" as="geometry" />
+          <mxGeometry x="400" y="109" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LS-6_WvsJKvdmhUSTRYt-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="LS-6_WvsJKvdmhUSTRYt-25" target="LS-6_WvsJKvdmhUSTRYt-27" parent="LS-6_WvsJKvdmhUSTRYt-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LS-6_WvsJKvdmhUSTRYt-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" target="LS-6_WvsJKvdmhUSTRYt-20" parent="LS-6_WvsJKvdmhUSTRYt-1" source="LS-6_WvsJKvdmhUSTRYt-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="253" y="317" as="sourcePoint" />
+            <mxPoint x="200" y="325" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LS-6_WvsJKvdmhUSTRYt-31" value="GL Accountant submits reconciliation statement to the DDF office/Principal Accountant for verification and approval" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="LS-6_WvsJKvdmhUSTRYt-1">
-          <mxGeometry x="820" y="194" width="180" height="76" as="geometry" />
+          <mxGeometry x="767" y="202" width="180" height="76" as="geometry" />
         </mxCell>
         <mxCell id="LS-6_WvsJKvdmhUSTRYt-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="LS-6_WvsJKvdmhUSTRYt-1" source="LS-6_WvsJKvdmhUSTRYt-30" target="LS-6_WvsJKvdmhUSTRYt-31">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="910" y="587" />
+              <mxPoint x="857" y="595" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="LS-6_WvsJKvdmhUSTRYt-33" value="GL accountant files reconciliation Statement for future audit use" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="LS-6_WvsJKvdmhUSTRYt-1">
-          <mxGeometry x="850" y="60" width="120" height="70" as="geometry" />
+          <mxGeometry x="797" y="68" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="LS-6_WvsJKvdmhUSTRYt-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="LS-6_WvsJKvdmhUSTRYt-1" source="LS-6_WvsJKvdmhUSTRYt-31" target="LS-6_WvsJKvdmhUSTRYt-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LS-6_WvsJKvdmhUSTRYt-37" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="LS-6_WvsJKvdmhUSTRYt-1">
-          <mxGeometry x="1050" y="65" width="90" height="60" as="geometry" />
+          <mxGeometry x="997" y="73" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LS-6_WvsJKvdmhUSTRYt-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="LS-6_WvsJKvdmhUSTRYt-1" source="LS-6_WvsJKvdmhUSTRYt-33" target="LS-6_WvsJKvdmhUSTRYt-37">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1050" y="95" as="targetPoint" />
+            <mxPoint x="997" y="103" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
