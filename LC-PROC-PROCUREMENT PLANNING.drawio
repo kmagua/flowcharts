@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-07T05:52:50.019Z" agent="5.0 (Windows)" etag="bdW9Vky69_etzjqR8ydP" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-07T05:54:58.891Z" agent="5.0 (Windows)" etag="3XLhpHKHIHH9AwpwlUoW" version="13.10.9" type="github">
   <diagram id="Wip_ogKb_KeGrW0c2JbW" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -24,6 +24,9 @@
         <mxCell id="Ye9BgQ4vWa-Wv21mzPnw-4" value="HODs" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="Ye9BgQ4vWa-Wv21mzPnw-2">
           <mxGeometry y="240" width="1150" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="Ye9BgQ4vWa-Wv21mzPnw-12" value="HODs submits their departmental plans to HOD procurement" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="Ye9BgQ4vWa-Wv21mzPnw-4">
+          <mxGeometry x="100" y="30" width="140" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="Ye9BgQ4vWa-Wv21mzPnw-5" value="CEO" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="Ye9BgQ4vWa-Wv21mzPnw-2">
           <mxGeometry y="360" width="1150" height="120" as="geometry" />
         </mxCell>
@@ -32,6 +35,9 @@
         </mxCell>
         <mxCell id="Ye9BgQ4vWa-Wv21mzPnw-7" value="CEO &amp;amp; Board chairman" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="Ye9BgQ4vWa-Wv21mzPnw-2">
           <mxGeometry y="600" width="1150" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye9BgQ4vWa-Wv21mzPnw-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Ye9BgQ4vWa-Wv21mzPnw-2" source="Ye9BgQ4vWa-Wv21mzPnw-11" target="Ye9BgQ4vWa-Wv21mzPnw-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
