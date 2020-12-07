@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-07T07:48:47.834Z" agent="5.0 (Windows)" etag="P3SlZjeBIr6qW4K6Xt3I" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-07T07:49:36.811Z" agent="5.0 (Windows)" etag="PjoCa6dasRQGzeIU_DW4" version="13.10.9" type="github">
   <diagram id="Sd2J0G0NBRkxR6U1vvkr" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -13,8 +13,8 @@
         <mxCell id="flzx41_5z4-G3iRaBKRd-7" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="flzx41_5z4-G3iRaBKRd-3">
           <mxGeometry x="190" y="10" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="flzx41_5z4-G3iRaBKRd-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="flzx41_5z4-G3iRaBKRd-3">
-          <mxGeometry x="175" y="140" width="120" height="60" as="geometry" />
+        <mxCell id="flzx41_5z4-G3iRaBKRd-10" value="User fills the requisition as per the approved procurement plan and submits to HoD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="flzx41_5z4-G3iRaBKRd-3">
+          <mxGeometry x="170" y="130" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="flzx41_5z4-G3iRaBKRd-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="flzx41_5z4-G3iRaBKRd-3" source="flzx41_5z4-G3iRaBKRd-7" target="flzx41_5z4-G3iRaBKRd-10">
           <mxGeometry relative="1" as="geometry">
