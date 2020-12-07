@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-07T09:01:31.501Z" agent="5.0 (Windows)" etag="Wtjs8o1WQTB4aJRAvfH7" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-07T09:01:55.751Z" agent="5.0 (Windows)" etag="lltQcby6JzEDbjIGN-Gk" version="13.10.9" type="github">
   <diagram id="Ju7JY9pdQUH7Dh3bJ267" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -40,8 +40,8 @@
             <mxPoint x="440" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vWO0dV-lUaELqf2m1uFU-19" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="vWO0dV-lUaELqf2m1uFU-1">
-          <mxGeometry x="600" y="641" width="120" height="60" as="geometry" />
+        <mxCell id="vWO0dV-lUaELqf2m1uFU-19" value="Bidders complete the tender document and attach all requisite documents and drop in the tender box within the stipulated time" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="vWO0dV-lUaELqf2m1uFU-1">
+          <mxGeometry x="575" y="626" width="170" height="90" as="geometry" />
         </mxCell>
         <mxCell id="vWO0dV-lUaELqf2m1uFU-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="vWO0dV-lUaELqf2m1uFU-1" source="vWO0dV-lUaELqf2m1uFU-13" target="vWO0dV-lUaELqf2m1uFU-19">
           <mxGeometry relative="1" as="geometry" />
