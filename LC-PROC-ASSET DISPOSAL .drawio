@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-07T11:20:42.566Z" agent="5.0 (Windows)" etag="okb4SiZuIH9S-0onmchl" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-07T11:23:03.445Z" agent="5.0 (Windows)" etag="rk1HYWF6W2Uy0hoMq7cA" version="13.10.9" type="github">
   <diagram id="B7mUpA1huvissRJmOYIc" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -36,11 +36,17 @@
         <mxCell id="NP0mH-hWLjlgino4Q2RM-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="NP0mH-hWLjlgino4Q2RM-1" source="NP0mH-hWLjlgino4Q2RM-8" target="NP0mH-hWLjlgino4Q2RM-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NP0mH-hWLjlgino4Q2RM-12" value="HoD procurement presents proposed disposal plan to the council&#39;s management committee for review and amendments. Committee drafts recommendations to the CEO" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="NP0mH-hWLjlgino4Q2RM-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NP0mH-hWLjlgino4Q2RM-12" target="NP0mH-hWLjlgino4Q2RM-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NP0mH-hWLjlgino4Q2RM-12" value="HoD procurement presents proposed disposal plan to the council&#39;s management committee and incorporates their amendments. Committee drafts recommendations to the CEO" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="670" width="200" height="96.38" as="geometry" />
         </mxCell>
         <mxCell id="NP0mH-hWLjlgino4Q2RM-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NP0mH-hWLjlgino4Q2RM-10" target="NP0mH-hWLjlgino4Q2RM-12">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NP0mH-hWLjlgino4Q2RM-15" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="688.19" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
