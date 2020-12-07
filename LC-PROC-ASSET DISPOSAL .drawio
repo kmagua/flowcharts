@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-07T11:53:55.413Z" agent="5.0 (Windows)" etag="f6SfA9vqB4bcBBsOw-E9" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-07T11:56:40.639Z" agent="5.0 (Windows)" etag="diWngoFcGVieXNRaEMVZ" version="13.10.9" type="github">
   <diagram id="B7mUpA1huvissRJmOYIc" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -117,11 +117,17 @@
         <mxCell id="NP0mH-hWLjlgino4Q2RM-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NP0mH-hWLjlgino4Q2RM-21" target="NP0mH-hWLjlgino4Q2RM-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="NP0mH-hWLjlgino4Q2RM-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NP0mH-hWLjlgino4Q2RM-40" target="NP0mH-hWLjlgino4Q2RM-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NP0mH-hWLjlgino4Q2RM-40" value="Items are assembled for disposal" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="725" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NP0mH-hWLjlgino4Q2RM-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NP0mH-hWLjlgino4Q2RM-32" target="NP0mH-hWLjlgino4Q2RM-40">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NP0mH-hWLjlgino4Q2RM-42" value="Disposal committee Inspects and verifies disposal items (Board of survey)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="925" y="150" width="135" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
