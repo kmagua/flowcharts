@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-07T11:53:03.123Z" agent="5.0 (Windows)" etag="3rV3WecXd3zAgebFVMQG" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-07T11:53:27.663Z" agent="5.0 (Windows)" etag="BOjms7vKZMOVc5oCHHgh" version="13.10.9" type="github">
   <diagram id="B7mUpA1huvissRJmOYIc" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -64,7 +64,7 @@
             <mxPoint x="675" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NP0mH-hWLjlgino4Q2RM-32" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="NP0mH-hWLjlgino4Q2RM-1">
+        <mxCell id="NP0mH-hWLjlgino4Q2RM-32" value="Board chair and CEO approves the disposal plan" style="whiteSpace=wrap;html=1;" vertex="1" parent="NP0mH-hWLjlgino4Q2RM-1">
           <mxGeometry x="515" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NP0mH-hWLjlgino4Q2RM-34" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="NP0mH-hWLjlgino4Q2RM-1">
