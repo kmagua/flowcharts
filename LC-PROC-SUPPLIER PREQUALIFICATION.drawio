@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-07T07:02:09.018Z" agent="5.0 (Windows)" etag="UUr6j3op1Y6Z7jzZgEoO" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-07T07:02:41.916Z" agent="5.0 (Windows)" etag="0z2D5p3x-7vU1-7MzS2Z" version="13.10.9" type="github">
   <diagram id="c0UdfnQMCGiwI4j2-F3c" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -17,6 +17,12 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="215" y="165" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="tP4-GmfG6HyLN73kiLhE-10" value="Design/preparation of tender document for registration of suppliers in the system based on selected products, good, works, services" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="310" width="170" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="tP4-GmfG6HyLN73kiLhE-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tP4-GmfG6HyLN73kiLhE-9" target="tP4-GmfG6HyLN73kiLhE-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
