@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-07T08:02:34.375Z" agent="5.0 (Windows)" etag="aqXUbh2A-AwOnCREEDHa" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-07T08:02:53.493Z" agent="5.0 (Windows)" etag="USgKksLBJlshF9_HbiSq" version="13.10.9" type="github">
   <diagram id="Sd2J0G0NBRkxR6U1vvkr" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -80,6 +80,15 @@
         </mxCell>
         <mxCell id="flzx41_5z4-G3iRaBKRd-31" value="HoD procurement informs user of unavailability of funds" style="whiteSpace=wrap;html=1;" vertex="1" parent="flzx41_5z4-G3iRaBKRd-5">
           <mxGeometry x="480" y="40" width="130" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="flzx41_5z4-G3iRaBKRd-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="flzx41_5z4-G3iRaBKRd-5" source="flzx41_5z4-G3iRaBKRd-31" target="flzx41_5z4-G3iRaBKRd-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="545" y="-33" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="545" y="15" />
+              <mxPoint x="1045" y="15" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="flzx41_5z4-G3iRaBKRd-6" value="HoD Finance" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="flzx41_5z4-G3iRaBKRd-2">
           <mxGeometry y="492.5" width="1150" height="160.5" as="geometry" />
