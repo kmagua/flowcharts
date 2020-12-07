@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-07T12:29:54.058Z" agent="5.0 (Windows)" etag="37b-h4U88-4FS_RYZys5" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-07T12:31:11.145Z" agent="5.0 (Windows)" etag="VRewsAaQFKCYmIRmxc0U" version="13.10.9" type="github">
   <diagram id="TfBRKVqigtajWfXstnEd" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -54,6 +54,17 @@
         <mxCell id="GDgMGsqKDlrENk5VtVOn-30" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="GDgMGsqKDlrENk5VtVOn-1">
           <mxGeometry x="777" y="625.5" width="40" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="GDgMGsqKDlrENk5VtVOn-33" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="GDgMGsqKDlrENk5VtVOn-1">
+          <mxGeometry x="860" y="551" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GDgMGsqKDlrENk5VtVOn-36" value="CEO recommendations " style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="GDgMGsqKDlrENk5VtVOn-1">
+          <mxGeometry x="920" y="520" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="GDgMGsqKDlrENk5VtVOn-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="GDgMGsqKDlrENk5VtVOn-1" source="GDgMGsqKDlrENk5VtVOn-26" target="GDgMGsqKDlrENk5VtVOn-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="911" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="GDgMGsqKDlrENk5VtVOn-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GDgMGsqKDlrENk5VtVOn-16" target="GDgMGsqKDlrENk5VtVOn-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -81,18 +92,14 @@
         <mxCell id="GDgMGsqKDlrENk5VtVOn-24" value="Implementation committee prepares contract completion report and forwards to CEO for approval" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="711" y="400" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="GDgMGsqKDlrENk5VtVOn-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GDgMGsqKDlrENk5VtVOn-26" target="GDgMGsqKDlrENk5VtVOn-18">
+        <mxCell id="GDgMGsqKDlrENk5VtVOn-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GDgMGsqKDlrENk5VtVOn-36" target="GDgMGsqKDlrENk5VtVOn-18">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="911" y="580" as="targetPoint" />
+            <mxPoint x="970" y="430" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="940" y="580" />
-              <mxPoint x="940" y="190" />
-              <mxPoint x="515" y="190" />
+              <mxPoint x="960" y="200" />
+              <mxPoint x="515" y="200" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="GDgMGsqKDlrENk5VtVOn-33" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="907" y="559" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
