@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-07T08:22:19.665Z" agent="5.0 (Windows)" etag="ccYjubF1ONuH1R_UbrkZ" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-07T08:23:15.296Z" agent="5.0 (Windows)" etag="7PDyTI77Z7-vzaZCCykd" version="13.10.9" type="github">
   <diagram id="h_NAqzSGxbTrKUN2CKvY" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -24,7 +24,7 @@
         <mxCell id="bB7W9YV56yQmfDV1i0yR-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="bB7W9YV56yQmfDV1i0yR-1" source="bB7W9YV56yQmfDV1i0yR-5" target="bB7W9YV56yQmfDV1i0yR-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bB7W9YV56yQmfDV1i0yR-14" value="Opening committee convenes to open the quotations" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="bB7W9YV56yQmfDV1i0yR-1">
+        <mxCell id="bB7W9YV56yQmfDV1i0yR-14" value="Opening committee convenes to open the quotations and creates a report/minutes" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="bB7W9YV56yQmfDV1i0yR-1">
           <mxGeometry x="467.5" y="440" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="bB7W9YV56yQmfDV1i0yR-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bB7W9YV56yQmfDV1i0yR-8" target="bB7W9YV56yQmfDV1i0yR-10">
