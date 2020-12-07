@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-07T06:28:36.083Z" agent="5.0 (Windows)" etag="j6pqRk3qUz99iHnvyHLW" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-07T06:29:52.515Z" agent="5.0 (Windows)" etag="O5BD2VJRfj1U0w_pq91i" version="13.10.9" type="github">
   <diagram id="Wip_ogKb_KeGrW0c2JbW" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -48,8 +48,8 @@
         <mxCell id="Ye9BgQ4vWa-Wv21mzPnw-5" value="CEO" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="Ye9BgQ4vWa-Wv21mzPnw-2">
           <mxGeometry y="360" width="1150" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Ye9BgQ4vWa-Wv21mzPnw-24" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="Ye9BgQ4vWa-Wv21mzPnw-5">
-          <mxGeometry x="505" y="30" width="120" height="60" as="geometry" />
+        <mxCell id="Ye9BgQ4vWa-Wv21mzPnw-24" value="Present proposed plan to the Finance and Governance committee" style="whiteSpace=wrap;html=1;" vertex="1" parent="Ye9BgQ4vWa-Wv21mzPnw-5">
+          <mxGeometry x="490" y="30" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Ye9BgQ4vWa-Wv21mzPnw-6" value="Board" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="Ye9BgQ4vWa-Wv21mzPnw-2">
           <mxGeometry y="480" width="1150" height="120" as="geometry" />
