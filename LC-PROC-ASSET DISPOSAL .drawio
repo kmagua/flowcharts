@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-07T11:06:01.409Z" agent="5.0 (Windows)" etag="6_eaLyMwHU9xv5MHuhq0" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-07T11:07:03.492Z" agent="5.0 (Windows)" etag="Fx838cUhulttICLHBoKp" version="13.10.9" type="github">
   <diagram id="B7mUpA1huvissRJmOYIc" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -6,6 +6,17 @@
         <mxCell id="1" parent="0" />
         <mxCell id="NP0mH-hWLjlgino4Q2RM-1" value="ASSET DISPOSAL" style="swimlane;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="10" y="10" width="1150" height="810" as="geometry" />
+        </mxCell>
+        <mxCell id="NP0mH-hWLjlgino4Q2RM-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="NP0mH-hWLjlgino4Q2RM-1">
+          <mxGeometry x="240" y="40" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NP0mH-hWLjlgino4Q2RM-5" value="Procurement generates items due for disposal and forwards to HoDs for concurrence" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NP0mH-hWLjlgino4Q2RM-1">
+          <mxGeometry x="210" y="170" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NP0mH-hWLjlgino4Q2RM-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="NP0mH-hWLjlgino4Q2RM-1" source="NP0mH-hWLjlgino4Q2RM-2" target="NP0mH-hWLjlgino4Q2RM-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="165" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
