@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-07T08:59:35.880Z" agent="5.0 (Windows)" etag="lXIQQFIR_N1rRHpzpk_f" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-07T08:59:58.608Z" agent="5.0 (Windows)" etag="1GBw9n-CcB6l-INjen5r" version="13.10.9" type="github">
   <diagram id="Ju7JY9pdQUH7Dh3bJ267" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -31,6 +31,14 @@
         </mxCell>
         <mxCell id="vWO0dV-lUaELqf2m1uFU-14" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="vWO0dV-lUaELqf2m1uFU-1">
           <mxGeometry x="320" y="580" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vWO0dV-lUaELqf2m1uFU-17" value="Selected Bidders download from the specified website or picks and pays for tender documents from the council" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="vWO0dV-lUaELqf2m1uFU-1">
+          <mxGeometry x="460" y="480" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vWO0dV-lUaELqf2m1uFU-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="vWO0dV-lUaELqf2m1uFU-1" source="vWO0dV-lUaELqf2m1uFU-10" target="vWO0dV-lUaELqf2m1uFU-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="520" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="vWO0dV-lUaELqf2m1uFU-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vWO0dV-lUaELqf2m1uFU-6" target="vWO0dV-lUaELqf2m1uFU-10">
           <mxGeometry relative="1" as="geometry">
