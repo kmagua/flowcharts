@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-07T10:58:27.802Z" agent="5.0 (Windows)" etag="5N_xOdDcQED8rU4pGXdY" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-07T10:59:12.058Z" agent="5.0 (Windows)" etag="H67_5iWiovjLLsNGtyUB" version="13.10.9" type="github">
   <diagram id="Zx1dG4DpTfShDo4Bo3dC" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -47,6 +47,20 @@
         <mxCell id="m1Sieag7AhXBVNLB1uYE-27" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="m1Sieag7AhXBVNLB1uYE-9">
           <mxGeometry x="530" width="40" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="m1Sieag7AhXBVNLB1uYE-28" value="Update Assets and inventory ledger &amp;amp; stock control cards (bin cards) balances as per issuance and delivery documents" style="whiteSpace=wrap;html=1;" vertex="1" parent="m1Sieag7AhXBVNLB1uYE-9">
+          <mxGeometry x="730" y="30" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="m1Sieag7AhXBVNLB1uYE-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="m1Sieag7AhXBVNLB1uYE-9" source="m1Sieag7AhXBVNLB1uYE-25" target="m1Sieag7AhXBVNLB1uYE-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m1Sieag7AhXBVNLB1uYE-32" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="m1Sieag7AhXBVNLB1uYE-9">
+          <mxGeometry x="990" y="55" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="m1Sieag7AhXBVNLB1uYE-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="m1Sieag7AhXBVNLB1uYE-9" source="m1Sieag7AhXBVNLB1uYE-28" target="m1Sieag7AhXBVNLB1uYE-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="990" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="m1Sieag7AhXBVNLB1uYE-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="m1Sieag7AhXBVNLB1uYE-6" source="m1Sieag7AhXBVNLB1uYE-13" target="m1Sieag7AhXBVNLB1uYE-16">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="540" y="291" as="targetPoint" />
@@ -61,12 +75,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="m1Sieag7AhXBVNLB1uYE-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="m1Sieag7AhXBVNLB1uYE-6" source="m1Sieag7AhXBVNLB1uYE-16" target="m1Sieag7AhXBVNLB1uYE-25">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="m1Sieag7AhXBVNLB1uYE-28" value="Update Assets and inventory ledger &amp;amp; stock control cards (bin cards) balances as per issuance and delivery documents" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="450" width="160" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="m1Sieag7AhXBVNLB1uYE-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m1Sieag7AhXBVNLB1uYE-25" target="m1Sieag7AhXBVNLB1uYE-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
