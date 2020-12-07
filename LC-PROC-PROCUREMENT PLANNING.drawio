@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-07T06:36:43.431Z" agent="5.0 (Windows)" etag="LGau0tUR6kjZgjTPaeod" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-07T06:38:03.412Z" agent="5.0 (Windows)" etag="zP-ohgjQp9uwt8vmEyv4" version="13.10.9" type="github">
   <diagram id="Wip_ogKb_KeGrW0c2JbW" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -86,7 +86,7 @@
         <mxCell id="Ye9BgQ4vWa-Wv21mzPnw-7" value="CEO &amp;amp; Board chairman" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="Ye9BgQ4vWa-Wv21mzPnw-2">
           <mxGeometry y="615" width="1150" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="Ye9BgQ4vWa-Wv21mzPnw-40" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="Ye9BgQ4vWa-Wv21mzPnw-7">
+        <mxCell id="Ye9BgQ4vWa-Wv21mzPnw-40" value="Signing of annual procurement plan" style="whiteSpace=wrap;html=1;" vertex="1" parent="Ye9BgQ4vWa-Wv21mzPnw-7">
           <mxGeometry x="833" y="55" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ye9BgQ4vWa-Wv21mzPnw-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Ye9BgQ4vWa-Wv21mzPnw-2" source="Ye9BgQ4vWa-Wv21mzPnw-11" target="Ye9BgQ4vWa-Wv21mzPnw-12">
