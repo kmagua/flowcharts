@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-07T10:02:34.639Z" agent="5.0 (Windows)" etag="DIr7hm6oUrdmN_9q0pQY" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-07T10:02:45.826Z" agent="5.0 (Windows)" etag="rCdL7OkD4rHHe7DrmEHm" version="13.10.9" type="github">
   <diagram id="ZK0FdDX8pJwc6BLGZyAG" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -42,7 +42,7 @@
         <mxCell id="K3avq_iCL7ub8KMuUIM4-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="K3avq_iCL7ub8KMuUIM4-1" source="K3avq_iCL7ub8KMuUIM4-10" target="K3avq_iCL7ub8KMuUIM4-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="K3avq_iCL7ub8KMuUIM4-16" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="K3avq_iCL7ub8KMuUIM4-1">
+        <mxCell id="K3avq_iCL7ub8KMuUIM4-16" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="K3avq_iCL7ub8KMuUIM4-1">
           <mxGeometry x="344" y="682" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="K3avq_iCL7ub8KMuUIM4-17" value="Draft GRN and return goods" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;" vertex="1" parent="K3avq_iCL7ub8KMuUIM4-1">
