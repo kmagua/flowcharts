@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-07T12:20:47.079Z" agent="5.0 (Windows)" etag="7ZtZGLA3yzQI451UBep2" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-07T12:24:19.894Z" agent="5.0 (Windows)" etag="-ntkg7lv4ykE3IsfvGSg" version="13.10.9" type="github">
   <diagram id="TfBRKVqigtajWfXstnEd" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -25,9 +25,27 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GDgMGsqKDlrENk5VtVOn-8" value="HoD procurement incorporates CEOs recommendations into final contract and forwards to the successful bidder for review and concurrence" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="GDgMGsqKDlrENk5VtVOn-1">
-          <mxGeometry x="130" y="400" width="200" height="80" as="geometry" />
+          <mxGeometry x="130" y="420" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GDgMGsqKDlrENk5VtVOn-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="GDgMGsqKDlrENk5VtVOn-1" source="GDgMGsqKDlrENk5VtVOn-6" target="GDgMGsqKDlrENk5VtVOn-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GDgMGsqKDlrENk5VtVOn-10" value="Contract is signed by the bidder and CEO" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="GDgMGsqKDlrENk5VtVOn-1">
+          <mxGeometry x="170" y="551" width="120" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="GDgMGsqKDlrENk5VtVOn-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="GDgMGsqKDlrENk5VtVOn-1" source="GDgMGsqKDlrENk5VtVOn-8" target="GDgMGsqKDlrENk5VtVOn-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GDgMGsqKDlrENk5VtVOn-12" value="CEO appoints Contract implementation Committee to monitor the contract implementation" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="GDgMGsqKDlrENk5VtVOn-1">
+          <mxGeometry x="435" y="545.5" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GDgMGsqKDlrENk5VtVOn-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="GDgMGsqKDlrENk5VtVOn-1" source="GDgMGsqKDlrENk5VtVOn-10" target="GDgMGsqKDlrENk5VtVOn-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GDgMGsqKDlrENk5VtVOn-16" value="Implementation committee holds meetings based on the agreed timelines and compiles contract implementation reports for the accounting officer" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="395.5" width="210" height="84.5" as="geometry" />
+        </mxCell>
+        <mxCell id="GDgMGsqKDlrENk5VtVOn-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GDgMGsqKDlrENk5VtVOn-12" target="GDgMGsqKDlrENk5VtVOn-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
