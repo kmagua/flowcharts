@@ -1,12 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2020-12-07T07:43:01.247Z" agent="5.0 (Windows)" etag="c_1WIb8mm3Xsq1Zow9BM" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-07T07:46:08.842Z" agent="5.0 (Windows)" etag="DVtiCnSdE6s5gVWjLzf5" version="13.10.9" type="github">
   <diagram id="Sd2J0G0NBRkxR6U1vvkr" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="flzx41_5z4-G3iRaBKRd-1" value="PROCUREMENT OF GOODS, SERVICES AND WORKS" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="10" y="10" width="1150" height="810" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
