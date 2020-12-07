@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-07T09:04:51.068Z" agent="5.0 (Windows)" etag="aNRGq5bHwIaWb19toYMd" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-07T09:05:53.997Z" agent="5.0 (Windows)" etag="pB_wg3qkPn8E90HzIhB7" version="13.10.9" type="github">
   <diagram id="Ju7JY9pdQUH7Dh3bJ267" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -55,6 +55,9 @@
         <mxCell id="vWO0dV-lUaELqf2m1uFU-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="vWO0dV-lUaELqf2m1uFU-1" source="vWO0dV-lUaELqf2m1uFU-19" target="vWO0dV-lUaELqf2m1uFU-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="vWO0dV-lUaELqf2m1uFU-26" value="Opening committee convenes to open the tenders" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="vWO0dV-lUaELqf2m1uFU-1">
+          <mxGeometry x="600" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="vWO0dV-lUaELqf2m1uFU-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vWO0dV-lUaELqf2m1uFU-6" target="vWO0dV-lUaELqf2m1uFU-10">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="330" y="490" as="targetPoint" />
@@ -69,8 +72,11 @@
         <mxCell id="vWO0dV-lUaELqf2m1uFU-18" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="403" y="510" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="vWO0dV-lUaELqf2m1uFU-24" value="Accounting officer reviews the opening and evaluation committee (he/she &lt;br/&gt;may remove or add to the list of members) and appoints them" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="590" y="240" width="160" height="100" as="geometry" />
+        <mxCell id="vWO0dV-lUaELqf2m1uFU-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vWO0dV-lUaELqf2m1uFU-24" target="vWO0dV-lUaELqf2m1uFU-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vWO0dV-lUaELqf2m1uFU-24" value="Accounting officer (CEO) reviews the opening and evaluation committee (he/she &lt;br&gt;may remove or add to the list of members) and appoints them" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="240" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="vWO0dV-lUaELqf2m1uFU-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vWO0dV-lUaELqf2m1uFU-22" target="vWO0dV-lUaELqf2m1uFU-24">
           <mxGeometry relative="1" as="geometry" />
