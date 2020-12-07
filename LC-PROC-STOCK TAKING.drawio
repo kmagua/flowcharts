@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-07T12:37:00.517Z" agent="5.0 (Windows)" etag="eQsNn3JAnc3HIMUhHTe3" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-07T12:46:05.545Z" agent="5.0 (Windows)" etag="6P0Hl_O8fDger-JpVvGU" version="13.10.9" type="github">
   <diagram id="K-aYi7MoHZv7L01ski7V" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -17,6 +17,18 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="370" y="190" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="aEPLwmwttMJLvLvi62I9-6" value="Accounting officer/CEO appoints a team to carry out stocktaking" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="aEPLwmwttMJLvLvi62I9-1">
+          <mxGeometry x="300" y="330" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aEPLwmwttMJLvLvi62I9-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="aEPLwmwttMJLvLvi62I9-1" source="aEPLwmwttMJLvLvi62I9-5" target="aEPLwmwttMJLvLvi62I9-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aEPLwmwttMJLvLvi62I9-8" value="Secretary stock take committee inducts stock take members" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="aEPLwmwttMJLvLvi62I9-1">
+          <mxGeometry x="300" y="450" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aEPLwmwttMJLvLvi62I9-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="aEPLwmwttMJLvLvi62I9-1" source="aEPLwmwttMJLvLvi62I9-6" target="aEPLwmwttMJLvLvi62I9-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
