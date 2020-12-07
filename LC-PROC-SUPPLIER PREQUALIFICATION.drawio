@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-07T07:30:26.922Z" agent="5.0 (Windows)" etag="QETUqr5fStu0lSLeGNoT" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-07T07:32:23.114Z" agent="5.0 (Windows)" etag="ub3_sScbKPESwi0Rzmzi" version="13.10.9" type="github">
   <diagram id="c0UdfnQMCGiwI4j2-F3c" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -42,8 +42,8 @@
         <mxCell id="tP4-GmfG6HyLN73kiLhE-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="tP4-GmfG6HyLN73kiLhE-5" source="tP4-GmfG6HyLN73kiLhE-20" target="tP4-GmfG6HyLN73kiLhE-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tP4-GmfG6HyLN73kiLhE-24" value="Evaluation of tender documents within stipulated timelines" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="tP4-GmfG6HyLN73kiLhE-5">
-          <mxGeometry x="370.5" y="208.5" width="150" height="61.5" as="geometry" />
+        <mxCell id="tP4-GmfG6HyLN73kiLhE-24" value="Evaluation committee evaluates tender documents within stipulated timelines" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="tP4-GmfG6HyLN73kiLhE-5">
+          <mxGeometry x="370.5" y="208.5" width="150" height="81.5" as="geometry" />
         </mxCell>
         <mxCell id="tP4-GmfG6HyLN73kiLhE-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="tP4-GmfG6HyLN73kiLhE-5" source="tP4-GmfG6HyLN73kiLhE-22" target="tP4-GmfG6HyLN73kiLhE-24">
           <mxGeometry relative="1" as="geometry" />
@@ -64,6 +64,12 @@
           <mxGeometry x="383" y="690" width="145" height="100" as="geometry" />
         </mxCell>
         <mxCell id="tP4-GmfG6HyLN73kiLhE-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tP4-GmfG6HyLN73kiLhE-16" target="tP4-GmfG6HyLN73kiLhE-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tP4-GmfG6HyLN73kiLhE-26" value="HoD procurement Prepares professional opinion" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="625.5" y="229.25" width="134.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tP4-GmfG6HyLN73kiLhE-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tP4-GmfG6HyLN73kiLhE-24" target="tP4-GmfG6HyLN73kiLhE-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
