@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-07T12:16:30.274Z" agent="5.0 (Windows)" etag="XZP7pYq-G1tbmToiPXAe" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-07T12:16:35.651Z" agent="5.0 (Windows)" etag="KWHvs5sAdlwnF9CPTns5" version="13.10.9" type="github">
   <diagram id="TfBRKVqigtajWfXstnEd" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GDgMGsqKDlrENk5VtVOn-6" value="HoD Procurement forwards draft contract to CEO for review" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="GDgMGsqKDlrENk5VtVOn-1">
-          <mxGeometry x="170" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="170" y="290" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="GDgMGsqKDlrENk5VtVOn-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="GDgMGsqKDlrENk5VtVOn-1" source="GDgMGsqKDlrENk5VtVOn-5" target="GDgMGsqKDlrENk5VtVOn-6">
           <mxGeometry relative="1" as="geometry" />
