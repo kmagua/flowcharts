@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-07T11:41:39.196Z" agent="5.0 (Windows)" etag="ajN9KT4-9Twf1YmDrVNh" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-07T11:43:58.456Z" agent="5.0 (Windows)" etag="floWmgs6pIltXDduaYaS" version="13.10.9" type="github">
   <diagram id="B7mUpA1huvissRJmOYIc" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -47,7 +47,7 @@
             <mxPoint x="575" y="578.19" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NP0mH-hWLjlgino4Q2RM-21" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="NP0mH-hWLjlgino4Q2RM-1">
+        <mxCell id="NP0mH-hWLjlgino4Q2RM-21" value="Board discusses proposed plan" style="whiteSpace=wrap;html=1;" vertex="1" parent="NP0mH-hWLjlgino4Q2RM-1">
           <mxGeometry x="510" y="390" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NP0mH-hWLjlgino4Q2RM-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="NP0mH-hWLjlgino4Q2RM-1" source="NP0mH-hWLjlgino4Q2RM-20" target="NP0mH-hWLjlgino4Q2RM-21">
@@ -85,6 +85,12 @@
         </mxCell>
         <mxCell id="NP0mH-hWLjlgino4Q2RM-29" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="635" y="551" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NP0mH-hWLjlgino4Q2RM-30" value="&lt;div&gt;Board&lt;/div&gt;&lt;div&gt;concurs&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="250" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NP0mH-hWLjlgino4Q2RM-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NP0mH-hWLjlgino4Q2RM-21" target="NP0mH-hWLjlgino4Q2RM-30">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
