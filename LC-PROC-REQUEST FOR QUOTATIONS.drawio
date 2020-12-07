@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-07T08:11:43.445Z" agent="5.0 (Windows)" etag="uVX7kIG4IrMrQB0FyNf7" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-07T08:16:25.872Z" agent="5.0 (Windows)" etag="jGcZAnXZ9JC0Nd0bjdhq" version="13.10.9" type="github">
   <diagram id="h_NAqzSGxbTrKUN2CKvY" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -17,6 +17,18 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="285" y="175" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="bB7W9YV56yQmfDV1i0yR-6" value="HoD procurement sends RFQ document to select suppliers" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="bB7W9YV56yQmfDV1i0yR-1">
+          <mxGeometry x="225" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bB7W9YV56yQmfDV1i0yR-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="bB7W9YV56yQmfDV1i0yR-1" source="bB7W9YV56yQmfDV1i0yR-5" target="bB7W9YV56yQmfDV1i0yR-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bB7W9YV56yQmfDV1i0yR-8" value="HOD procurement receives quotations from suppliers until the deadline" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="460" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="bB7W9YV56yQmfDV1i0yR-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bB7W9YV56yQmfDV1i0yR-6" target="bB7W9YV56yQmfDV1i0yR-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
