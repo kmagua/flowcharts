@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-07T08:50:39.010Z" agent="5.0 (Windows)" etag="1hRHD66N-gBNszHgOar7" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-07T08:53:10.971Z" agent="5.0 (Windows)" etag="e9VuHsfYABaGPRNxgtk_" version="13.10.9" type="github">
   <diagram id="Ju7JY9pdQUH7Dh3bJ267" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -6,6 +6,17 @@
         <mxCell id="1" parent="0" />
         <mxCell id="vWO0dV-lUaELqf2m1uFU-1" value="TENDERING PROCESS" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="10" y="10" width="1150" height="810" as="geometry" />
+        </mxCell>
+        <mxCell id="vWO0dV-lUaELqf2m1uFU-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="vWO0dV-lUaELqf2m1uFU-1">
+          <mxGeometry x="270" y="50" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vWO0dV-lUaELqf2m1uFU-5" value="Preparation of tender document by HOD procurement or procurement Officer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="vWO0dV-lUaELqf2m1uFU-1">
+          <mxGeometry x="250" y="180" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vWO0dV-lUaELqf2m1uFU-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="vWO0dV-lUaELqf2m1uFU-1" source="vWO0dV-lUaELqf2m1uFU-2" target="vWO0dV-lUaELqf2m1uFU-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="175" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
