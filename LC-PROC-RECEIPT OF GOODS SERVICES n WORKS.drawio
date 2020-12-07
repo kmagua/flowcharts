@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-07T09:30:26.315Z" agent="5.0 (Windows)" etag="Ey8odbBQTjlb250j7Yf-" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-07T09:58:06.559Z" agent="5.0 (Windows)" etag="pqxL7Ts16vZqMkW5i0cM" version="13.10.9" type="github">
   <diagram id="ZK0FdDX8pJwc6BLGZyAG" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -8,15 +8,48 @@
           <mxGeometry x="10" y="10" width="1150" height="810" as="geometry" />
         </mxCell>
         <mxCell id="K3avq_iCL7ub8KMuUIM4-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="K3avq_iCL7ub8KMuUIM4-1">
-          <mxGeometry x="260" y="40" width="90" height="50" as="geometry" />
+          <mxGeometry x="135" y="40" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="K3avq_iCL7ub8KMuUIM4-5" value="HoD Procurement Recommends/Proposes members for appointment of Inspection and acceptance committee to CEO/Accounting officer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="K3avq_iCL7ub8KMuUIM4-1">
-          <mxGeometry x="200" y="150" width="210" height="80" as="geometry" />
+          <mxGeometry x="75" y="140" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="K3avq_iCL7ub8KMuUIM4-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="K3avq_iCL7ub8KMuUIM4-1" source="K3avq_iCL7ub8KMuUIM4-2" target="K3avq_iCL7ub8KMuUIM4-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="305" y="165" as="targetPoint" />
+            <mxPoint x="180" y="165" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="K3avq_iCL7ub8KMuUIM4-6" value="Appoint Inspection &amp;amp; acceptance committee" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="K3avq_iCL7ub8KMuUIM4-1">
+          <mxGeometry x="120" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K3avq_iCL7ub8KMuUIM4-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="K3avq_iCL7ub8KMuUIM4-1" source="K3avq_iCL7ub8KMuUIM4-5" target="K3avq_iCL7ub8KMuUIM4-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K3avq_iCL7ub8KMuUIM4-8" value="Goods delivered by the supplier" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="K3avq_iCL7ub8KMuUIM4-1">
+          <mxGeometry x="120" y="404" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K3avq_iCL7ub8KMuUIM4-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="K3avq_iCL7ub8KMuUIM4-1" source="K3avq_iCL7ub8KMuUIM4-6" target="K3avq_iCL7ub8KMuUIM4-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K3avq_iCL7ub8KMuUIM4-10" value="HoD procurement notifies inspection committee to inspect and acknowledge receipt" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="K3avq_iCL7ub8KMuUIM4-1">
+          <mxGeometry x="110" y="520" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="K3avq_iCL7ub8KMuUIM4-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="K3avq_iCL7ub8KMuUIM4-1" source="K3avq_iCL7ub8KMuUIM4-8" target="K3avq_iCL7ub8KMuUIM4-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K3avq_iCL7ub8KMuUIM4-12" value="&lt;div&gt;Goods &lt;br&gt;&lt;/div&gt;&lt;div&gt;Acceptable?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="K3avq_iCL7ub8KMuUIM4-1">
+          <mxGeometry x="120" y="660" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="K3avq_iCL7ub8KMuUIM4-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="K3avq_iCL7ub8KMuUIM4-1" source="K3avq_iCL7ub8KMuUIM4-10" target="K3avq_iCL7ub8KMuUIM4-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K3avq_iCL7ub8KMuUIM4-16" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="K3avq_iCL7ub8KMuUIM4-1">
+          <mxGeometry x="259" y="682" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="K3avq_iCL7ub8KMuUIM4-14" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K3avq_iCL7ub8KMuUIM4-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K3avq_iCL7ub8KMuUIM4-12" target="K3avq_iCL7ub8KMuUIM4-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
