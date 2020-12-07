@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-07T09:05:53.997Z" agent="5.0 (Windows)" etag="pB_wg3qkPn8E90HzIhB7" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-07T09:07:47.474Z" agent="5.0 (Windows)" etag="sM_BJz9ga1OqZtzVfHb_" version="13.10.9" type="github">
   <diagram id="Ju7JY9pdQUH7Dh3bJ267" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -57,6 +57,12 @@
         </mxCell>
         <mxCell id="vWO0dV-lUaELqf2m1uFU-26" value="Opening committee convenes to open the tenders" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="vWO0dV-lUaELqf2m1uFU-1">
           <mxGeometry x="600" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vWO0dV-lUaELqf2m1uFU-28" value="Evaluation committee convenes to evaluate the tender documents and forward recommendation to HOD procurement" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="vWO0dV-lUaELqf2m1uFU-1">
+          <mxGeometry x="850" y="105" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="vWO0dV-lUaELqf2m1uFU-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="vWO0dV-lUaELqf2m1uFU-1" source="vWO0dV-lUaELqf2m1uFU-26" target="vWO0dV-lUaELqf2m1uFU-28">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vWO0dV-lUaELqf2m1uFU-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vWO0dV-lUaELqf2m1uFU-6" target="vWO0dV-lUaELqf2m1uFU-10">
           <mxGeometry relative="1" as="geometry">
