@@ -1,59 +1,29 @@
-<mxfile host="app.diagrams.net" modified="2020-12-07T07:59:08.225Z" agent="5.0 (Windows)" etag="qgAgwPWQieScOlkXK-Pu" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-07T08:02:34.375Z" agent="5.0 (Windows)" etag="aqXUbh2A-AwOnCREEDHa" version="13.10.9" type="github">
   <diagram id="Sd2J0G0NBRkxR6U1vvkr" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="flzx41_5z4-G3iRaBKRd-2" value="PROCUREMENT OF GOODS, SERVICES AND WORKS" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="1">
-          <mxGeometry x="10" y="10" width="1150" height="636" as="geometry" />
+          <mxGeometry x="10" y="10" width="1150" height="653" as="geometry" />
         </mxCell>
         <mxCell id="flzx41_5z4-G3iRaBKRd-3" value="User" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="flzx41_5z4-G3iRaBKRd-2">
           <mxGeometry y="20" width="1150" height="220" as="geometry" />
         </mxCell>
         <mxCell id="flzx41_5z4-G3iRaBKRd-7" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="flzx41_5z4-G3iRaBKRd-3">
-          <mxGeometry x="184" y="10" width="90" height="50" as="geometry" />
+          <mxGeometry x="288" y="20" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="flzx41_5z4-G3iRaBKRd-10" value="User fills the requisition as per the approved procurement plan and submits to HoD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="flzx41_5z4-G3iRaBKRd-3">
-          <mxGeometry x="154" y="130" width="150" height="70" as="geometry" />
+          <mxGeometry x="258" y="140" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="flzx41_5z4-G3iRaBKRd-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="flzx41_5z4-G3iRaBKRd-3" source="flzx41_5z4-G3iRaBKRd-7" target="flzx41_5z4-G3iRaBKRd-10">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="229" y="135" as="targetPoint" />
+            <mxPoint x="333" y="145" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="flzx41_5z4-G3iRaBKRd-4" value="HoD/ Supervisor" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="flzx41_5z4-G3iRaBKRd-2">
-          <mxGeometry y="240" width="1150" height="125" as="geometry" />
-        </mxCell>
-        <mxCell id="flzx41_5z4-G3iRaBKRd-13" value="Approves?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="flzx41_5z4-G3iRaBKRd-4">
-          <mxGeometry x="189" y="22.5" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="flzx41_5z4-G3iRaBKRd-17" value="Rejection notes" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="flzx41_5z4-G3iRaBKRd-4">
-          <mxGeometry x="46" y="17" width="74" height="83" as="geometry" />
-        </mxCell>
-        <mxCell id="flzx41_5z4-G3iRaBKRd-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.014;entryY=0.542;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="flzx41_5z4-G3iRaBKRd-4" source="flzx41_5z4-G3iRaBKRd-13" target="flzx41_5z4-G3iRaBKRd-17">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="189" y="65.5" as="sourcePoint" />
-            <mxPoint x="140" y="80" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="flzx41_5z4-G3iRaBKRd-5" value="HoD Procurement" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="flzx41_5z4-G3iRaBKRd-2">
-          <mxGeometry y="365" width="1150" height="127.5" as="geometry" />
-        </mxCell>
-        <mxCell id="flzx41_5z4-G3iRaBKRd-14" value="HOD procurement receives procurement request and forwards to HOD finance for budget confirmation and availability of funds" style="whiteSpace=wrap;html=1;" vertex="1" parent="flzx41_5z4-G3iRaBKRd-5">
-          <mxGeometry x="129" y="31" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="flzx41_5z4-G3iRaBKRd-16" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="flzx41_5z4-G3iRaBKRd-5">
-          <mxGeometry x="223" y="-5" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="flzx41_5z4-G3iRaBKRd-6" value="HoD Finance" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="flzx41_5z4-G3iRaBKRd-2">
-          <mxGeometry y="492.5" width="1150" height="143.5" as="geometry" />
-        </mxCell>
-        <mxCell id="flzx41_5z4-G3iRaBKRd-23" value="&lt;div&gt;Funds &lt;br&gt;&lt;/div&gt;&lt;div&gt;available?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="flzx41_5z4-G3iRaBKRd-6">
-          <mxGeometry x="174" y="31.75" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="flzx41_5z4-G3iRaBKRd-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="flzx41_5z4-G3iRaBKRd-2" source="flzx41_5z4-G3iRaBKRd-10" target="flzx41_5z4-G3iRaBKRd-13">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="229" y="290" as="targetPoint" />
+            <mxPoint x="333" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="flzx41_5z4-G3iRaBKRd-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="flzx41_5z4-G3iRaBKRd-2" source="flzx41_5z4-G3iRaBKRd-13" target="flzx41_5z4-G3iRaBKRd-14">
@@ -61,17 +31,73 @@
         </mxCell>
         <mxCell id="flzx41_5z4-G3iRaBKRd-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="flzx41_5z4-G3iRaBKRd-2" source="flzx41_5z4-G3iRaBKRd-17" target="flzx41_5z4-G3iRaBKRd-10">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="83" y="175.5" as="targetPoint" />
+            <mxPoint x="187" y="185.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="83" y="185" />
+              <mxPoint x="187" y="195" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="flzx41_5z4-G3iRaBKRd-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="flzx41_5z4-G3iRaBKRd-2" source="flzx41_5z4-G3iRaBKRd-14" target="flzx41_5z4-G3iRaBKRd-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="flzx41_5z4-G3iRaBKRd-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="flzx41_5z4-G3iRaBKRd-2" source="flzx41_5z4-G3iRaBKRd-23" target="flzx41_5z4-G3iRaBKRd-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="flzx41_5z4-G3iRaBKRd-4" value="HoD/ Supervisor" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="flzx41_5z4-G3iRaBKRd-2">
+          <mxGeometry y="240" width="1150" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="flzx41_5z4-G3iRaBKRd-13" value="Approves?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="flzx41_5z4-G3iRaBKRd-4">
+          <mxGeometry x="293" y="32.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="flzx41_5z4-G3iRaBKRd-17" value="Rejection notes" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="flzx41_5z4-G3iRaBKRd-4">
+          <mxGeometry x="150" y="27" width="74" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="flzx41_5z4-G3iRaBKRd-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.014;entryY=0.542;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="flzx41_5z4-G3iRaBKRd-4" source="flzx41_5z4-G3iRaBKRd-13" target="flzx41_5z4-G3iRaBKRd-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="293" y="75.5" as="sourcePoint" />
+            <mxPoint x="244" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="flzx41_5z4-G3iRaBKRd-5" value="HoD Procurement" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="flzx41_5z4-G3iRaBKRd-2">
+          <mxGeometry y="365" width="1150" height="127.5" as="geometry" />
+        </mxCell>
+        <mxCell id="flzx41_5z4-G3iRaBKRd-14" value="HOD procurement receives procurement request and forwards to HOD finance for budget confirmation and availability of funds" style="whiteSpace=wrap;html=1;" vertex="1" parent="flzx41_5z4-G3iRaBKRd-5">
+          <mxGeometry x="233" y="41" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="flzx41_5z4-G3iRaBKRd-16" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="flzx41_5z4-G3iRaBKRd-5">
+          <mxGeometry x="327" y="5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="flzx41_5z4-G3iRaBKRd-25" value="HOD Procurement identifies the best procurement method (preconfigured in the system) and initiates procurement process" style="whiteSpace=wrap;html=1;" vertex="1" parent="flzx41_5z4-G3iRaBKRd-5">
+          <mxGeometry x="670" y="45.5" width="210" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="flzx41_5z4-G3iRaBKRd-29" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="flzx41_5z4-G3iRaBKRd-5">
+          <mxGeometry x="1000" y="56" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="flzx41_5z4-G3iRaBKRd-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="flzx41_5z4-G3iRaBKRd-5" source="flzx41_5z4-G3iRaBKRd-25" target="flzx41_5z4-G3iRaBKRd-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1005" y="81" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="flzx41_5z4-G3iRaBKRd-31" value="HoD procurement informs user of unavailability of funds" style="whiteSpace=wrap;html=1;" vertex="1" parent="flzx41_5z4-G3iRaBKRd-5">
+          <mxGeometry x="480" y="40" width="130" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="flzx41_5z4-G3iRaBKRd-6" value="HoD Finance" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="flzx41_5z4-G3iRaBKRd-2">
+          <mxGeometry y="492.5" width="1150" height="160.5" as="geometry" />
+        </mxCell>
+        <mxCell id="flzx41_5z4-G3iRaBKRd-23" value="&lt;div&gt;Funds &lt;br&gt;&lt;/div&gt;&lt;div&gt;available?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="flzx41_5z4-G3iRaBKRd-6">
+          <mxGeometry x="278" y="41.75" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="flzx41_5z4-G3iRaBKRd-30" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="flzx41_5z4-G3iRaBKRd-6">
+          <mxGeometry x="494" y="117.5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="flzx41_5z4-G3iRaBKRd-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="flzx41_5z4-G3iRaBKRd-2" source="flzx41_5z4-G3iRaBKRd-23" target="flzx41_5z4-G3iRaBKRd-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="flzx41_5z4-G3iRaBKRd-20" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="150" y="296" width="40" height="20" as="geometry" />
+          <mxGeometry x="254" y="306" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="flzx41_5z4-G3iRaBKRd-33" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="427" y="564" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
