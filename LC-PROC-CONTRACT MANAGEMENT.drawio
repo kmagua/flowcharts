@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-07T12:27:05.799Z" agent="5.0 (Windows)" etag="S5lIV1auXdrW3XuPzM7j" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-07T12:27:40.103Z" agent="5.0 (Windows)" etag="RdwgLsXTqP1P0Fu11ciQ" version="13.10.9" type="github">
   <diagram id="TfBRKVqigtajWfXstnEd" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -63,7 +63,7 @@
         <mxCell id="GDgMGsqKDlrENk5VtVOn-20" value="The CEO directs the implementation committee to Inspect the status" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="721" y="240" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="GDgMGsqKDlrENk5VtVOn-24" value="Implementation committee prepares contract completion report and forwards to accounting officer" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="GDgMGsqKDlrENk5VtVOn-24" value="Implementation committee prepares contract completion report and forwards to CEO for approval" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="711" y="400" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
