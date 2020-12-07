@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-07T07:06:28.213Z" agent="5.0 (Windows)" etag="aZOpLCTuk-ALFRt-QyLw" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-07T07:19:00.633Z" agent="5.0 (Windows)" etag="bwWbB7bTlq02hWQ4STeq" version="13.10.9" type="github">
   <diagram id="c0UdfnQMCGiwI4j2-F3c" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -27,6 +27,12 @@
         <mxCell id="tP4-GmfG6HyLN73kiLhE-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="tP4-GmfG6HyLN73kiLhE-5" source="tP4-GmfG6HyLN73kiLhE-12" target="tP4-GmfG6HyLN73kiLhE-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="tP4-GmfG6HyLN73kiLhE-16" value="Procurement officer Receives tender documents/E tendering " style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="tP4-GmfG6HyLN73kiLhE-5">
+          <mxGeometry x="155" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tP4-GmfG6HyLN73kiLhE-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="tP4-GmfG6HyLN73kiLhE-5" source="tP4-GmfG6HyLN73kiLhE-14" target="tP4-GmfG6HyLN73kiLhE-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tP4-GmfG6HyLN73kiLhE-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tP4-GmfG6HyLN73kiLhE-10" target="tP4-GmfG6HyLN73kiLhE-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -34,6 +40,12 @@
           <mxGeometry x="140" y="313" width="170" height="97" as="geometry" />
         </mxCell>
         <mxCell id="tP4-GmfG6HyLN73kiLhE-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tP4-GmfG6HyLN73kiLhE-9" target="tP4-GmfG6HyLN73kiLhE-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tP4-GmfG6HyLN73kiLhE-18" value="HoD Procurement Recommends/Proposes members of opening, evaluation and inspection committee to CEO for appointment" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="365" y="690" width="145" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tP4-GmfG6HyLN73kiLhE-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tP4-GmfG6HyLN73kiLhE-16" target="tP4-GmfG6HyLN73kiLhE-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
