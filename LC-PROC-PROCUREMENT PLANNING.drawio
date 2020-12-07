@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-07T06:27:23.309Z" agent="5.0 (Windows)" etag="j58kXfPUWg4rBONRaoxH" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-07T06:28:36.083Z" agent="5.0 (Windows)" etag="j6pqRk3qUz99iHnvyHLW" version="13.10.9" type="github">
   <diagram id="Wip_ogKb_KeGrW0c2JbW" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -48,6 +48,9 @@
         <mxCell id="Ye9BgQ4vWa-Wv21mzPnw-5" value="CEO" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="Ye9BgQ4vWa-Wv21mzPnw-2">
           <mxGeometry y="360" width="1150" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="Ye9BgQ4vWa-Wv21mzPnw-24" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="Ye9BgQ4vWa-Wv21mzPnw-5">
+          <mxGeometry x="505" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="Ye9BgQ4vWa-Wv21mzPnw-6" value="Board" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="Ye9BgQ4vWa-Wv21mzPnw-2">
           <mxGeometry y="480" width="1150" height="120" as="geometry" />
         </mxCell>
@@ -70,6 +73,9 @@
               <mxPoint x="290" y="270" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Ye9BgQ4vWa-Wv21mzPnw-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Ye9BgQ4vWa-Wv21mzPnw-2" source="Ye9BgQ4vWa-Wv21mzPnw-22" target="Ye9BgQ4vWa-Wv21mzPnw-24">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
