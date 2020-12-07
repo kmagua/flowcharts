@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-07T11:43:58.456Z" agent="5.0 (Windows)" etag="floWmgs6pIltXDduaYaS" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-07T11:45:46.279Z" agent="5.0 (Windows)" etag="bhp86mxy-LPUa_cFzcPf" version="13.10.9" type="github">
   <diagram id="B7mUpA1huvissRJmOYIc" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -39,7 +39,7 @@
         <mxCell id="NP0mH-hWLjlgino4Q2RM-15" value="CEO presents proposed disposal plan to the Finance and Governance committee" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="NP0mH-hWLjlgino4Q2RM-1">
           <mxGeometry x="505" y="668.19" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="NP0mH-hWLjlgino4Q2RM-20" value="&lt;div&gt;F&amp;amp;G&lt;br&gt;&lt;/div&gt;&lt;div&gt;concurs&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="NP0mH-hWLjlgino4Q2RM-1">
+        <mxCell id="NP0mH-hWLjlgino4Q2RM-20" value="&lt;div&gt;F&amp;amp;G&lt;br&gt;&lt;/div&gt;&lt;div&gt;concurs?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="NP0mH-hWLjlgino4Q2RM-1">
           <mxGeometry x="535" y="520" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="NP0mH-hWLjlgino4Q2RM-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="NP0mH-hWLjlgino4Q2RM-1" source="NP0mH-hWLjlgino4Q2RM-15" target="NP0mH-hWLjlgino4Q2RM-20">
@@ -64,6 +64,9 @@
             <mxPoint x="675" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="NP0mH-hWLjlgino4Q2RM-32" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="NP0mH-hWLjlgino4Q2RM-1">
+          <mxGeometry x="515" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="NP0mH-hWLjlgino4Q2RM-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NP0mH-hWLjlgino4Q2RM-12" target="NP0mH-hWLjlgino4Q2RM-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -86,8 +89,11 @@
         <mxCell id="NP0mH-hWLjlgino4Q2RM-29" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="635" y="551" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="NP0mH-hWLjlgino4Q2RM-30" value="&lt;div&gt;Board&lt;/div&gt;&lt;div&gt;concurs&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="250" width="110" height="80" as="geometry" />
+        <mxCell id="NP0mH-hWLjlgino4Q2RM-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NP0mH-hWLjlgino4Q2RM-30" target="NP0mH-hWLjlgino4Q2RM-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NP0mH-hWLjlgino4Q2RM-30" value="&lt;div&gt;Board&lt;/div&gt;&lt;div&gt;concurs?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="256" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="NP0mH-hWLjlgino4Q2RM-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NP0mH-hWLjlgino4Q2RM-21" target="NP0mH-hWLjlgino4Q2RM-30">
           <mxGeometry relative="1" as="geometry" />
