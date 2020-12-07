@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-07T11:08:17.774Z" agent="5.0 (Windows)" etag="kwqhAKU7E18VS8OyNEnI" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-07T11:14:35.635Z" agent="5.0 (Windows)" etag="tk_NZgaH-Tjg2bjx4Lfh" version="13.10.9" type="github">
   <diagram id="B7mUpA1huvissRJmOYIc" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -22,6 +22,12 @@
           <mxGeometry x="200" y="280" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NP0mH-hWLjlgino4Q2RM-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="NP0mH-hWLjlgino4Q2RM-1" source="NP0mH-hWLjlgino4Q2RM-5" target="NP0mH-hWLjlgino4Q2RM-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NP0mH-hWLjlgino4Q2RM-8" value="HoD procurement consolidates departmental disposal plans into council&#39;s annual disposal plan and proposes members of a disposal committee" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="NP0mH-hWLjlgino4Q2RM-1">
+          <mxGeometry x="200" y="380" width="180" height="83.5" as="geometry" />
+        </mxCell>
+        <mxCell id="NP0mH-hWLjlgino4Q2RM-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="NP0mH-hWLjlgino4Q2RM-1" source="NP0mH-hWLjlgino4Q2RM-6" target="NP0mH-hWLjlgino4Q2RM-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
