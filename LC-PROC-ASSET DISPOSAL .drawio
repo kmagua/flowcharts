@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-07T12:02:13.948Z" agent="5.0 (Windows)" etag="cwdYGiLeHnaEvr8E9ix1" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-07T12:03:30.217Z" agent="5.0 (Windows)" etag="kcF2orV8I-vkcKYlyUvV" version="13.10.9" type="github">
   <diagram id="B7mUpA1huvissRJmOYIc" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -113,6 +113,14 @@
             <mxPoint x="997.5" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="NP0mH-hWLjlgino4Q2RM-58" value="CEO Comments" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="NP0mH-hWLjlgino4Q2RM-1">
+          <mxGeometry x="770" y="345" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NP0mH-hWLjlgino4Q2RM-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=80;entryDy=65;entryPerimeter=0;" edge="1" parent="NP0mH-hWLjlgino4Q2RM-1" source="NP0mH-hWLjlgino4Q2RM-46" target="NP0mH-hWLjlgino4Q2RM-58">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="857.5" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="NP0mH-hWLjlgino4Q2RM-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NP0mH-hWLjlgino4Q2RM-12" target="NP0mH-hWLjlgino4Q2RM-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -163,6 +171,16 @@
         </mxCell>
         <mxCell id="NP0mH-hWLjlgino4Q2RM-42" value="Disposal committee Inspects and verifies disposal items (Board of survey) and submits report to HOD Procurement" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="925" y="140" width="165" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NP0mH-hWLjlgino4Q2RM-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NP0mH-hWLjlgino4Q2RM-58" target="NP0mH-hWLjlgino4Q2RM-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820" y="255" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="820" y="290" />
+              <mxPoint x="893" y="290" />
+              <mxPoint x="893" y="180" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
