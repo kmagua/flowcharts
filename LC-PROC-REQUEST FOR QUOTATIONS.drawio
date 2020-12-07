@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-07T08:27:58.086Z" agent="5.0 (Windows)" etag="D91XX4Ofx5BTKjJFo-98" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-07T08:36:20.076Z" agent="5.0 (Windows)" etag="cer1Fzl8wJlVOLKQV4wb" version="13.10.9" type="github">
   <diagram id="h_NAqzSGxbTrKUN2CKvY" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -33,7 +33,7 @@
         <mxCell id="bB7W9YV56yQmfDV1i0yR-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="bB7W9YV56yQmfDV1i0yR-1" source="bB7W9YV56yQmfDV1i0yR-14" target="bB7W9YV56yQmfDV1i0yR-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bB7W9YV56yQmfDV1i0yR-18" value="HOD reviews the report and prepares his professional procurement opinion and forwards to the CEO" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="bB7W9YV56yQmfDV1i0yR-1">
+        <mxCell id="bB7W9YV56yQmfDV1i0yR-18" value="HOD reviews the report and prepares professional procurement opinion and forwards to the CEO" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="bB7W9YV56yQmfDV1i0yR-1">
           <mxGeometry x="442.5" y="171.25" width="190" height="67.5" as="geometry" />
         </mxCell>
         <mxCell id="bB7W9YV56yQmfDV1i0yR-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="bB7W9YV56yQmfDV1i0yR-1" source="bB7W9YV56yQmfDV1i0yR-16" target="bB7W9YV56yQmfDV1i0yR-18">
