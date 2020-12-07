@@ -1,21 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2020-12-07T10:46:55.623Z" agent="5.0 (Windows)" etag="v8gYHXugJ1HXxY3o9tfx" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-07T10:56:31.482Z" agent="5.0 (Windows)" etag="l-ysuWM7rwpyzd_jSLoK" version="13.10.9" type="github">
   <diagram id="Zx1dG4DpTfShDo4Bo3dC" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="m1Sieag7AhXBVNLB1uYE-1" value="STORES ISSUANCE AND STOCK MANAGEMENT" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="10" y="10" width="1150" height="810" as="geometry" />
+        <mxCell id="m1Sieag7AhXBVNLB1uYE-6" value="STORES ISSUANCE AND STOCK MANAGEMENT" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="1140" height="570" as="geometry" />
         </mxCell>
-        <mxCell id="m1Sieag7AhXBVNLB1uYE-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="m1Sieag7AhXBVNLB1uYE-1">
-          <mxGeometry x="300" y="50" width="100" height="50" as="geometry" />
+        <mxCell id="m1Sieag7AhXBVNLB1uYE-7" value="Requisitioner" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="m1Sieag7AhXBVNLB1uYE-6">
+          <mxGeometry y="20" width="1140" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="m1Sieag7AhXBVNLB1uYE-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="m1Sieag7AhXBVNLB1uYE-1">
-          <mxGeometry x="290" y="180" width="120" height="60" as="geometry" />
+        <mxCell id="m1Sieag7AhXBVNLB1uYE-10" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="m1Sieag7AhXBVNLB1uYE-7">
+          <mxGeometry x="490" y="10" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="m1Sieag7AhXBVNLB1uYE-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="m1Sieag7AhXBVNLB1uYE-1" source="m1Sieag7AhXBVNLB1uYE-2" target="m1Sieag7AhXBVNLB1uYE-5">
+        <mxCell id="m1Sieag7AhXBVNLB1uYE-13" value="Complete stores Issuance requisition form/memo and forward to HOD for approval" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="m1Sieag7AhXBVNLB1uYE-7">
+          <mxGeometry x="470" y="131" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m1Sieag7AhXBVNLB1uYE-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="m1Sieag7AhXBVNLB1uYE-7" source="m1Sieag7AhXBVNLB1uYE-10" target="m1Sieag7AhXBVNLB1uYE-13">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="350" y="175" as="targetPoint" />
+            <mxPoint x="540" y="135" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m1Sieag7AhXBVNLB1uYE-8" value="HOD" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="m1Sieag7AhXBVNLB1uYE-6">
+          <mxGeometry y="240" width="1140" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="m1Sieag7AhXBVNLB1uYE-16" value="&lt;div&gt;HoD&lt;br&gt;&lt;/div&gt;&lt;div&gt;approves&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="m1Sieag7AhXBVNLB1uYE-8">
+          <mxGeometry x="480" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="m1Sieag7AhXBVNLB1uYE-19" value="HoD comments" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="m1Sieag7AhXBVNLB1uYE-8">
+          <mxGeometry x="330" y="15" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="m1Sieag7AhXBVNLB1uYE-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=80;entryDy=65;entryPerimeter=0;" edge="1" parent="m1Sieag7AhXBVNLB1uYE-8" source="m1Sieag7AhXBVNLB1uYE-16" target="m1Sieag7AhXBVNLB1uYE-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m1Sieag7AhXBVNLB1uYE-9" value="Stores in charge" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="m1Sieag7AhXBVNLB1uYE-6">
+          <mxGeometry y="400" width="1140" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="m1Sieag7AhXBVNLB1uYE-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="m1Sieag7AhXBVNLB1uYE-6" source="m1Sieag7AhXBVNLB1uYE-13" target="m1Sieag7AhXBVNLB1uYE-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="291" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m1Sieag7AhXBVNLB1uYE-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="m1Sieag7AhXBVNLB1uYE-6" source="m1Sieag7AhXBVNLB1uYE-19" target="m1Sieag7AhXBVNLB1uYE-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="155" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="370" y="181" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
