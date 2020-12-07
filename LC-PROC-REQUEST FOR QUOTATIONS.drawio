@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-07T08:10:31.960Z" agent="5.0 (Windows)" etag="gDJ2ooXC3RQJcMnz2NqH" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-07T08:11:43.445Z" agent="5.0 (Windows)" etag="uVX7kIG4IrMrQB0FyNf7" version="13.10.9" type="github">
   <diagram id="h_NAqzSGxbTrKUN2CKvY" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -6,6 +6,17 @@
         <mxCell id="1" parent="0" />
         <mxCell id="bB7W9YV56yQmfDV1i0yR-1" value="REQUEST FOR QUOTATIONS" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="10" y="10" width="1150" height="810" as="geometry" />
+        </mxCell>
+        <mxCell id="bB7W9YV56yQmfDV1i0yR-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="bB7W9YV56yQmfDV1i0yR-1">
+          <mxGeometry x="240" y="50" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bB7W9YV56yQmfDV1i0yR-5" value="Procurement officer selects bidders from the prequalified list of suppliers depending on item/ service category and prepares RFQ document" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bB7W9YV56yQmfDV1i0yR-1">
+          <mxGeometry x="190" y="160" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="bB7W9YV56yQmfDV1i0yR-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="bB7W9YV56yQmfDV1i0yR-1" source="bB7W9YV56yQmfDV1i0yR-2" target="bB7W9YV56yQmfDV1i0yR-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="285" y="175" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
