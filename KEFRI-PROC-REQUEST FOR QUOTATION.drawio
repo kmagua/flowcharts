@@ -1,1 +1,132 @@
-<mxfile host="app.diagrams.net" modified="2020-12-14T09:47:57.330Z" agent="5.0 (Windows)" version="14.0.0" etag="_JCmuie4xZ2ZIN5YpS7g" type="github"><diagram id="fsbPfr0Y3mRUSinZ5bUh">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-14T09:48:09.984Z" agent="5.0 (Windows)" etag="p-o-s0a_4G_w6QCDyyuT" version="14.0.0" type="github">
+  <diagram id="fsbPfr0Y3mRUSinZ5bUh" name="Page-1">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="i7_GnAH0jeQ_wQszvWaU-1" value="REQUEST FOR QUOTATIONS" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="1150" height="810" as="geometry" />
+        </mxCell>
+        <mxCell id="i7_GnAH0jeQ_wQszvWaU-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="i7_GnAH0jeQ_wQszvWaU-1">
+          <mxGeometry x="155" y="38.75" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="i7_GnAH0jeQ_wQszvWaU-3" value="Procurement officer selects bidders from the prequalified list of suppliers depending on item/ service category and prepares RFQ document" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="i7_GnAH0jeQ_wQszvWaU-1">
+          <mxGeometry x="105" y="148.75" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="i7_GnAH0jeQ_wQszvWaU-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="i7_GnAH0jeQ_wQszvWaU-1" source="i7_GnAH0jeQ_wQszvWaU-2" target="i7_GnAH0jeQ_wQszvWaU-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="163.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i7_GnAH0jeQ_wQszvWaU-5" value="HoD procurement sends RFQ document to select suppliers" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="i7_GnAH0jeQ_wQszvWaU-1">
+          <mxGeometry x="140" y="308.75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i7_GnAH0jeQ_wQszvWaU-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="i7_GnAH0jeQ_wQszvWaU-1" source="i7_GnAH0jeQ_wQszvWaU-3" target="i7_GnAH0jeQ_wQszvWaU-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i7_GnAH0jeQ_wQszvWaU-7" value="Opening committee convenes to open the quotations and creates a report/minutes" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="i7_GnAH0jeQ_wQszvWaU-1">
+          <mxGeometry x="382.5" y="428.75" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="i7_GnAH0jeQ_wQszvWaU-8" value="Evaluation committee convenes to evaluate the quotations and forward recommendation to HOD procurement" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="i7_GnAH0jeQ_wQszvWaU-1">
+          <mxGeometry x="362.5" y="301.25" width="180" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="i7_GnAH0jeQ_wQszvWaU-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="i7_GnAH0jeQ_wQszvWaU-1" source="i7_GnAH0jeQ_wQszvWaU-7" target="i7_GnAH0jeQ_wQszvWaU-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i7_GnAH0jeQ_wQszvWaU-10" value="HOD reviews the report and prepares professional procurement opinion and forwards to the CEO" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="i7_GnAH0jeQ_wQszvWaU-1">
+          <mxGeometry x="357.5" y="160" width="190" height="67.5" as="geometry" />
+        </mxCell>
+        <mxCell id="i7_GnAH0jeQ_wQszvWaU-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="i7_GnAH0jeQ_wQszvWaU-1" source="i7_GnAH0jeQ_wQszvWaU-8" target="i7_GnAH0jeQ_wQszvWaU-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i7_GnAH0jeQ_wQszvWaU-12" value="&lt;div&gt;CEO &lt;br&gt;&lt;/div&gt;&lt;div&gt;Agrees?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="i7_GnAH0jeQ_wQszvWaU-1">
+          <mxGeometry x="662.5" y="298.75" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="i7_GnAH0jeQ_wQszvWaU-13" value="Notification of award to successful/ unsuccessful bidder" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="i7_GnAH0jeQ_wQszvWaU-1">
+          <mxGeometry x="647.5" y="428.75" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i7_GnAH0jeQ_wQszvWaU-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="i7_GnAH0jeQ_wQszvWaU-1" source="i7_GnAH0jeQ_wQszvWaU-12" target="i7_GnAH0jeQ_wQszvWaU-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i7_GnAH0jeQ_wQszvWaU-15" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="i7_GnAH0jeQ_wQszvWaU-1">
+          <mxGeometry x="715" y="384.75" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="i7_GnAH0jeQ_wQszvWaU-16" value="Supplier acknowledges receipt of award through a formal acceptance letter within the stipulated timelines(7days)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="i7_GnAH0jeQ_wQszvWaU-1">
+          <mxGeometry x="617.5" y="548.75" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="i7_GnAH0jeQ_wQszvWaU-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="i7_GnAH0jeQ_wQszvWaU-1" source="i7_GnAH0jeQ_wQszvWaU-13" target="i7_GnAH0jeQ_wQszvWaU-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i7_GnAH0jeQ_wQszvWaU-18" value="HoD procurement prepares a contract document for the successful bidder and forwards to the CEO for signature" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="i7_GnAH0jeQ_wQszvWaU-1">
+          <mxGeometry x="627.5" y="688.75" width="190" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="i7_GnAH0jeQ_wQszvWaU-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="i7_GnAH0jeQ_wQszvWaU-1" source="i7_GnAH0jeQ_wQszvWaU-16" target="i7_GnAH0jeQ_wQszvWaU-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i7_GnAH0jeQ_wQszvWaU-20" value="Accounting officer issues a signed contract document to the bidder who also signs the contract" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="i7_GnAH0jeQ_wQszvWaU-1">
+          <mxGeometry x="905" y="681.25" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="i7_GnAH0jeQ_wQszvWaU-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="i7_GnAH0jeQ_wQszvWaU-1" source="i7_GnAH0jeQ_wQszvWaU-18" target="i7_GnAH0jeQ_wQszvWaU-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i7_GnAH0jeQ_wQszvWaU-22" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="i7_GnAH0jeQ_wQszvWaU-1">
+          <mxGeometry x="930" y="568.75" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="i7_GnAH0jeQ_wQszvWaU-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="i7_GnAH0jeQ_wQszvWaU-1" source="i7_GnAH0jeQ_wQszvWaU-20" target="i7_GnAH0jeQ_wQszvWaU-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="975" y="596.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i7_GnAH0jeQ_wQszvWaU-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i7_GnAH0jeQ_wQszvWaU-25" target="i7_GnAH0jeQ_wQszvWaU-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i7_GnAH0jeQ_wQszvWaU-25" value="HOD procurement receives quotations from suppliers until the deadline" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="135" y="448.75" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="i7_GnAH0jeQ_wQszvWaU-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i7_GnAH0jeQ_wQszvWaU-5" target="i7_GnAH0jeQ_wQszvWaU-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i7_GnAH0jeQ_wQszvWaU-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i7_GnAH0jeQ_wQszvWaU-28" target="i7_GnAH0jeQ_wQszvWaU-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i7_GnAH0jeQ_wQszvWaU-28" value="HOD procurement recommends Opening and evaluation committee" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="135" y="603.75" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i7_GnAH0jeQ_wQszvWaU-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i7_GnAH0jeQ_wQszvWaU-30" target="i7_GnAH0jeQ_wQszvWaU-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i7_GnAH0jeQ_wQszvWaU-30" value="Accounting officer reviews the opening and evaluation committee (he/she may remove or add to the list of members) and appoints them" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="588.75" width="165" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="i7_GnAH0jeQ_wQszvWaU-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i7_GnAH0jeQ_wQszvWaU-32" target="i7_GnAH0jeQ_wQszvWaU-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i7_GnAH0jeQ_wQszvWaU-32" value="CEO Reviews HoD procurement&#39;s profession opinion" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="672.5" y="173.75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i7_GnAH0jeQ_wQszvWaU-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i7_GnAH0jeQ_wQszvWaU-10" target="i7_GnAH0jeQ_wQszvWaU-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i7_GnAH0jeQ_wQszvWaU-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="i7_GnAH0jeQ_wQszvWaU-35" target="i7_GnAH0jeQ_wQszvWaU-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="945" y="198.75" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="945" y="138.75" />
+              <mxPoint x="325" y="138.75" />
+              <mxPoint x="325" y="348.75" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i7_GnAH0jeQ_wQszvWaU-35" value="CEO Recommend to the committee /HOD procurement to re-evaluate, or terminates the procurement proceedings" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="865" y="298.75" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="i7_GnAH0jeQ_wQszvWaU-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i7_GnAH0jeQ_wQszvWaU-12" target="i7_GnAH0jeQ_wQszvWaU-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i7_GnAH0jeQ_wQszvWaU-37" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="812" y="328.75" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
