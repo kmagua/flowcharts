@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-14T12:18:55.870Z" agent="5.0 (Windows)" etag="oSKSBRLJDxWMd1AeMHOr" version="14.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-14T12:21:12.614Z" agent="5.0 (Windows)" etag="FvhTy_wRWOWmKWkTyiCh" version="14.0.0" type="github">
   <diagram id="WPC1PwGvHCD-nOEhcRJc" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -64,13 +64,13 @@
         <mxCell id="nd7zcNoajyeHfGIx0wI9-21" value="Procurement notifies store in charge of received goods" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="nd7zcNoajyeHfGIx0wI9-5">
           <mxGeometry x="653.5" y="555" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nd7zcNoajyeHfGIx0wI9-22" value="Stores-in-charge pdates the store inventory (S13) and forward s13 to procurement head" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="nd7zcNoajyeHfGIx0wI9-5">
+        <mxCell id="nd7zcNoajyeHfGIx0wI9-22" value="Stores-in-charge pdates the store inventory" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="nd7zcNoajyeHfGIx0wI9-5">
           <mxGeometry x="628.5" y="419" width="170" height="76" as="geometry" />
         </mxCell>
         <mxCell id="nd7zcNoajyeHfGIx0wI9-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nd7zcNoajyeHfGIx0wI9-5" source="nd7zcNoajyeHfGIx0wI9-21" target="nd7zcNoajyeHfGIx0wI9-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nd7zcNoajyeHfGIx0wI9-24" value="On receiving customer invoice, HoD Procurement certifies and forwards it together with counter receipt voucher (S13) to finance &amp;amp; accounts for payment" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="nd7zcNoajyeHfGIx0wI9-5">
+        <mxCell id="nd7zcNoajyeHfGIx0wI9-24" value="Forwarding documents to finance for supplier payment" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="nd7zcNoajyeHfGIx0wI9-5">
           <mxGeometry x="603.5" y="255" width="220" height="84" as="geometry" />
         </mxCell>
         <mxCell id="nd7zcNoajyeHfGIx0wI9-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nd7zcNoajyeHfGIx0wI9-5" source="nd7zcNoajyeHfGIx0wI9-22" target="nd7zcNoajyeHfGIx0wI9-24">
