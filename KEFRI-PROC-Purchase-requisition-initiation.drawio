@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-14T09:43:40.792Z" agent="5.0 (Windows)" etag="QSeLhGAEcaXDc0e8ttis" version="14.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-14T09:44:12.866Z" agent="5.0 (Windows)" etag="KJYfUk3xJJmzxFwCfCLZ" version="14.0.0" type="github">
   <diagram id="jesvzsV6G7X0xek4dLhK" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -61,13 +61,13 @@
         <mxCell id="IUnoVWmaFJZGCMUDejoO-15" value="HSCM" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="IUnoVWmaFJZGCMUDejoO-1">
           <mxGeometry y="365" width="1150" height="127.5" as="geometry" />
         </mxCell>
-        <mxCell id="IUnoVWmaFJZGCMUDejoO-16" value="HOD procurement receives procurement request and forwards to HOD finance for budget confirmation and availability of funds" style="whiteSpace=wrap;html=1;" vertex="1" parent="IUnoVWmaFJZGCMUDejoO-15">
+        <mxCell id="IUnoVWmaFJZGCMUDejoO-16" value="HSCM receives procurement request and forwards to HOD finance for budget confirmation and availability of funds" style="whiteSpace=wrap;html=1;" vertex="1" parent="IUnoVWmaFJZGCMUDejoO-15">
           <mxGeometry x="233" y="41" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IUnoVWmaFJZGCMUDejoO-17" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="IUnoVWmaFJZGCMUDejoO-15">
           <mxGeometry x="327" y="5" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="IUnoVWmaFJZGCMUDejoO-18" value="HOD Procurement identifies the best procurement method (preconfigured in the system) and initiates procurement process" style="whiteSpace=wrap;html=1;" vertex="1" parent="IUnoVWmaFJZGCMUDejoO-15">
+        <mxCell id="IUnoVWmaFJZGCMUDejoO-18" value="HSCM identifies the best procurement method (preconfigured in the system) and initiates procurement process" style="whiteSpace=wrap;html=1;" vertex="1" parent="IUnoVWmaFJZGCMUDejoO-15">
           <mxGeometry x="670" y="45.5" width="210" height="71" as="geometry" />
         </mxCell>
         <mxCell id="IUnoVWmaFJZGCMUDejoO-19" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="IUnoVWmaFJZGCMUDejoO-15">
@@ -78,7 +78,7 @@
             <mxPoint x="1005" y="81" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IUnoVWmaFJZGCMUDejoO-21" value="HoD procurement informs user of unavailability of funds" style="whiteSpace=wrap;html=1;" vertex="1" parent="IUnoVWmaFJZGCMUDejoO-15">
+        <mxCell id="IUnoVWmaFJZGCMUDejoO-21" value="HSCM informs user of unavailability of funds" style="whiteSpace=wrap;html=1;" vertex="1" parent="IUnoVWmaFJZGCMUDejoO-15">
           <mxGeometry x="480" y="40" width="130" height="66" as="geometry" />
         </mxCell>
         <mxCell id="IUnoVWmaFJZGCMUDejoO-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="IUnoVWmaFJZGCMUDejoO-15" source="IUnoVWmaFJZGCMUDejoO-21" target="IUnoVWmaFJZGCMUDejoO-19">
