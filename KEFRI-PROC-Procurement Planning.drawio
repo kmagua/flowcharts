@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-14T09:10:03.004Z" agent="5.0 (Windows)" etag="VPreHZe6LTnMCz1QkBmi" version="14.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-14T09:11:30.600Z" agent="5.0 (Windows)" etag="xF_c3-pv0UWAnpq9p28v" version="14.0.0" type="github">
   <diagram id="OvEPDo06AWxCtlv7Htj_" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -72,8 +72,23 @@
         <mxCell id="EHX_ExxeSJnJYutKTGt3-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="EHX_ExxeSJnJYutKTGt3-1" source="EHX_ExxeSJnJYutKTGt3-25" target="EHX_ExxeSJnJYutKTGt3-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EHX_ExxeSJnJYutKTGt3-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EHX_ExxeSJnJYutKTGt3-23" target="EHX_ExxeSJnJYutKTGt3-25">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="EHX_ExxeSJnJYutKTGt3-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="EHX_ExxeSJnJYutKTGt3-1" source="EHX_ExxeSJnJYutKTGt3-25" target="EHX_ExxeSJnJYutKTGt3-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="610" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="730" />
+              <mxPoint x="580" y="150" />
+              <mxPoint x="415" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EHX_ExxeSJnJYutKTGt3-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="EHX_ExxeSJnJYutKTGt3-23" target="EHX_ExxeSJnJYutKTGt3-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="800" />
+              <mxPoint x="680" y="800" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="EHX_ExxeSJnJYutKTGt3-23" value="Plan is presented to the EC" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="710" width="120" height="60" as="geometry" />
@@ -84,6 +99,12 @@
               <mxPoint x="520" y="220" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="EHX_ExxeSJnJYutKTGt3-30" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="675" y="442" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EHX_ExxeSJnJYutKTGt3-31" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="720" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
