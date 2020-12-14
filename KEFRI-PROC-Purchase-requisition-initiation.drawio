@@ -1,1 +1,114 @@
-<mxfile host="app.diagrams.net" modified="2020-12-14T09:43:07.835Z" agent="5.0 (Windows)" version="14.0.0" etag="_8fHW2ea7jWSBtmiAogu" type="github"><diagram id="jesvzsV6G7X0xek4dLhK">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-14T09:43:40.792Z" agent="5.0 (Windows)" etag="QSeLhGAEcaXDc0e8ttis" version="14.0.0" type="github">
+  <diagram id="jesvzsV6G7X0xek4dLhK" name="Page-1">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IUnoVWmaFJZGCMUDejoO-1" value="PROCUREMENT OF GOODS, SERVICES AND WORKS" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="1150" height="653" as="geometry" />
+        </mxCell>
+        <mxCell id="IUnoVWmaFJZGCMUDejoO-2" value="User" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="IUnoVWmaFJZGCMUDejoO-1">
+          <mxGeometry y="20" width="1150" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="IUnoVWmaFJZGCMUDejoO-3" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="IUnoVWmaFJZGCMUDejoO-2">
+          <mxGeometry x="288" y="20" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IUnoVWmaFJZGCMUDejoO-4" value="User fills the requisition as per the approved procurement plan and submits to HoD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="IUnoVWmaFJZGCMUDejoO-2">
+          <mxGeometry x="258" y="140" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IUnoVWmaFJZGCMUDejoO-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="IUnoVWmaFJZGCMUDejoO-2" source="IUnoVWmaFJZGCMUDejoO-3" target="IUnoVWmaFJZGCMUDejoO-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="333" y="145" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IUnoVWmaFJZGCMUDejoO-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="IUnoVWmaFJZGCMUDejoO-1" source="IUnoVWmaFJZGCMUDejoO-4" target="IUnoVWmaFJZGCMUDejoO-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="333" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IUnoVWmaFJZGCMUDejoO-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="IUnoVWmaFJZGCMUDejoO-1" source="IUnoVWmaFJZGCMUDejoO-12" target="IUnoVWmaFJZGCMUDejoO-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IUnoVWmaFJZGCMUDejoO-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="IUnoVWmaFJZGCMUDejoO-1" source="IUnoVWmaFJZGCMUDejoO-13" target="IUnoVWmaFJZGCMUDejoO-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="187" y="185.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="187" y="195" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IUnoVWmaFJZGCMUDejoO-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="IUnoVWmaFJZGCMUDejoO-1" source="IUnoVWmaFJZGCMUDejoO-16" target="IUnoVWmaFJZGCMUDejoO-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IUnoVWmaFJZGCMUDejoO-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="IUnoVWmaFJZGCMUDejoO-1" source="IUnoVWmaFJZGCMUDejoO-24" target="IUnoVWmaFJZGCMUDejoO-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IUnoVWmaFJZGCMUDejoO-11" value="HoD/ Supervisor" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="IUnoVWmaFJZGCMUDejoO-1">
+          <mxGeometry y="240" width="1150" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="IUnoVWmaFJZGCMUDejoO-12" value="Approves?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="IUnoVWmaFJZGCMUDejoO-11">
+          <mxGeometry x="293" y="32.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IUnoVWmaFJZGCMUDejoO-13" value="Rejection notes" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="IUnoVWmaFJZGCMUDejoO-11">
+          <mxGeometry x="150" y="27" width="74" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="IUnoVWmaFJZGCMUDejoO-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.014;entryY=0.542;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="IUnoVWmaFJZGCMUDejoO-11" source="IUnoVWmaFJZGCMUDejoO-12" target="IUnoVWmaFJZGCMUDejoO-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="293" y="75.5" as="sourcePoint" />
+            <mxPoint x="244" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IUnoVWmaFJZGCMUDejoO-15" value="HSCM" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="IUnoVWmaFJZGCMUDejoO-1">
+          <mxGeometry y="365" width="1150" height="127.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IUnoVWmaFJZGCMUDejoO-16" value="HOD procurement receives procurement request and forwards to HOD finance for budget confirmation and availability of funds" style="whiteSpace=wrap;html=1;" vertex="1" parent="IUnoVWmaFJZGCMUDejoO-15">
+          <mxGeometry x="233" y="41" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IUnoVWmaFJZGCMUDejoO-17" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="IUnoVWmaFJZGCMUDejoO-15">
+          <mxGeometry x="327" y="5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IUnoVWmaFJZGCMUDejoO-18" value="HOD Procurement identifies the best procurement method (preconfigured in the system) and initiates procurement process" style="whiteSpace=wrap;html=1;" vertex="1" parent="IUnoVWmaFJZGCMUDejoO-15">
+          <mxGeometry x="670" y="45.5" width="210" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="IUnoVWmaFJZGCMUDejoO-19" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="IUnoVWmaFJZGCMUDejoO-15">
+          <mxGeometry x="1000" y="56" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IUnoVWmaFJZGCMUDejoO-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="IUnoVWmaFJZGCMUDejoO-15" source="IUnoVWmaFJZGCMUDejoO-18" target="IUnoVWmaFJZGCMUDejoO-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1005" y="81" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IUnoVWmaFJZGCMUDejoO-21" value="HoD procurement informs user of unavailability of funds" style="whiteSpace=wrap;html=1;" vertex="1" parent="IUnoVWmaFJZGCMUDejoO-15">
+          <mxGeometry x="480" y="40" width="130" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="IUnoVWmaFJZGCMUDejoO-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="IUnoVWmaFJZGCMUDejoO-15" source="IUnoVWmaFJZGCMUDejoO-21" target="IUnoVWmaFJZGCMUDejoO-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="545" y="-33" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="545" y="15" />
+              <mxPoint x="1045" y="15" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IUnoVWmaFJZGCMUDejoO-23" value="HoD Finance" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="IUnoVWmaFJZGCMUDejoO-1">
+          <mxGeometry y="492.5" width="1150" height="160.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IUnoVWmaFJZGCMUDejoO-24" value="&lt;div&gt;Funds &lt;br&gt;&lt;/div&gt;&lt;div&gt;available?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="IUnoVWmaFJZGCMUDejoO-23">
+          <mxGeometry x="278" y="41.75" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IUnoVWmaFJZGCMUDejoO-25" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="IUnoVWmaFJZGCMUDejoO-23">
+          <mxGeometry x="494" y="117.5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IUnoVWmaFJZGCMUDejoO-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="IUnoVWmaFJZGCMUDejoO-1" source="IUnoVWmaFJZGCMUDejoO-24" target="IUnoVWmaFJZGCMUDejoO-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IUnoVWmaFJZGCMUDejoO-27" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="254" y="306" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IUnoVWmaFJZGCMUDejoO-28" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="427" y="564" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
