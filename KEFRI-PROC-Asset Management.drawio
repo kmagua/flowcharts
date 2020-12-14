@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-14T14:10:47.006Z" agent="5.0 (Windows)" etag="-147vvF5PyIu2MjSBcYj" version="14.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-14T14:11:44.787Z" agent="5.0 (Windows)" etag="H8gt0PI4LjRiLupORhy-" version="14.0.0" type="github">
   <diagram id="HGwa4h5siP3JCpQNrlbD" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -23,6 +23,12 @@
         </mxCell>
         <mxCell id="k8ReJaDi3zW-t70HLrM6-6" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="120" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="k8ReJaDi3zW-t70HLrM6-13" value="Items can also be disposed and the register updated accordingly" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="570" width="140" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="k8ReJaDi3zW-t70HLrM6-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k8ReJaDi3zW-t70HLrM6-11" target="k8ReJaDi3zW-t70HLrM6-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
