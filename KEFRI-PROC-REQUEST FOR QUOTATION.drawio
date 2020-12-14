@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-14T11:43:24.774Z" agent="5.0 (Windows)" etag="y79eUomgX7C8u5KljJFp" version="14.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-14T11:44:12.525Z" agent="5.0 (Windows)" etag="Cq6k5eH5G77Da4-o8hQ_" version="14.0.0" type="github">
   <diagram id="fsbPfr0Y3mRUSinZ5bUh" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -95,13 +95,13 @@
         <mxCell id="i7_GnAH0jeQ_wQszvWaU-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i7_GnAH0jeQ_wQszvWaU-30" target="i7_GnAH0jeQ_wQszvWaU-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="i7_GnAH0jeQ_wQszvWaU-30" value="Accounting officer reviews the opening and evaluation committee (he/she may remove or add to the list of members) and appoints them" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="i7_GnAH0jeQ_wQszvWaU-30" value="CEO reviews the opening and evaluation committee (he/she may remove or add to the list of members) and appoints them" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="588.75" width="165" height="90" as="geometry" />
         </mxCell>
         <mxCell id="i7_GnAH0jeQ_wQszvWaU-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i7_GnAH0jeQ_wQszvWaU-32" target="i7_GnAH0jeQ_wQszvWaU-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="i7_GnAH0jeQ_wQszvWaU-32" value="CEO Reviews HoD procurement&#39;s profession opinion" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="i7_GnAH0jeQ_wQszvWaU-32" value="CEO Reviews HSCM&#39;s professional opinion" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="672.5" y="173.75" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i7_GnAH0jeQ_wQszvWaU-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i7_GnAH0jeQ_wQszvWaU-10" target="i7_GnAH0jeQ_wQszvWaU-32">
