@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-14T13:26:22.983Z" agent="5.0 (Windows)" etag="JXluCwVEmix5JAEGrcOo" version="14.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-14T13:42:10.221Z" agent="5.0 (Windows)" etag="Tvoj_TnIR_VoY6UsDGdL" version="14.0.0" type="github">
   <diagram id="j9NaWDG-PyvncAnLxbCq" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -27,7 +27,7 @@
         <mxCell id="UBPsL0NpM_ScLO13zL5S-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="UBPsL0NpM_ScLO13zL5S-83" source="UBPsL0NpM_ScLO13zL5S-87" target="UBPsL0NpM_ScLO13zL5S-89">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UBPsL0NpM_ScLO13zL5S-91" value="Contract is signed by the bidder and CEO" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="UBPsL0NpM_ScLO13zL5S-83">
+        <mxCell id="UBPsL0NpM_ScLO13zL5S-91" value="Contract is signed by the bidder and CEO in presence of CS" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="UBPsL0NpM_ScLO13zL5S-83">
           <mxGeometry x="170" y="720" width="120" height="69" as="geometry" />
         </mxCell>
         <mxCell id="UBPsL0NpM_ScLO13zL5S-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="UBPsL0NpM_ScLO13zL5S-83" source="UBPsL0NpM_ScLO13zL5S-89" target="UBPsL0NpM_ScLO13zL5S-91">
