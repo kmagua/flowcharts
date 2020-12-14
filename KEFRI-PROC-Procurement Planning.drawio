@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-14T08:53:58.867Z" agent="5.0 (Windows)" etag="uoTGyUDkh9-Ga_pFE8Ox" version="14.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-14T08:54:26.630Z" agent="5.0 (Windows)" etag="hd3IsiG6-sItfVL0fXTW" version="14.0.0" type="github">
   <diagram id="OvEPDo06AWxCtlv7Htj_" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -9,6 +9,9 @@
         </mxCell>
         <mxCell id="EHX_ExxeSJnJYutKTGt3-2" value="HSCM" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="EHX_ExxeSJnJYutKTGt3-1">
           <mxGeometry y="20" width="1150" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="EHX_ExxeSJnJYutKTGt3-5" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="EHX_ExxeSJnJYutKTGt3-2">
+          <mxGeometry x="190" y="20" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="EHX_ExxeSJnJYutKTGt3-3" value="CEO" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="EHX_ExxeSJnJYutKTGt3-1">
           <mxGeometry y="240" width="1150" height="180" as="geometry" />
