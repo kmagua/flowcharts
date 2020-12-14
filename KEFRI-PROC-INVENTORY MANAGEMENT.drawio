@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-14T12:21:40.230Z" agent="5.0 (Windows)" etag="YfSUpvBno4l0fcBS6Ojp" version="14.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-14T12:23:25.642Z" agent="5.0 (Windows)" etag="eqmjyNFUW0P2YjLNq7C3" version="14.0.0" type="github">
   <diagram id="WPC1PwGvHCD-nOEhcRJc" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -61,20 +61,16 @@
         <mxCell id="nd7zcNoajyeHfGIx0wI9-20" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="nd7zcNoajyeHfGIx0wI9-5">
           <mxGeometry x="515" y="697" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="nd7zcNoajyeHfGIx0wI9-21" value="Procurement notifies store in charge of received goods" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="nd7zcNoajyeHfGIx0wI9-5">
+        <mxCell id="nd7zcNoajyeHfGIx0wI9-21" value="Updating of stock ledger cards" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="nd7zcNoajyeHfGIx0wI9-5">
           <mxGeometry x="653.5" y="555" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nd7zcNoajyeHfGIx0wI9-22" value="Stores-in-charge pdates the store inventory" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="nd7zcNoajyeHfGIx0wI9-5">
-          <mxGeometry x="628.5" y="419" width="170" height="76" as="geometry" />
-        </mxCell>
-        <mxCell id="nd7zcNoajyeHfGIx0wI9-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nd7zcNoajyeHfGIx0wI9-5" source="nd7zcNoajyeHfGIx0wI9-21" target="nd7zcNoajyeHfGIx0wI9-22">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="nd7zcNoajyeHfGIx0wI9-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="nd7zcNoajyeHfGIx0wI9-5" source="nd7zcNoajyeHfGIx0wI9-21" target="nd7zcNoajyeHfGIx0wI9-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="450" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="nd7zcNoajyeHfGIx0wI9-24" value="HSCM forwards relevant documents to finance for supplier payment" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="nd7zcNoajyeHfGIx0wI9-5">
           <mxGeometry x="603.5" y="255" width="220" height="84" as="geometry" />
-        </mxCell>
-        <mxCell id="nd7zcNoajyeHfGIx0wI9-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nd7zcNoajyeHfGIx0wI9-5" source="nd7zcNoajyeHfGIx0wI9-22" target="nd7zcNoajyeHfGIx0wI9-24">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nd7zcNoajyeHfGIx0wI9-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nd7zcNoajyeHfGIx0wI9-5" source="nd7zcNoajyeHfGIx0wI9-27" target="nd7zcNoajyeHfGIx0wI9-21">
           <mxGeometry relative="1" as="geometry" />
