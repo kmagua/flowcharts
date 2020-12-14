@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-14T09:28:36.030Z" agent="5.0 (Windows)" etag="Be5lYzn3NWeyTfa8a_Cf" version="14.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-14T09:31:09.873Z" agent="5.0 (Windows)" etag="lNoV3TFb3SGZ36okcYeq" version="14.0.0" type="github">
   <diagram id="w-FMCECvxbYMj4tCc7n4" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -21,7 +21,7 @@
         <mxCell id="g0wUeJ8PV5h-TPbVPJ5r-5" value="HSCM Pre-configures the Advert for registration of suppliers" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="g0wUeJ8PV5h-TPbVPJ5r-1">
           <mxGeometry x="150" y="460" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="g0wUeJ8PV5h-TPbVPJ5r-6" value="HoD procurement sends Invitation for registration of suppliers" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="g0wUeJ8PV5h-TPbVPJ5r-1">
+        <mxCell id="g0wUeJ8PV5h-TPbVPJ5r-6" value="HSCM sends Invitation for registration of suppliers" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="g0wUeJ8PV5h-TPbVPJ5r-1">
           <mxGeometry x="150" y="580" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g0wUeJ8PV5h-TPbVPJ5r-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="g0wUeJ8PV5h-TPbVPJ5r-1" source="g0wUeJ8PV5h-TPbVPJ5r-5" target="g0wUeJ8PV5h-TPbVPJ5r-6">
@@ -48,7 +48,7 @@
         <mxCell id="g0wUeJ8PV5h-TPbVPJ5r-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="g0wUeJ8PV5h-TPbVPJ5r-1" source="g0wUeJ8PV5h-TPbVPJ5r-11" target="g0wUeJ8PV5h-TPbVPJ5r-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="g0wUeJ8PV5h-TPbVPJ5r-15" value="HoD procurement populates the approved list of suppliers on the council&#39;s website" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="g0wUeJ8PV5h-TPbVPJ5r-1">
+        <mxCell id="g0wUeJ8PV5h-TPbVPJ5r-15" value="HSCM populates the approved list of suppliers on the council&#39;s website" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="g0wUeJ8PV5h-TPbVPJ5r-1">
           <mxGeometry x="608" y="660" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="g0wUeJ8PV5h-TPbVPJ5r-16" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="g0wUeJ8PV5h-TPbVPJ5r-1">
@@ -88,7 +88,7 @@
         <mxCell id="g0wUeJ8PV5h-TPbVPJ5r-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g0wUeJ8PV5h-TPbVPJ5r-27" target="g0wUeJ8PV5h-TPbVPJ5r-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="g0wUeJ8PV5h-TPbVPJ5r-27" value="HoD Procurement Recommends/Proposes members of opening, evaluation and inspection committee to CEO for appointment" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="g0wUeJ8PV5h-TPbVPJ5r-27" value="HSCM Recommends/Proposes members of opening, evaluation and inspection committee to CEO for appointment" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="383" y="690" width="145" height="100" as="geometry" />
         </mxCell>
         <mxCell id="g0wUeJ8PV5h-TPbVPJ5r-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g0wUeJ8PV5h-TPbVPJ5r-8" target="g0wUeJ8PV5h-TPbVPJ5r-27">
@@ -99,7 +99,7 @@
             <mxPoint x="692.8" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g0wUeJ8PV5h-TPbVPJ5r-30" value="HoD procurement Prepares professional opinion" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="g0wUeJ8PV5h-TPbVPJ5r-30" value="HSCM Prepares professional opinion" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="625.5" y="229.25" width="134.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g0wUeJ8PV5h-TPbVPJ5r-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g0wUeJ8PV5h-TPbVPJ5r-13" target="g0wUeJ8PV5h-TPbVPJ5r-30">
