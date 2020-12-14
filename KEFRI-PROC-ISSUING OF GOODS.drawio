@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-14T12:32:46.455Z" agent="5.0 (Windows)" etag="XuRD2amly-zwha8F9GvO" version="14.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-14T12:33:26.255Z" agent="5.0 (Windows)" etag="lqsppElQx1SzvdlGblgR" version="14.0.0" type="github">
   <diagram id="S4Uia43EBDRpgAlrZEA6" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -54,7 +54,7 @@
         <mxCell id="y0d2bBMfzTaO-x5zJVde-13" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="y0d2bBMfzTaO-x5zJVde-9">
           <mxGeometry x="342" y="69" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="y0d2bBMfzTaO-x5zJVde-14" value="Stores in charge" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="y0d2bBMfzTaO-x5zJVde-1">
+        <mxCell id="y0d2bBMfzTaO-x5zJVde-14" value="SCO" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="y0d2bBMfzTaO-x5zJVde-1">
           <mxGeometry y="400" width="1140" height="170" as="geometry" />
         </mxCell>
         <mxCell id="y0d2bBMfzTaO-x5zJVde-15" value="Issue stores (materials) to the user/ requisitioner" style="whiteSpace=wrap;html=1;" vertex="1" parent="y0d2bBMfzTaO-x5zJVde-14">
