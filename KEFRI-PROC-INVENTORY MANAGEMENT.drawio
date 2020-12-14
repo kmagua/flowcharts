@@ -1,1 +1,102 @@
-<mxfile host="app.diagrams.net" modified="2020-12-14T12:15:20.259Z" agent="5.0 (Windows)" version="14.0.0" etag="paKTY5w_NW9rbTd_WLso" type="github"><diagram id="WPC1PwGvHCD-nOEhcRJc">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-14T12:17:31.658Z" agent="5.0 (Windows)" etag="oeU2t3yTvZvolb4f5VyJ" version="14.0.0" type="github">
+  <diagram id="WPC1PwGvHCD-nOEhcRJc" name="Page-1">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nd7zcNoajyeHfGIx0wI9-5" value="INVENTORY MANAGEMENT - RECEIPT OF GOODS, SERVICES &amp; WORKS" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="1150" height="810" as="geometry" />
+        </mxCell>
+        <mxCell id="nd7zcNoajyeHfGIx0wI9-6" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="nd7zcNoajyeHfGIx0wI9-5">
+          <mxGeometry x="320" y="55" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nd7zcNoajyeHfGIx0wI9-7" value="HoD Procurement Recommends/Proposes members for appointment of Inspection and acceptance committee to CEO/Accounting officer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nd7zcNoajyeHfGIx0wI9-5">
+          <mxGeometry x="260" y="155" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nd7zcNoajyeHfGIx0wI9-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="nd7zcNoajyeHfGIx0wI9-5" source="nd7zcNoajyeHfGIx0wI9-6" target="nd7zcNoajyeHfGIx0wI9-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="365" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nd7zcNoajyeHfGIx0wI9-9" value="Appoint Inspection &amp;amp; acceptance committee" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="nd7zcNoajyeHfGIx0wI9-5">
+          <mxGeometry x="305" y="295" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nd7zcNoajyeHfGIx0wI9-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nd7zcNoajyeHfGIx0wI9-5" source="nd7zcNoajyeHfGIx0wI9-7" target="nd7zcNoajyeHfGIx0wI9-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nd7zcNoajyeHfGIx0wI9-11" value="Goods delivered by the supplier" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="nd7zcNoajyeHfGIx0wI9-5">
+          <mxGeometry x="305" y="419" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nd7zcNoajyeHfGIx0wI9-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nd7zcNoajyeHfGIx0wI9-5" source="nd7zcNoajyeHfGIx0wI9-9" target="nd7zcNoajyeHfGIx0wI9-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nd7zcNoajyeHfGIx0wI9-13" value="HoD procurement notifies inspection committee to inspect and acknowledge receipt" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="nd7zcNoajyeHfGIx0wI9-5">
+          <mxGeometry x="295" y="535" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="nd7zcNoajyeHfGIx0wI9-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nd7zcNoajyeHfGIx0wI9-5" source="nd7zcNoajyeHfGIx0wI9-11" target="nd7zcNoajyeHfGIx0wI9-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nd7zcNoajyeHfGIx0wI9-15" value="&lt;div&gt;Goods &lt;br&gt;&lt;/div&gt;&lt;div&gt;Acceptable?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="nd7zcNoajyeHfGIx0wI9-5">
+          <mxGeometry x="305" y="675" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nd7zcNoajyeHfGIx0wI9-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nd7zcNoajyeHfGIx0wI9-5" source="nd7zcNoajyeHfGIx0wI9-13" target="nd7zcNoajyeHfGIx0wI9-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nd7zcNoajyeHfGIx0wI9-17" value="Draft GRN and return goods" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;" vertex="1" parent="nd7zcNoajyeHfGIx0wI9-5">
+          <mxGeometry x="120" y="685" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nd7zcNoajyeHfGIx0wI9-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="nd7zcNoajyeHfGIx0wI9-5" source="nd7zcNoajyeHfGIx0wI9-15" target="nd7zcNoajyeHfGIx0wI9-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="225" y="715" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nd7zcNoajyeHfGIx0wI9-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="nd7zcNoajyeHfGIx0wI9-5" source="nd7zcNoajyeHfGIx0wI9-17" target="nd7zcNoajyeHfGIx0wI9-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="605" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="180" y="449" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nd7zcNoajyeHfGIx0wI9-20" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="nd7zcNoajyeHfGIx0wI9-5">
+          <mxGeometry x="515" y="697" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nd7zcNoajyeHfGIx0wI9-21" value="Procurement notifies store in charge of received goods" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="nd7zcNoajyeHfGIx0wI9-5">
+          <mxGeometry x="653.5" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nd7zcNoajyeHfGIx0wI9-22" value="Stores-in-charge pdates the store inventory (S13) and forward s13 to procurement head" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="nd7zcNoajyeHfGIx0wI9-5">
+          <mxGeometry x="628.5" y="419" width="170" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="nd7zcNoajyeHfGIx0wI9-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nd7zcNoajyeHfGIx0wI9-5" source="nd7zcNoajyeHfGIx0wI9-21" target="nd7zcNoajyeHfGIx0wI9-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nd7zcNoajyeHfGIx0wI9-24" value="On receiving customer invoice, HoD Procurement certifies and forwards it together with counter receipt voucher (S13) to finance &amp;amp; accounts for payment" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="nd7zcNoajyeHfGIx0wI9-5">
+          <mxGeometry x="603.5" y="255" width="220" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="nd7zcNoajyeHfGIx0wI9-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nd7zcNoajyeHfGIx0wI9-5" source="nd7zcNoajyeHfGIx0wI9-22" target="nd7zcNoajyeHfGIx0wI9-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nd7zcNoajyeHfGIx0wI9-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nd7zcNoajyeHfGIx0wI9-5" source="nd7zcNoajyeHfGIx0wI9-27" target="nd7zcNoajyeHfGIx0wI9-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nd7zcNoajyeHfGIx0wI9-27" value="Scan all vendor accompanying document, notify vendor of acceptance and invoice preparation" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="nd7zcNoajyeHfGIx0wI9-5">
+          <mxGeometry x="641" y="675" width="145" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nd7zcNoajyeHfGIx0wI9-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nd7zcNoajyeHfGIx0wI9-5" source="nd7zcNoajyeHfGIx0wI9-15" target="nd7zcNoajyeHfGIx0wI9-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nd7zcNoajyeHfGIx0wI9-29" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="nd7zcNoajyeHfGIx0wI9-5">
+          <mxGeometry x="948" y="272" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nd7zcNoajyeHfGIx0wI9-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="nd7zcNoajyeHfGIx0wI9-5" source="nd7zcNoajyeHfGIx0wI9-24" target="nd7zcNoajyeHfGIx0wI9-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="953.5" y="297" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nd7zcNoajyeHfGIx0wI9-31" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="265" y="707" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
