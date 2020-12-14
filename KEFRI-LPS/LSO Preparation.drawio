@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2020-12-14T12:11:37.578Z" agent="5.0 (Windows)" etag="fJvCnkGFCOBYezZ3Lf9r" version="14.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-14T12:11:52.283Z" agent="5.0 (Windows)" etag="LFGLjB_gti0gYWu3W8CV" version="14.0.0" type="github">
   <diagram id="hlPL0Bq8MXGjqF8pz6ak" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="4R2nqGt3JkrkRLi6oZFs-1" value="Preparation of LPO/LSO" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="1">
-          <mxGeometry x="10" y="10" width="970" height="800" as="geometry" />
+          <mxGeometry x="10" y="10" width="1150" height="800" as="geometry" />
         </mxCell>
         <mxCell id="4R2nqGt3JkrkRLi6oZFs-2" value="SCO" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="4R2nqGt3JkrkRLi6oZFs-1">
-          <mxGeometry y="20" width="970" height="270" as="geometry" />
+          <mxGeometry y="20" width="1150" height="270" as="geometry" />
         </mxCell>
         <mxCell id="4R2nqGt3JkrkRLi6oZFs-6" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4R2nqGt3JkrkRLi6oZFs-2">
           <mxGeometry x="230" y="10" width="90" height="50" as="geometry" />
@@ -33,13 +33,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4R2nqGt3JkrkRLi6oZFs-3" value="HSCM" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="4R2nqGt3JkrkRLi6oZFs-1">
-          <mxGeometry y="290" width="970" height="170" as="geometry" />
+          <mxGeometry y="290" width="1150" height="170" as="geometry" />
         </mxCell>
         <mxCell id="4R2nqGt3JkrkRLi6oZFs-10" value="Review and verifies the LPO/LSO and forwards it to the CEO for authorization of Expenditure" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="4R2nqGt3JkrkRLi6oZFs-3">
           <mxGeometry x="190" y="30" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="4R2nqGt3JkrkRLi6oZFs-4" value="CEO" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="4R2nqGt3JkrkRLi6oZFs-1">
-          <mxGeometry y="460" width="970" height="170" as="geometry" />
+          <mxGeometry y="460" width="1150" height="170" as="geometry" />
         </mxCell>
         <mxCell id="4R2nqGt3JkrkRLi6oZFs-12" value="Approved?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="4R2nqGt3JkrkRLi6oZFs-4">
           <mxGeometry x="235" y="40" width="80" height="80" as="geometry" />
@@ -54,7 +54,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4R2nqGt3JkrkRLi6oZFs-14" value="DDF/Accountant" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="4R2nqGt3JkrkRLi6oZFs-1">
-          <mxGeometry y="630" width="970" height="170" as="geometry" />
+          <mxGeometry y="630" width="1150" height="170" as="geometry" />
         </mxCell>
         <mxCell id="4R2nqGt3JkrkRLi6oZFs-16" value="Posting and updating of the ledger" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="4R2nqGt3JkrkRLi6oZFs-14">
           <mxGeometry x="215" y="40" width="120" height="60" as="geometry" />
