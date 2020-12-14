@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-14T13:19:12.574Z" agent="5.0 (Windows)" etag="Cc0_6diDz2AhJ6skCsfh" version="14.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-14T13:20:12.540Z" agent="5.0 (Windows)" etag="B-Mk6ybcvi9XWNNcgJOK" version="14.0.0" type="github">
   <diagram id="j9NaWDG-PyvncAnLxbCq" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="UBPsL0NpM_ScLO13zL5S-84" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="UBPsL0NpM_ScLO13zL5S-83">
           <mxGeometry x="185" y="40" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="UBPsL0NpM_ScLO13zL5S-85" value="HoD Procurement prepares draft contract document after lapse of 14 days of notification of award and sends to successful bidder for concurrence" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="UBPsL0NpM_ScLO13zL5S-83">
+        <mxCell id="UBPsL0NpM_ScLO13zL5S-85" value="HSCM prepares draft contract document after lapse of 14 days of notification of award and sends to successful bidder for concurrence" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="UBPsL0NpM_ScLO13zL5S-83">
           <mxGeometry x="125" y="160" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UBPsL0NpM_ScLO13zL5S-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="UBPsL0NpM_ScLO13zL5S-83" source="UBPsL0NpM_ScLO13zL5S-84" target="UBPsL0NpM_ScLO13zL5S-85">
