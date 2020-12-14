@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-14T12:59:33.247Z" agent="5.0 (Windows)" etag="PfC5OBsrrr0SP5Dt8hr1" version="14.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-14T13:05:21.512Z" agent="5.0 (Windows)" etag="z1h4QJTJZDrC61r0bugD" version="14.0.0" type="github">
   <diagram id="disdCqiPiTS09RIq2GX-" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -36,22 +36,8 @@
         <mxCell id="XibfLzeqJBqNHer66UN9-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XibfLzeqJBqNHer66UN9-2" source="XibfLzeqJBqNHer66UN9-8" target="XibfLzeqJBqNHer66UN9-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XibfLzeqJBqNHer66UN9-12" value="CEO presents proposed disposal plan to the Finance and Governance committee" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="XibfLzeqJBqNHer66UN9-2">
-          <mxGeometry x="446" y="668.19" width="140" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="XibfLzeqJBqNHer66UN9-13" value="&lt;div&gt;F&amp;amp;G&lt;br&gt;&lt;/div&gt;&lt;div&gt;concurs?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="XibfLzeqJBqNHer66UN9-2">
+        <mxCell id="XibfLzeqJBqNHer66UN9-13" value="CEO Approves" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="XibfLzeqJBqNHer66UN9-2">
           <mxGeometry x="476" y="520" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="XibfLzeqJBqNHer66UN9-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XibfLzeqJBqNHer66UN9-2" source="XibfLzeqJBqNHer66UN9-12" target="XibfLzeqJBqNHer66UN9-13">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="516" y="578.19" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XibfLzeqJBqNHer66UN9-15" value="Board discusses proposed plan" style="whiteSpace=wrap;html=1;" vertex="1" parent="XibfLzeqJBqNHer66UN9-2">
-          <mxGeometry x="451" y="390" width="130" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="XibfLzeqJBqNHer66UN9-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XibfLzeqJBqNHer66UN9-2" source="XibfLzeqJBqNHer66UN9-13" target="XibfLzeqJBqNHer66UN9-15">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XibfLzeqJBqNHer66UN9-17" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XibfLzeqJBqNHer66UN9-2">
           <mxGeometry x="511" y="483" width="40" height="20" as="geometry" />
@@ -64,27 +50,20 @@
             <mxPoint x="616" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XibfLzeqJBqNHer66UN9-20" value="Board chair and CEO approves the disposal plan" style="whiteSpace=wrap;html=1;" vertex="1" parent="XibfLzeqJBqNHer66UN9-2">
-          <mxGeometry x="456" y="140" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="XibfLzeqJBqNHer66UN9-21" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XibfLzeqJBqNHer66UN9-2">
-          <mxGeometry x="516" y="217" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="XibfLzeqJBqNHer66UN9-22" value="Board Comments" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="XibfLzeqJBqNHer66UN9-2">
-          <mxGeometry x="331" y="236" width="80" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="XibfLzeqJBqNHer66UN9-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="XibfLzeqJBqNHer66UN9-2" source="XibfLzeqJBqNHer66UN9-22" target="XibfLzeqJBqNHer66UN9-12">
+        <mxCell id="XibfLzeqJBqNHer66UN9-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XibfLzeqJBqNHer66UN9-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="371" y="436" as="targetPoint" />
+            <mxPoint x="430" y="540" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="371" y="708" />
+              <mxPoint x="371" y="580" />
+              <mxPoint x="430" y="580" />
             </Array>
+            <mxPoint x="371" y="336" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XibfLzeqJBqNHer66UN9-24" value="&lt;div&gt;CEO&lt;/div&gt;&lt;div&gt;Approves?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="XibfLzeqJBqNHer66UN9-2">
           <mxGeometry x="878.5" y="370" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="XibfLzeqJBqNHer66UN9-25" value="HoD procurement initiates the disposal of all items in plan based on recommended methods and forward report to stores" style="whiteSpace=wrap;html=1;" vertex="1" parent="XibfLzeqJBqNHer66UN9-2">
+        <mxCell id="XibfLzeqJBqNHer66UN9-25" value="HSCM initiates the disposal of all items in plan based on recommended methods and forward report to stores" style="whiteSpace=wrap;html=1;" vertex="1" parent="XibfLzeqJBqNHer66UN9-2">
           <mxGeometry x="853.5" y="503" width="170" height="84" as="geometry" />
         </mxCell>
         <mxCell id="XibfLzeqJBqNHer66UN9-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XibfLzeqJBqNHer66UN9-2" source="XibfLzeqJBqNHer66UN9-24" target="XibfLzeqJBqNHer66UN9-25">
@@ -96,7 +75,7 @@
         <mxCell id="XibfLzeqJBqNHer66UN9-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XibfLzeqJBqNHer66UN9-2" source="XibfLzeqJBqNHer66UN9-25" target="XibfLzeqJBqNHer66UN9-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XibfLzeqJBqNHer66UN9-29" value="HoD prorement forwards to CEO for approval" style="whiteSpace=wrap;html=1;" vertex="1" parent="XibfLzeqJBqNHer66UN9-2">
+        <mxCell id="XibfLzeqJBqNHer66UN9-29" value="HSCM forwards to CEO for approval" style="whiteSpace=wrap;html=1;" vertex="1" parent="XibfLzeqJBqNHer66UN9-2">
           <mxGeometry x="878.5" y="256" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XibfLzeqJBqNHer66UN9-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XibfLzeqJBqNHer66UN9-2" source="XibfLzeqJBqNHer66UN9-29" target="XibfLzeqJBqNHer66UN9-24">
@@ -124,41 +103,32 @@
         <mxCell id="XibfLzeqJBqNHer66UN9-36" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XibfLzeqJBqNHer66UN9-2">
           <mxGeometry x="814" y="386" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XibfLzeqJBqNHer66UN9-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XibfLzeqJBqNHer66UN9-38" target="XibfLzeqJBqNHer66UN9-12">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="XibfLzeqJBqNHer66UN9-38" value="HoD procurement presents proposed disposal plan to the CEO" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="XibfLzeqJBqNHer66UN9-2">
+          <mxGeometry x="110" y="678.19" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XibfLzeqJBqNHer66UN9-38" value="HoD procurement presents proposed disposal plan to the council&#39;s management committee and incorporates their amendments. Committee drafts recommendations to the CEO" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="670" width="200" height="96.38" as="geometry" />
-        </mxCell>
-        <mxCell id="XibfLzeqJBqNHer66UN9-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XibfLzeqJBqNHer66UN9-10" target="XibfLzeqJBqNHer66UN9-38">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="XibfLzeqJBqNHer66UN9-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="XibfLzeqJBqNHer66UN9-18" target="XibfLzeqJBqNHer66UN9-38">
+        <mxCell id="XibfLzeqJBqNHer66UN9-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="XibfLzeqJBqNHer66UN9-2" source="XibfLzeqJBqNHer66UN9-38" target="XibfLzeqJBqNHer66UN9-13">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="701" y="600" as="sourcePoint" />
-            <mxPoint x="686" y="680" as="targetPoint" />
+            <mxPoint x="446" y="708.19" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="671" y="790" />
-              <mxPoint x="220" y="790" />
+              <mxPoint x="516" y="708" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XibfLzeqJBqNHer66UN9-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XibfLzeqJBqNHer66UN9-2" source="XibfLzeqJBqNHer66UN9-10" target="XibfLzeqJBqNHer66UN9-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XibfLzeqJBqNHer66UN9-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="XibfLzeqJBqNHer66UN9-2" source="XibfLzeqJBqNHer66UN9-18" target="XibfLzeqJBqNHer66UN9-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="691" y="590" as="sourcePoint" />
+            <mxPoint x="676" y="670" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="661" y="780" />
+              <mxPoint x="210" y="780" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="XibfLzeqJBqNHer66UN9-41" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="576" y="551" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="XibfLzeqJBqNHer66UN9-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XibfLzeqJBqNHer66UN9-44" target="XibfLzeqJBqNHer66UN9-20">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="XibfLzeqJBqNHer66UN9-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XibfLzeqJBqNHer66UN9-44" target="XibfLzeqJBqNHer66UN9-22">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="656" y="296" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XibfLzeqJBqNHer66UN9-44" value="&lt;div&gt;Board&lt;/div&gt;&lt;div&gt;concurs?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="471" y="256" width="110" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="XibfLzeqJBqNHer66UN9-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XibfLzeqJBqNHer66UN9-15" target="XibfLzeqJBqNHer66UN9-44">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XibfLzeqJBqNHer66UN9-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XibfLzeqJBqNHer66UN9-47" target="XibfLzeqJBqNHer66UN9-50">
           <mxGeometry relative="1" as="geometry" />
@@ -166,13 +136,10 @@
         <mxCell id="XibfLzeqJBqNHer66UN9-47" value="Items are assembled for disposal" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="666" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XibfLzeqJBqNHer66UN9-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XibfLzeqJBqNHer66UN9-20" target="XibfLzeqJBqNHer66UN9-47">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="XibfLzeqJBqNHer66UN9-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XibfLzeqJBqNHer66UN9-50" target="XibfLzeqJBqNHer66UN9-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XibfLzeqJBqNHer66UN9-50" value="Disposal committee Inspects and verifies disposal items (Board of survey) and submits report to HOD Procurement" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XibfLzeqJBqNHer66UN9-50" value="Disposal committee Inspects and verifies disposal items (Board of survey) and submits report to HSCM" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="866" y="140" width="165" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XibfLzeqJBqNHer66UN9-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XibfLzeqJBqNHer66UN9-34" target="XibfLzeqJBqNHer66UN9-50">
@@ -185,8 +152,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XibfLzeqJBqNHer66UN9-52" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="432" y="277" width="40" height="20" as="geometry" />
+        <mxCell id="XibfLzeqJBqNHer66UN9-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XibfLzeqJBqNHer66UN9-13" target="XibfLzeqJBqNHer66UN9-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="526" y="460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="526" y="180" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
