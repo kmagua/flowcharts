@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-14T12:52:25.462Z" agent="5.0 (Windows)" etag="t4NxxmkaBrxlziPsZq7u" version="14.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-14T12:59:33.247Z" agent="5.0 (Windows)" etag="PfC5OBsrrr0SP5Dt8hr1" version="14.0.0" type="github">
   <diagram id="disdCqiPiTS09RIq2GX-" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -90,8 +90,8 @@
         <mxCell id="XibfLzeqJBqNHer66UN9-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XibfLzeqJBqNHer66UN9-2" source="XibfLzeqJBqNHer66UN9-24" target="XibfLzeqJBqNHer66UN9-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XibfLzeqJBqNHer66UN9-27" value="Stores in charge expunges disposed item from the asset register" style="whiteSpace=wrap;html=1;" vertex="1" parent="XibfLzeqJBqNHer66UN9-2">
-          <mxGeometry x="873.5" y="630" width="130" height="60" as="geometry" />
+        <mxCell id="XibfLzeqJBqNHer66UN9-27" value="SCO/Stores accountant expunges disposed item from the asset register" style="whiteSpace=wrap;html=1;" vertex="1" parent="XibfLzeqJBqNHer66UN9-2">
+          <mxGeometry x="858.5" y="620" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XibfLzeqJBqNHer66UN9-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XibfLzeqJBqNHer66UN9-2" source="XibfLzeqJBqNHer66UN9-25" target="XibfLzeqJBqNHer66UN9-27">
           <mxGeometry relative="1" as="geometry" />
