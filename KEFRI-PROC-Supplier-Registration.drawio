@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-14T09:27:28.464Z" agent="5.0 (Windows)" etag="sJBxC2KRkukn-7BwWTeR" version="14.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-14T09:28:36.030Z" agent="5.0 (Windows)" etag="Be5lYzn3NWeyTfa8a_Cf" version="14.0.0" type="github">
   <diagram id="w-FMCECvxbYMj4tCc7n4" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -33,7 +33,7 @@
         <mxCell id="g0wUeJ8PV5h-TPbVPJ5r-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="g0wUeJ8PV5h-TPbVPJ5r-1" source="g0wUeJ8PV5h-TPbVPJ5r-6" target="g0wUeJ8PV5h-TPbVPJ5r-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="g0wUeJ8PV5h-TPbVPJ5r-10" value="CEO Apponts members of opening, evaluation and inspection committee" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="g0wUeJ8PV5h-TPbVPJ5r-1">
+        <mxCell id="g0wUeJ8PV5h-TPbVPJ5r-10" value="CEO Appoints members of opening, evaluation and inspection committee" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="g0wUeJ8PV5h-TPbVPJ5r-1">
           <mxGeometry x="375.5" y="524" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="g0wUeJ8PV5h-TPbVPJ5r-11" value="After the tender has closed, opening committee opens the tender documents within the stipulated date and time" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="g0wUeJ8PV5h-TPbVPJ5r-1">
