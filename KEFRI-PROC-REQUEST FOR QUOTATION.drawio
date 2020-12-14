@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-14T11:44:12.525Z" agent="5.0 (Windows)" etag="Cq6k5eH5G77Da4-o8hQ_" version="14.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-14T11:45:50.359Z" agent="5.0 (Windows)" etag="3bssub6osWy-pwH-MuzV" version="14.0.0" type="github">
   <diagram id="fsbPfr0Y3mRUSinZ5bUh" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -57,13 +57,13 @@
         <mxCell id="i7_GnAH0jeQ_wQszvWaU-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="i7_GnAH0jeQ_wQszvWaU-1" source="i7_GnAH0jeQ_wQszvWaU-13" target="i7_GnAH0jeQ_wQszvWaU-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="i7_GnAH0jeQ_wQszvWaU-18" value="HoD procurement prepares a contract document for the successful bidder and forwards to the CEO for signature" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="i7_GnAH0jeQ_wQszvWaU-1">
+        <mxCell id="i7_GnAH0jeQ_wQszvWaU-18" value="HSCM prepares a contract document for the successful bidder and forwards to the CEO for signature" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="i7_GnAH0jeQ_wQszvWaU-1">
           <mxGeometry x="627.5" y="688.75" width="190" height="75" as="geometry" />
         </mxCell>
         <mxCell id="i7_GnAH0jeQ_wQszvWaU-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="i7_GnAH0jeQ_wQszvWaU-1" source="i7_GnAH0jeQ_wQszvWaU-16" target="i7_GnAH0jeQ_wQszvWaU-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="i7_GnAH0jeQ_wQszvWaU-20" value="Accounting officer issues a signed contract document to the bidder who also signs the contract" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="i7_GnAH0jeQ_wQszvWaU-1">
+        <mxCell id="i7_GnAH0jeQ_wQszvWaU-20" value="CEO issues a signed contract document to the bidder who also signs the contract" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="i7_GnAH0jeQ_wQszvWaU-1">
           <mxGeometry x="905" y="681.25" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="i7_GnAH0jeQ_wQszvWaU-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="i7_GnAH0jeQ_wQszvWaU-1" source="i7_GnAH0jeQ_wQszvWaU-18" target="i7_GnAH0jeQ_wQszvWaU-20">
