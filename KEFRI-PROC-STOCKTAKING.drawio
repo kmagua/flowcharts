@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-14T12:39:33.487Z" agent="5.0 (Windows)" etag="tt_62ynrgp6TyrWuVQUQ" version="14.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-14T12:41:11.569Z" agent="5.0 (Windows)" etag="IfIU_sY3B10Ic-79QEEw" version="14.0.0" type="github">
   <diagram id="HRKqEmTnOCS5fuT91VOO" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -30,7 +30,7 @@
         <mxCell id="w2uGk0D4AiONOriBWuO--8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="w2uGk0D4AiONOriBWuO--1" source="w2uGk0D4AiONOriBWuO--5" target="w2uGk0D4AiONOriBWuO--7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w2uGk0D4AiONOriBWuO--9" value="Committee forwarding of the stock take report to the HoD Procurement" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="w2uGk0D4AiONOriBWuO--1">
+        <mxCell id="w2uGk0D4AiONOriBWuO--9" value="Committee forwarding of the stock take report to the HSCM " style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="w2uGk0D4AiONOriBWuO--1">
           <mxGeometry x="700" y="580" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="w2uGk0D4AiONOriBWuO--10" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="w2uGk0D4AiONOriBWuO--1">
@@ -50,7 +50,7 @@
             <mxPoint x="775" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w2uGk0D4AiONOriBWuO--15" value="HoD procurement forward the stock take report to the Accounting Officer/CEO and HoD Finance" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="w2uGk0D4AiONOriBWuO--15" value="HSCM forward the stock take report to the Accounting Officer/CEO and HoD Finance" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="680" y="420" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="w2uGk0D4AiONOriBWuO--16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w2uGk0D4AiONOriBWuO--9" target="w2uGk0D4AiONOriBWuO--15">
