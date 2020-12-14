@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-14T11:41:31.836Z" agent="5.0 (Windows)" etag="gCA66QfD3ZxeZ0bHqb6X" version="14.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-14T11:42:21.558Z" agent="5.0 (Windows)" etag="K8P2Ie979ihF2kDs3X6H" version="14.0.0" type="github">
   <diagram id="h_NAqzSGxbTrKUN2CKvY" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -18,7 +18,7 @@
             <mxPoint x="200" y="163.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bB7W9YV56yQmfDV1i0yR-6" value="HSCM sends RFQ document to select suppliers" style="whiteSpace=wrap;html=1;rounded=0;" parent="bB7W9YV56yQmfDV1i0yR-1" vertex="1">
+        <mxCell id="bB7W9YV56yQmfDV1i0yR-6" value="HoD procurement sends RFQ document to select suppliers" style="whiteSpace=wrap;html=1;rounded=0;" parent="bB7W9YV56yQmfDV1i0yR-1" vertex="1">
           <mxGeometry x="140" y="308.75" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bB7W9YV56yQmfDV1i0yR-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="bB7W9YV56yQmfDV1i0yR-1" source="bB7W9YV56yQmfDV1i0yR-5" target="bB7W9YV56yQmfDV1i0yR-6" edge="1">
@@ -27,13 +27,13 @@
         <mxCell id="bB7W9YV56yQmfDV1i0yR-14" value="Opening committee convenes to open the quotations and creates a report/minutes" style="whiteSpace=wrap;html=1;rounded=0;" parent="bB7W9YV56yQmfDV1i0yR-1" vertex="1">
           <mxGeometry x="382.5" y="428.75" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="bB7W9YV56yQmfDV1i0yR-16" value="Evaluation committee convenes to evaluate the quotations and forward recommendation to HSCM " style="whiteSpace=wrap;html=1;rounded=0;" parent="bB7W9YV56yQmfDV1i0yR-1" vertex="1">
+        <mxCell id="bB7W9YV56yQmfDV1i0yR-16" value="Evaluation committee convenes to evaluate the quotations and forward recommendation to HOD procurement" style="whiteSpace=wrap;html=1;rounded=0;" parent="bB7W9YV56yQmfDV1i0yR-1" vertex="1">
           <mxGeometry x="362.5" y="301.25" width="180" height="75" as="geometry" />
         </mxCell>
         <mxCell id="bB7W9YV56yQmfDV1i0yR-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="bB7W9YV56yQmfDV1i0yR-1" source="bB7W9YV56yQmfDV1i0yR-14" target="bB7W9YV56yQmfDV1i0yR-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bB7W9YV56yQmfDV1i0yR-18" value="HSCM reviews the report and prepares professional procurement opinion and forwards to the CEO" style="whiteSpace=wrap;html=1;rounded=0;" parent="bB7W9YV56yQmfDV1i0yR-1" vertex="1">
+        <mxCell id="bB7W9YV56yQmfDV1i0yR-18" value="HOD reviews the report and prepares professional procurement opinion and forwards to the CEO" style="whiteSpace=wrap;html=1;rounded=0;" parent="bB7W9YV56yQmfDV1i0yR-1" vertex="1">
           <mxGeometry x="357.5" y="160" width="190" height="67.5" as="geometry" />
         </mxCell>
         <mxCell id="bB7W9YV56yQmfDV1i0yR-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="bB7W9YV56yQmfDV1i0yR-1" source="bB7W9YV56yQmfDV1i0yR-16" target="bB7W9YV56yQmfDV1i0yR-18" edge="1">
@@ -57,13 +57,13 @@
         <mxCell id="bB7W9YV56yQmfDV1i0yR-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="bB7W9YV56yQmfDV1i0yR-1" source="bB7W9YV56yQmfDV1i0yR-24" target="bB7W9YV56yQmfDV1i0yR-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bB7W9YV56yQmfDV1i0yR-34" value="HSCM prepares a contract document for the successful bidder and forwards to the CEO for signature" style="whiteSpace=wrap;html=1;rounded=0;" parent="bB7W9YV56yQmfDV1i0yR-1" vertex="1">
+        <mxCell id="bB7W9YV56yQmfDV1i0yR-34" value="HoD procurement prepares a contract document for the successful bidder and forwards to the CEO for signature" style="whiteSpace=wrap;html=1;rounded=0;" parent="bB7W9YV56yQmfDV1i0yR-1" vertex="1">
           <mxGeometry x="627.5" y="688.75" width="190" height="75" as="geometry" />
         </mxCell>
         <mxCell id="bB7W9YV56yQmfDV1i0yR-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="bB7W9YV56yQmfDV1i0yR-1" source="bB7W9YV56yQmfDV1i0yR-32" target="bB7W9YV56yQmfDV1i0yR-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bB7W9YV56yQmfDV1i0yR-36" value="Director/CEO issues a signed contract document to the bidder who also signs the contract" style="whiteSpace=wrap;html=1;rounded=0;" parent="bB7W9YV56yQmfDV1i0yR-1" vertex="1">
+        <mxCell id="bB7W9YV56yQmfDV1i0yR-36" value="Accounting officer issues a signed contract document to the bidder who also signs the contract" style="whiteSpace=wrap;html=1;rounded=0;" parent="bB7W9YV56yQmfDV1i0yR-1" vertex="1">
           <mxGeometry x="905" y="681.25" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="bB7W9YV56yQmfDV1i0yR-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="bB7W9YV56yQmfDV1i0yR-1" source="bB7W9YV56yQmfDV1i0yR-34" target="bB7W9YV56yQmfDV1i0yR-36" edge="1">
@@ -80,7 +80,7 @@
         <mxCell id="bB7W9YV56yQmfDV1i0yR-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bB7W9YV56yQmfDV1i0yR-8" target="bB7W9YV56yQmfDV1i0yR-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bB7W9YV56yQmfDV1i0yR-8" value="HSCM receives quotations from suppliers until the deadline" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="bB7W9YV56yQmfDV1i0yR-8" value="HOD procurement receives quotations from suppliers until the deadline" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="135" y="448.75" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="bB7W9YV56yQmfDV1i0yR-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bB7W9YV56yQmfDV1i0yR-6" target="bB7W9YV56yQmfDV1i0yR-8" edge="1">
@@ -89,19 +89,19 @@
         <mxCell id="bB7W9YV56yQmfDV1i0yR-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bB7W9YV56yQmfDV1i0yR-10" target="bB7W9YV56yQmfDV1i0yR-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bB7W9YV56yQmfDV1i0yR-10" value="HSCM recommends Opening and evaluation committee" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="bB7W9YV56yQmfDV1i0yR-10" value="HOD procurement recommends Opening and evaluation committee" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="135" y="603.75" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bB7W9YV56yQmfDV1i0yR-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bB7W9YV56yQmfDV1i0yR-12" target="bB7W9YV56yQmfDV1i0yR-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bB7W9YV56yQmfDV1i0yR-12" value="Director/CEO reviews the opening and evaluation committee (he/she may remove or add to the list of members) and appoints them" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="bB7W9YV56yQmfDV1i0yR-12" value="Accounting officer reviews the opening and evaluation committee (he/she may remove or add to the list of members) and appoints them" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="380" y="588.75" width="165" height="90" as="geometry" />
         </mxCell>
         <mxCell id="bB7W9YV56yQmfDV1i0yR-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bB7W9YV56yQmfDV1i0yR-20" target="bB7W9YV56yQmfDV1i0yR-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bB7W9YV56yQmfDV1i0yR-20" value="Director/CEO Reviews HSCM&#39;s profession opinion" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="bB7W9YV56yQmfDV1i0yR-20" value="CEO Reviews HoD procurement&#39;s profession opinion" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="672.5" y="173.75" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bB7W9YV56yQmfDV1i0yR-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bB7W9YV56yQmfDV1i0yR-18" target="bB7W9YV56yQmfDV1i0yR-20" edge="1">
@@ -117,7 +117,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bB7W9YV56yQmfDV1i0yR-27" value="Director/CEO Recommend to the committee /HOD procurement to re-evaluate, or terminates the procurement proceedings" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="bB7W9YV56yQmfDV1i0yR-27" value="CEO Recommend to the committee /HOD procurement to re-evaluate, or terminates the procurement proceedings" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="865" y="298.75" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="bB7W9YV56yQmfDV1i0yR-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bB7W9YV56yQmfDV1i0yR-22" target="bB7W9YV56yQmfDV1i0yR-27" edge="1">
