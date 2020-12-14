@@ -1,1 +1,125 @@
-<mxfile host="app.diagrams.net" modified="2020-12-14T09:25:50.632Z" agent="5.0 (Windows)" version="14.0.0" etag="MUcH3N_xbH51KZF0ax3T" type="github"><diagram id="w-FMCECvxbYMj4tCc7n4">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-14T09:27:28.464Z" agent="5.0 (Windows)" etag="sJBxC2KRkukn-7BwWTeR" version="14.0.0" type="github">
+  <diagram id="w-FMCECvxbYMj4tCc7n4" name="Page-1">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="g0wUeJ8PV5h-TPbVPJ5r-1" value="SUPPLIER SELECTION/PREQUALIFICATION" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="1150" height="810" as="geometry" />
+        </mxCell>
+        <mxCell id="g0wUeJ8PV5h-TPbVPJ5r-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="g0wUeJ8PV5h-TPbVPJ5r-1">
+          <mxGeometry x="170" y="50" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="g0wUeJ8PV5h-TPbVPJ5r-3" value="Head Supply chian Managemet (HSCM) prepares/updates categories of goods, works and services in the system" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="g0wUeJ8PV5h-TPbVPJ5r-1">
+          <mxGeometry x="130" y="170" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="g0wUeJ8PV5h-TPbVPJ5r-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="g0wUeJ8PV5h-TPbVPJ5r-1" source="g0wUeJ8PV5h-TPbVPJ5r-2" target="g0wUeJ8PV5h-TPbVPJ5r-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="215" y="165" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g0wUeJ8PV5h-TPbVPJ5r-5" value="HSCM Pre-configures the Advert for registration of suppliers" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="g0wUeJ8PV5h-TPbVPJ5r-1">
+          <mxGeometry x="150" y="460" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="g0wUeJ8PV5h-TPbVPJ5r-6" value="HoD procurement sends Invitation for registration of suppliers" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="g0wUeJ8PV5h-TPbVPJ5r-1">
+          <mxGeometry x="150" y="580" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g0wUeJ8PV5h-TPbVPJ5r-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="g0wUeJ8PV5h-TPbVPJ5r-1" source="g0wUeJ8PV5h-TPbVPJ5r-5" target="g0wUeJ8PV5h-TPbVPJ5r-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g0wUeJ8PV5h-TPbVPJ5r-8" value="Procurement officer Receives tender documents/E tendering " style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="g0wUeJ8PV5h-TPbVPJ5r-1">
+          <mxGeometry x="155" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g0wUeJ8PV5h-TPbVPJ5r-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="g0wUeJ8PV5h-TPbVPJ5r-1" source="g0wUeJ8PV5h-TPbVPJ5r-6" target="g0wUeJ8PV5h-TPbVPJ5r-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g0wUeJ8PV5h-TPbVPJ5r-10" value="CEO Apponts members of opening, evaluation and inspection committee" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="g0wUeJ8PV5h-TPbVPJ5r-1">
+          <mxGeometry x="375.5" y="524" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="g0wUeJ8PV5h-TPbVPJ5r-11" value="After the tender has closed, opening committee opens the tender documents within the stipulated date and time" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="g0wUeJ8PV5h-TPbVPJ5r-1">
+          <mxGeometry x="360.5" y="361" width="170" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="g0wUeJ8PV5h-TPbVPJ5r-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="g0wUeJ8PV5h-TPbVPJ5r-1" source="g0wUeJ8PV5h-TPbVPJ5r-10" target="g0wUeJ8PV5h-TPbVPJ5r-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g0wUeJ8PV5h-TPbVPJ5r-13" value="Evaluation committee evaluates tender documents within stipulated timelines" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="g0wUeJ8PV5h-TPbVPJ5r-1">
+          <mxGeometry x="370.5" y="208.5" width="150" height="81.5" as="geometry" />
+        </mxCell>
+        <mxCell id="g0wUeJ8PV5h-TPbVPJ5r-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="g0wUeJ8PV5h-TPbVPJ5r-1" source="g0wUeJ8PV5h-TPbVPJ5r-11" target="g0wUeJ8PV5h-TPbVPJ5r-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g0wUeJ8PV5h-TPbVPJ5r-15" value="HoD procurement populates the approved list of suppliers on the council&#39;s website" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="g0wUeJ8PV5h-TPbVPJ5r-1">
+          <mxGeometry x="608" y="660" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="g0wUeJ8PV5h-TPbVPJ5r-16" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="g0wUeJ8PV5h-TPbVPJ5r-1">
+          <mxGeometry x="885" y="620" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="g0wUeJ8PV5h-TPbVPJ5r-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="g0wUeJ8PV5h-TPbVPJ5r-1" source="g0wUeJ8PV5h-TPbVPJ5r-15" target="g0wUeJ8PV5h-TPbVPJ5r-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="682.75" y="665" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g0wUeJ8PV5h-TPbVPJ5r-18" value="&lt;div&gt;Bidder&lt;/div&gt;&lt;div&gt;prequalified?&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="g0wUeJ8PV5h-TPbVPJ5r-1">
+          <mxGeometry x="623" y="350" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="g0wUeJ8PV5h-TPbVPJ5r-19" value="CEO sends Notification of awards" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="g0wUeJ8PV5h-TPbVPJ5r-1">
+          <mxGeometry x="622.75" y="500" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="g0wUeJ8PV5h-TPbVPJ5r-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="g0wUeJ8PV5h-TPbVPJ5r-1" source="g0wUeJ8PV5h-TPbVPJ5r-18" target="g0wUeJ8PV5h-TPbVPJ5r-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g0wUeJ8PV5h-TPbVPJ5r-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="g0wUeJ8PV5h-TPbVPJ5r-1" source="g0wUeJ8PV5h-TPbVPJ5r-19" target="g0wUeJ8PV5h-TPbVPJ5r-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="822.75" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g0wUeJ8PV5h-TPbVPJ5r-22" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="g0wUeJ8PV5h-TPbVPJ5r-1">
+          <mxGeometry x="680" y="450" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="g0wUeJ8PV5h-TPbVPJ5r-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g0wUeJ8PV5h-TPbVPJ5r-24" target="g0wUeJ8PV5h-TPbVPJ5r-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g0wUeJ8PV5h-TPbVPJ5r-24" value="HSCM Designs/prepares tender document for registration of suppliers in the system based on selected products, good, works, services" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="313" width="170" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="g0wUeJ8PV5h-TPbVPJ5r-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g0wUeJ8PV5h-TPbVPJ5r-3" target="g0wUeJ8PV5h-TPbVPJ5r-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g0wUeJ8PV5h-TPbVPJ5r-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g0wUeJ8PV5h-TPbVPJ5r-27" target="g0wUeJ8PV5h-TPbVPJ5r-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g0wUeJ8PV5h-TPbVPJ5r-27" value="HoD Procurement Recommends/Proposes members of opening, evaluation and inspection committee to CEO for appointment" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="383" y="690" width="145" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="g0wUeJ8PV5h-TPbVPJ5r-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g0wUeJ8PV5h-TPbVPJ5r-8" target="g0wUeJ8PV5h-TPbVPJ5r-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g0wUeJ8PV5h-TPbVPJ5r-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g0wUeJ8PV5h-TPbVPJ5r-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="692.8" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g0wUeJ8PV5h-TPbVPJ5r-30" value="HoD procurement Prepares professional opinion" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="625.5" y="229.25" width="134.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g0wUeJ8PV5h-TPbVPJ5r-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g0wUeJ8PV5h-TPbVPJ5r-13" target="g0wUeJ8PV5h-TPbVPJ5r-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g0wUeJ8PV5h-TPbVPJ5r-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="g0wUeJ8PV5h-TPbVPJ5r-33" target="g0wUeJ8PV5h-TPbVPJ5r-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="940" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g0wUeJ8PV5h-TPbVPJ5r-33" value="CEO sends Notification of Debriefing " style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="860" y="360" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="g0wUeJ8PV5h-TPbVPJ5r-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g0wUeJ8PV5h-TPbVPJ5r-18" target="g0wUeJ8PV5h-TPbVPJ5r-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g0wUeJ8PV5h-TPbVPJ5r-35" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="784" y="378" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
