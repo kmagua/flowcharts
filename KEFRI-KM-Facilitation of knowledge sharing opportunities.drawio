@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-01-07T09:51:39.853Z" agent="5.0 (Windows)" etag="dSifj_w_0YzYKABm-DaM" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-07T09:53:19.576Z" agent="5.0 (Windows)" etag="6pUKL8DyBq6P0AYikq1o" version="14.1.1" type="github">
   <diagram id="KCgOj_m18zTXma5g5LJL" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="V44ASMHnhitSd9nr8uM7-1" value="Contribute to Existing Topic" style="swimlane;" vertex="1" parent="1">
+        <mxCell id="V44ASMHnhitSd9nr8uM7-1" value="Facilitation of knowledge sharing opportunities" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="19" y="9" width="1131" height="810" as="geometry" />
         </mxCell>
         <mxCell id="V44ASMHnhitSd9nr8uM7-2" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="V44ASMHnhitSd9nr8uM7-1">
