@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-07T08:40:12.783Z" agent="5.0 (Windows)" etag="3QUu94uyq8bAJsuKrWgS" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-07T08:42:41.723Z" agent="5.0 (Windows)" etag="3rqDzzj2QH2ZUnUZpuYF" version="14.1.1" type="github">
   <diagram id="2ImCOIX1L6pCfZg_k1Fe" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -6,6 +6,23 @@
         <mxCell id="1" parent="0" />
         <mxCell id="1ZXWgcHpupDr-lwD9w6X-1" value="New Knowledge Submission" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="10" y="10" width="1150" height="810" as="geometry" />
+        </mxCell>
+        <mxCell id="1ZXWgcHpupDr-lwD9w6X-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1ZXWgcHpupDr-lwD9w6X-1">
+          <mxGeometry x="200" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1ZXWgcHpupDr-lwD9w6X-3" value="Registered user logs in" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1ZXWgcHpupDr-lwD9w6X-1">
+          <mxGeometry x="200" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1ZXWgcHpupDr-lwD9w6X-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1ZXWgcHpupDr-lwD9w6X-1" source="1ZXWgcHpupDr-lwD9w6X-2" target="1ZXWgcHpupDr-lwD9w6X-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1ZXWgcHpupDr-lwD9w6X-6" value="Search if knowledge exists/topic" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1ZXWgcHpupDr-lwD9w6X-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1ZXWgcHpupDr-lwD9w6X-3" target="1ZXWgcHpupDr-lwD9w6X-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
