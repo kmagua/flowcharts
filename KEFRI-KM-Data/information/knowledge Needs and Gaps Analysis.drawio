@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-07T10:49:51.847Z" agent="5.0 (Windows)" etag="yemrkt3g4cdMxMFsGLaR" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-07T10:56:38.362Z" agent="5.0 (Windows)" etag="SjViBAhGxxvuWtfxJ6t9" version="14.1.1" type="github">
   <diagram id="taur7bEhrCDfShsqx-jf" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -19,18 +19,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JMderwETFMnHsGHLVlbF-5" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JMderwETFMnHsGHLVlbF-1">
-          <mxGeometry x="710" y="655" width="90" height="50" as="geometry" />
+          <mxGeometry x="910" y="360" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JMderwETFMnHsGHLVlbF-6" value="KM officer shares the data collection materials with staff " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JMderwETFMnHsGHLVlbF-1">
           <mxGeometry x="190" y="490" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="JMderwETFMnHsGHLVlbF-7" value="KM officer develops lessons learnt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JMderwETFMnHsGHLVlbF-1">
-          <mxGeometry x="455" y="650" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JMderwETFMnHsGHLVlbF-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JMderwETFMnHsGHLVlbF-1" source="JMderwETFMnHsGHLVlbF-7" target="JMderwETFMnHsGHLVlbF-5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="655" y="680" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="JMderwETFMnHsGHLVlbF-7" value="KM and Biometric officer analyse the data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JMderwETFMnHsGHLVlbF-1">
+          <mxGeometry x="455" y="635" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JMderwETFMnHsGHLVlbF-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JMderwETFMnHsGHLVlbF-10" target="JMderwETFMnHsGHLVlbF-6">
           <mxGeometry relative="1" as="geometry">
@@ -48,11 +43,34 @@
             <mxPoint x="410" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JMderwETFMnHsGHLVlbF-13" value="KM officer and requesting user holds the activity" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="210" y="660" width="120" height="60" as="geometry" />
+        <mxCell id="JMderwETFMnHsGHLVlbF-13" value="Staff fills in the questionnaires, interviews and documents/records/data verification and return to KM officer" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="630" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="JMderwETFMnHsGHLVlbF-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JMderwETFMnHsGHLVlbF-6" target="JMderwETFMnHsGHLVlbF-13">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JMderwETFMnHsGHLVlbF-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JMderwETFMnHsGHLVlbF-15" target="JMderwETFMnHsGHLVlbF-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JMderwETFMnHsGHLVlbF-15" value="KM officer leads focus group discussions" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="665" y="645" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JMderwETFMnHsGHLVlbF-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JMderwETFMnHsGHLVlbF-7" target="JMderwETFMnHsGHLVlbF-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JMderwETFMnHsGHLVlbF-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JMderwETFMnHsGHLVlbF-17" target="JMderwETFMnHsGHLVlbF-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JMderwETFMnHsGHLVlbF-17" value="KM and Biometric officer prepare final report" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="665" y="505" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JMderwETFMnHsGHLVlbF-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JMderwETFMnHsGHLVlbF-19" target="JMderwETFMnHsGHLVlbF-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="865" y="395" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JMderwETFMnHsGHLVlbF-19" value="KM and Biometrics officer presents report to staff in a meeting" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="665" y="365" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
