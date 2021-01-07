@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-07T10:16:47.600Z" agent="5.0 (Windows)" etag="mJfmiYEcK_nOTN_nWL7L" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-07T10:17:07.878Z" agent="5.0 (Windows)" etag="zN9SIeJC1DKGBS4Hvqak" version="14.1.1" type="github">
   <diagram id="xW45Yyf4O0EaXW6-tF-b" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -20,6 +20,14 @@
         </mxCell>
         <mxCell id="UKGL_MDzKJq9DSQoDGjI-12" value="KM officer develops Q&amp;amp;A summary" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="UKGL_MDzKJq9DSQoDGjI-1">
           <mxGeometry x="450" y="635" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UKGL_MDzKJq9DSQoDGjI-16" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="UKGL_MDzKJq9DSQoDGjI-1">
+          <mxGeometry x="650" y="635" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UKGL_MDzKJq9DSQoDGjI-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="UKGL_MDzKJq9DSQoDGjI-1" source="UKGL_MDzKJq9DSQoDGjI-12" target="UKGL_MDzKJq9DSQoDGjI-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="665" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="UKGL_MDzKJq9DSQoDGjI-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UKGL_MDzKJq9DSQoDGjI-6" target="UKGL_MDzKJq9DSQoDGjI-8">
           <mxGeometry relative="1" as="geometry" />
