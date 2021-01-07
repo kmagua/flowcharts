@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-07T08:47:00.277Z" agent="5.0 (Windows)" etag="YVWP7jXkVFhkq2HfHdxK" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-07T08:47:55.292Z" agent="5.0 (Windows)" etag="zokwupwu039DA5goYy7-" version="14.1.1" type="github">
   <diagram id="2ImCOIX1L6pCfZg_k1Fe" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -24,6 +24,9 @@
         <mxCell id="1ZXWgcHpupDr-lwD9w6X-17" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1ZXWgcHpupDr-lwD9w6X-1">
           <mxGeometry x="330" y="499" width="40" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="1ZXWgcHpupDr-lwD9w6X-25" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1ZXWgcHpupDr-lwD9w6X-1">
+          <mxGeometry x="820" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="1ZXWgcHpupDr-lwD9w6X-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1ZXWgcHpupDr-lwD9w6X-6" target="1ZXWgcHpupDr-lwD9w6X-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -48,11 +51,27 @@
         <mxCell id="1ZXWgcHpupDr-lwD9w6X-10" value="Create new knowledge/topic" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="660" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="1ZXWgcHpupDr-lwD9w6X-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1ZXWgcHpupDr-lwD9w6X-13" target="1ZXWgcHpupDr-lwD9w6X-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="1ZXWgcHpupDr-lwD9w6X-13" value="Add content to the new knowledge page/topic" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="410" y="660" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="1ZXWgcHpupDr-lwD9w6X-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1ZXWgcHpupDr-lwD9w6X-15" target="1ZXWgcHpupDr-lwD9w6X-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1ZXWgcHpupDr-lwD9w6X-15" value="Contribute to existing topic" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="410" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1ZXWgcHpupDr-lwD9w6X-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1ZXWgcHpupDr-lwD9w6X-19" target="1ZXWgcHpupDr-lwD9w6X-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1ZXWgcHpupDr-lwD9w6X-19" value="Save" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
