@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-07T09:42:50.595Z" agent="5.0 (Windows)" etag="5w6VMXa4sU9FcZowsVUg" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-07T09:51:10.139Z" agent="5.0 (Windows)" etag="IVVa_1qNXe896VdW3Sx1" version="14.1.1" type="github">
   <diagram id="KCgOj_m18zTXma5g5LJL" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -15,7 +15,7 @@
             <mxPoint x="1091" y="505" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V44ASMHnhitSd9nr8uM7-4" value="Edit/add to the topic" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="V44ASMHnhitSd9nr8uM7-1">
+        <mxCell id="V44ASMHnhitSd9nr8uM7-4" value="KM officer holds the activity" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="V44ASMHnhitSd9nr8uM7-1">
           <mxGeometry x="491" y="455" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V44ASMHnhitSd9nr8uM7-5" value="Save" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="V44ASMHnhitSd9nr8uM7-1">
