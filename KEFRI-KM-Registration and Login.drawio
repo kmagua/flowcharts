@@ -1,1 +1,77 @@
-<mxfile host="app.diagrams.net" modified="2021-01-08T06:16:23.802Z" agent="5.0 (Windows)" version="14.1.8" etag="v396lxlWTQ__L4OMHCRo" type="github"><diagram id="ZB6DS0RB_XYGhWj250rc">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-08T06:27:29.037Z" agent="5.0 (Windows)" etag="vrNd7ZJwcu019vizZ1TT" version="14.1.8" type="github">
+  <diagram id="ZB6DS0RB_XYGhWj250rc" name="Page-1">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pv1SgCYRtck5Ge2lza5L-1" value="Registration and Login" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="1150" height="810" as="geometry" />
+        </mxCell>
+        <mxCell id="pv1SgCYRtck5Ge2lza5L-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="pv1SgCYRtck5Ge2lza5L-1">
+          <mxGeometry x="210" y="70" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pv1SgCYRtck5Ge2lza5L-3" value="KEFRI staff registers an account in the KM portal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="pv1SgCYRtck5Ge2lza5L-1">
+          <mxGeometry x="200" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pv1SgCYRtck5Ge2lza5L-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="pv1SgCYRtck5Ge2lza5L-1" source="pv1SgCYRtck5Ge2lza5L-2" target="pv1SgCYRtck5Ge2lza5L-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pv1SgCYRtck5Ge2lza5L-7" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="pv1SgCYRtck5Ge2lza5L-1">
+          <mxGeometry x="830" y="520" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pv1SgCYRtck5Ge2lza5L-8" value="An email is sent to KM system ADMIN for approval" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="pv1SgCYRtck5Ge2lza5L-1">
+          <mxGeometry x="190" y="350" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pv1SgCYRtck5Ge2lza5L-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="pv1SgCYRtck5Ge2lza5L-1" source="pv1SgCYRtck5Ge2lza5L-3" target="pv1SgCYRtck5Ge2lza5L-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pv1SgCYRtck5Ge2lza5L-14" value="Approved?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="pv1SgCYRtck5Ge2lza5L-1">
+          <mxGeometry x="200" y="510" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pv1SgCYRtck5Ge2lza5L-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="pv1SgCYRtck5Ge2lza5L-1" source="pv1SgCYRtck5Ge2lza5L-8" target="pv1SgCYRtck5Ge2lza5L-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="505" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pv1SgCYRtck5Ge2lza5L-21" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="pv1SgCYRtck5Ge2lza5L-1">
+          <mxGeometry x="260" y="620" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pv1SgCYRtck5Ge2lza5L-15" value="Notify staff to login" style="whiteSpace=wrap;html=1;" vertex="1" parent="pv1SgCYRtck5Ge2lza5L-1">
+          <mxGeometry x="420" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pv1SgCYRtck5Ge2lza5L-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="pv1SgCYRtck5Ge2lza5L-1" source="pv1SgCYRtck5Ge2lza5L-14" target="pv1SgCYRtck5Ge2lza5L-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pv1SgCYRtck5Ge2lza5L-22" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="pv1SgCYRtck5Ge2lza5L-1">
+          <mxGeometry x="340" y="530" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pv1SgCYRtck5Ge2lza5L-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="pv1SgCYRtck5Ge2lza5L-17" target="pv1SgCYRtck5Ge2lza5L-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pv1SgCYRtck5Ge2lza5L-17" value="Notify staff" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pv1SgCYRtck5Ge2lza5L-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pv1SgCYRtck5Ge2lza5L-14" target="pv1SgCYRtck5Ge2lza5L-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pv1SgCYRtck5Ge2lza5L-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pv1SgCYRtck5Ge2lza5L-24" target="pv1SgCYRtck5Ge2lza5L-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="830" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pv1SgCYRtck5Ge2lza5L-24" value="Staff logs in" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pv1SgCYRtck5Ge2lza5L-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pv1SgCYRtck5Ge2lza5L-15" target="pv1SgCYRtck5Ge2lza5L-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
