@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-01-11T07:41:13.552Z" agent="5.0 (Windows)" etag="GVRmpRh-Eh4NLM15xiwd" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-11T07:41:53.954Z" agent="5.0 (Windows)" etag="65AIhieauype5v0VrLw9" version="14.1.8" type="github">
   <diagram id="dWZGJ-d_4HyBxlwed8cT" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="_AZ3pP7ZgK6MQPn-EBOW-1" value="Transfers from State Departments" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="20" width="730" height="740" as="geometry" />
+          <mxGeometry x="230" y="20" width="730" height="780" as="geometry" />
         </mxCell>
         <mxCell id="_AZ3pP7ZgK6MQPn-EBOW-2" value="CEO" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="_AZ3pP7ZgK6MQPn-EBOW-1">
           <mxGeometry y="20" width="730" height="220" as="geometry" />
@@ -22,7 +22,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_AZ3pP7ZgK6MQPn-EBOW-3" value="Manager Finance" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="_AZ3pP7ZgK6MQPn-EBOW-1">
-          <mxGeometry y="240" width="730" height="320" as="geometry" />
+          <mxGeometry y="240" width="730" height="290" as="geometry" />
         </mxCell>
         <mxCell id="_AZ3pP7ZgK6MQPn-EBOW-9" value="Receive an AIE from the State Department for the Monthly/Quarterly/semi-annually for Recurrent &amp;amp; Development grants disbursement " style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="_AZ3pP7ZgK6MQPn-EBOW-3">
           <mxGeometry x="252" y="50" width="210" height="80" as="geometry" />
@@ -33,25 +33,25 @@
         <mxCell id="_AZ3pP7ZgK6MQPn-EBOW-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_AZ3pP7ZgK6MQPn-EBOW-3" source="_AZ3pP7ZgK6MQPn-EBOW-9" target="_AZ3pP7ZgK6MQPn-EBOW-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_AZ3pP7ZgK6MQPn-EBOW-4" value="Cash Office- Accountant" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="_AZ3pP7ZgK6MQPn-EBOW-1">
-          <mxGeometry y="560" width="730" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="_AZ3pP7ZgK6MQPn-EBOW-13" value="Post the transaction in cash book and update the relevant ledgers" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="_AZ3pP7ZgK6MQPn-EBOW-4">
-          <mxGeometry x="287" y="20" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="_AZ3pP7ZgK6MQPn-EBOW-17" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="_AZ3pP7ZgK6MQPn-EBOW-4">
-          <mxGeometry x="530" y="25" width="90" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_AZ3pP7ZgK6MQPn-EBOW-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_AZ3pP7ZgK6MQPn-EBOW-4" source="_AZ3pP7ZgK6MQPn-EBOW-13" target="_AZ3pP7ZgK6MQPn-EBOW-17">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="517" y="55" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="_AZ3pP7ZgK6MQPn-EBOW-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_AZ3pP7ZgK6MQPn-EBOW-1" source="_AZ3pP7ZgK6MQPn-EBOW-8" target="_AZ3pP7ZgK6MQPn-EBOW-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_AZ3pP7ZgK6MQPn-EBOW-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_AZ3pP7ZgK6MQPn-EBOW-1" source="_AZ3pP7ZgK6MQPn-EBOW-11" target="_AZ3pP7ZgK6MQPn-EBOW-13">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_AZ3pP7ZgK6MQPn-EBOW-4" value="Cash Office- Accountant" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="_AZ3pP7ZgK6MQPn-EBOW-1">
+          <mxGeometry y="530" width="730" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="_AZ3pP7ZgK6MQPn-EBOW-13" value="Post the transaction in cash book and update the relevant ledgers" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="_AZ3pP7ZgK6MQPn-EBOW-4">
+          <mxGeometry x="287" y="20" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_AZ3pP7ZgK6MQPn-EBOW-17" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="_AZ3pP7ZgK6MQPn-EBOW-4">
+          <mxGeometry x="312" y="140" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_AZ3pP7ZgK6MQPn-EBOW-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_AZ3pP7ZgK6MQPn-EBOW-4" source="_AZ3pP7ZgK6MQPn-EBOW-13" target="_AZ3pP7ZgK6MQPn-EBOW-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="517" y="55" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
