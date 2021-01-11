@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-11T11:04:28.652Z" agent="5.0 (Windows)" etag="UP_HBzp_tBRaahMLOJFt" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-11T11:04:45.539Z" agent="5.0 (Windows)" etag="ayN6oWdq8LLCx7uQGZSx" version="14.1.8" type="github">
   <diagram id="j9R2Muzt5Av57egyuf8N" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fQ9OEcnFaJhe7QpnkyEf-24" value="Surrender the receipts/S13 for the equivalent amount for records" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="fQ9OEcnFaJhe7QpnkyEf-2">
-          <mxGeometry x="410" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="390" y="120" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fQ9OEcnFaJhe7QpnkyEf-28" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="fQ9OEcnFaJhe7QpnkyEf-2">
           <mxGeometry x="620" y="130" width="80" height="40" as="geometry" />
