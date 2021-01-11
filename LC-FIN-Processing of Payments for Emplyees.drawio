@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-01-11T09:59:18.988Z" agent="5.0 (Windows)" etag="QXe9vfGMvMz6Jh2-LLob" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-11T10:06:27.565Z" agent="5.0 (Windows)" etag="5NYB_zCrGvbDA8ZeQbV3" version="14.1.8" type="github">
   <diagram id="1JJa6cUBEEBqBfRkNrkH" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="zcF2YPwkhQo-STnj3zk0-1" value="PROCESSING OF PAYMENT FOR EMPLOYEES" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="1">
-          <mxGeometry x="10" y="10" width="1150" height="570" as="geometry" />
+          <mxGeometry x="10" y="10" width="1150" height="585" as="geometry" />
         </mxCell>
         <mxCell id="zcF2YPwkhQo-STnj3zk0-2" value="Staff" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="zcF2YPwkhQo-STnj3zk0-1">
           <mxGeometry y="20" width="1150" height="190" as="geometry" />
@@ -22,13 +22,51 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zcF2YPwkhQo-STnj3zk0-3" value="HoD" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="zcF2YPwkhQo-STnj3zk0-1">
-          <mxGeometry y="210" width="1150" height="120" as="geometry" />
+          <mxGeometry y="210" width="1150" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="zcF2YPwkhQo-STnj3zk0-10" value="Review of the claim forms" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="zcF2YPwkhQo-STnj3zk0-3">
+          <mxGeometry x="120" y="52.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zcF2YPwkhQo-STnj3zk0-4" value="MFA" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="zcF2YPwkhQo-STnj3zk0-1">
-          <mxGeometry y="330" width="1150" height="120" as="geometry" />
+          <mxGeometry y="345" width="1150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zcF2YPwkhQo-STnj3zk0-12" value="Authorize the claim" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="zcF2YPwkhQo-STnj3zk0-4">
+          <mxGeometry x="120" y="29" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zcF2YPwkhQo-STnj3zk0-16" value="Authorize raising of payment Voucher" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="zcF2YPwkhQo-STnj3zk0-4">
+          <mxGeometry x="330" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zcF2YPwkhQo-STnj3zk0-23" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zcF2YPwkhQo-STnj3zk0-4">
+          <mxGeometry x="730" y="40" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zcF2YPwkhQo-STnj3zk0-5" value="CEO" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="zcF2YPwkhQo-STnj3zk0-1">
-          <mxGeometry y="450" width="1150" height="120" as="geometry" />
+          <mxGeometry y="465" width="1150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zcF2YPwkhQo-STnj3zk0-14" value="Approval by CEO" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="zcF2YPwkhQo-STnj3zk0-5">
+          <mxGeometry x="120" y="49" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zcF2YPwkhQo-STnj3zk0-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zcF2YPwkhQo-STnj3zk0-1" source="zcF2YPwkhQo-STnj3zk0-7" target="zcF2YPwkhQo-STnj3zk0-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zcF2YPwkhQo-STnj3zk0-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zcF2YPwkhQo-STnj3zk0-1" source="zcF2YPwkhQo-STnj3zk0-10" target="zcF2YPwkhQo-STnj3zk0-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zcF2YPwkhQo-STnj3zk0-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zcF2YPwkhQo-STnj3zk0-1" source="zcF2YPwkhQo-STnj3zk0-12" target="zcF2YPwkhQo-STnj3zk0-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zcF2YPwkhQo-STnj3zk0-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zcF2YPwkhQo-STnj3zk0-1" source="zcF2YPwkhQo-STnj3zk0-14" target="zcF2YPwkhQo-STnj3zk0-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zcF2YPwkhQo-STnj3zk0-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zcF2YPwkhQo-STnj3zk0-19" target="zcF2YPwkhQo-STnj3zk0-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="415" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zcF2YPwkhQo-STnj3zk0-19" value="Payment Processes" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="385" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zcF2YPwkhQo-STnj3zk0-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zcF2YPwkhQo-STnj3zk0-16" target="zcF2YPwkhQo-STnj3zk0-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
