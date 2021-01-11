@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-01-11T08:28:10.802Z" agent="5.0 (Windows)" etag="ySy9De72U8CgQlB7Zj3-" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-11T08:28:57.782Z" agent="5.0 (Windows)" etag="y-B87gy2d6YUo7VcO-W0" version="14.1.8" type="github">
   <diagram id="AvOmc6vkkhdGpk2Jk79S" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="3HwEOPRvEottaWa8547o-1" value="ANNUAL BUDGET PREPARATION" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="1">
-          <mxGeometry x="10" y="10" width="760" height="810" as="geometry" />
+          <mxGeometry x="10" y="10" width="760" height="815" as="geometry" />
         </mxCell>
         <mxCell id="3HwEOPRvEottaWa8547o-2" value="DCS" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="3HwEOPRvEottaWa8547o-1">
           <mxGeometry y="20" width="760" height="240" as="geometry" />
@@ -49,10 +49,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3HwEOPRvEottaWa8547o-4" value="CEO" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="3HwEOPRvEottaWa8547o-1">
-          <mxGeometry y="570" width="760" height="120" as="geometry" />
+          <mxGeometry y="570" width="760" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="3HwEOPRvEottaWa8547o-18" value="Sign proposed budget &amp;amp; work plan &amp;amp; forward it to Finance &amp;amp; Governance Committee (FGC) of the Board for recommendation to full board" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="3HwEOPRvEottaWa8547o-4">
+          <mxGeometry x="360" y="20" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="3HwEOPRvEottaWa8547o-5" value="FGC Chair" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="3HwEOPRvEottaWa8547o-1">
-          <mxGeometry y="690" width="760" height="120" as="geometry" />
+          <mxGeometry y="695" width="760" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3HwEOPRvEottaWa8547o-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="3HwEOPRvEottaWa8547o-1" source="3HwEOPRvEottaWa8547o-16" target="3HwEOPRvEottaWa8547o-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
