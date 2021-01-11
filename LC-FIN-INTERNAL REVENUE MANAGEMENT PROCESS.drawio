@@ -1,20 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2021-01-11T07:54:14.219Z" agent="5.0 (Windows)" etag="ci8vs1RUEnDU1wpS4Mtf" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-11T07:55:29.524Z" agent="5.0 (Windows)" etag="XxFg9tkZ9SlrFxrSvC1O" version="14.1.8" type="github">
   <diagram id="yZuaLwqFxBGLV3QHSlK5" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="WxjS0sSeTSIqtQa7dZPV-1" value="INTERNAL REVENUE MANAGEMENT" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="1">
-          <mxGeometry x="290" y="180" width="480" height="380" as="geometry" />
+          <mxGeometry x="290" y="180" width="480" height="500" as="geometry" />
         </mxCell>
         <mxCell id="WxjS0sSeTSIqtQa7dZPV-2" value="RA" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="WxjS0sSeTSIqtQa7dZPV-1">
           <mxGeometry y="20" width="480" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="WxjS0sSeTSIqtQa7dZPV-3" value="Lane 2" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="WxjS0sSeTSIqtQa7dZPV-1">
+        <mxCell id="WxjS0sSeTSIqtQa7dZPV-3" value="MFA" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="WxjS0sSeTSIqtQa7dZPV-1">
           <mxGeometry y="140" width="480" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="WxjS0sSeTSIqtQa7dZPV-4" value="Lane 3" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="WxjS0sSeTSIqtQa7dZPV-1">
+        <mxCell id="WxjS0sSeTSIqtQa7dZPV-4" value="Customer/Student" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="WxjS0sSeTSIqtQa7dZPV-1">
           <mxGeometry y="260" width="480" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="WxjS0sSeTSIqtQa7dZPV-5" value="Cashier/MFA" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="WxjS0sSeTSIqtQa7dZPV-1">
+          <mxGeometry y="380" width="480" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
