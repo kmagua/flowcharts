@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2021-01-11T10:57:11.811Z" agent="5.0 (Windows)" version="14.1.8" etag="BVx6sXxaraVvx-DAWIUz" type="github"><diagram id="j9R2Muzt5Av57egyuf8N">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-11T10:59:28.128Z" agent="5.0 (Windows)" etag="4SeQskbjYOsTm3byWH5y" version="14.1.8" type="github">
+  <diagram id="j9R2Muzt5Av57egyuf8N" name="Page-1">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fQ9OEcnFaJhe7QpnkyEf-1" value="UTILIZATION OF PETTY CASH" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="10" width="730" height="690" as="geometry" />
+        </mxCell>
+        <mxCell id="fQ9OEcnFaJhe7QpnkyEf-2" value="User" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="fQ9OEcnFaJhe7QpnkyEf-1">
+          <mxGeometry y="20" width="730" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="fQ9OEcnFaJhe7QpnkyEf-3" value="HoD" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="fQ9OEcnFaJhe7QpnkyEf-1">
+          <mxGeometry y="210" width="730" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="fQ9OEcnFaJhe7QpnkyEf-4" value="MFA" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="fQ9OEcnFaJhe7QpnkyEf-1">
+          <mxGeometry y="330" width="730" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="fQ9OEcnFaJhe7QpnkyEf-5" value="CEO" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="fQ9OEcnFaJhe7QpnkyEf-1">
+          <mxGeometry y="450" width="730" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="fQ9OEcnFaJhe7QpnkyEf-11" value="ACO" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="fQ9OEcnFaJhe7QpnkyEf-1">
+          <mxGeometry y="570" width="730" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
