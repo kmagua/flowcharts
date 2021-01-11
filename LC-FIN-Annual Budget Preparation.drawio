@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-11T08:27:37.423Z" agent="5.0 (Windows)" etag="XrKgalkoSzpAwZIHBHqP" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-11T08:28:10.802Z" agent="5.0 (Windows)" etag="ySy9De72U8CgQlB7Zj3-" version="14.1.8" type="github">
   <diagram id="AvOmc6vkkhdGpk2Jk79S" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -40,6 +40,12 @@
           <mxGeometry x="120" y="190" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3HwEOPRvEottaWa8547o-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="3HwEOPRvEottaWa8547o-3" source="3HwEOPRvEottaWa8547o-12" target="3HwEOPRvEottaWa8547o-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3HwEOPRvEottaWa8547o-16" value="Incorporate the management Committee inputs &amp;amp; Forward Proposed budget to CEO" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="3HwEOPRvEottaWa8547o-3">
+          <mxGeometry x="390" y="190" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="3HwEOPRvEottaWa8547o-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="3HwEOPRvEottaWa8547o-3" source="3HwEOPRvEottaWa8547o-14" target="3HwEOPRvEottaWa8547o-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3HwEOPRvEottaWa8547o-4" value="CEO" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="3HwEOPRvEottaWa8547o-1">
