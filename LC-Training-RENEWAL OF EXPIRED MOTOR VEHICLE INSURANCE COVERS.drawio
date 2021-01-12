@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-12T09:02:08.814Z" agent="5.0 (Windows)" etag="HngL38xPzvN-NQ_o7euT" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-12T09:04:18.182Z" agent="5.0 (Windows)" etag="mEF9oAeZsBq2FwL11cyV" version="14.1.8" type="github">
   <diagram id="iqVK5lA826jD5fNl6_VV" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -46,6 +46,12 @@
         </mxCell>
         <mxCell id="e-Jlp6g5yajtnd1_zxyd-8" value="Comments" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="85" y="325" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="e-Jlp6g5yajtnd1_zxyd-15" value="Procurement office receives bids for motor vehicle insurance renewal/ purchase received." style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="642.5" width="170" height="77.5" as="geometry" />
+        </mxCell>
+        <mxCell id="e-Jlp6g5yajtnd1_zxyd-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e-Jlp6g5yajtnd1_zxyd-13" target="e-Jlp6g5yajtnd1_zxyd-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
