@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-12T09:40:20.214Z" agent="5.0 (Windows)" etag="U87c4zEKYQ-j40Ya8Dxo" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-12T09:43:04.340Z" agent="5.0 (Windows)" etag="m8YqF9MUBIViArDQO1iY" version="14.1.8" type="github">
   <diagram id="mqCRt8jWshRflJlXmG6v" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -30,11 +30,17 @@
         <mxCell id="U_bItnstda_1CP7JH8OQ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="U_bItnstda_1CP7JH8OQ-1" source="U_bItnstda_1CP7JH8OQ-6" target="U_bItnstda_1CP7JH8OQ-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="U_bItnstda_1CP7JH8OQ-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U_bItnstda_1CP7JH8OQ-10" target="U_bItnstda_1CP7JH8OQ-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="U_bItnstda_1CP7JH8OQ-10" value="&lt;div&gt;Balance&lt;/div&gt;&lt;div&gt;low?&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="560" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="U_bItnstda_1CP7JH8OQ-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U_bItnstda_1CP7JH8OQ-8" target="U_bItnstda_1CP7JH8OQ-10">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U_bItnstda_1CP7JH8OQ-12" value="Transport officer drafts a memo requesting for refill/ top up and submits to CEO" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="570" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
