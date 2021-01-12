@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-12T09:58:06.306Z" agent="5.0 (Windows)" etag="lB68gHWek661WWXA-bEn" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-12T09:58:19.614Z" agent="5.0 (Windows)" etag="DPsN4Odjh85cx_QfT_6K" version="14.1.8" type="github">
   <diagram id="HjueNVx1Rq4gOvmppDra" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -47,6 +47,9 @@
         </mxCell>
         <mxCell id="Sg_SU1YEE00XjIpQfV8W-13" value="Transport officer accompanies the driver to the service station with the fuel card for fuel purchase" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="460" width="180" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="Sg_SU1YEE00XjIpQfV8W-15" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="294" y="410" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
