@@ -1,28 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2021-01-12T08:26:24.837Z" agent="5.0 (Windows)" etag="u_nSm6Wi626QME_sHgkf" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-12T08:27:30.866Z" agent="5.0 (Windows)" etag="56xjHdvYMUmE34-kL3Xf" version="14.1.8" type="github">
   <diagram id="yCivjPEnVfi12GDQlkk3" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="AqaynX8G8O3u8b9F95J--1" value="MOTOR VEHICLE MAINTENANCE AND REPAIR PROCESS" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="10" y="10" width="1150" height="810" as="geometry" />
+          <mxGeometry x="10" y="10" width="890" height="810" as="geometry" />
         </mxCell>
         <mxCell id="AqaynX8G8O3u8b9F95J--2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="AqaynX8G8O3u8b9F95J--1">
-          <mxGeometry x="270" y="40" width="100" height="60" as="geometry" />
+          <mxGeometry x="200" y="40" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AqaynX8G8O3u8b9F95J--5" value="Driver records motor vehicle defects in the M/V Defects Report Form and submits to transport office for verification" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="AqaynX8G8O3u8b9F95J--1">
-          <mxGeometry x="230" y="160" width="180" height="80" as="geometry" />
+          <mxGeometry x="160" y="160" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AqaynX8G8O3u8b9F95J--4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="AqaynX8G8O3u8b9F95J--1" source="AqaynX8G8O3u8b9F95J--2" target="AqaynX8G8O3u8b9F95J--5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="320" y="170" as="targetPoint" />
+            <mxPoint x="250" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AqaynX8G8O3u8b9F95J--8" value="Transport officer forwards memo to CEO " style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="AqaynX8G8O3u8b9F95J--1">
-          <mxGeometry x="260" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="190" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AqaynX8G8O3u8b9F95J--6" value="Transport officer verifies the motor vehicle defects reported and drafts a memo recommending the repairs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="AqaynX8G8O3u8b9F95J--1">
-          <mxGeometry x="230" y="300" width="180" height="80" as="geometry" />
+          <mxGeometry x="160" y="300" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AqaynX8G8O3u8b9F95J--7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="AqaynX8G8O3u8b9F95J--1" source="AqaynX8G8O3u8b9F95J--5" target="AqaynX8G8O3u8b9F95J--6">
           <mxGeometry relative="1" as="geometry" />
@@ -31,28 +31,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AqaynX8G8O3u8b9F95J--16" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="AqaynX8G8O3u8b9F95J--1">
-          <mxGeometry x="220" y="588" width="40" height="20" as="geometry" />
+          <mxGeometry x="150" y="588" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AqaynX8G8O3u8b9F95J--18" value="Transport Officer in consulation with HRA Identify a garage to undertake the maintenance and repairs as requested" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="AqaynX8G8O3u8b9F95J--1">
-          <mxGeometry x="230" y="710" width="180" height="80" as="geometry" />
+          <mxGeometry x="160" y="710" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AqaynX8G8O3u8b9F95J--26" value="Transport officer picks payment check from finance and issues to garage" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="AqaynX8G8O3u8b9F95J--1">
-          <mxGeometry x="520" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="450" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AqaynX8G8O3u8b9F95J--24" value="Garage technician and council driver test to ascertain the service and repairs undertaken" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="AqaynX8G8O3u8b9F95J--1">
-          <mxGeometry x="500" y="380" width="160" height="70" as="geometry" />
+          <mxGeometry x="430" y="380" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="AqaynX8G8O3u8b9F95J--27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="AqaynX8G8O3u8b9F95J--1" source="AqaynX8G8O3u8b9F95J--24" target="AqaynX8G8O3u8b9F95J--26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AqaynX8G8O3u8b9F95J--28" value="Driver picks vehicle from the garage and driven back to KLDC parking lot" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="AqaynX8G8O3u8b9F95J--1">
-          <mxGeometry x="770" y="230" width="140" height="60" as="geometry" />
+          <mxGeometry x="700" y="230" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AqaynX8G8O3u8b9F95J--29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="AqaynX8G8O3u8b9F95J--1" source="AqaynX8G8O3u8b9F95J--26" target="AqaynX8G8O3u8b9F95J--28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AqaynX8G8O3u8b9F95J--34" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="AqaynX8G8O3u8b9F95J--1">
-          <mxGeometry x="790" y="520" width="100" height="60" as="geometry" />
+          <mxGeometry x="720" y="520" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AqaynX8G8O3u8b9F95J--13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AqaynX8G8O3u8b9F95J--10" target="AqaynX8G8O3u8b9F95J--12">
           <mxGeometry relative="1" as="geometry" />
@@ -61,27 +61,27 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AqaynX8G8O3u8b9F95J--10" value="&lt;div&gt;Memo&lt;/div&gt;&lt;div&gt;approved?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="580" width="100" height="80" as="geometry" />
+          <mxGeometry x="210" y="580" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AqaynX8G8O3u8b9F95J--11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AqaynX8G8O3u8b9F95J--8" target="AqaynX8G8O3u8b9F95J--10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AqaynX8G8O3u8b9F95J--15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AqaynX8G8O3u8b9F95J--12" target="AqaynX8G8O3u8b9F95J--6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="150" y="490" as="targetPoint" />
+            <mxPoint x="80" y="490" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="150" y="350" />
+              <mxPoint x="80" y="350" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="AqaynX8G8O3u8b9F95J--12" value="Comments" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="90" y="580" width="120" height="80" as="geometry" />
+          <mxGeometry x="20" y="580" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AqaynX8G8O3u8b9F95J--23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AqaynX8G8O3u8b9F95J--20" target="AqaynX8G8O3u8b9F95J--22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AqaynX8G8O3u8b9F95J--20" value="Transport officer hands the vehicle to the garage for repairs" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="530" y="730" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AqaynX8G8O3u8b9F95J--21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AqaynX8G8O3u8b9F95J--18" target="AqaynX8G8O3u8b9F95J--20">
           <mxGeometry relative="1" as="geometry" />
@@ -90,15 +90,15 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AqaynX8G8O3u8b9F95J--22" value="Transport officer picks payment documents from the garage hands them to procurement for payment processing" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="570" width="200" height="80" as="geometry" />
+          <mxGeometry x="420" y="570" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AqaynX8G8O3u8b9F95J--33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AqaynX8G8O3u8b9F95J--30" target="AqaynX8G8O3u8b9F95J--34">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="850" y="540" as="targetPoint" />
+            <mxPoint x="780" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AqaynX8G8O3u8b9F95J--30" value="Tranport officer keeps service and maintenance records and hard copy document filed in maintenance and repairs records" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="750" y="370" width="200" height="80" as="geometry" />
+          <mxGeometry x="680" y="370" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AqaynX8G8O3u8b9F95J--31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AqaynX8G8O3u8b9F95J--28" target="AqaynX8G8O3u8b9F95J--30">
           <mxGeometry relative="1" as="geometry" />
