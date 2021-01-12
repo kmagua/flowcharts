@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-01-12T12:19:32.931Z" agent="5.0 (Windows)" etag="R6y_tdJwtbTZ9uxxSABt" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-12T12:22:33.112Z" agent="5.0 (Windows)" etag="dLHVms7CiZGyDz7SXLlP" version="14.1.8" type="github">
   <diagram id="XTpeEnYmzEm0xpDSuKBR" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="nBN6CnrMO745iZhlTAGD-1" value="Container" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="10" y="10" width="860" height="810" as="geometry" />
+          <mxGeometry x="10" y="10" width="1090" height="810" as="geometry" />
         </mxCell>
         <mxCell id="nBN6CnrMO745iZhlTAGD-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="nBN6CnrMO745iZhlTAGD-1">
           <mxGeometry x="280" y="40" width="90" height="40" as="geometry" />
@@ -115,8 +115,11 @@
         <mxCell id="nBN6CnrMO745iZhlTAGD-26" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="570" y="676" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="nBN6CnrMO745iZhlTAGD-32" value="CEO forwards to MFA for facilitation" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="380" width="120" height="60" as="geometry" />
+        <mxCell id="nBN6CnrMO745iZhlTAGD-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nBN6CnrMO745iZhlTAGD-32" target="nBN6CnrMO745iZhlTAGD-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nBN6CnrMO745iZhlTAGD-32" value="CEO forwards to MFA for facilitation and cc to drirector" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="380" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nBN6CnrMO745iZhlTAGD-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nBN6CnrMO745iZhlTAGD-31" target="nBN6CnrMO745iZhlTAGD-32">
           <mxGeometry relative="1" as="geometry" />
@@ -126,6 +129,15 @@
         </mxCell>
         <mxCell id="nBN6CnrMO745iZhlTAGD-38" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="741" y="569" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nBN6CnrMO745iZhlTAGD-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nBN6CnrMO745iZhlTAGD-39" target="nBN6CnrMO745iZhlTAGD-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nBN6CnrMO745iZhlTAGD-39" value="Director notifies requesting officer of the approved request and assists in organizing for the necessary research institutions where necessary" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="210" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="nBN6CnrMO745iZhlTAGD-41" value="Officer plans the research design, selects the research method and proceeds to undertake the research and writes a report on the findings" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="215" width="180" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
