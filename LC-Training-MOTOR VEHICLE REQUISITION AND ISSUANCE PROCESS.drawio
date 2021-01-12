@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-12T06:47:38.555Z" agent="5.0 (Windows)" etag="1x4kncquMhw0RcnPDycN" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-12T06:48:11.326Z" agent="5.0 (Windows)" etag="XNeY2lSpDnV2spq3nCFF" version="14.1.8" type="github">
   <diagram id="6ny7MYcmJ75oyxdDwdRd" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -93,6 +93,12 @@
         </mxCell>
         <mxCell id="8BgREITHZNaEQP0OXt_D-36" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="556" y="610" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8BgREITHZNaEQP0OXt_D-37" value="Transport officer assigns driver as per request" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8BgREITHZNaEQP0OXt_D-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8BgREITHZNaEQP0OXt_D-34" target="8BgREITHZNaEQP0OXt_D-37">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
