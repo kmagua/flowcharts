@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-12T09:04:24.357Z" agent="5.0 (Windows)" etag="cUvFtAQd-HJ2DkqeMy9h" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-12T09:05:58.924Z" agent="5.0 (Windows)" etag="XvND8jQX5Gre0ThwzGt9" version="14.1.8" type="github">
   <diagram id="iqVK5lA826jD5fNl6_VV" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -24,10 +24,16 @@
         <mxCell id="e-Jlp6g5yajtnd1_zxyd-13" value="Procurement office tenders for insurance renewal/ purchase invited" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="e-Jlp6g5yajtnd1_zxyd-1">
           <mxGeometry x="210" y="470" width="170" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="e-Jlp6g5yajtnd1_zxyd-15" value="Procurement office receives bids for motor vehicle insurance renewal/ purchase received." style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="e-Jlp6g5yajtnd1_zxyd-1">
+        <mxCell id="e-Jlp6g5yajtnd1_zxyd-15" value="Procurement office receives bids for motor vehicle insurance renewal/ purchase received" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="e-Jlp6g5yajtnd1_zxyd-1">
           <mxGeometry x="210" y="620" width="170" height="77.5" as="geometry" />
         </mxCell>
         <mxCell id="e-Jlp6g5yajtnd1_zxyd-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="e-Jlp6g5yajtnd1_zxyd-1" source="e-Jlp6g5yajtnd1_zxyd-13" target="e-Jlp6g5yajtnd1_zxyd-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e-Jlp6g5yajtnd1_zxyd-17" value="Selection and evaluation of the tendered bids" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="e-Jlp6g5yajtnd1_zxyd-1">
+          <mxGeometry x="510" y="628.75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e-Jlp6g5yajtnd1_zxyd-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="e-Jlp6g5yajtnd1_zxyd-1" source="e-Jlp6g5yajtnd1_zxyd-15" target="e-Jlp6g5yajtnd1_zxyd-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e-Jlp6g5yajtnd1_zxyd-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e-Jlp6g5yajtnd1_zxyd-6" target="e-Jlp6g5yajtnd1_zxyd-8">
@@ -52,6 +58,12 @@
         </mxCell>
         <mxCell id="e-Jlp6g5yajtnd1_zxyd-8" value="Comments" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="85" y="325" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="e-Jlp6g5yajtnd1_zxyd-19" value="Tender opening and evaluation committee does selection and evaluation of the tendered bids" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="490" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="e-Jlp6g5yajtnd1_zxyd-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e-Jlp6g5yajtnd1_zxyd-17" target="e-Jlp6g5yajtnd1_zxyd-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
