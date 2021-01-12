@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-01-12T07:05:05.278Z" agent="5.0 (Windows)" etag="GbUlxGeN6bXC1H6D9Vz4" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-12T07:06:01.060Z" agent="5.0 (Windows)" etag="ONaqvmvzxp9O9HS8y85V" version="14.1.8" type="github">
   <diagram id="6ny7MYcmJ75oyxdDwdRd" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="8BgREITHZNaEQP0OXt_D-9" value="MOTOR VEHICLE REQUISITION AND ISSUANCE PROCESS" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="10" y="10" width="950" height="800" as="geometry" />
+          <mxGeometry x="110" y="10" width="950" height="800" as="geometry" />
         </mxCell>
         <mxCell id="8BgREITHZNaEQP0OXt_D-10" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8BgREITHZNaEQP0OXt_D-9">
           <mxGeometry x="300" y="50" width="90" height="50" as="geometry" />
@@ -46,7 +46,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8BgREITHZNaEQP0OXt_D-14" value="Supervisor reviews the requisition form and submits to the director for concurrence" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="335" width="150" height="75" as="geometry" />
+          <mxGeometry x="380" y="335" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="8BgREITHZNaEQP0OXt_D-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8BgREITHZNaEQP0OXt_D-11" target="8BgREITHZNaEQP0OXt_D-14">
           <mxGeometry relative="1" as="geometry" />
@@ -58,19 +58,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8BgREITHZNaEQP0OXt_D-16" value="Director concurs?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="310" y="487.5" width="90" height="80" as="geometry" />
+          <mxGeometry x="410" y="487.5" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8BgREITHZNaEQP0OXt_D-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8BgREITHZNaEQP0OXt_D-18" target="8BgREITHZNaEQP0OXt_D-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8BgREITHZNaEQP0OXt_D-18" value="Transport officer receives transport requisition form" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="295" y="657.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="395" y="657.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8BgREITHZNaEQP0OXt_D-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8BgREITHZNaEQP0OXt_D-20" target="8BgREITHZNaEQP0OXt_D-28">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="590" y="728" />
-              <mxPoint x="590" y="750" />
+              <mxPoint x="690" y="728" />
+              <mxPoint x="690" y="750" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -78,33 +78,33 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8BgREITHZNaEQP0OXt_D-20" value="Approved?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="550" y="647.5" width="80" height="80" as="geometry" />
+          <mxGeometry x="650" y="647.5" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8BgREITHZNaEQP0OXt_D-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8BgREITHZNaEQP0OXt_D-24" target="8BgREITHZNaEQP0OXt_D-14">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="185" y="397.5" as="targetPoint" />
+            <mxPoint x="285" y="397.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="180" y="373" />
+              <mxPoint x="280" y="373" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="8BgREITHZNaEQP0OXt_D-24" value="Comments" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="125" y="487.5" width="120" height="80" as="geometry" />
+          <mxGeometry x="225" y="487.5" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8BgREITHZNaEQP0OXt_D-32" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="262" y="510" width="40" height="20" as="geometry" />
+          <mxGeometry x="362" y="510" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8BgREITHZNaEQP0OXt_D-33" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="554" y="732" width="40" height="20" as="geometry" />
+          <mxGeometry x="654" y="732" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8BgREITHZNaEQP0OXt_D-36" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="556" y="610" width="40" height="20" as="geometry" />
+          <mxGeometry x="656" y="610" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8BgREITHZNaEQP0OXt_D-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8BgREITHZNaEQP0OXt_D-37" target="8BgREITHZNaEQP0OXt_D-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8BgREITHZNaEQP0OXt_D-37" value="Transport officer assigns driver as per request" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="530" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="630" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8BgREITHZNaEQP0OXt_D-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8BgREITHZNaEQP0OXt_D-34" target="8BgREITHZNaEQP0OXt_D-37">
           <mxGeometry relative="1" as="geometry" />
@@ -113,23 +113,23 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8BgREITHZNaEQP0OXt_D-39" value="Driver records details of the journey in the work ticket and notify transport officer in case of incidents or accidents during journey" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="505" y="210" width="170" height="90" as="geometry" />
+          <mxGeometry x="605" y="210" width="170" height="90" as="geometry" />
         </mxCell>
         <mxCell id="8BgREITHZNaEQP0OXt_D-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8BgREITHZNaEQP0OXt_D-47" target="8BgREITHZNaEQP0OXt_D-41">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="840" y="375" as="targetPoint" />
+            <mxPoint x="940" y="375" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8BgREITHZNaEQP0OXt_D-47" value="Driver records return time and mileage at the end of journey and returns work ticket to transport officer" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="755" y="220" width="170" height="70" as="geometry" />
+          <mxGeometry x="855" y="220" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="8BgREITHZNaEQP0OXt_D-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8BgREITHZNaEQP0OXt_D-51" target="8BgREITHZNaEQP0OXt_D-55">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="840" y="656" as="targetPoint" />
+            <mxPoint x="940" y="656" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8BgREITHZNaEQP0OXt_D-51" value="Transport officer authorizes details in the work ticket" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="780" y="516" width="120" height="60" as="geometry" />
+          <mxGeometry x="880" y="516" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8BgREITHZNaEQP0OXt_D-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8BgREITHZNaEQP0OXt_D-41" target="8BgREITHZNaEQP0OXt_D-51">
           <mxGeometry relative="1" as="geometry" />
