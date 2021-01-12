@@ -1,1 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2021-01-12T09:54:23.578Z" agent="5.0 (Windows)" version="14.1.8" etag="eAqlrR4XOVDuE5FRlVRf" type="github"><diagram id="HjueNVx1Rq4gOvmppDra">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-12T09:58:06.306Z" agent="5.0 (Windows)" etag="lB68gHWek661WWXA-bEn" version="14.1.8" type="github">
+  <diagram id="HjueNVx1Rq4gOvmppDra" name="Page-1">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Sg_SU1YEE00XjIpQfV8W-1" value="REQUISITION FOR FUEL PURCHASE PROCESS" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="760" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="Sg_SU1YEE00XjIpQfV8W-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Sg_SU1YEE00XjIpQfV8W-1">
+          <mxGeometry x="250" y="30" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Sg_SU1YEE00XjIpQfV8W-5" value="Driver fills fuel requisition form and submits to transport office for approval" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Sg_SU1YEE00XjIpQfV8W-1">
+          <mxGeometry x="210" y="150" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Sg_SU1YEE00XjIpQfV8W-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Sg_SU1YEE00XjIpQfV8W-1" source="Sg_SU1YEE00XjIpQfV8W-2" target="Sg_SU1YEE00XjIpQfV8W-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="155" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sg_SU1YEE00XjIpQfV8W-12" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Sg_SU1YEE00XjIpQfV8W-1">
+          <mxGeometry x="190" y="310" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Sg_SU1YEE00XjIpQfV8W-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Sg_SU1YEE00XjIpQfV8W-6" target="Sg_SU1YEE00XjIpQfV8W-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sg_SU1YEE00XjIpQfV8W-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Sg_SU1YEE00XjIpQfV8W-6" target="Sg_SU1YEE00XjIpQfV8W-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sg_SU1YEE00XjIpQfV8W-6" value="request approved?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="305" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Sg_SU1YEE00XjIpQfV8W-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Sg_SU1YEE00XjIpQfV8W-5" target="Sg_SU1YEE00XjIpQfV8W-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sg_SU1YEE00XjIpQfV8W-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sg_SU1YEE00XjIpQfV8W-8" target="Sg_SU1YEE00XjIpQfV8W-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="225" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="120" y="195" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sg_SU1YEE00XjIpQfV8W-8" value="Comments/queries" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="305" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Sg_SU1YEE00XjIpQfV8W-13" value="Transport officer accompanies the driver to the service station with the fuel card for fuel purchase" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="460" width="180" height="75" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
