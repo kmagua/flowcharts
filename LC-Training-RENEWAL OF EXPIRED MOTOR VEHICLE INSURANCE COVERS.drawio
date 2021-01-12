@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-12T08:47:45.031Z" agent="5.0 (Windows)" etag="V4mLxAVFwlOruxJLXHUZ" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-12T09:00:33.484Z" agent="5.0 (Windows)" etag="U2U-IGZeBsFZH1kcKS7l" version="14.1.8" type="github">
   <diagram id="iqVK5lA826jD5fNl6_VV" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -6,6 +6,37 @@
         <mxCell id="1" parent="0" />
         <mxCell id="e-Jlp6g5yajtnd1_zxyd-1" value="RENEWAL OF EXPIRED MOTOR VEHICLE INSURANCE COVERS" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="10" y="10" width="1150" height="810" as="geometry" />
+        </mxCell>
+        <mxCell id="e-Jlp6g5yajtnd1_zxyd-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="e-Jlp6g5yajtnd1_zxyd-1">
+          <mxGeometry x="250" y="40" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="e-Jlp6g5yajtnd1_zxyd-5" value="Request for insurance renewal/ purchase submitted to the CEO for approval at least one month before expiry" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="e-Jlp6g5yajtnd1_zxyd-1">
+          <mxGeometry x="210" y="170" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="e-Jlp6g5yajtnd1_zxyd-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="e-Jlp6g5yajtnd1_zxyd-1" source="e-Jlp6g5yajtnd1_zxyd-2" target="e-Jlp6g5yajtnd1_zxyd-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="295" y="165" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e-Jlp6g5yajtnd1_zxyd-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e-Jlp6g5yajtnd1_zxyd-6" target="e-Jlp6g5yajtnd1_zxyd-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e-Jlp6g5yajtnd1_zxyd-6" value="Approved?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="265" y="325" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="e-Jlp6g5yajtnd1_zxyd-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e-Jlp6g5yajtnd1_zxyd-5" target="e-Jlp6g5yajtnd1_zxyd-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e-Jlp6g5yajtnd1_zxyd-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="e-Jlp6g5yajtnd1_zxyd-8" target="e-Jlp6g5yajtnd1_zxyd-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="145" y="245" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="145" y="215" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e-Jlp6g5yajtnd1_zxyd-8" value="Comments" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="85" y="325" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
