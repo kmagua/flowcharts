@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-12T08:03:30.030Z" agent="5.0 (Windows)" etag="VbWTkVXJZWwxyzzp5hQ-" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-12T08:04:44.575Z" agent="5.0 (Windows)" etag="WP_HL1wda0kre5a6_RLR" version="14.1.8" type="github">
   <diagram id="yCivjPEnVfi12GDQlkk3" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -35,6 +35,21 @@
         </mxCell>
         <mxCell id="AqaynX8G8O3u8b9F95J--18" value="Transport Officer in consulation with HRA Identify a garage to undertake the maintenance and repairs as requested" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="AqaynX8G8O3u8b9F95J--1">
           <mxGeometry x="230" y="710" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AqaynX8G8O3u8b9F95J--26" value="Transport officer picks payment check from finance and issues to garage" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="AqaynX8G8O3u8b9F95J--1">
+          <mxGeometry x="520" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AqaynX8G8O3u8b9F95J--24" value="Garage technician and council driver test to ascertain the service and repairs undertaken" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="AqaynX8G8O3u8b9F95J--1">
+          <mxGeometry x="500" y="380" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AqaynX8G8O3u8b9F95J--27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="AqaynX8G8O3u8b9F95J--1" source="AqaynX8G8O3u8b9F95J--24" target="AqaynX8G8O3u8b9F95J--26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AqaynX8G8O3u8b9F95J--28" value="Driver picks vehicle from the garage and driven back to KLDC parking lot" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="AqaynX8G8O3u8b9F95J--1">
+          <mxGeometry x="770" y="230" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AqaynX8G8O3u8b9F95J--29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="AqaynX8G8O3u8b9F95J--1" source="AqaynX8G8O3u8b9F95J--26" target="AqaynX8G8O3u8b9F95J--28">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AqaynX8G8O3u8b9F95J--13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AqaynX8G8O3u8b9F95J--10" target="AqaynX8G8O3u8b9F95J--12">
           <mxGeometry relative="1" as="geometry" />
@@ -73,15 +88,6 @@
         </mxCell>
         <mxCell id="AqaynX8G8O3u8b9F95J--22" value="Transport officer picks payment documents from the garage hands them to procurement for payment processing" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="570" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="AqaynX8G8O3u8b9F95J--27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AqaynX8G8O3u8b9F95J--24" target="AqaynX8G8O3u8b9F95J--26">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="AqaynX8G8O3u8b9F95J--24" value="Garage technician and council driver test to ascertain the service and repairs undertaken" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="510" y="420" width="160" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="AqaynX8G8O3u8b9F95J--26" value="Transport officer picks payment check from finance and issues to garage" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="530" y="275" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
