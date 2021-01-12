@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-12T09:16:28.322Z" agent="5.0 (Windows)" etag="Kl8ZI518YI7DLVJaLI-g" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-12T09:17:26.599Z" agent="5.0 (Windows)" etag="y2D1Aj5ruWJZXufImmoB" version="14.1.8" type="github">
   <diagram id="iqVK5lA826jD5fNl6_VV" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -68,8 +68,14 @@
         <mxCell id="e-Jlp6g5yajtnd1_zxyd-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e-Jlp6g5yajtnd1_zxyd-17" target="e-Jlp6g5yajtnd1_zxyd-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="e-Jlp6g5yajtnd1_zxyd-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e-Jlp6g5yajtnd1_zxyd-21" target="e-Jlp6g5yajtnd1_zxyd-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="e-Jlp6g5yajtnd1_zxyd-21" value="Insurance provider identified and tender awarded by the procurement officer" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="510" y="340" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="e-Jlp6g5yajtnd1_zxyd-23" value="Procurement inititaes Payment procedures for the service through accountant" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="195" width="140" height="75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
