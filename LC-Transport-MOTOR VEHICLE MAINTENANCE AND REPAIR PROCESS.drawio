@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-12T07:35:25.208Z" agent="5.0 (Windows)" etag="oyOCELK8NtKWazO5HYSY" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-12T07:59:02.996Z" agent="5.0 (Windows)" etag="LBs1K-zeoZDno1hz_BAg" version="14.1.8" type="github">
   <diagram id="yCivjPEnVfi12GDQlkk3" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -68,8 +68,14 @@
         <mxCell id="AqaynX8G8O3u8b9F95J--21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AqaynX8G8O3u8b9F95J--18" target="AqaynX8G8O3u8b9F95J--20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="AqaynX8G8O3u8b9F95J--25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AqaynX8G8O3u8b9F95J--22" target="AqaynX8G8O3u8b9F95J--24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AqaynX8G8O3u8b9F95J--22" value="Transport officer picks payment documents from the garage hands them to procurement for payment processing" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="570" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AqaynX8G8O3u8b9F95J--24" value="Garage technician and council driver test to ascertain the service and repairs undertaken" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="420" width="160" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
