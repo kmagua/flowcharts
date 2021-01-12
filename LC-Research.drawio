@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-12T12:32:38.197Z" agent="5.0 (Windows)" etag="sq1Pg4YGOYv0zDfPR5tU" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-12T12:33:48.719Z" agent="5.0 (Windows)" etag="yQSo-B808o01qqsszqdv" version="14.1.8" type="github">
   <diagram id="XTpeEnYmzEm0xpDSuKBR" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -36,15 +36,15 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nBN6CnrMO745iZhlTAGD-18" value="Approved?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="nBN6CnrMO745iZhlTAGD-1">
-          <mxGeometry x="450" y="645" width="80" height="80" as="geometry" />
+          <mxGeometry x="465" y="645" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nBN6CnrMO745iZhlTAGD-22" value="Comments" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="nBN6CnrMO745iZhlTAGD-1">
           <mxGeometry x="80" y="726" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="nBN6CnrMO745iZhlTAGD-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nBN6CnrMO745iZhlTAGD-1" source="nBN6CnrMO745iZhlTAGD-18" target="nBN6CnrMO745iZhlTAGD-22">
+        <mxCell id="nBN6CnrMO745iZhlTAGD-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="nBN6CnrMO745iZhlTAGD-1" source="nBN6CnrMO745iZhlTAGD-18" target="nBN6CnrMO745iZhlTAGD-22">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="490" y="760" />
+              <mxPoint x="505" y="760" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -98,7 +98,7 @@
         <mxCell id="nBN6CnrMO745iZhlTAGD-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nBN6CnrMO745iZhlTAGD-1" source="nBN6CnrMO745iZhlTAGD-43" target="nBN6CnrMO745iZhlTAGD-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nBN6CnrMO745iZhlTAGD-47" value="Findings are incorporated in the departments quarterly journals and magazines. " style="whiteSpace=wrap;html=1;" vertex="1" parent="nBN6CnrMO745iZhlTAGD-1">
+        <mxCell id="nBN6CnrMO745iZhlTAGD-47" value="Editorial team publish findings in the departments quarterly journals and magazines. " style="whiteSpace=wrap;html=1;" vertex="1" parent="nBN6CnrMO745iZhlTAGD-1">
           <mxGeometry x="865" y="331" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="nBN6CnrMO745iZhlTAGD-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nBN6CnrMO745iZhlTAGD-1" source="nBN6CnrMO745iZhlTAGD-45" target="nBN6CnrMO745iZhlTAGD-47">
@@ -140,7 +140,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nBN6CnrMO745iZhlTAGD-25" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="467" y="750" width="40" height="20" as="geometry" />
+          <mxGeometry x="490" y="740" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nBN6CnrMO745iZhlTAGD-26" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="570" y="676" width="40" height="20" as="geometry" />
