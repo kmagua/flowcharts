@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-12T08:26:01.905Z" agent="5.0 (Windows)" etag="9hxQW92UpZVUYfHhInpz" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-12T08:26:24.837Z" agent="5.0 (Windows)" etag="u_nSm6Wi626QME_sHgkf" version="14.1.8" type="github">
   <diagram id="yCivjPEnVfi12GDQlkk3" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -51,6 +51,9 @@
         <mxCell id="AqaynX8G8O3u8b9F95J--29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="AqaynX8G8O3u8b9F95J--1" source="AqaynX8G8O3u8b9F95J--26" target="AqaynX8G8O3u8b9F95J--28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="AqaynX8G8O3u8b9F95J--34" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="AqaynX8G8O3u8b9F95J--1">
+          <mxGeometry x="790" y="520" width="100" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="AqaynX8G8O3u8b9F95J--13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AqaynX8G8O3u8b9F95J--10" target="AqaynX8G8O3u8b9F95J--12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -88,6 +91,11 @@
         </mxCell>
         <mxCell id="AqaynX8G8O3u8b9F95J--22" value="Transport officer picks payment documents from the garage hands them to procurement for payment processing" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="570" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AqaynX8G8O3u8b9F95J--33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AqaynX8G8O3u8b9F95J--30" target="AqaynX8G8O3u8b9F95J--34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="850" y="540" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="AqaynX8G8O3u8b9F95J--30" value="Tranport officer keeps service and maintenance records and hard copy document filed in maintenance and repairs records" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="750" y="370" width="200" height="80" as="geometry" />
