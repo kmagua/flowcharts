@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-01-12T09:48:49.972Z" agent="5.0 (Windows)" etag="rVA88uvDaKdf7GgJmFO9" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-12T09:52:06.799Z" agent="5.0 (Windows)" etag="kRXGsG5IvCvnUhPWdSw1" version="14.1.8" type="github">
   <diagram id="mqCRt8jWshRflJlXmG6v" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="U_bItnstda_1CP7JH8OQ-1" value="MANAGEMENT OF MOTOR VEHICLE FUEL CARDS PROCESS" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="10" y="10" width="760" height="710" as="geometry" />
+          <mxGeometry x="10" y="10" width="1140" height="710" as="geometry" />
         </mxCell>
         <mxCell id="U_bItnstda_1CP7JH8OQ-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="U_bItnstda_1CP7JH8OQ-1">
           <mxGeometry x="250" y="49" width="100" height="50" as="geometry" />
@@ -44,8 +44,8 @@
             <mxPoint x="565" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U_bItnstda_1CP7JH8OQ-19" value="Transport officer forwards the memo to procurement" style="whiteSpace=wrap;html=1;" vertex="1" parent="U_bItnstda_1CP7JH8OQ-1">
-          <mxGeometry x="555" y="290" width="120" height="60" as="geometry" />
+        <mxCell id="U_bItnstda_1CP7JH8OQ-19" value="Transport officer forwards the memo to procurement for processing of fuel top up" style="whiteSpace=wrap;html=1;" vertex="1" parent="U_bItnstda_1CP7JH8OQ-1">
+          <mxGeometry x="530" y="280" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="U_bItnstda_1CP7JH8OQ-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="U_bItnstda_1CP7JH8OQ-1" source="U_bItnstda_1CP7JH8OQ-18" target="U_bItnstda_1CP7JH8OQ-19">
           <mxGeometry relative="1" as="geometry" />
@@ -70,8 +70,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="U_bItnstda_1CP7JH8OQ-37" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="U_bItnstda_1CP7JH8OQ-1">
+          <mxGeometry x="815" y="159" width="100" height="50" as="geometry" />
+        </mxCell>
         <mxCell id="U_bItnstda_1CP7JH8OQ-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U_bItnstda_1CP7JH8OQ-10" target="U_bItnstda_1CP7JH8OQ-12">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U_bItnstda_1CP7JH8OQ-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="U_bItnstda_1CP7JH8OQ-10" target="U_bItnstda_1CP7JH8OQ-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820" y="660" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="310" y="660" />
+              <mxPoint x="875" y="660" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="U_bItnstda_1CP7JH8OQ-10" value="&lt;div&gt;Balance&lt;/div&gt;&lt;div&gt;low?&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="569" width="80" height="80" as="geometry" />
@@ -81,6 +93,17 @@
         </mxCell>
         <mxCell id="U_bItnstda_1CP7JH8OQ-26" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="537" y="451" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="U_bItnstda_1CP7JH8OQ-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="U_bItnstda_1CP7JH8OQ-31" target="U_bItnstda_1CP7JH8OQ-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="875" y="215" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U_bItnstda_1CP7JH8OQ-31" value="Transport officer updates fuel card balances" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="815" y="295" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U_bItnstda_1CP7JH8OQ-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U_bItnstda_1CP7JH8OQ-19" target="U_bItnstda_1CP7JH8OQ-31">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
