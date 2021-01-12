@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-12T06:42:17.840Z" agent="5.0 (Windows)" etag="GNaI_KbAgQMHL9_81txB" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-12T06:47:38.555Z" agent="5.0 (Windows)" etag="1x4kncquMhw0RcnPDycN" version="14.1.8" type="github">
   <diagram id="6ny7MYcmJ75oyxdDwdRd" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -33,6 +33,9 @@
         <mxCell id="8BgREITHZNaEQP0OXt_D-28" value="Comments" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" vertex="1" parent="8BgREITHZNaEQP0OXt_D-9">
           <mxGeometry x="60" y="700" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="8BgREITHZNaEQP0OXt_D-34" value="Transport officer notifies Requesting officer of approval" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="8BgREITHZNaEQP0OXt_D-9">
+          <mxGeometry x="520" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="8BgREITHZNaEQP0OXt_D-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8BgREITHZNaEQP0OXt_D-14" target="8BgREITHZNaEQP0OXt_D-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -57,15 +60,19 @@
         <mxCell id="8BgREITHZNaEQP0OXt_D-18" value="Transport officer receives transport requisition form" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="295" y="657.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8BgREITHZNaEQP0OXt_D-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8BgREITHZNaEQP0OXt_D-20" target="8BgREITHZNaEQP0OXt_D-28">
+        <mxCell id="8BgREITHZNaEQP0OXt_D-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8BgREITHZNaEQP0OXt_D-20" target="8BgREITHZNaEQP0OXt_D-28">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="555" y="750" />
+              <mxPoint x="590" y="728" />
+              <mxPoint x="590" y="750" />
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="8BgREITHZNaEQP0OXt_D-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8BgREITHZNaEQP0OXt_D-20" target="8BgREITHZNaEQP0OXt_D-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8BgREITHZNaEQP0OXt_D-20" value="Approved?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="515" y="647.5" width="80" height="80" as="geometry" />
+          <mxGeometry x="550" y="647.5" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8BgREITHZNaEQP0OXt_D-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8BgREITHZNaEQP0OXt_D-24" target="8BgREITHZNaEQP0OXt_D-14">
           <mxGeometry relative="1" as="geometry">
@@ -77,6 +84,15 @@
         </mxCell>
         <mxCell id="8BgREITHZNaEQP0OXt_D-24" value="Comments" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="125" y="487.5" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8BgREITHZNaEQP0OXt_D-32" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="262" y="510" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8BgREITHZNaEQP0OXt_D-33" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="554" y="732" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8BgREITHZNaEQP0OXt_D-36" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="556" y="610" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
