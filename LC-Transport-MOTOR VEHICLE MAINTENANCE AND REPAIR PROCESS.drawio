@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-12T07:33:11.525Z" agent="5.0 (Windows)" etag="CSBghsK-a63wS57JAauW" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-12T07:35:05.917Z" agent="5.0 (Windows)" etag="XW5IxEgrsJrFiW7Dv1dz" version="14.1.8" type="github">
   <diagram id="yCivjPEnVfi12GDQlkk3" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -59,11 +59,17 @@
         <mxCell id="AqaynX8G8O3u8b9F95J--12" value="Comments" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="580" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="AqaynX8G8O3u8b9F95J--20" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="AqaynX8G8O3u8b9F95J--23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AqaynX8G8O3u8b9F95J--20" target="AqaynX8G8O3u8b9F95J--22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AqaynX8G8O3u8b9F95J--20" value="Transport officer hands the vehicle to the garage for repairs" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="530" y="730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AqaynX8G8O3u8b9F95J--21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AqaynX8G8O3u8b9F95J--18" target="AqaynX8G8O3u8b9F95J--20">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AqaynX8G8O3u8b9F95J--22" value="Transport officer picks payment documents from the garage hands them to procurement for payment processing" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="570" width="200" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
