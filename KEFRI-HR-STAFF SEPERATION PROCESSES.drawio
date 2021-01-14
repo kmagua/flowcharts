@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-14T13:16:26.042Z" agent="5.0 (Windows)" etag="cVM0cSEzr3Lx7UduHwxJ" version="14.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-14T13:16:40.827Z" agent="5.0 (Windows)" etag="9_kt5S_shSXU0vl6RfLy" version="14.2.2" type="github">
   <diagram id="UjTeMjbBinCN1z3YxP9T" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -58,14 +58,14 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A6qGCwG35JQ3KSKp7gHD-23" value="DD HR issues a certificate of service to the exiting employee as per the prescribed format upon receipt of the duly completed clearance forms or death certificate with the necessary attachments" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="A6qGCwG35JQ3KSKp7gHD-1">
-          <mxGeometry x="540" y="310" width="200" height="102" as="geometry" />
+          <mxGeometry x="530" y="310" width="220" height="102" as="geometry" />
         </mxCell>
         <mxCell id="A6qGCwG35JQ3KSKp7gHD-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="A6qGCwG35JQ3KSKp7gHD-1" source="A6qGCwG35JQ3KSKp7gHD-17" target="A6qGCwG35JQ3KSKp7gHD-23">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="600" y="713" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="760" y="713" />
-              <mxPoint x="760" y="361" />
+              <mxPoint x="770" y="713" />
+              <mxPoint x="770" y="361" />
             </Array>
           </mxGeometry>
         </mxCell>
