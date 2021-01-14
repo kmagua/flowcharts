@@ -1,1 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2021-01-14T12:55:03.165Z" agent="5.0 (Windows)" version="14.2.2" etag="E8nhKows6-j_nIV4mtLI" type="github"><diagram id="UjTeMjbBinCN1z3YxP9T">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-14T13:00:57.571Z" agent="5.0 (Windows)" etag="cNMFZaszH85cw076w2al" version="14.2.2" type="github">
+  <diagram id="UjTeMjbBinCN1z3YxP9T" name="Page-1">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="A6qGCwG35JQ3KSKp7gHD-1" value="Container" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="500" height="810" as="geometry" />
+        </mxCell>
+        <mxCell id="A6qGCwG35JQ3KSKp7gHD-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="A6qGCwG35JQ3KSKp7gHD-1">
+          <mxGeometry x="200" y="30" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="A6qGCwG35JQ3KSKp7gHD-5" value="DHHR receives an exit notification from an employee in case of resignation (it can also start on dismissal, expiry of a contract, demise of an employee, separation through retirement)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="A6qGCwG35JQ3KSKp7gHD-1">
+          <mxGeometry x="150" y="150" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="A6qGCwG35JQ3KSKp7gHD-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="A6qGCwG35JQ3KSKp7gHD-1" source="A6qGCwG35JQ3KSKp7gHD-2" target="A6qGCwG35JQ3KSKp7gHD-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="155" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
