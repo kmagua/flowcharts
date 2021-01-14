@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-01-14T13:05:26.680Z" agent="5.0 (Windows)" etag="8fXxlozYP2pp9eXOOZan" version="14.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-14T13:06:04.646Z" agent="5.0 (Windows)" etag="KLv75xKnE12bG-mCdnN6" version="14.2.2" type="github">
   <diagram id="UjTeMjbBinCN1z3YxP9T" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="A6qGCwG35JQ3KSKp7gHD-1" value="Container" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="10" y="10" width="500" height="810" as="geometry" />
+          <mxGeometry x="10" y="10" width="730" height="810" as="geometry" />
         </mxCell>
         <mxCell id="A6qGCwG35JQ3KSKp7gHD-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="A6qGCwG35JQ3KSKp7gHD-1">
           <mxGeometry x="90" y="40" width="100" height="50" as="geometry" />
@@ -33,11 +33,17 @@
         <mxCell id="A6qGCwG35JQ3KSKp7gHD-10" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="A6qGCwG35JQ3KSKp7gHD-1">
           <mxGeometry x="132" y="440" width="40" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="A6qGCwG35JQ3KSKp7gHD-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A6qGCwG35JQ3KSKp7gHD-11" target="A6qGCwG35JQ3KSKp7gHD-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="A6qGCwG35JQ3KSKp7gHD-11" value="DDHR instructs the Head of Appointment Section to stop the employee’s salary immediately" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="352" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="A6qGCwG35JQ3KSKp7gHD-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A6qGCwG35JQ3KSKp7gHD-6" target="A6qGCwG35JQ3KSKp7gHD-11">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A6qGCwG35JQ3KSKp7gHD-13" value="Head of Appointment Section will raise PCA to instruct the payroll Section to stop the departed staff ‘s salary" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="352" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
