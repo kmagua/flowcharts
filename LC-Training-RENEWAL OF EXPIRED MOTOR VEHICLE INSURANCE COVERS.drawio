@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-14T11:42:34.777Z" agent="5.0 (Windows)" etag="iOBjY1hH79b32LYkFM79" version="14.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-14T11:44:33.093Z" agent="5.0 (Windows)" etag="Gl_u0yI5lmuktLtIfY9h" version="14.2.2" type="github">
   <diagram id="iqVK5lA826jD5fNl6_VV" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -10,8 +10,8 @@
         <mxCell id="e-Jlp6g5yajtnd1_zxyd-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" parent="e-Jlp6g5yajtnd1_zxyd-1" vertex="1">
           <mxGeometry x="195" y="40" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="e-Jlp6g5yajtnd1_zxyd-5" value="Transport officer submits request for insurance renewal/ purchase to the CEO for approval through MHRA/DCS at least one month before expiry" style="rounded=0;whiteSpace=wrap;html=1;" parent="e-Jlp6g5yajtnd1_zxyd-1" vertex="1">
-          <mxGeometry x="140" y="150" width="200" height="90" as="geometry" />
+        <mxCell id="e-Jlp6g5yajtnd1_zxyd-5" value="Transport officer submits request for insurance renewal/ purchase to the CEO for approval through MHRA (cc DCS) at least one month before expiry" style="rounded=0;whiteSpace=wrap;html=1;" parent="e-Jlp6g5yajtnd1_zxyd-1" vertex="1">
+          <mxGeometry x="130" y="150" width="220" height="90" as="geometry" />
         </mxCell>
         <mxCell id="e-Jlp6g5yajtnd1_zxyd-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="e-Jlp6g5yajtnd1_zxyd-1" source="e-Jlp6g5yajtnd1_zxyd-2" target="e-Jlp6g5yajtnd1_zxyd-5" edge="1">
           <mxGeometry relative="1" as="geometry">
