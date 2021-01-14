@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-14T12:50:11.434Z" agent="5.0 (Windows)" etag="GEEmJA76QeZkdhTHXblN" version="14.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-14T12:50:49.747Z" agent="5.0 (Windows)" etag="IJGlFpj1R9piaQUMoeXX" version="14.2.2" type="github">
   <diagram id="0QVj0R0pMa02MhXi8bS-" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -47,11 +47,14 @@
         <mxCell id="tACZMejuWW3Y2qO-xWVl-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="tACZMejuWW3Y2qO-xWVl-3" source="tACZMejuWW3Y2qO-xWVl-10" target="tACZMejuWW3Y2qO-xWVl-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="tACZMejuWW3Y2qO-xWVl-31" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tACZMejuWW3Y2qO-xWVl-3">
+          <mxGeometry x="274" y="270" width="40" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="tACZMejuWW3Y2qO-xWVl-20" value="Leave system" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="tACZMejuWW3Y2qO-xWVl-1">
           <mxGeometry y="560" width="830" height="130" as="geometry" />
         </mxCell>
         <mxCell id="tACZMejuWW3Y2qO-xWVl-24" value="Notification sent to Relieving officer, applicant and HR" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="tACZMejuWW3Y2qO-xWVl-20">
-          <mxGeometry x="220" y="20" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="35" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tACZMejuWW3Y2qO-xWVl-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tACZMejuWW3Y2qO-xWVl-14" target="tACZMejuWW3Y2qO-xWVl-9">
           <mxGeometry relative="1" as="geometry">
@@ -71,6 +74,9 @@
         </mxCell>
         <mxCell id="tACZMejuWW3Y2qO-xWVl-30" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="175" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tACZMejuWW3Y2qO-xWVl-32" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="480" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
