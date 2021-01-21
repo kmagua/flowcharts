@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-21T10:45:59.286Z" agent="5.0 (Windows)" etag="rrFe3iNQBnROFLWgz5IX" version="14.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-21T10:48:52.477Z" agent="5.0 (Windows)" etag="gK-79ukA4oCW2maoydIX" version="14.2.4" type="github">
   <diagram id="dTMpoPVIkahXSZqtG1Pm" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -42,6 +42,12 @@
         <mxCell id="pj5xqQpvPvO0I1Rtv7KB-74" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="pj5xqQpvPvO0I1Rtv7KB-1">
           <mxGeometry x="715" y="395" width="40" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="pj5xqQpvPvO0I1Rtv7KB-77" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="pj5xqQpvPvO0I1Rtv7KB-1">
+          <mxGeometry x="780" y="295" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pj5xqQpvPvO0I1Rtv7KB-83" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="pj5xqQpvPvO0I1Rtv7KB-1">
+          <mxGeometry x="670" y="612.5" width="100" height="50" as="geometry" />
+        </mxCell>
         <mxCell id="pj5xqQpvPvO0I1Rtv7KB-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pj5xqQpvPvO0I1Rtv7KB-54" target="pj5xqQpvPvO0I1Rtv7KB-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -72,14 +78,33 @@
         <mxCell id="pj5xqQpvPvO0I1Rtv7KB-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pj5xqQpvPvO0I1Rtv7KB-70" target="pj5xqQpvPvO0I1Rtv7KB-72">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="pj5xqQpvPvO0I1Rtv7KB-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pj5xqQpvPvO0I1Rtv7KB-70" target="pj5xqQpvPvO0I1Rtv7KB-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pj5xqQpvPvO0I1Rtv7KB-70" value="&lt;div&gt;report&lt;br&gt;&lt;/div&gt;&lt;div&gt;Approved?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="680" y="289.39" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pj5xqQpvPvO0I1Rtv7KB-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pj5xqQpvPvO0I1Rtv7KB-68" target="pj5xqQpvPvO0I1Rtv7KB-70">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pj5xqQpvPvO0I1Rtv7KB-72" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="670" y="459.39" width="120" height="60" as="geometry" />
+        <mxCell id="pj5xqQpvPvO0I1Rtv7KB-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pj5xqQpvPvO0I1Rtv7KB-72" target="pj5xqQpvPvO0I1Rtv7KB-83">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="620.3049999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pj5xqQpvPvO0I1Rtv7KB-72" value="DDHR ensures consideration of the TNA report when implementing annual Training and Development Plans for the next three (3) years" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="459.39" width="180" height="80.61" as="geometry" />
+        </mxCell>
+        <mxCell id="pj5xqQpvPvO0I1Rtv7KB-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pj5xqQpvPvO0I1Rtv7KB-75" target="pj5xqQpvPvO0I1Rtv7KB-72">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="935" y="470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="935" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pj5xqQpvPvO0I1Rtv7KB-75" value="Head of Training Unit shall inform the Chair of the T&amp;amp;D Committee of the same and implement Director’s recommendation on the report" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="850" y="280" width="170" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
