@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-21T08:51:22.047Z" agent="5.0 (Windows)" etag="-aLrJaYrH30KPR7C8Fc3" version="14.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-21T08:53:57.857Z" agent="5.0 (Windows)" etag="utEn7meCfcsAfqoniZwW" version="14.2.4" type="github">
   <diagram id="Uljw9E6sIYdNkP1f9c3i" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -85,6 +85,18 @@
         <mxCell id="niNoGx1GZcgiBpnU9i2a-60" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="niNoGx1GZcgiBpnU9i2a-1">
           <mxGeometry x="649" y="484" width="40" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="niNoGx1GZcgiBpnU9i2a-70" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="niNoGx1GZcgiBpnU9i2a-1">
+          <mxGeometry x="710" y="680" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="niNoGx1GZcgiBpnU9i2a-72" value="Comments" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="niNoGx1GZcgiBpnU9i2a-1">
+          <mxGeometry x="762.5" y="660" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="niNoGx1GZcgiBpnU9i2a-61" value="DDHR shall liaise with the respective Chairs of JSAC and SSASC and implement the HRC recommendations" style="whiteSpace=wrap;html=1;" vertex="1" parent="niNoGx1GZcgiBpnU9i2a-1">
+          <mxGeometry x="750" y="380" width="145" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="niNoGx1GZcgiBpnU9i2a-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="niNoGx1GZcgiBpnU9i2a-1" source="niNoGx1GZcgiBpnU9i2a-57" target="niNoGx1GZcgiBpnU9i2a-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="niNoGx1GZcgiBpnU9i2a-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="niNoGx1GZcgiBpnU9i2a-37" target="niNoGx1GZcgiBpnU9i2a-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -114,31 +126,33 @@
         <mxCell id="niNoGx1GZcgiBpnU9i2a-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="niNoGx1GZcgiBpnU9i2a-57" target="niNoGx1GZcgiBpnU9i2a-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="niNoGx1GZcgiBpnU9i2a-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="niNoGx1GZcgiBpnU9i2a-61" target="niNoGx1GZcgiBpnU9i2a-58">
+        <mxCell id="niNoGx1GZcgiBpnU9i2a-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="niNoGx1GZcgiBpnU9i2a-61" target="niNoGx1GZcgiBpnU9i2a-58">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="847.5" y="590" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="848" y="570" />
+              <mxPoint x="833" y="570" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="niNoGx1GZcgiBpnU9i2a-61" value="DDHR shall liaise with the respective Chairs of JSAC and SSASC and implement the HRC recommendations" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="775" y="390" width="145" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="niNoGx1GZcgiBpnU9i2a-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="niNoGx1GZcgiBpnU9i2a-57" target="niNoGx1GZcgiBpnU9i2a-61">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="niNoGx1GZcgiBpnU9i2a-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="niNoGx1GZcgiBpnU9i2a-65" target="niNoGx1GZcgiBpnU9i2a-67">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="niNoGx1GZcgiBpnU9i2a-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="niNoGx1GZcgiBpnU9i2a-65" target="niNoGx1GZcgiBpnU9i2a-72">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="795" y="710" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="niNoGx1GZcgiBpnU9i2a-65" value="&lt;div&gt;Board&lt;/div&gt;&lt;div&gt;Approved?&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="670" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="niNoGx1GZcgiBpnU9i2a-67" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="795" y="680" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="niNoGx1GZcgiBpnU9i2a-69" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="720" y="419" width="40" height="20" as="geometry" />
+          <mxGeometry x="715" y="419" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="niNoGx1GZcgiBpnU9i2a-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="niNoGx1GZcgiBpnU9i2a-72" target="niNoGx1GZcgiBpnU9i2a-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="990" y="710" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="920" y="710" />
+              <mxPoint x="920" y="305" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
