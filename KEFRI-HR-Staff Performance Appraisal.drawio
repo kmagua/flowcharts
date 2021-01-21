@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-21T08:00:51.468Z" agent="5.0 (Windows)" etag="K4KP5-rwFBnvcGN7bx_T" version="14.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-21T08:17:27.300Z" agent="5.0 (Windows)" etag="mgq-rpxSU1HoVuB49rBK" version="14.2.4" type="github">
   <diagram id="Uljw9E6sIYdNkP1f9c3i" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -11,17 +11,40 @@
           <mxGeometry x="90" y="40" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="niNoGx1GZcgiBpnU9i2a-3" value="DDHR directs the HoDs, thematic leaders and eco-regional research programmes to set and submit performance targets with staff working under them based on the performance contract and their respective work plans by the end of the first quarter of the financial year" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="niNoGx1GZcgiBpnU9i2a-1">
-          <mxGeometry x="10" y="160" width="260" height="100" as="geometry" />
+          <mxGeometry x="10" y="140" width="260" height="100" as="geometry" />
         </mxCell>
         <mxCell id="niNoGx1GZcgiBpnU9i2a-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="niNoGx1GZcgiBpnU9i2a-1" source="niNoGx1GZcgiBpnU9i2a-2" target="niNoGx1GZcgiBpnU9i2a-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="140" y="165" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="niNoGx1GZcgiBpnU9i2a-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="niNoGx1GZcgiBpnU9i2a-1" source="niNoGx1GZcgiBpnU9i2a-3">
+        <mxCell id="niNoGx1GZcgiBpnU9i2a-28" value="Staff in liaison with their supervisors/HoDs set and agree on performance targets and submit to DDHR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="niNoGx1GZcgiBpnU9i2a-1">
+          <mxGeometry x="45" y="300" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="niNoGx1GZcgiBpnU9i2a-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="niNoGx1GZcgiBpnU9i2a-1" source="niNoGx1GZcgiBpnU9i2a-3" target="niNoGx1GZcgiBpnU9i2a-28">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="140" y="333.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="niNoGx1GZcgiBpnU9i2a-29" value="Staff will update the status of their achievement of set targets and submit to their supervisors for review" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="niNoGx1GZcgiBpnU9i2a-1">
+          <mxGeometry x="45" y="600" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="niNoGx1GZcgiBpnU9i2a-31" value="The DD HR directs the HoDs, thematic leaders and eco-regional research programmes to undertake mid-term review of individual employees within their respective sections" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="niNoGx1GZcgiBpnU9i2a-1">
+          <mxGeometry x="40" y="430" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="niNoGx1GZcgiBpnU9i2a-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="niNoGx1GZcgiBpnU9i2a-1" source="niNoGx1GZcgiBpnU9i2a-28" target="niNoGx1GZcgiBpnU9i2a-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="niNoGx1GZcgiBpnU9i2a-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="niNoGx1GZcgiBpnU9i2a-1" source="niNoGx1GZcgiBpnU9i2a-31" target="niNoGx1GZcgiBpnU9i2a-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="niNoGx1GZcgiBpnU9i2a-35" value="Supervisors will evaluate performance of staff working under them and submit report to DDHR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="niNoGx1GZcgiBpnU9i2a-1">
+          <mxGeometry x="60" y="730" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="niNoGx1GZcgiBpnU9i2a-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="niNoGx1GZcgiBpnU9i2a-1" source="niNoGx1GZcgiBpnU9i2a-29" target="niNoGx1GZcgiBpnU9i2a-35">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
