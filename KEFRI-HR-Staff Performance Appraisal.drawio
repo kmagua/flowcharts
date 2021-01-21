@@ -1,1 +1,29 @@
-<mxfile host="app.diagrams.net" modified="2021-01-21T07:06:30.519Z" agent="5.0 (Windows)" version="14.2.4" etag="xI1SwmtG7Ep0TSSWcuq5" type="github"><diagram id="Uljw9E6sIYdNkP1f9c3i">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-21T08:00:51.468Z" agent="5.0 (Windows)" etag="K4KP5-rwFBnvcGN7bx_T" version="14.2.4" type="github">
+  <diagram id="Uljw9E6sIYdNkP1f9c3i" name="Page-1">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="niNoGx1GZcgiBpnU9i2a-1" value="Container" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="1150" height="810" as="geometry" />
+        </mxCell>
+        <mxCell id="niNoGx1GZcgiBpnU9i2a-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="niNoGx1GZcgiBpnU9i2a-1">
+          <mxGeometry x="90" y="40" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="niNoGx1GZcgiBpnU9i2a-3" value="DDHR directs the HoDs, thematic leaders and eco-regional research programmes to set and submit performance targets with staff working under them based on the performance contract and their respective work plans by the end of the first quarter of the financial year" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="niNoGx1GZcgiBpnU9i2a-1">
+          <mxGeometry x="10" y="160" width="260" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="niNoGx1GZcgiBpnU9i2a-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="niNoGx1GZcgiBpnU9i2a-1" source="niNoGx1GZcgiBpnU9i2a-2" target="niNoGx1GZcgiBpnU9i2a-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="165" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="niNoGx1GZcgiBpnU9i2a-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="niNoGx1GZcgiBpnU9i2a-1" source="niNoGx1GZcgiBpnU9i2a-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="333.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
