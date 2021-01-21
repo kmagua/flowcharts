@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-21T08:39:36.029Z" agent="5.0 (Windows)" etag="Kj6i0_3vXhf9UicRA1O_" version="14.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-21T08:49:02.531Z" agent="5.0 (Windows)" etag="Qgj9V0nXmR63SRbvbMNn" version="14.2.4" type="github">
   <diagram id="Uljw9E6sIYdNkP1f9c3i" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -79,6 +79,12 @@
         <mxCell id="niNoGx1GZcgiBpnU9i2a-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="niNoGx1GZcgiBpnU9i2a-1" source="niNoGx1GZcgiBpnU9i2a-49" target="niNoGx1GZcgiBpnU9i2a-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="niNoGx1GZcgiBpnU9i2a-57" value="&lt;div&gt;HRC&lt;/div&gt;&lt;div&gt;Approved?&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="niNoGx1GZcgiBpnU9i2a-1">
+          <mxGeometry x="610" y="390" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="niNoGx1GZcgiBpnU9i2a-60" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="niNoGx1GZcgiBpnU9i2a-1">
+          <mxGeometry x="649" y="484" width="40" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="niNoGx1GZcgiBpnU9i2a-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="niNoGx1GZcgiBpnU9i2a-37" target="niNoGx1GZcgiBpnU9i2a-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -86,6 +92,37 @@
           <mxGeometry x="322" y="700" width="210" height="105" as="geometry" />
         </mxCell>
         <mxCell id="niNoGx1GZcgiBpnU9i2a-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="niNoGx1GZcgiBpnU9i2a-35" target="niNoGx1GZcgiBpnU9i2a-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="niNoGx1GZcgiBpnU9i2a-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="niNoGx1GZcgiBpnU9i2a-53" target="niNoGx1GZcgiBpnU9i2a-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="665.5" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="niNoGx1GZcgiBpnU9i2a-53" value="DDHR shall present the Performance recommendation reports and budget to the HRC of the BoM for approval" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="588" y="260" width="155" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="niNoGx1GZcgiBpnU9i2a-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="niNoGx1GZcgiBpnU9i2a-51" target="niNoGx1GZcgiBpnU9i2a-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="niNoGx1GZcgiBpnU9i2a-58" value="DDHR shall submit the report to the Full Board for approval" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="605" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="niNoGx1GZcgiBpnU9i2a-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="niNoGx1GZcgiBpnU9i2a-57" target="niNoGx1GZcgiBpnU9i2a-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="niNoGx1GZcgiBpnU9i2a-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="niNoGx1GZcgiBpnU9i2a-61" target="niNoGx1GZcgiBpnU9i2a-58">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="847.5" y="590" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="848" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="niNoGx1GZcgiBpnU9i2a-61" value="DDHR shall liaise with the respective Chairs of JSAC and SSASC and implement the HRC recommendations" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="775" y="390" width="145" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="niNoGx1GZcgiBpnU9i2a-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="niNoGx1GZcgiBpnU9i2a-57" target="niNoGx1GZcgiBpnU9i2a-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
