@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-21T08:17:27.300Z" agent="5.0 (Windows)" etag="mgq-rpxSU1HoVuB49rBK" version="14.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-21T08:19:40.791Z" agent="5.0 (Windows)" etag="B7DVH4lAdakXDenVtiKX" version="14.2.4" type="github">
   <diagram id="Uljw9E6sIYdNkP1f9c3i" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -44,6 +44,12 @@
           <mxGeometry x="60" y="730" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="niNoGx1GZcgiBpnU9i2a-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="niNoGx1GZcgiBpnU9i2a-1" source="niNoGx1GZcgiBpnU9i2a-29" target="niNoGx1GZcgiBpnU9i2a-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="niNoGx1GZcgiBpnU9i2a-37" value="At the end of financial year, the DD HR shall direct Heads of Divisions, thematic leaders and eco-regional research programmes to appraise staff and forward the appraisals to the HR Department by end of August each year" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="322" y="700" width="210" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="niNoGx1GZcgiBpnU9i2a-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="niNoGx1GZcgiBpnU9i2a-35" target="niNoGx1GZcgiBpnU9i2a-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
