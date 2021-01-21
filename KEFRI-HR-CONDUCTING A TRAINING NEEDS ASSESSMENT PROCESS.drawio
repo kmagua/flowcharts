@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-21T10:07:57.609Z" agent="5.0 (Windows)" etag="YAH-UtTgdcsYO4cnXfu_" version="14.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-21T10:37:22.598Z" agent="5.0 (Windows)" etag="oJn-ZuujidF3f_mhEh5D" version="14.2.4" type="github">
   <diagram id="dTMpoPVIkahXSZqtG1Pm" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -10,10 +10,37 @@
         <mxCell id="pj5xqQpvPvO0I1Rtv7KB-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="pj5xqQpvPvO0I1Rtv7KB-1">
           <mxGeometry x="90" y="40" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="pj5xqQpvPvO0I1Rtv7KB-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="pj5xqQpvPvO0I1Rtv7KB-1" source="pj5xqQpvPvO0I1Rtv7KB-2">
+        <mxCell id="pj5xqQpvPvO0I1Rtv7KB-51" value="DD HR requests the Heads of Divisions, thematic areas and eco-regional research programmes to identify and submit their staff training and development needs for the next 3 (three) years" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="pj5xqQpvPvO0I1Rtv7KB-1">
+          <mxGeometry x="20" y="140" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pj5xqQpvPvO0I1Rtv7KB-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="pj5xqQpvPvO0I1Rtv7KB-1" source="pj5xqQpvPvO0I1Rtv7KB-2" target="pj5xqQpvPvO0I1Rtv7KB-51">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="140" y="140" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="pj5xqQpvPvO0I1Rtv7KB-52" value="HODs agree on training needs with staff working under their supervision and forward the same to the DDHR" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="pj5xqQpvPvO0I1Rtv7KB-1">
+          <mxGeometry x="55" y="290" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pj5xqQpvPvO0I1Rtv7KB-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="pj5xqQpvPvO0I1Rtv7KB-1" source="pj5xqQpvPvO0I1Rtv7KB-51" target="pj5xqQpvPvO0I1Rtv7KB-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pj5xqQpvPvO0I1Rtv7KB-56" value="Head of Training and Development Unit generates a TNA report and present it to the Human Resource Training and Development Committee" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="pj5xqQpvPvO0I1Rtv7KB-1">
+          <mxGeometry x="35" y="615" width="210" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="pj5xqQpvPvO0I1Rtv7KB-60" value="Human Resource Training and Development Committee (HRT &amp;amp; DC) analyses and rationalizes the TNA report" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="pj5xqQpvPvO0I1Rtv7KB-1">
+          <mxGeometry x="370" y="612.5" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="pj5xqQpvPvO0I1Rtv7KB-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="pj5xqQpvPvO0I1Rtv7KB-1" source="pj5xqQpvPvO0I1Rtv7KB-56" target="pj5xqQpvPvO0I1Rtv7KB-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pj5xqQpvPvO0I1Rtv7KB-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pj5xqQpvPvO0I1Rtv7KB-54" target="pj5xqQpvPvO0I1Rtv7KB-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pj5xqQpvPvO0I1Rtv7KB-54" value="DDHR instructs the Head of Training and Development Unit to generate a TNA report." style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="440" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="pj5xqQpvPvO0I1Rtv7KB-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pj5xqQpvPvO0I1Rtv7KB-52" target="pj5xqQpvPvO0I1Rtv7KB-54">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
