@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-21T12:33:53.207Z" agent="5.0 (Windows)" etag="cGXaVbL7lUVp-sQyO6V7" version="14.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-21T12:37:39.757Z" agent="5.0 (Windows)" etag="GCRALUQcNCMxF4YvCxxW" version="14.2.4" type="github">
   <diagram id="tumOcZ08y1jbHNWzHqvi" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -37,7 +37,7 @@
           <mxGeometry x="111.5" y="690" width="139" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h8TS08j7oyF-GIlj1y9Z-63" value="Director appoints the shortlisting panel" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="h8TS08j7oyF-GIlj1y9Z-1">
-          <mxGeometry x="340" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h8TS08j7oyF-GIlj1y9Z-65" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="h8TS08j7oyF-GIlj1y9Z-1">
           <mxGeometry x="370" y="650" width="40" height="20" as="geometry" />
@@ -69,7 +69,45 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h8TS08j7oyF-GIlj1y9Z-80" value="SHRMO compiles any inputs given by KeHRMAC into the shortlisting report" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="h8TS08j7oyF-GIlj1y9Z-1">
-          <mxGeometry x="715" y="164" width="130" height="70" as="geometry" />
+          <mxGeometry x="585" y="164.31" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="h8TS08j7oyF-GIlj1y9Z-82" value="DDHR will recommend an interview panel for the Director’s approval" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="h8TS08j7oyF-GIlj1y9Z-1">
+          <mxGeometry x="580" y="290" width="140" height="68.75" as="geometry" />
+        </mxCell>
+        <mxCell id="h8TS08j7oyF-GIlj1y9Z-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="h8TS08j7oyF-GIlj1y9Z-1" source="h8TS08j7oyF-GIlj1y9Z-80" target="h8TS08j7oyF-GIlj1y9Z-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h8TS08j7oyF-GIlj1y9Z-84" value="Approved?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="h8TS08j7oyF-GIlj1y9Z-1">
+          <mxGeometry x="610" y="410.005" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h8TS08j7oyF-GIlj1y9Z-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="h8TS08j7oyF-GIlj1y9Z-1" source="h8TS08j7oyF-GIlj1y9Z-82" target="h8TS08j7oyF-GIlj1y9Z-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h8TS08j7oyF-GIlj1y9Z-86" value="Director Appoints interview panel" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="h8TS08j7oyF-GIlj1y9Z-1">
+          <mxGeometry x="590" y="560.005" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h8TS08j7oyF-GIlj1y9Z-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="h8TS08j7oyF-GIlj1y9Z-1" source="h8TS08j7oyF-GIlj1y9Z-84" target="h8TS08j7oyF-GIlj1y9Z-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h8TS08j7oyF-GIlj1y9Z-88" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="h8TS08j7oyF-GIlj1y9Z-1">
+          <mxGeometry x="642" y="510" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="h8TS08j7oyF-GIlj1y9Z-94" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="h8TS08j7oyF-GIlj1y9Z-1">
+          <mxGeometry x="563" y="430" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="h8TS08j7oyF-GIlj1y9Z-91" value="DDHR implements the Director’s recommendations" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="h8TS08j7oyF-GIlj1y9Z-1">
+          <mxGeometry x="490" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h8TS08j7oyF-GIlj1y9Z-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="h8TS08j7oyF-GIlj1y9Z-1" source="h8TS08j7oyF-GIlj1y9Z-84" target="h8TS08j7oyF-GIlj1y9Z-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h8TS08j7oyF-GIlj1y9Z-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="h8TS08j7oyF-GIlj1y9Z-1" source="h8TS08j7oyF-GIlj1y9Z-91" target="h8TS08j7oyF-GIlj1y9Z-86">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="630" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="550" y="590" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="h8TS08j7oyF-GIlj1y9Z-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h8TS08j7oyF-GIlj1y9Z-55" target="h8TS08j7oyF-GIlj1y9Z-57">
           <mxGeometry relative="1" as="geometry" />
@@ -96,7 +134,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="580" y="620" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="580" y="600" />
+              <mxPoint x="580" y="620" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -116,12 +154,6 @@
           <mxGeometry x="350" y="177.5" width="140" height="62.5" as="geometry" />
         </mxCell>
         <mxCell id="h8TS08j7oyF-GIlj1y9Z-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h8TS08j7oyF-GIlj1y9Z-76" target="h8TS08j7oyF-GIlj1y9Z-78">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="h8TS08j7oyF-GIlj1y9Z-82" value="DDHR will recommend an interview panel for the Director’s approval" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="730" y="320.25" width="140" height="68.75" as="geometry" />
-        </mxCell>
-        <mxCell id="h8TS08j7oyF-GIlj1y9Z-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h8TS08j7oyF-GIlj1y9Z-80" target="h8TS08j7oyF-GIlj1y9Z-82">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
