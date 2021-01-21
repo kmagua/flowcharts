@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-21T08:49:02.531Z" agent="5.0 (Windows)" etag="Qgj9V0nXmR63SRbvbMNn" version="14.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-21T08:51:22.047Z" agent="5.0 (Windows)" etag="-aLrJaYrH30KPR7C8Fc3" version="14.2.4" type="github">
   <diagram id="Uljw9E6sIYdNkP1f9c3i" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -105,6 +105,9 @@
         <mxCell id="niNoGx1GZcgiBpnU9i2a-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="niNoGx1GZcgiBpnU9i2a-51" target="niNoGx1GZcgiBpnU9i2a-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="niNoGx1GZcgiBpnU9i2a-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="niNoGx1GZcgiBpnU9i2a-58" target="niNoGx1GZcgiBpnU9i2a-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="niNoGx1GZcgiBpnU9i2a-58" value="DDHR shall submit the report to the Full Board for approval" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="605" y="540" width="120" height="60" as="geometry" />
         </mxCell>
@@ -124,6 +127,18 @@
         </mxCell>
         <mxCell id="niNoGx1GZcgiBpnU9i2a-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="niNoGx1GZcgiBpnU9i2a-57" target="niNoGx1GZcgiBpnU9i2a-61">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="niNoGx1GZcgiBpnU9i2a-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="niNoGx1GZcgiBpnU9i2a-65" target="niNoGx1GZcgiBpnU9i2a-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="niNoGx1GZcgiBpnU9i2a-65" value="&lt;div&gt;Board&lt;/div&gt;&lt;div&gt;Approved?&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="670" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="niNoGx1GZcgiBpnU9i2a-67" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="795" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="niNoGx1GZcgiBpnU9i2a-69" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="419" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
