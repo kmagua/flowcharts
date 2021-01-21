@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-21T11:36:13.170Z" agent="5.0 (Windows)" etag="DB4PLeh0Lrrx3Stmq0_7" version="14.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-21T11:41:05.283Z" agent="5.0 (Windows)" etag="m7IW0FkcHj1eii1Zlj33" version="14.2.4" type="github">
   <diagram id="qqbpPhEREn-bMykAlWVB" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -8,40 +8,62 @@
           <mxGeometry x="20" y="10" width="1150" height="780" as="geometry" />
         </mxCell>
         <mxCell id="kVMKAQAATk6mwwqJ5JRx-33" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="kVMKAQAATk6mwwqJ5JRx-32">
-          <mxGeometry x="150" y="50" width="100" height="50" as="geometry" />
+          <mxGeometry x="131" y="50" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kVMKAQAATk6mwwqJ5JRx-34" value="DD HR submits memo by 30th July of every FY requesting the Heads of Departments, thematic areas and eco-regional research programmes to identify and submit their recruitment needs 31st August of every FY" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kVMKAQAATk6mwwqJ5JRx-32">
-          <mxGeometry x="80" y="150" width="240" height="90" as="geometry" />
+          <mxGeometry x="61" y="150" width="240" height="90" as="geometry" />
         </mxCell>
         <mxCell id="kVMKAQAATk6mwwqJ5JRx-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="kVMKAQAATk6mwwqJ5JRx-32" source="kVMKAQAATk6mwwqJ5JRx-33" target="kVMKAQAATk6mwwqJ5JRx-34">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="200" y="150" as="targetPoint" />
+            <mxPoint x="181" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kVMKAQAATk6mwwqJ5JRx-63" value="HoDs, thematic areas and eco-regional research programmes submit recruitment needs from&amp;nbsp; identifying their Human Resource Skill Gaps to DD-HR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kVMKAQAATk6mwwqJ5JRx-32">
-          <mxGeometry x="100" y="320" width="200" height="90" as="geometry" />
+          <mxGeometry x="81" y="320" width="200" height="90" as="geometry" />
         </mxCell>
         <mxCell id="kVMKAQAATk6mwwqJ5JRx-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="kVMKAQAATk6mwwqJ5JRx-32" source="kVMKAQAATk6mwwqJ5JRx-34" target="kVMKAQAATk6mwwqJ5JRx-63">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="200" y="300" as="targetPoint" />
+            <mxPoint x="181" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kVMKAQAATk6mwwqJ5JRx-66" value="DD HR then presents the draft annual recruitment plan to the Executive Committee for rationalization and recommendation" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="kVMKAQAATk6mwwqJ5JRx-32">
-          <mxGeometry x="110" y="640" width="180" height="90" as="geometry" />
+        <mxCell id="kVMKAQAATk6mwwqJ5JRx-66" value="DD HR then presents the draft annual recruitment plan to the Executive Committee (EC) for rationalization and recommendation" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="kVMKAQAATk6mwwqJ5JRx-32">
+          <mxGeometry x="91" y="640" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="kVMKAQAATk6mwwqJ5JRx-70" value="Approved?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="kVMKAQAATk6mwwqJ5JRx-32">
-          <mxGeometry x="400" y="645" width="80" height="80" as="geometry" />
+          <mxGeometry x="370" y="645" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kVMKAQAATk6mwwqJ5JRx-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="kVMKAQAATk6mwwqJ5JRx-32" source="kVMKAQAATk6mwwqJ5JRx-66" target="kVMKAQAATk6mwwqJ5JRx-70">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="685" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="kVMKAQAATk6mwwqJ5JRx-75" value="DDHR adopts EC Inputs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kVMKAQAATk6mwwqJ5JRx-32">
+          <mxGeometry x="520" y="655" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kVMKAQAATk6mwwqJ5JRx-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="kVMKAQAATk6mwwqJ5JRx-32" source="kVMKAQAATk6mwwqJ5JRx-70" target="kVMKAQAATk6mwwqJ5JRx-75">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="685" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kVMKAQAATk6mwwqJ5JRx-71" value="DD HR then presents the EC approved recruitment plan to the KeHRMAC for consideration and recommendation" style="whiteSpace=wrap;html=1;" vertex="1" parent="kVMKAQAATk6mwwqJ5JRx-32">
+          <mxGeometry x="330" y="490" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="kVMKAQAATk6mwwqJ5JRx-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="kVMKAQAATk6mwwqJ5JRx-32" source="kVMKAQAATk6mwwqJ5JRx-70" target="kVMKAQAATk6mwwqJ5JRx-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kVMKAQAATk6mwwqJ5JRx-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="kVMKAQAATk6mwwqJ5JRx-32" source="kVMKAQAATk6mwwqJ5JRx-75" target="kVMKAQAATk6mwwqJ5JRx-71">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="575" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="535" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="kVMKAQAATk6mwwqJ5JRx-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kVMKAQAATk6mwwqJ5JRx-64" target="kVMKAQAATk6mwwqJ5JRx-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kVMKAQAATk6mwwqJ5JRx-64" value="HR Officer will compile the submitted recruitment needs and will submit the same to DDHR for further action" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="500" width="160" height="75" as="geometry" />
+          <mxGeometry x="121" y="500" width="160" height="75" as="geometry" />
         </mxCell>
         <mxCell id="kVMKAQAATk6mwwqJ5JRx-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kVMKAQAATk6mwwqJ5JRx-63" target="kVMKAQAATk6mwwqJ5JRx-64">
           <mxGeometry relative="1" as="geometry" />
