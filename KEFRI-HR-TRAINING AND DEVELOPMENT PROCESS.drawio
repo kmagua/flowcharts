@@ -1,1 +1,112 @@
-<mxfile host="app.diagrams.net" modified="2021-01-21T10:54:41.449Z" agent="5.0 (Windows)" version="14.2.4" etag="5sNtQatI3ORD0805VOHT" type="github"><diagram id="nlSbDhUrQY35pHICE2kO">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-21T11:15:04.367Z" agent="5.0 (Windows)" etag="tlh15iEglREJ1F2wYHKD" version="14.2.4" type="github">
+  <diagram id="nlSbDhUrQY35pHICE2kO" name="Page-1">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="C6kKeApNYfL-rV87_6ZZ-1" value="CONDUCTING A TRAINING NEEDS ASSESSMENT PROCESS" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="1150" height="810" as="geometry" />
+        </mxCell>
+        <mxCell id="C6kKeApNYfL-rV87_6ZZ-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="C6kKeApNYfL-rV87_6ZZ-1">
+          <mxGeometry x="150" y="50" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="C6kKeApNYfL-rV87_6ZZ-3" value="DD HR requests the Heads of Divisions, thematic areas and eco-regional research programmes to identify and submit their staff training and development needs for the next 3 (three) years" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="C6kKeApNYfL-rV87_6ZZ-1">
+          <mxGeometry x="80" y="150" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="C6kKeApNYfL-rV87_6ZZ-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="C6kKeApNYfL-rV87_6ZZ-1" source="C6kKeApNYfL-rV87_6ZZ-2" target="C6kKeApNYfL-rV87_6ZZ-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C6kKeApNYfL-rV87_6ZZ-5" value="HODs agree on training needs with staff working under their supervision and forward the same to the DDHR" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="C6kKeApNYfL-rV87_6ZZ-1">
+          <mxGeometry x="115" y="300" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="C6kKeApNYfL-rV87_6ZZ-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="C6kKeApNYfL-rV87_6ZZ-1" source="C6kKeApNYfL-rV87_6ZZ-3" target="C6kKeApNYfL-rV87_6ZZ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C6kKeApNYfL-rV87_6ZZ-7" value="Head of Training and Development Unit generates a TNA report and present it to the Human Resource Training and Development Committee" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="C6kKeApNYfL-rV87_6ZZ-1">
+          <mxGeometry x="95" y="625" width="210" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="C6kKeApNYfL-rV87_6ZZ-8" value="Human Resource Training and Development Committee (HRT &amp;amp; DC) analyses and rationalizes the TNA report" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="C6kKeApNYfL-rV87_6ZZ-1">
+          <mxGeometry x="430" y="622.5" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="C6kKeApNYfL-rV87_6ZZ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="C6kKeApNYfL-rV87_6ZZ-1" source="C6kKeApNYfL-rV87_6ZZ-7" target="C6kKeApNYfL-rV87_6ZZ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C6kKeApNYfL-rV87_6ZZ-10" value="Human Resource Training and Development Committee (HRT &amp;amp; DC) shall analyse and rationalize the TNA report" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="C6kKeApNYfL-rV87_6ZZ-1">
+          <mxGeometry x="420" y="290" width="180" height="81.25" as="geometry" />
+        </mxCell>
+        <mxCell id="C6kKeApNYfL-rV87_6ZZ-11" value="DDHR submits report to the Director for approval" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="C6kKeApNYfL-rV87_6ZZ-1">
+          <mxGeometry x="720" y="137.35" width="120" height="74.69" as="geometry" />
+        </mxCell>
+        <mxCell id="C6kKeApNYfL-rV87_6ZZ-12" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="C6kKeApNYfL-rV87_6ZZ-1">
+          <mxGeometry x="775" y="405" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="C6kKeApNYfL-rV87_6ZZ-13" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="C6kKeApNYfL-rV87_6ZZ-1">
+          <mxGeometry x="840" y="305" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="C6kKeApNYfL-rV87_6ZZ-14" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="C6kKeApNYfL-rV87_6ZZ-1">
+          <mxGeometry x="730" y="622.5" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="C6kKeApNYfL-rV87_6ZZ-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C6kKeApNYfL-rV87_6ZZ-16" target="C6kKeApNYfL-rV87_6ZZ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C6kKeApNYfL-rV87_6ZZ-16" value="DDHR instructs the Head of Training and Development Unit to generate a TNA report." style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="450" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="C6kKeApNYfL-rV87_6ZZ-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C6kKeApNYfL-rV87_6ZZ-5" target="C6kKeApNYfL-rV87_6ZZ-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C6kKeApNYfL-rV87_6ZZ-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C6kKeApNYfL-rV87_6ZZ-19" target="C6kKeApNYfL-rV87_6ZZ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C6kKeApNYfL-rV87_6ZZ-19" value="Head of Training and Development Unit submits the rationalized Training Needs Report to DDHR" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="470" width="160" height="82.5" as="geometry" />
+        </mxCell>
+        <mxCell id="C6kKeApNYfL-rV87_6ZZ-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C6kKeApNYfL-rV87_6ZZ-8" target="C6kKeApNYfL-rV87_6ZZ-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C6kKeApNYfL-rV87_6ZZ-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C6kKeApNYfL-rV87_6ZZ-22" target="C6kKeApNYfL-rV87_6ZZ-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C6kKeApNYfL-rV87_6ZZ-22" value="Head of Training and Development Unit shall submit the rationalized Training Needs Report to DDHR" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="149.38" width="180" height="70.62" as="geometry" />
+        </mxCell>
+        <mxCell id="C6kKeApNYfL-rV87_6ZZ-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C6kKeApNYfL-rV87_6ZZ-10" target="C6kKeApNYfL-rV87_6ZZ-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C6kKeApNYfL-rV87_6ZZ-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C6kKeApNYfL-rV87_6ZZ-26" target="C6kKeApNYfL-rV87_6ZZ-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C6kKeApNYfL-rV87_6ZZ-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C6kKeApNYfL-rV87_6ZZ-26" target="C6kKeApNYfL-rV87_6ZZ-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C6kKeApNYfL-rV87_6ZZ-26" value="&lt;div&gt;report&lt;br&gt;&lt;/div&gt;&lt;div&gt;Approved?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="299.39" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="C6kKeApNYfL-rV87_6ZZ-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C6kKeApNYfL-rV87_6ZZ-11" target="C6kKeApNYfL-rV87_6ZZ-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C6kKeApNYfL-rV87_6ZZ-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="C6kKeApNYfL-rV87_6ZZ-29" target="C6kKeApNYfL-rV87_6ZZ-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="790" y="630.3049999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C6kKeApNYfL-rV87_6ZZ-29" value="DDHR ensures consideration of the TNA report when implementing annual Training and Development Plans for the next three (3) years" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="469.39" width="180" height="80.61" as="geometry" />
+        </mxCell>
+        <mxCell id="C6kKeApNYfL-rV87_6ZZ-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="C6kKeApNYfL-rV87_6ZZ-31" target="C6kKeApNYfL-rV87_6ZZ-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="995" y="480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="995" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C6kKeApNYfL-rV87_6ZZ-31" value="Head of Training Unit shall inform the Chair of the T&amp;amp;D Committee of the same and implement Director’s recommendation on the report" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="910" y="290" width="170" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
