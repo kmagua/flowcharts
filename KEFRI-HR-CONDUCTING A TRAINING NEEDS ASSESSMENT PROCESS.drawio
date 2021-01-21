@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-21T10:37:22.598Z" agent="5.0 (Windows)" etag="oJn-ZuujidF3f_mhEh5D" version="14.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-21T10:43:03.126Z" agent="5.0 (Windows)" etag="0SjXhtBTbe-gyTCCxp4q" version="14.2.4" type="github">
   <diagram id="dTMpoPVIkahXSZqtG1Pm" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -33,6 +33,9 @@
         <mxCell id="pj5xqQpvPvO0I1Rtv7KB-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="pj5xqQpvPvO0I1Rtv7KB-1" source="pj5xqQpvPvO0I1Rtv7KB-56" target="pj5xqQpvPvO0I1Rtv7KB-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="pj5xqQpvPvO0I1Rtv7KB-64" value="Human Resource Training and Development Committee (HRT &amp;amp; DC) shall analyse and rationalize the TNA report" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="pj5xqQpvPvO0I1Rtv7KB-1">
+          <mxGeometry x="360" y="280" width="180" height="81.25" as="geometry" />
+        </mxCell>
         <mxCell id="pj5xqQpvPvO0I1Rtv7KB-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pj5xqQpvPvO0I1Rtv7KB-54" target="pj5xqQpvPvO0I1Rtv7KB-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -40,6 +43,15 @@
           <mxGeometry x="60" y="440" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="pj5xqQpvPvO0I1Rtv7KB-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pj5xqQpvPvO0I1Rtv7KB-52" target="pj5xqQpvPvO0I1Rtv7KB-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pj5xqQpvPvO0I1Rtv7KB-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pj5xqQpvPvO0I1Rtv7KB-62" target="pj5xqQpvPvO0I1Rtv7KB-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pj5xqQpvPvO0I1Rtv7KB-62" value="Head of Training and Development Unit submits the rationalized Training Needs Report to DDHR" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="460" width="160" height="82.5" as="geometry" />
+        </mxCell>
+        <mxCell id="pj5xqQpvPvO0I1Rtv7KB-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pj5xqQpvPvO0I1Rtv7KB-60" target="pj5xqQpvPvO0I1Rtv7KB-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
