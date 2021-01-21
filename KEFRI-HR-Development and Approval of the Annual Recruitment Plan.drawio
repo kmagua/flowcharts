@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-21T11:26:52.706Z" agent="5.0 (Windows)" etag="QMQRaqZWyNjcGXmJpsYz" version="14.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-21T11:31:28.122Z" agent="5.0 (Windows)" etag="JvbRh8K0zAwhu2uWrD47" version="14.2.4" type="github">
   <diagram id="qqbpPhEREn-bMykAlWVB" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -18,7 +18,10 @@
             <mxPoint x="200" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kVMKAQAATk6mwwqJ5JRx-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="kVMKAQAATk6mwwqJ5JRx-32" source="kVMKAQAATk6mwwqJ5JRx-34">
+        <mxCell id="kVMKAQAATk6mwwqJ5JRx-63" value="HoDs, thematic areas and eco-regional research programmes submit recruitment needs from&amp;nbsp; identifying their Human Resource Skill Gaps to DD-HR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kVMKAQAATk6mwwqJ5JRx-32">
+          <mxGeometry x="100" y="320" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="kVMKAQAATk6mwwqJ5JRx-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="kVMKAQAATk6mwwqJ5JRx-32" source="kVMKAQAATk6mwwqJ5JRx-34" target="kVMKAQAATk6mwwqJ5JRx-63">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="200" y="300" as="targetPoint" />
           </mxGeometry>
