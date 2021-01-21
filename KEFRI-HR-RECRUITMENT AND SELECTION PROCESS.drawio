@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-21T12:17:23.016Z" agent="5.0 (Windows)" etag="OL0pxewxHYedYKcHAMR-" version="14.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-21T12:21:44.262Z" agent="5.0 (Windows)" etag="UDwRjsbBTVJL154N4bua" version="14.2.4" type="github">
   <diagram id="tumOcZ08y1jbHNWzHqvi" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -32,6 +32,53 @@
         </mxCell>
         <mxCell id="h8TS08j7oyF-GIlj1y9Z-54" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="h8TS08j7oyF-GIlj1y9Z-1">
           <mxGeometry x="177" y="404" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="h8TS08j7oyF-GIlj1y9Z-57" value="DDHR recommends a shortlisting panel for the Director’s approval" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="h8TS08j7oyF-GIlj1y9Z-1">
+          <mxGeometry x="111.5" y="690" width="139" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h8TS08j7oyF-GIlj1y9Z-63" value="Director appoints the shortlisting panel" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="h8TS08j7oyF-GIlj1y9Z-1">
+          <mxGeometry x="340" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h8TS08j7oyF-GIlj1y9Z-65" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="h8TS08j7oyF-GIlj1y9Z-1">
+          <mxGeometry x="370" y="650" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="h8TS08j7oyF-GIlj1y9Z-66" value="Comments" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" vertex="1" parent="h8TS08j7oyF-GIlj1y9Z-1">
+          <mxGeometry x="10" y="310" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h8TS08j7oyF-GIlj1y9Z-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="h8TS08j7oyF-GIlj1y9Z-1" source="h8TS08j7oyF-GIlj1y9Z-50" target="h8TS08j7oyF-GIlj1y9Z-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h8TS08j7oyF-GIlj1y9Z-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="h8TS08j7oyF-GIlj1y9Z-1" source="h8TS08j7oyF-GIlj1y9Z-66" target="h8TS08j7oyF-GIlj1y9Z-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="50" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h8TS08j7oyF-GIlj1y9Z-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h8TS08j7oyF-GIlj1y9Z-55" target="h8TS08j7oyF-GIlj1y9Z-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h8TS08j7oyF-GIlj1y9Z-55" value="Applicants submit applications" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="141" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h8TS08j7oyF-GIlj1y9Z-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h8TS08j7oyF-GIlj1y9Z-52" target="h8TS08j7oyF-GIlj1y9Z-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h8TS08j7oyF-GIlj1y9Z-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h8TS08j7oyF-GIlj1y9Z-59" target="h8TS08j7oyF-GIlj1y9Z-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h8TS08j7oyF-GIlj1y9Z-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h8TS08j7oyF-GIlj1y9Z-59" target="h8TS08j7oyF-GIlj1y9Z-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h8TS08j7oyF-GIlj1y9Z-59" value="Approved?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="690" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h8TS08j7oyF-GIlj1y9Z-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h8TS08j7oyF-GIlj1y9Z-57" target="h8TS08j7oyF-GIlj1y9Z-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h8TS08j7oyF-GIlj1y9Z-61" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="700" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
