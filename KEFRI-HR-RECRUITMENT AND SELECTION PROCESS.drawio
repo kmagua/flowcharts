@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-21T12:43:11.615Z" agent="5.0 (Windows)" etag="cEiVDI-oAOdyoIf1ESyN" version="14.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-21T12:43:43.231Z" agent="5.0 (Windows)" etag="UrLVb38ZUfRolr-L9esr" version="14.2.4" type="github">
   <diagram id="tumOcZ08y1jbHNWzHqvi" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -186,6 +186,12 @@
           <mxGeometry x="350" y="177.5" width="140" height="62.5" as="geometry" />
         </mxCell>
         <mxCell id="h8TS08j7oyF-GIlj1y9Z-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h8TS08j7oyF-GIlj1y9Z-76" target="h8TS08j7oyF-GIlj1y9Z-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h8TS08j7oyF-GIlj1y9Z-107" value="HRC approved&amp;nbsp; Interview report will be submitted to the BoD for approval" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="820" y="85" width="140" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="h8TS08j7oyF-GIlj1y9Z-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h8TS08j7oyF-GIlj1y9Z-105" target="h8TS08j7oyF-GIlj1y9Z-107">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
