@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-21T11:43:58.120Z" agent="5.0 (Windows)" etag="kGF4R_T_Lh-kSJ3DelX1" version="14.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-21T11:44:26.349Z" agent="5.0 (Windows)" etag="xnjAYXCNJ2G63JDbZLDU" version="14.2.4" type="github">
   <diagram id="qqbpPhEREn-bMykAlWVB" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -96,6 +96,12 @@
         </mxCell>
         <mxCell id="kVMKAQAATk6mwwqJ5JRx-84" value="DDHR adopts KeHRMAC  Inputs" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="345" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kVMKAQAATk6mwwqJ5JRx-90" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="482" y="355" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kVMKAQAATk6mwwqJ5JRx-91" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="424" y="296" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
