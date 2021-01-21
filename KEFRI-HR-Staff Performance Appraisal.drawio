@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-21T08:35:51.568Z" agent="5.0 (Windows)" etag="IswddS28lBpakrLuoOkd" version="14.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-21T08:39:36.029Z" agent="5.0 (Windows)" etag="Kj6i0_3vXhf9UicRA1O_" version="14.2.4" type="github">
   <diagram id="Uljw9E6sIYdNkP1f9c3i" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -71,6 +71,12 @@
           <mxGeometry x="342" y="95" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="niNoGx1GZcgiBpnU9i2a-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="niNoGx1GZcgiBpnU9i2a-1" source="niNoGx1GZcgiBpnU9i2a-47" target="niNoGx1GZcgiBpnU9i2a-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="niNoGx1GZcgiBpnU9i2a-51" value="DDHR shall table the performance evaluation recommendations from JSAC and SSASC to the KeHRMAC for consideration and input" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="niNoGx1GZcgiBpnU9i2a-1">
+          <mxGeometry x="575" y="85" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="niNoGx1GZcgiBpnU9i2a-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="niNoGx1GZcgiBpnU9i2a-1" source="niNoGx1GZcgiBpnU9i2a-49" target="niNoGx1GZcgiBpnU9i2a-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="niNoGx1GZcgiBpnU9i2a-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="niNoGx1GZcgiBpnU9i2a-37" target="niNoGx1GZcgiBpnU9i2a-41">
