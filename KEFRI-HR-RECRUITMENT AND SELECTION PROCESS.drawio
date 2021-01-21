@@ -1,1 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2021-01-21T11:58:14.080Z" agent="5.0 (Windows)" version="14.2.4" etag="_H6k8Wzv-nEAMV2nzIX1" type="github"><diagram id="tumOcZ08y1jbHNWzHqvi">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-21T12:17:08.565Z" agent="5.0 (Windows)" etag="ayBfX0Cpkv9W2N2geh_J" version="14.2.4" type="github">
+  <diagram id="tumOcZ08y1jbHNWzHqvi" name="Page-1">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="h8TS08j7oyF-GIlj1y9Z-1" value="CONDUCTING A TRAINING NEEDS ASSESSMENT PROCESS" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="20" y="10" width="1130" height="780" as="geometry" />
+        </mxCell>
+        <mxCell id="h8TS08j7oyF-GIlj1y9Z-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="h8TS08j7oyF-GIlj1y9Z-1">
+          <mxGeometry x="131" y="50" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="h8TS08j7oyF-GIlj1y9Z-49" value="SHRMO compiles the Approved Annual Recruitment Plan into a vacancy notice and submit to DDHR for approval" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h8TS08j7oyF-GIlj1y9Z-1">
+          <mxGeometry x="101" y="170" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h8TS08j7oyF-GIlj1y9Z-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="h8TS08j7oyF-GIlj1y9Z-1" source="h8TS08j7oyF-GIlj1y9Z-2" target="h8TS08j7oyF-GIlj1y9Z-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="181" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h8TS08j7oyF-GIlj1y9Z-50" value="Approved?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="h8TS08j7oyF-GIlj1y9Z-1">
+          <mxGeometry x="141" y="310" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h8TS08j7oyF-GIlj1y9Z-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="h8TS08j7oyF-GIlj1y9Z-1" source="h8TS08j7oyF-GIlj1y9Z-49" target="h8TS08j7oyF-GIlj1y9Z-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h8TS08j7oyF-GIlj1y9Z-52" value="DDHR submits to the Supply Chain Management Department for advertising on media" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="h8TS08j7oyF-GIlj1y9Z-1">
+          <mxGeometry x="91" y="453" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="h8TS08j7oyF-GIlj1y9Z-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="h8TS08j7oyF-GIlj1y9Z-1" source="h8TS08j7oyF-GIlj1y9Z-50" target="h8TS08j7oyF-GIlj1y9Z-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
