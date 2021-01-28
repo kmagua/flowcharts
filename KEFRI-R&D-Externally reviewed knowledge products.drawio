@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T16:54:30.451Z" agent="5.0 (Windows)" etag="lJgLl5J2ikpoXmtnIe4p" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-28T16:56:17.819Z" agent="5.0 (Windows)" etag="LFsNU56Z4ShHzU-7IaRa" version="14.2.7" type="github">
   <diagram id="bO6ONmM0FboMKdh2IcsY" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -23,6 +23,12 @@
         </mxCell>
         <mxCell id="8hKZSPDeMMXq-WV7nx7k-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8hKZSPDeMMXq-WV7nx7k-8" value="Updates on the status (Under review, accepted with major/minor revisions, proof reading, in press, published or rejected)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="510" width="180" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="8hKZSPDeMMXq-WV7nx7k-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8hKZSPDeMMXq-WV7nx7k-6" target="8hKZSPDeMMXq-WV7nx7k-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
