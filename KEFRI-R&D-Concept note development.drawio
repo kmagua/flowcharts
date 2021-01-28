@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T13:00:27.836Z" agent="5.0 (Windows)" etag="pa5m7zZJt2Q0GZ_F13Wt" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-28T13:01:00.350Z" agent="5.0 (Windows)" etag="28VxCdjwMDm3-HQws1cY" version="14.2.7" type="github">
   <diagram id="6g9CYFeaIedKOHrS-u5r" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -119,8 +119,14 @@
         <mxCell id="Q0Rn-usG1npKYPO_bdDH-44" value="Rejection comments/ feedback" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="859" y="631" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Q0Rn-usG1npKYPO_bdDH-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q0Rn-usG1npKYPO_bdDH-42" target="Q0Rn-usG1npKYPO_bdDH-44">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Q0Rn-usG1npKYPO_bdDH-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q0Rn-usG1npKYPO_bdDH-42" target="Q0Rn-usG1npKYPO_bdDH-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="719" y="731" />
+              <mxPoint x="830" y="731" />
+              <mxPoint x="830" y="671" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
