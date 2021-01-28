@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T10:32:34.165Z" agent="5.0 (Windows)" etag="cfj_Zsoj-22rmbmM4Wap" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-28T10:35:51.546Z" agent="5.0 (Windows)" etag="gCTN8nSTQgRWgExb828T" version="14.2.7" type="github">
   <diagram id="7WZmSiz0M4jWql_Y_E7b" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -41,6 +41,15 @@
         </mxCell>
         <mxCell id="KGjc-fxRxSXkj4jjtw1g-27" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="KGjc-fxRxSXkj4jjtw1g-1">
           <mxGeometry x="369" y="230" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KGjc-fxRxSXkj4jjtw1g-33" value="RD/DRD Provides feedback to PI and RS on any changes from DD by end of July" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KGjc-fxRxSXkj4jjtw1g-1">
+          <mxGeometry x="610" y="350" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KGjc-fxRxSXkj4jjtw1g-34" value="RS/PI addresses changes if any based-on feedback received on amended and harmonized research projects, workplans and budgets by end of July" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="KGjc-fxRxSXkj4jjtw1g-1">
+          <mxGeometry x="590" y="490" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="KGjc-fxRxSXkj4jjtw1g-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KGjc-fxRxSXkj4jjtw1g-1" source="KGjc-fxRxSXkj4jjtw1g-33" target="KGjc-fxRxSXkj4jjtw1g-34">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KGjc-fxRxSXkj4jjtw1g-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KGjc-fxRxSXkj4jjtw1g-6" target="KGjc-fxRxSXkj4jjtw1g-8">
           <mxGeometry relative="1" as="geometry" />
@@ -96,7 +105,7 @@
         <mxCell id="KGjc-fxRxSXkj4jjtw1g-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KGjc-fxRxSXkj4jjtw1g-20" target="KGjc-fxRxSXkj4jjtw1g-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KGjc-fxRxSXkj4jjtw1g-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KGjc-fxRxSXkj4jjtw1g-30">
+        <mxCell id="KGjc-fxRxSXkj4jjtw1g-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KGjc-fxRxSXkj4jjtw1g-30" target="KGjc-fxRxSXkj4jjtw1g-33">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="695" y="360" as="targetPoint" />
           </mxGeometry>
