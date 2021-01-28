@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T10:04:04.658Z" agent="5.0 (Windows)" etag="N74EGHYE6Gijy-WTd_CP" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-28T10:09:15.846Z" agent="5.0 (Windows)" etag="fbpRg3sFCeuM1BMM2isB" version="14.2.7" type="github">
   <diagram id="7WZmSiz0M4jWql_Y_E7b" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -18,16 +18,16 @@
             <mxPoint x="140" y="155" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KGjc-fxRxSXkj4jjtw1g-12" value="Director Convene the consultative meeting (CM) by end of June" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="KGjc-fxRxSXkj4jjtw1g-1">
+        <mxCell id="KGjc-fxRxSXkj4jjtw1g-12" value="Director convenes the consultative meeting (CM) by end of June" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="KGjc-fxRxSXkj4jjtw1g-1">
           <mxGeometry x="80" y="690" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KGjc-fxRxSXkj4jjtw1g-14" value="Presentation of research proposal, budget and work plan at Consultative Meeting (CM) by first week of July" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="KGjc-fxRxSXkj4jjtw1g-1">
+        <mxCell id="KGjc-fxRxSXkj4jjtw1g-14" value="SDDRD Presents&amp;nbsp; research proposal, budget and work plan at Consultative Meeting (CM) by first week of July" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="KGjc-fxRxSXkj4jjtw1g-1">
           <mxGeometry x="320" y="675" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="KGjc-fxRxSXkj4jjtw1g-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KGjc-fxRxSXkj4jjtw1g-1" source="KGjc-fxRxSXkj4jjtw1g-12" target="KGjc-fxRxSXkj4jjtw1g-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KGjc-fxRxSXkj4jjtw1g-16" value="Feedback to PI/RS, through RD/DD on presented research proposal, budget and work plan during CM second week of July" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="KGjc-fxRxSXkj4jjtw1g-1">
+        <mxCell id="KGjc-fxRxSXkj4jjtw1g-16" value="SDDRD/DD provides feedback to PI/RS, through RD/DD on presented research proposal, budget and work plan during CM second week of July" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="KGjc-fxRxSXkj4jjtw1g-1">
           <mxGeometry x="310" y="540" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KGjc-fxRxSXkj4jjtw1g-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KGjc-fxRxSXkj4jjtw1g-1" source="KGjc-fxRxSXkj4jjtw1g-14" target="KGjc-fxRxSXkj4jjtw1g-16">
@@ -53,6 +53,12 @@
         </mxCell>
         <mxCell id="KGjc-fxRxSXkj4jjtw1g-10" value="RD/DRD Address recommendations from scientists and provide report on how recommendations were addressed to Director, SDDRD and DDs by end of June" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="540" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="KGjc-fxRxSXkj4jjtw1g-18" value="Hold meeting to share feedback with PIs/RS to review endorsed research proposal, budget and work plan by third week of July" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KGjc-fxRxSXkj4jjtw1g-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KGjc-fxRxSXkj4jjtw1g-16" target="KGjc-fxRxSXkj4jjtw1g-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
