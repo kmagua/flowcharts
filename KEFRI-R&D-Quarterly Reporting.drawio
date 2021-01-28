@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T16:20:16.616Z" agent="5.0 (Windows)" etag="13i7gf3bjzQABk7_yFaC" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-28T16:20:45.732Z" agent="5.0 (Windows)" etag="lHbHhzChUjjKP2ImwEwo" version="14.2.7" type="github">
   <diagram id="KoK0PCqbbtq8ZABcu_Ot" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -73,6 +73,12 @@
               <mxPoint x="430" y="680" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="OQvwtEZu1LkCvoDyPKeE-24" value="Review quarterly reports and provide feedback to DDs" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="535" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OQvwtEZu1LkCvoDyPKeE-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OQvwtEZu1LkCvoDyPKeE-22" target="OQvwtEZu1LkCvoDyPKeE-24">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
