@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T13:57:46.446Z" agent="5.0 (Windows)" version="14.2.7" etag="YoMLL3onzyxvX7PQNwWZ" type="github"><diagram id="Eg-WEQHDB5EJanqOj88a">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-28T14:01:58.183Z" agent="5.0 (Windows)" etag="Kp-pH_v6ufFC2hWAWfAj" version="14.2.7" type="github">
+  <diagram id="Eg-WEQHDB5EJanqOj88a" name="Page-1">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jZjp1yafU3851VO5TsbQ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jZjp1yafU3851VO5TsbQ-1" target="jZjp1yafU3851VO5TsbQ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jZjp1yafU3851VO5TsbQ-1" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jZjp1yafU3851VO5TsbQ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jZjp1yafU3851VO5TsbQ-2" target="jZjp1yafU3851VO5TsbQ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jZjp1yafU3851VO5TsbQ-2" value="&lt;p style=&quot;margin-bottom: 0in ; line-height: 100%&quot;&gt;SDDRD Uploads all research projects by &lt;b&gt;first week of August&lt;/b&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jZjp1yafU3851VO5TsbQ-4" value="PI, RS, Biometrics and GIS prepares and submit PIPs, quarterly workplans, budget and protocols to the RD if at Eco-region and to the DD if at HQ by mid August" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="320" width="160" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
