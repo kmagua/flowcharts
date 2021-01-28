@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T13:53:18.712Z" agent="5.0 (Windows)" etag="wn2LmrqMsAWU7DvYzNDT" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-28T14:22:09.574Z" agent="5.0 (Windows)" etag="1YX6JyQ1eJKBotIY5uqu" version="14.2.7" type="github">
   <diagram id="PVdL_zoP0Urx2-9kqrgy" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -61,7 +61,7 @@
         <mxCell id="dvURbFbIRr_XrWgvkVuH-12" value="Accepted?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="571.5" y="641.5" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dvURbFbIRr_XrWgvkVuH-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="dvURbFbIRr_XrWgvkVuH-18" target="dvURbFbIRr_XrWgvkVuH-32" edge="1">
+        <mxCell id="dvURbFbIRr_XrWgvkVuH-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="dvURbFbIRr_XrWgvkVuH-18" target="dvURbFbIRr_XrWgvkVuH-32" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="813" y="519" as="targetPoint" />
           </mxGeometry>
@@ -93,7 +93,7 @@
         <mxCell id="dvURbFbIRr_XrWgvkVuH-28" value="SCNPRC assess&amp;nbsp; the correctness of improved draft proposal and submit feedback (accepted or returned with amendments) to the PIs and RS through DD and RDs and SDDRD for endorsement by first week March" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="751" y="165" width="232" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="dvURbFbIRr_XrWgvkVuH-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.525;entryY=-0.1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="dvURbFbIRr_XrWgvkVuH-30" target="dvURbFbIRr_XrWgvkVuH-32" edge="1">
+        <mxCell id="dvURbFbIRr_XrWgvkVuH-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="dvURbFbIRr_XrWgvkVuH-30" target="dvURbFbIRr_XrWgvkVuH-32" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="867" y="529" as="targetPoint" />
           </mxGeometry>
