@@ -1,51 +1,51 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T15:16:27.872Z" agent="5.0 (Windows)" etag="d_VaqI_BAdgaF3307wcJ" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-28T15:17:12.201Z" agent="5.0 (Windows)" etag="Lw1S1cBPjB2BcIMJovvI" version="14.2.7" type="github">
   <diagram id="ledTK3Jc3U8G42aMWWrB" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="XpzHF-PTDB18xO61Rv8e-2" value="Schedule for release of funds and performance contracting" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="10" y="10" width="1150" height="810" as="geometry" />
+          <mxGeometry x="10" y="10" width="850" height="810" as="geometry" />
         </mxCell>
         <mxCell id="XpzHF-PTDB18xO61Rv8e-3" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XpzHF-PTDB18xO61Rv8e-2">
-          <mxGeometry x="170" y="50" width="110" height="50" as="geometry" />
+          <mxGeometry x="112.5" y="50" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XpzHF-PTDB18xO61Rv8e-6" value="SDDRD Prepares and submits a schedule on release of funds for R&amp;amp;D to the Director for approval&amp;nbsp; by end August" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XpzHF-PTDB18xO61Rv8e-2">
-          <mxGeometry x="127.5" y="170" width="195" height="80" as="geometry" />
+          <mxGeometry x="70" y="170" width="195" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XpzHF-PTDB18xO61Rv8e-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XpzHF-PTDB18xO61Rv8e-2" source="XpzHF-PTDB18xO61Rv8e-3" target="XpzHF-PTDB18xO61Rv8e-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="225" y="175" as="targetPoint" />
+            <mxPoint x="167.5" y="175" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XpzHF-PTDB18xO61Rv8e-7" value="Director approves schedule on release of funds by end of August" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="XpzHF-PTDB18xO61Rv8e-2">
-          <mxGeometry x="150" y="320" width="150" height="70" as="geometry" />
+          <mxGeometry x="92.5" y="320" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="XpzHF-PTDB18xO61Rv8e-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XpzHF-PTDB18xO61Rv8e-2" source="XpzHF-PTDB18xO61Rv8e-6" target="XpzHF-PTDB18xO61Rv8e-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XpzHF-PTDB18xO61Rv8e-9" value="SDDRD shares approved schedule of release of funds to PI and RS through DD and RDs by end of August" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="XpzHF-PTDB18xO61Rv8e-2">
-          <mxGeometry x="142.5" y="450" width="165" height="90" as="geometry" />
+          <mxGeometry x="85" y="450" width="165" height="90" as="geometry" />
         </mxCell>
         <mxCell id="XpzHF-PTDB18xO61Rv8e-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XpzHF-PTDB18xO61Rv8e-2" source="XpzHF-PTDB18xO61Rv8e-7" target="XpzHF-PTDB18xO61Rv8e-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XpzHF-PTDB18xO61Rv8e-13" value="SDDR&amp;amp;D, DD, RDs and DRDs prepares and signs Performance contract with PIs, RS and technical teams " style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="XpzHF-PTDB18xO61Rv8e-2">
-          <mxGeometry x="430" y="612.5" width="175" height="90" as="geometry" />
+          <mxGeometry x="372.5" y="612.5" width="175" height="90" as="geometry" />
         </mxCell>
         <mxCell id="XpzHF-PTDB18xO61Rv8e-17" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XpzHF-PTDB18xO61Rv8e-2">
-          <mxGeometry x="710" y="626.5" width="100" height="62.5" as="geometry" />
+          <mxGeometry x="652.5" y="626.5" width="100" height="62.5" as="geometry" />
         </mxCell>
         <mxCell id="XpzHF-PTDB18xO61Rv8e-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="XpzHF-PTDB18xO61Rv8e-2" source="XpzHF-PTDB18xO61Rv8e-13" target="XpzHF-PTDB18xO61Rv8e-17">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="712.5" y="657.5" as="targetPoint" />
+            <mxPoint x="655" y="657.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XpzHF-PTDB18xO61Rv8e-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XpzHF-PTDB18xO61Rv8e-11" target="XpzHF-PTDB18xO61Rv8e-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XpzHF-PTDB18xO61Rv8e-11" value="BoD/Director prepares and signs institutional performance contract with BOD and the parent Ministry " style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="150" y="630" width="170" height="75" as="geometry" />
+          <mxGeometry x="92.5" y="630" width="170" height="75" as="geometry" />
         </mxCell>
         <mxCell id="XpzHF-PTDB18xO61Rv8e-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XpzHF-PTDB18xO61Rv8e-9" target="XpzHF-PTDB18xO61Rv8e-11">
           <mxGeometry relative="1" as="geometry" />
