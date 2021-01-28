@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T14:05:49.980Z" agent="5.0 (Windows)" etag="sqrsqagtK0KWNihHaeZQ" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-28T14:08:54.977Z" agent="5.0 (Windows)" etag="7JYKu-RcgzPnLmMSihHM" version="14.2.7" type="github">
   <diagram id="Eg-WEQHDB5EJanqOj88a" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -34,8 +34,26 @@
         <mxCell id="jZjp1yafU3851VO5TsbQ-8" value="DD Harmonises and submit PIPs, quarterly work plans and budget, protocols for research activities at thematic level to SDDR&amp;amp;D by mid-August" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="640" width="180" height="82.5" as="geometry" />
         </mxCell>
+        <mxCell id="jZjp1yafU3851VO5TsbQ-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jZjp1yafU3851VO5TsbQ-10" target="jZjp1yafU3851VO5TsbQ-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jZjp1yafU3851VO5TsbQ-10" value="SDDRD Uses thematic PIP, quarterly work plan and protocols to prepare Departmental PIP, quarterly work plan, budgets and protocols and submit to the Director by mid-August" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="370" y="631" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jZjp1yafU3851VO5TsbQ-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jZjp1yafU3851VO5TsbQ-12" target="jZjp1yafU3851VO5TsbQ-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jZjp1yafU3851VO5TsbQ-12" value="Director and SDDRD Submits institutional research and development PIPs, quarterly work plans and protocol to the BOD for approval by August" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="365" y="450" width="170" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="jZjp1yafU3851VO5TsbQ-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jZjp1yafU3851VO5TsbQ-14" target="jZjp1yafU3851VO5TsbQ-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jZjp1yafU3851VO5TsbQ-14" value="&lt;p style=&quot;margin-bottom: 0in ; line-height: 115%&quot;&gt;Approval of PIPs, quarterly work plans and protocol by the BoD &lt;br&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="299.5" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jZjp1yafU3851VO5TsbQ-16" value="&lt;p style=&quot;margin-bottom: 0in ; line-height: 115%&quot;&gt;SDDRD Provides feedback on approved PIP, work plans and budget as well as protocol to DD, RD &lt;b&gt;by August&lt;/b&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="299.5" width="240" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
