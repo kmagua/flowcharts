@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T11:58:02.278Z" agent="5.0 (Windows)" etag="61_-nHB49sAqaB7ql1RH" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-28T12:01:31.723Z" agent="5.0 (Windows)" etag="CiR8q8m574anx5NRjp66" version="14.2.7" type="github">
   <diagram id="tZU8RH54jPB0YR1qd6gx" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -18,6 +18,12 @@
             <mxPoint x="245" y="215" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="y9bxsy1iOUCk4nZmsPaL-18" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="y9bxsy1iOUCk4nZmsPaL-3">
+          <mxGeometry x="160" y="650" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="y9bxsy1iOUCk4nZmsPaL-19" value="Liaison with assigned scientists of different/or same background (of multi-disciplinary and multi-sectoral) to form a team and brainstorm on the problem identified" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="y9bxsy1iOUCk4nZmsPaL-3">
+          <mxGeometry x="420" y="620" width="195" height="110" as="geometry" />
+        </mxCell>
         <mxCell id="y9bxsy1iOUCk4nZmsPaL-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y9bxsy1iOUCk4nZmsPaL-8" target="y9bxsy1iOUCk4nZmsPaL-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -30,10 +36,13 @@
         <mxCell id="y9bxsy1iOUCk4nZmsPaL-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y9bxsy1iOUCk4nZmsPaL-10" target="y9bxsy1iOUCk4nZmsPaL-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="y9bxsy1iOUCk4nZmsPaL-10" value="RS request for assignment of scientists to brainstorm the problem" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="y9bxsy1iOUCk4nZmsPaL-10" value="RS request for assignment of scientists by SDDRD, DD, RDs, DRDs to brainstorm the problem" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="515" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y9bxsy1iOUCk4nZmsPaL-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y9bxsy1iOUCk4nZmsPaL-12" target="y9bxsy1iOUCk4nZmsPaL-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y9bxsy1iOUCk4nZmsPaL-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y9bxsy1iOUCk4nZmsPaL-12" target="y9bxsy1iOUCk4nZmsPaL-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="y9bxsy1iOUCk4nZmsPaL-12" value="&lt;div&gt;RSs &lt;br&gt;&lt;/div&gt;&lt;div&gt;available?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
