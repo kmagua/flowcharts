@@ -1,14 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T16:02:01.394Z" agent="5.0 (Windows)" etag="rn35ApN64hYZNbkOSIXB" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-28T16:03:37.128Z" agent="5.0 (Windows)" etag="nly6lcIFsw8g-PBf1w7u" version="14.2.7" type="github">
   <diagram id="Ba9Kz7SdJSE-EgRKAauW" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="wlBMoHauPnCF53xYCMfj-1" value="Monitoring and Evaluation" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="170" y="30" width="660" height="510" as="geometry" />
+          <mxGeometry x="170" y="30" width="660" height="790" as="geometry" />
         </mxCell>
         <mxCell id="wlBMoHauPnCF53xYCMfj-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wlBMoHauPnCF53xYCMfj-1">
           <mxGeometry x="260" y="36" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wlBMoHauPnCF53xYCMfj-5" value="Upon approved work plan, protocols, PIP and budget, M&amp;amp;E Office, PIs, RS, Technical Staff, DRDs, DDs, SDDR&amp;amp;D develop monitoring and evaluation framework or results-based management system for research activities at Eco-regional, Thematic and SDDR&amp;amp;D levels by July" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wlBMoHauPnCF53xYCMfj-1">
+          <mxGeometry x="200" y="170" width="240" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="wlBMoHauPnCF53xYCMfj-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="wlBMoHauPnCF53xYCMfj-1" source="wlBMoHauPnCF53xYCMfj-2" target="wlBMoHauPnCF53xYCMfj-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="176" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wlBMoHauPnCF53xYCMfj-6" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="445" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wlBMoHauPnCF53xYCMfj-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wlBMoHauPnCF53xYCMfj-5" target="wlBMoHauPnCF53xYCMfj-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
