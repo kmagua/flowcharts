@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T13:28:57.593Z" agent="5.0 (Windows)" etag="HFMPauokfCGdRqJoJzkA" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-28T13:31:06.678Z" agent="5.0 (Windows)" etag="2L9gUloh9uAnEy9AHo8H" version="14.2.7" type="github">
   <diagram id="PVdL_zoP0Urx2-9kqrgy" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -8,45 +8,49 @@
           <mxGeometry x="10" y="10" width="1150" height="810" as="geometry" />
         </mxCell>
         <mxCell id="dvURbFbIRr_XrWgvkVuH-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dvURbFbIRr_XrWgvkVuH-1">
-          <mxGeometry x="90" y="50" width="120" height="60" as="geometry" />
+          <mxGeometry x="193" y="49" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dvURbFbIRr_XrWgvkVuH-3" value="PI and RS receive approved CN fro proposal development by first week of January" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dvURbFbIRr_XrWgvkVuH-1">
-          <mxGeometry x="81" y="190" width="140" height="60" as="geometry" />
+          <mxGeometry x="184" y="189" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dvURbFbIRr_XrWgvkVuH-17" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dvURbFbIRr_XrWgvkVuH-1">
-          <mxGeometry x="540" y="646" width="40" height="20" as="geometry" />
+          <mxGeometry x="643" y="645" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="dvURbFbIRr_XrWgvkVuH-15" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dvURbFbIRr_XrWgvkVuH-1">
-          <mxGeometry x="430" y="590" width="40" height="20" as="geometry" />
+          <mxGeometry x="533" y="589" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="dvURbFbIRr_XrWgvkVuH-32" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dvURbFbIRr_XrWgvkVuH-1">
-          <mxGeometry x="750" y="550" width="120" height="60" as="geometry" />
+          <mxGeometry x="853" y="549" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dvURbFbIRr_XrWgvkVuH-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dvURbFbIRr_XrWgvkVuH-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="160" y="200" as="targetPoint" />
+            <mxPoint x="263" y="199" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dvURbFbIRr_XrWgvkVuH-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dvURbFbIRr_XrWgvkVuH-6" target="dvURbFbIRr_XrWgvkVuH-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dvURbFbIRr_XrWgvkVuH-6" value="Integration of CN (s) into draft research proposal by RS, PI, Technical Support Staff and submission to DRD if at the Eco-region and to DD if HQ by end January" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="54" y="340" width="214" height="70" as="geometry" />
+          <mxGeometry x="157" y="339" width="214" height="70" as="geometry" />
         </mxCell>
         <mxCell id="dvURbFbIRr_XrWgvkVuH-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dvURbFbIRr_XrWgvkVuH-3" target="dvURbFbIRr_XrWgvkVuH-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dvURbFbIRr_XrWgvkVuH-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dvURbFbIRr_XrWgvkVuH-8" target="dvURbFbIRr_XrWgvkVuH-10">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="dvURbFbIRr_XrWgvkVuH-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dvURbFbIRr_XrWgvkVuH-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="264.5" y="634" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="dvURbFbIRr_XrWgvkVuH-8" value="SDDRD Submits draft proposal to the SCNPRC by &lt;b&gt;first week of&lt;br/&gt;February&lt;/b&gt;&lt;br/&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="92" y="495" width="139" height="60" as="geometry" />
+          <mxGeometry x="195" y="494" width="139" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dvURbFbIRr_XrWgvkVuH-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dvURbFbIRr_XrWgvkVuH-10" target="dvURbFbIRr_XrWgvkVuH-12">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="dvURbFbIRr_XrWgvkVuH-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="dvURbFbIRr_XrWgvkVuH-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="398" y="681.5" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="dvURbFbIRr_XrWgvkVuH-10" value="SCNPRC Integrates CN (s) into draft research proposal and submits to DRD if at the Eco-region and to DD if HQ by end JanuaryReview and submit feedback to SDDRD on reviewed draft research proposals as per set criteria by mid-February" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="28" y="635" width="267" height="95" as="geometry" />
+          <mxGeometry x="130" y="634" width="267" height="95" as="geometry" />
         </mxCell>
         <mxCell id="dvURbFbIRr_XrWgvkVuH-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dvURbFbIRr_XrWgvkVuH-12" target="dvURbFbIRr_XrWgvkVuH-18">
           <mxGeometry relative="1" as="geometry" />
@@ -55,47 +59,47 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dvURbFbIRr_XrWgvkVuH-12" value="Accepted?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="468.5" y="642.5" width="80" height="80" as="geometry" />
+          <mxGeometry x="571.5" y="641.5" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dvURbFbIRr_XrWgvkVuH-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dvURbFbIRr_XrWgvkVuH-18" target="dvURbFbIRr_XrWgvkVuH-32">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="710" y="520" as="targetPoint" />
+            <mxPoint x="813" y="519" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dvURbFbIRr_XrWgvkVuH-18" value="Rejected with comments" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="608.5" y="642.5" width="120" height="80" as="geometry" />
+          <mxGeometry x="711.5" y="641.5" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dvURbFbIRr_XrWgvkVuH-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dvURbFbIRr_XrWgvkVuH-20" target="dvURbFbIRr_XrWgvkVuH-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dvURbFbIRr_XrWgvkVuH-20" value="Transmission of feedback (accepted with amendments/or rejected) to the PIs and RS through DD and RDs on reviewed proposal by SCNPRC by mid- February" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="412" y="480" width="192" height="72.5" as="geometry" />
+          <mxGeometry x="515" y="479" width="192" height="72.5" as="geometry" />
         </mxCell>
         <mxCell id="dvURbFbIRr_XrWgvkVuH-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dvURbFbIRr_XrWgvkVuH-24" target="dvURbFbIRr_XrWgvkVuH-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dvURbFbIRr_XrWgvkVuH-24" value="Improvement and submission of the revised draft proposal based on the feedback to SDDRD through RD and DDs by end of February " style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="418" y="327.5" width="180" height="72.5" as="geometry" />
+          <mxGeometry x="521" y="326.5" width="180" height="72.5" as="geometry" />
         </mxCell>
         <mxCell id="dvURbFbIRr_XrWgvkVuH-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dvURbFbIRr_XrWgvkVuH-26" target="dvURbFbIRr_XrWgvkVuH-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dvURbFbIRr_XrWgvkVuH-26" value="SDDRD Submits the revised draft proposal to SCNPRC by end of February" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="448" y="181.25" width="120" height="60" as="geometry" />
+          <mxGeometry x="551" y="180.25" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dvURbFbIRr_XrWgvkVuH-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dvURbFbIRr_XrWgvkVuH-28" target="dvURbFbIRr_XrWgvkVuH-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dvURbFbIRr_XrWgvkVuH-28" value="SCNPRC assess&amp;nbsp; the correctness of improved draft proposal and submit feedback (accepted or returned with amendments) to the PIs and RS through DD and RDs and SDDRD for endorsement by first week March" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="648" y="166" width="232" height="90" as="geometry" />
+          <mxGeometry x="751" y="165" width="232" height="90" as="geometry" />
         </mxCell>
         <mxCell id="dvURbFbIRr_XrWgvkVuH-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.525;entryY=-0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dvURbFbIRr_XrWgvkVuH-30" target="dvURbFbIRr_XrWgvkVuH-32">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="764" y="530" as="targetPoint" />
+            <mxPoint x="867" y="529" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dvURbFbIRr_XrWgvkVuH-30" value="SDDRD Receives and endorses the reviewed and accepted research proposal in preparation for the Pre-Consultative Regional Research Advisory Committee (Pre-CRAC) and Consultative Regional Research Advisory Committee (CRAC) by second week of March" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="644" y="330" width="240" height="100" as="geometry" />
+          <mxGeometry x="747" y="329" width="240" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
