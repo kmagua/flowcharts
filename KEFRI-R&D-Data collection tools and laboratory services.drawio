@@ -1,1 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T15:18:21.024Z" agent="5.0 (Windows)" version="14.2.7" etag="fZFv_Kjif3kq3_Qo7I2u" type="github"><diagram id="9AUTSeqywhxO679KxUz8">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-28T15:18:57.274Z" agent="5.0 (Windows)" etag="eu60VUsk20bDaumc2Nny" version="14.2.7" type="github">
+  <diagram id="9AUTSeqywhxO679KxUz8" name="Page-1">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5i5uavK7HOHlnxQsCkVr-1" value="Data collection tools and laboratory services" style="swimlane;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="1140" height="800" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
