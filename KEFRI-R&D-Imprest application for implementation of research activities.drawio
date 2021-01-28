@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T15:56:11.698Z" agent="5.0 (Windows)" etag="FVprMFocB-GDWTWYc1a_" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-28T15:59:44.147Z" agent="5.0 (Windows)" etag="9LSAmWWdv-mNevd758CU" version="14.2.7" type="github">
   <diagram id="CgVNVVAf5t5QH2AuZ8BF" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -27,6 +27,23 @@
         </mxCell>
         <mxCell id="k_A5vBEEgDoCNLjFbpOS-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="k_A5vBEEgDoCNLjFbpOS-1" source="k_A5vBEEgDoCNLjFbpOS-22" target="k_A5vBEEgDoCNLjFbpOS-24">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k_A5vBEEgDoCNLjFbpOS-28" value="DRD/RD submits final revised back to office report to DD for endorsement" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="k_A5vBEEgDoCNLjFbpOS-1">
+          <mxGeometry x="830" y="203" width="155" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="k_A5vBEEgDoCNLjFbpOS-30" value="PI, RS, Biometrician &amp;amp; other technical staff retires the imprest" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="k_A5vBEEgDoCNLjFbpOS-1">
+          <mxGeometry x="832.5" y="374" width="150" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="k_A5vBEEgDoCNLjFbpOS-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="k_A5vBEEgDoCNLjFbpOS-1" source="k_A5vBEEgDoCNLjFbpOS-28" target="k_A5vBEEgDoCNLjFbpOS-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k_A5vBEEgDoCNLjFbpOS-34" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="k_A5vBEEgDoCNLjFbpOS-1">
+          <mxGeometry x="847.5" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k_A5vBEEgDoCNLjFbpOS-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="k_A5vBEEgDoCNLjFbpOS-1" source="k_A5vBEEgDoCNLjFbpOS-30" target="k_A5vBEEgDoCNLjFbpOS-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="907.5" y="538" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="k_A5vBEEgDoCNLjFbpOS-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k_A5vBEEgDoCNLjFbpOS-2" target="k_A5vBEEgDoCNLjFbpOS-5">
           <mxGeometry relative="1" as="geometry">
@@ -75,6 +92,15 @@
         </mxCell>
         <mxCell id="k_A5vBEEgDoCNLjFbpOS-20" value="DD approves endorsed imprest and submit to DD finance for processing " style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="550" y="697.5" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k_A5vBEEgDoCNLjFbpOS-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k_A5vBEEgDoCNLjFbpOS-26" target="k_A5vBEEgDoCNLjFbpOS-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k_A5vBEEgDoCNLjFbpOS-26" value="PI/DRD/RD review the back to office report and provide feedback to PI, RS, Biometricians, GIS/RS, Technical staff" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="210" width="190" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="k_A5vBEEgDoCNLjFbpOS-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k_A5vBEEgDoCNLjFbpOS-24" target="k_A5vBEEgDoCNLjFbpOS-26">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
