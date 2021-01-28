@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T16:37:33.740Z" agent="5.0 (Windows)" etag="M080Wyp1sUZ7qWNgh7Tj" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-28T16:40:00.134Z" agent="5.0 (Windows)" etag="AnUaS8o-aDJt_0dHLH9y" version="14.2.7" type="github">
   <diagram id="OXoew3hF0ippNxNFX6hT" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -28,15 +28,18 @@
           <mxGeometry x="235" y="590" width="170" height="87.5" as="geometry" />
         </mxCell>
         <mxCell id="qphqglr-iAX6mSTgFpeC-14" value="Head of KM receives feedback (accepted with comments or rejected with reasons) from reviewers and submit to authors" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="qphqglr-iAX6mSTgFpeC-1">
-          <mxGeometry x="480" y="324" width="180" height="80" as="geometry" />
+          <mxGeometry x="530" y="324" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qphqglr-iAX6mSTgFpeC-16" value="Reviewers review and submit with comments to Head KM " style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="qphqglr-iAX6mSTgFpeC-1">
-          <mxGeometry x="510" y="463.75" width="120" height="60" as="geometry" />
+          <mxGeometry x="550" y="470" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qphqglr-iAX6mSTgFpeC-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="qphqglr-iAX6mSTgFpeC-1" source="qphqglr-iAX6mSTgFpeC-16" target="qphqglr-iAX6mSTgFpeC-14">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="570" y="383.75" as="targetPoint" />
+            <mxPoint x="620" y="383.75" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="qphqglr-iAX6mSTgFpeC-22" value="Review team/Head KM checks on amendments and provides feedback to Head KM (either recommended for publication or further revision or reject) on how revisions were taken " style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="qphqglr-iAX6mSTgFpeC-1">
+          <mxGeometry x="790" y="152" width="190" height="110" as="geometry" />
         </mxCell>
         <mxCell id="qphqglr-iAX6mSTgFpeC-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qphqglr-iAX6mSTgFpeC-8" target="qphqglr-iAX6mSTgFpeC-10">
           <mxGeometry relative="1" as="geometry" />
@@ -51,9 +54,18 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qphqglr-iAX6mSTgFpeC-12" value="Head of KM submits draft KPs to reviewers" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="520" y="613.75" width="120" height="60" as="geometry" />
+          <mxGeometry x="570" y="613.75" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qphqglr-iAX6mSTgFpeC-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qphqglr-iAX6mSTgFpeC-10" target="qphqglr-iAX6mSTgFpeC-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qphqglr-iAX6mSTgFpeC-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qphqglr-iAX6mSTgFpeC-20" target="qphqglr-iAX6mSTgFpeC-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qphqglr-iAX6mSTgFpeC-20" value="Authors revise KP based on feedback and submit to Head KM " style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="184" width="140" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="qphqglr-iAX6mSTgFpeC-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qphqglr-iAX6mSTgFpeC-14" target="qphqglr-iAX6mSTgFpeC-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
