@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T15:52:36.404Z" agent="5.0 (Windows)" etag="6Qnhj0GuSuXNle0HC7zs" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-28T15:56:11.698Z" agent="5.0 (Windows)" etag="FVprMFocB-GDWTWYc1a_" version="14.2.7" type="github">
   <diagram id="CgVNVVAf5t5QH2AuZ8BF" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -18,6 +18,15 @@
         </mxCell>
         <mxCell id="k_A5vBEEgDoCNLjFbpOS-19" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="k_A5vBEEgDoCNLjFbpOS-1">
           <mxGeometry x="260" y="520" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="k_A5vBEEgDoCNLjFbpOS-22" value="DDF issues cash for implementation of research activities as per study protocols to PI, RS, Biometricians, GIS/RS, Technical staff" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="k_A5vBEEgDoCNLjFbpOS-1">
+          <mxGeometry x="505" y="530" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="k_A5vBEEgDoCNLjFbpOS-24" value="PI, RS, Biometricians, GIS/RS, Technical staff prepares and submit back to office report and a link to the data on ODK platform to PI, DRD, RD &amp;amp; DD" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="k_A5vBEEgDoCNLjFbpOS-1">
+          <mxGeometry x="500" y="374" width="230" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="k_A5vBEEgDoCNLjFbpOS-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="k_A5vBEEgDoCNLjFbpOS-1" source="k_A5vBEEgDoCNLjFbpOS-22" target="k_A5vBEEgDoCNLjFbpOS-24">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k_A5vBEEgDoCNLjFbpOS-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k_A5vBEEgDoCNLjFbpOS-2" target="k_A5vBEEgDoCNLjFbpOS-5">
           <mxGeometry relative="1" as="geometry">
@@ -47,6 +56,9 @@
         <mxCell id="k_A5vBEEgDoCNLjFbpOS-8" value="&lt;div&gt;Funds&lt;/div&gt;&lt;div&gt;available?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="515" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="k_A5vBEEgDoCNLjFbpOS-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k_A5vBEEgDoCNLjFbpOS-10" target="k_A5vBEEgDoCNLjFbpOS-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="k_A5vBEEgDoCNLjFbpOS-10" value="&lt;p style=&quot;margin-bottom: 0in ; line-height: 115%&quot;&gt;DRD,RD submits to DD for approval to implement research activities&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="685" width="140" height="85" as="geometry" />
         </mxCell>
@@ -57,6 +69,12 @@
               <mxPoint x="180" y="415" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="k_A5vBEEgDoCNLjFbpOS-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k_A5vBEEgDoCNLjFbpOS-20" target="k_A5vBEEgDoCNLjFbpOS-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k_A5vBEEgDoCNLjFbpOS-20" value="DD approves endorsed imprest and submit to DD finance for processing " style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="697.5" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
