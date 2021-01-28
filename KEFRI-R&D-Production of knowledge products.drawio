@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T16:29:16.834Z" agent="5.0 (Windows)" etag="W4wONBrZlQ9WusNiLS-p" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-28T16:30:11.328Z" agent="5.0 (Windows)" etag="wNPmJgtl5zLl5aqQO95f" version="14.2.7" type="github">
   <diagram id="OXoew3hF0ippNxNFX6hT" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -17,6 +17,12 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="320" y="180" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="qphqglr-iAX6mSTgFpeC-6" value="PI, RS, Technical staff submit the draft KPs to RD through DRD for initial screening" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="qphqglr-iAX6mSTgFpeC-1">
+          <mxGeometry x="240" y="320" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qphqglr-iAX6mSTgFpeC-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qphqglr-iAX6mSTgFpeC-1" source="qphqglr-iAX6mSTgFpeC-5" target="qphqglr-iAX6mSTgFpeC-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
