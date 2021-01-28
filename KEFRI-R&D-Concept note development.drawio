@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T12:53:13.464Z" agent="5.0 (Windows)" etag="OnLXCZKtFHvksR7gFJTO" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-28T13:00:27.836Z" agent="5.0 (Windows)" etag="pa5m7zZJt2Q0GZ_F13Wt" version="14.2.7" type="github">
   <diagram id="6g9CYFeaIedKOHrS-u5r" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -8,101 +8,101 @@
           <mxGeometry x="10" y="9" width="1150" height="810" as="geometry" />
         </mxCell>
         <mxCell id="Q0Rn-usG1npKYPO_bdDH-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Q0Rn-usG1npKYPO_bdDH-1">
-          <mxGeometry x="240" y="70" width="120" height="60" as="geometry" />
+          <mxGeometry x="85" y="61" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q0Rn-usG1npKYPO_bdDH-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Q0Rn-usG1npKYPO_bdDH-1" source="Q0Rn-usG1npKYPO_bdDH-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="300" y="180" as="targetPoint" />
+            <mxPoint x="145" y="171" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Q0Rn-usG1npKYPO_bdDH-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Q0Rn-usG1npKYPO_bdDH-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="300" y="240" as="sourcePoint" />
-            <mxPoint x="300" y="300" as="targetPoint" />
+            <mxPoint x="145" y="231" as="sourcePoint" />
+            <mxPoint x="145" y="291" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Q0Rn-usG1npKYPO_bdDH-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Q0Rn-usG1npKYPO_bdDH-1" target="Q0Rn-usG1npKYPO_bdDH-15">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="300" y="360" as="sourcePoint" />
-            <mxPoint x="300" y="410" as="targetPoint" />
+            <mxPoint x="145" y="351" as="sourcePoint" />
+            <mxPoint x="145" y="401" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Q0Rn-usG1npKYPO_bdDH-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Q0Rn-usG1npKYPO_bdDH-1" source="Q0Rn-usG1npKYPO_bdDH-15" target="Q0Rn-usG1npKYPO_bdDH-16">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="300" y="490" as="sourcePoint" />
-            <mxPoint x="300" y="540" as="targetPoint" />
+            <mxPoint x="145" y="481" as="sourcePoint" />
+            <mxPoint x="145" y="531" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Q0Rn-usG1npKYPO_bdDH-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Q0Rn-usG1npKYPO_bdDH-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="300" y="580" as="sourcePoint" />
-            <mxPoint x="300" y="630" as="targetPoint" />
+            <mxPoint x="145" y="571" as="sourcePoint" />
+            <mxPoint x="145" y="621" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Q0Rn-usG1npKYPO_bdDH-13" value="SDDRD calls for CN development by end of August" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Q0Rn-usG1npKYPO_bdDH-1">
-          <mxGeometry x="240" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="85" y="171" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q0Rn-usG1npKYPO_bdDH-14" value="RS Develops and submit draft CN to DRD if in the eco-region or to DD if at HQ by end of September " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Q0Rn-usG1npKYPO_bdDH-1">
-          <mxGeometry x="205" y="300" width="190" height="60" as="geometry" />
+          <mxGeometry x="50" y="291" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q0Rn-usG1npKYPO_bdDH-15" value="DRD/DD verifies and allocates CN to various Thematic/ Area of focus and &lt;br/&gt;alignment to KEFRI Strategic Planand other stakeholders needs by October" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Q0Rn-usG1npKYPO_bdDH-1">
-          <mxGeometry x="185" y="411" width="230" height="69" as="geometry" />
+          <mxGeometry x="30" y="402" width="230" height="69" as="geometry" />
         </mxCell>
         <mxCell id="Q0Rn-usG1npKYPO_bdDH-16" value="DRD Submits verified CN to regional Director (RD) by end of October" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Q0Rn-usG1npKYPO_bdDH-1">
-          <mxGeometry x="215" y="541" width="170" height="60" as="geometry" />
+          <mxGeometry x="60" y="532" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q0Rn-usG1npKYPO_bdDH-17" value="&lt;p style=&quot;margin-bottom: 0in ; line-height: 115%&quot;&gt;Set up of Scientific Concept Note and Proposal Review Committee&lt;br&gt;(SCNPRC) by mid-November  &lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Q0Rn-usG1npKYPO_bdDH-1">
-          <mxGeometry x="205" y="631" width="190" height="60" as="geometry" />
+          <mxGeometry x="50" y="622" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q0Rn-usG1npKYPO_bdDH-20" value="&lt;p style=&quot;margin-bottom: 0in ; line-height: 115%&quot;&gt;PI/RS improves the CN based on the feedback provided by mid-December&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="Q0Rn-usG1npKYPO_bdDH-1">
-          <mxGeometry x="505" y="311" width="170" height="70" as="geometry" />
+          <mxGeometry x="294" y="302" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Q0Rn-usG1npKYPO_bdDH-22" value="&lt;div&gt;Approved&lt;/div&gt;&lt;div&gt; with/without amendments?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="Q0Rn-usG1npKYPO_bdDH-1">
-          <mxGeometry x="530" y="440" width="120" height="101" as="geometry" />
+          <mxGeometry x="319" y="431" width="120" height="101" as="geometry" />
         </mxCell>
         <mxCell id="Q0Rn-usG1npKYPO_bdDH-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="Q0Rn-usG1npKYPO_bdDH-1" source="Q0Rn-usG1npKYPO_bdDH-22" target="Q0Rn-usG1npKYPO_bdDH-20">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="590" y="371" as="targetPoint" />
+            <mxPoint x="379" y="362" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Q0Rn-usG1npKYPO_bdDH-28" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Q0Rn-usG1npKYPO_bdDH-1">
-          <mxGeometry x="584" y="411" width="40" height="20" as="geometry" />
+          <mxGeometry x="373" y="402" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Q0Rn-usG1npKYPO_bdDH-29" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Q0Rn-usG1npKYPO_bdDH-1">
-          <mxGeometry x="642" y="466" width="40" height="20" as="geometry" />
+          <mxGeometry x="431" y="457" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Q0Rn-usG1npKYPO_bdDH-34" value="PI/RS submits revised CN to DRD if at Eco-Region or to the DD if at HQ by mid-December" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="Q0Rn-usG1npKYPO_bdDH-1">
-          <mxGeometry x="510" y="172" width="160" height="76" as="geometry" />
+          <mxGeometry x="299" y="163" width="160" height="76" as="geometry" />
         </mxCell>
         <mxCell id="Q0Rn-usG1npKYPO_bdDH-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Q0Rn-usG1npKYPO_bdDH-1" source="Q0Rn-usG1npKYPO_bdDH-20" target="Q0Rn-usG1npKYPO_bdDH-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q0Rn-usG1npKYPO_bdDH-36" value="DD submits revised CN to RS at HQ mid-December" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="Q0Rn-usG1npKYPO_bdDH-1">
-          <mxGeometry x="860" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="649" y="171" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q0Rn-usG1npKYPO_bdDH-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Q0Rn-usG1npKYPO_bdDH-1" source="Q0Rn-usG1npKYPO_bdDH-34" target="Q0Rn-usG1npKYPO_bdDH-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q0Rn-usG1npKYPO_bdDH-38" value="DRD, RD, DD submits revised CN by PI/RS through DRD, RD, DD to SCNRC mid-December" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="Q0Rn-usG1npKYPO_bdDH-1">
-          <mxGeometry x="840" y="311" width="160" height="80" as="geometry" />
+          <mxGeometry x="629" y="302" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Q0Rn-usG1npKYPO_bdDH-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Q0Rn-usG1npKYPO_bdDH-1" source="Q0Rn-usG1npKYPO_bdDH-36" target="Q0Rn-usG1npKYPO_bdDH-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q0Rn-usG1npKYPO_bdDH-40" value="SCNRC checks on the correctness of the amendments made on CN, if satisfied the SCNRC recommends the revised for transmission to RD and DD respectively by mid-December" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="Q0Rn-usG1npKYPO_bdDH-1">
-          <mxGeometry x="820" y="461" width="200" height="110" as="geometry" />
+          <mxGeometry x="609" y="452" width="200" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Q0Rn-usG1npKYPO_bdDH-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Q0Rn-usG1npKYPO_bdDH-1" source="Q0Rn-usG1npKYPO_bdDH-38" target="Q0Rn-usG1npKYPO_bdDH-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q0Rn-usG1npKYPO_bdDH-42" value="&lt;div&gt;Approved&lt;/div&gt;&lt;div&gt; with/without amendments?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="Q0Rn-usG1npKYPO_bdDH-1">
-          <mxGeometry x="860" y="631" width="120" height="80" as="geometry" />
+          <mxGeometry x="649" y="622" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Q0Rn-usG1npKYPO_bdDH-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Q0Rn-usG1npKYPO_bdDH-1" source="Q0Rn-usG1npKYPO_bdDH-40" target="Q0Rn-usG1npKYPO_bdDH-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q0Rn-usG1npKYPO_bdDH-30" value="Rejection comments/ feedback" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" vertex="1" parent="Q0Rn-usG1npKYPO_bdDH-1">
-          <mxGeometry x="690" y="450.5" width="110" height="80" as="geometry" />
+          <mxGeometry x="479" y="441.5" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Q0Rn-usG1npKYPO_bdDH-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Q0Rn-usG1npKYPO_bdDH-1" source="Q0Rn-usG1npKYPO_bdDH-22" target="Q0Rn-usG1npKYPO_bdDH-30">
           <mxGeometry relative="1" as="geometry" />
@@ -111,9 +111,15 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q0Rn-usG1npKYPO_bdDH-18" value="SCNPRC/RD/DRD/DD Review of the CNs as per set criteria and submit feedback (accepted with amendments/or rejected) to PI/RS through RD if CN is from Eco-region &amp;amp; DD if developed at HQ by end of November" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="505" y="610" width="190" height="120" as="geometry" />
+          <mxGeometry x="294" y="601" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Q0Rn-usG1npKYPO_bdDH-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q0Rn-usG1npKYPO_bdDH-17" target="Q0Rn-usG1npKYPO_bdDH-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0Rn-usG1npKYPO_bdDH-44" value="Rejection comments/ feedback" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="859" y="631" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0Rn-usG1npKYPO_bdDH-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q0Rn-usG1npKYPO_bdDH-42" target="Q0Rn-usG1npKYPO_bdDH-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
