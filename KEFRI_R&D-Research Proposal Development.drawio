@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T16:00:41.443Z" agent="5.0 (Windows)" etag="vtObZWPwwePBEpcXenw6" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-28T16:00:48.009Z" agent="5.0 (Windows)" etag="G1OUitlp5t4bKXwbdy0t" version="14.2.7" type="github">
   <diagram id="PVdL_zoP0Urx2-9kqrgy" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -41,7 +41,7 @@
             <mxPoint x="264.5" y="634" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dvURbFbIRr_XrWgvkVuH-8" value="SDDRD Submits draft proposal to the SCNPRC by &lt;b&gt;first week of&lt;br/&gt;February&lt;/b&gt;&lt;br/&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="dvURbFbIRr_XrWgvkVuH-8" value="SDDRD Submits draft proposal to the SCNPRC by first week of&lt;br&gt;February" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="195" y="494" width="139" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dvURbFbIRr_XrWgvkVuH-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="dvURbFbIRr_XrWgvkVuH-12" edge="1">
