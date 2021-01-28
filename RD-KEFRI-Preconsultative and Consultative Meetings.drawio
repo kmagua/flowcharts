@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T10:02:54.798Z" agent="5.0 (Windows)" etag="_ndnpmVDUcsyahFCnair" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-28T10:03:07.839Z" agent="5.0 (Windows)" etag="8GPFBHYlj5vRR73B_BYS" version="14.2.7" type="github">
   <diagram id="7WZmSiz0M4jWql_Y_E7b" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -8,21 +8,21 @@
           <mxGeometry x="10" y="10" width="1150" height="810" as="geometry" />
         </mxCell>
         <mxCell id="KGjc-fxRxSXkj4jjtw1g-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="KGjc-fxRxSXkj4jjtw1g-1">
-          <mxGeometry x="210" y="60" width="100" height="50" as="geometry" />
+          <mxGeometry x="90" y="30" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KGjc-fxRxSXkj4jjtw1g-5" value="Directors calls for the Pre-consultative and consultative meeting by mid-May" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KGjc-fxRxSXkj4jjtw1g-1">
-          <mxGeometry x="180" y="170" width="160" height="60" as="geometry" />
+          <mxGeometry x="60" y="140" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KGjc-fxRxSXkj4jjtw1g-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="KGjc-fxRxSXkj4jjtw1g-1" source="KGjc-fxRxSXkj4jjtw1g-2" target="KGjc-fxRxSXkj4jjtw1g-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="260" y="185" as="targetPoint" />
+            <mxPoint x="140" y="155" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KGjc-fxRxSXkj4jjtw1g-12" value="Director Convene the consultative meeting (CM) by end of June" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="KGjc-fxRxSXkj4jjtw1g-1">
-          <mxGeometry x="200" y="720" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="690" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KGjc-fxRxSXkj4jjtw1g-14" value="Presentation of research proposal, budget and work plan at Consultative Meeting (CM) by first week of July" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="KGjc-fxRxSXkj4jjtw1g-1">
-          <mxGeometry x="440" y="705" width="160" height="90" as="geometry" />
+          <mxGeometry x="320" y="675" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="KGjc-fxRxSXkj4jjtw1g-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KGjc-fxRxSXkj4jjtw1g-1" source="KGjc-fxRxSXkj4jjtw1g-12" target="KGjc-fxRxSXkj4jjtw1g-14">
           <mxGeometry relative="1" as="geometry" />
@@ -31,7 +31,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KGjc-fxRxSXkj4jjtw1g-6" value="Director organises for a pre-consultative and consultative meeting by end of May" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="190" y="310" width="160" height="60" as="geometry" />
+          <mxGeometry x="70" y="280" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KGjc-fxRxSXkj4jjtw1g-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KGjc-fxRxSXkj4jjtw1g-5" target="KGjc-fxRxSXkj4jjtw1g-6">
           <mxGeometry relative="1" as="geometry" />
@@ -40,13 +40,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KGjc-fxRxSXkj4jjtw1g-8" value="Director/SDDRD/DD/RD Reviews and provide feedback to scientists on progress made on implementation of research activities by mid-June" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="180" y="430" width="180" height="80" as="geometry" />
+          <mxGeometry x="60" y="400" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KGjc-fxRxSXkj4jjtw1g-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KGjc-fxRxSXkj4jjtw1g-10" target="KGjc-fxRxSXkj4jjtw1g-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KGjc-fxRxSXkj4jjtw1g-10" value="RD/DRD Address recommendations from scientists and provide report on how recommendations were addressed to Director, SDDRD and DDs by end of June" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="570" width="220" height="90" as="geometry" />
+          <mxGeometry x="40" y="540" width="220" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
