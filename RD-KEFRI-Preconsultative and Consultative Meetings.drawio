@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T10:09:25.380Z" agent="5.0 (Windows)" etag="m9VayC83aWAC2kdbDbWg" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-28T10:14:32.882Z" agent="5.0 (Windows)" etag="1OLTw3VTcc8751692KoI" version="14.2.7" type="github">
   <diagram id="7WZmSiz0M4jWql_Y_E7b" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -33,6 +33,15 @@
         <mxCell id="KGjc-fxRxSXkj4jjtw1g-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KGjc-fxRxSXkj4jjtw1g-1" source="KGjc-fxRxSXkj4jjtw1g-14" target="KGjc-fxRxSXkj4jjtw1g-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="KGjc-fxRxSXkj4jjtw1g-20" value="&lt;div&gt;Amendment&lt;/div&gt;&lt;div&gt;required?&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="KGjc-fxRxSXkj4jjtw1g-1">
+          <mxGeometry x="340" y="250" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KGjc-fxRxSXkj4jjtw1g-26" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="KGjc-fxRxSXkj4jjtw1g-1">
+          <mxGeometry x="470" y="270" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KGjc-fxRxSXkj4jjtw1g-27" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="KGjc-fxRxSXkj4jjtw1g-1">
+          <mxGeometry x="369" y="200" width="40" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="KGjc-fxRxSXkj4jjtw1g-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KGjc-fxRxSXkj4jjtw1g-6" target="KGjc-fxRxSXkj4jjtw1g-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -54,10 +63,25 @@
         <mxCell id="KGjc-fxRxSXkj4jjtw1g-10" value="RD/DRD Address recommendations from scientists and provide report on how recommendations were addressed to Director, SDDRD and DDs by end of June" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="540" width="220" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="KGjc-fxRxSXkj4jjtw1g-18" value="Hold meeting to share feedback with PIs/RS to review endorsed research proposal, budget and work plan by third week of July" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="400" width="160" height="80" as="geometry" />
+        <mxCell id="KGjc-fxRxSXkj4jjtw1g-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KGjc-fxRxSXkj4jjtw1g-18" target="KGjc-fxRxSXkj4jjtw1g-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KGjc-fxRxSXkj4jjtw1g-18" value="RD/DD holds meetings to share feedback with PIs/RS to review endorsed research proposal, budget and work plan by third week of July" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="400" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KGjc-fxRxSXkj4jjtw1g-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KGjc-fxRxSXkj4jjtw1g-16" target="KGjc-fxRxSXkj4jjtw1g-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KGjc-fxRxSXkj4jjtw1g-22" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KGjc-fxRxSXkj4jjtw1g-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KGjc-fxRxSXkj4jjtw1g-20" target="KGjc-fxRxSXkj4jjtw1g-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KGjc-fxRxSXkj4jjtw1g-24" value="RS/PI makes amendments and submits to RD/DD" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KGjc-fxRxSXkj4jjtw1g-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KGjc-fxRxSXkj4jjtw1g-20" target="KGjc-fxRxSXkj4jjtw1g-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
