@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T17:46:18.685Z" agent="5.0 (Windows)" etag="Hyh82I1aXTujBoaJR6VF" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-28T17:49:02.075Z" agent="5.0 (Windows)" etag="9kIZ_7Ezx6SeOmH-EfvB" version="14.2.7" type="github">
   <diagram id="o-iGnY0mDEb7yioBF5pD" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -23,6 +23,32 @@
         </mxCell>
         <mxCell id="jialteLq5rZHsZwc3br7-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="jialteLq5rZHsZwc3br7-1" source="jialteLq5rZHsZwc3br7-5" target="jialteLq5rZHsZwc3br7-6">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jialteLq5rZHsZwc3br7-8" value="PI, RS, KM disseminates information to stakeholders using the selected platforms/or pathways" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="jialteLq5rZHsZwc3br7-1">
+          <mxGeometry x="157.5" y="510" width="165" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jialteLq5rZHsZwc3br7-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="jialteLq5rZHsZwc3br7-1" source="jialteLq5rZHsZwc3br7-6" target="jialteLq5rZHsZwc3br7-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jialteLq5rZHsZwc3br7-10" value="Head KM, CA&amp;amp;PR receive and compile stakeholder feedback on shared information" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="jialteLq5rZHsZwc3br7-1">
+          <mxGeometry x="170" y="650" width="140" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="jialteLq5rZHsZwc3br7-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="jialteLq5rZHsZwc3br7-1" source="jialteLq5rZHsZwc3br7-8" target="jialteLq5rZHsZwc3br7-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jialteLq5rZHsZwc3br7-14" value="Head KM, CA&amp;amp;PR share feedback to KEFRI community and stakeholders" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="jialteLq5rZHsZwc3br7-1">
+          <mxGeometry x="410" y="648.5" width="150" height="77.5" as="geometry" />
+        </mxCell>
+        <mxCell id="jialteLq5rZHsZwc3br7-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="jialteLq5rZHsZwc3br7-1" source="jialteLq5rZHsZwc3br7-10" target="jialteLq5rZHsZwc3br7-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jialteLq5rZHsZwc3br7-18" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="jialteLq5rZHsZwc3br7-1">
+          <mxGeometry x="670" y="657.25" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jialteLq5rZHsZwc3br7-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="jialteLq5rZHsZwc3br7-1" source="jialteLq5rZHsZwc3br7-14" target="jialteLq5rZHsZwc3br7-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="655.0000468750184" y="687.3" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
