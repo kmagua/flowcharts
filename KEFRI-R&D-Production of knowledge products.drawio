@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T16:27:59.299Z" agent="5.0 (Windows)" etag="3wcOxg1zjrtSwxsJYN-U" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-28T16:29:16.834Z" agent="5.0 (Windows)" etag="W4wONBrZlQ9WusNiLS-p" version="14.2.7" type="github">
   <diagram id="OXoew3hF0ippNxNFX6hT" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -6,6 +6,17 @@
         <mxCell id="1" parent="0" />
         <mxCell id="qphqglr-iAX6mSTgFpeC-1" value="Production of knowledge products " style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="10" y="10" width="1150" height="810" as="geometry" />
+        </mxCell>
+        <mxCell id="qphqglr-iAX6mSTgFpeC-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qphqglr-iAX6mSTgFpeC-1">
+          <mxGeometry x="270" y="40" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qphqglr-iAX6mSTgFpeC-5" value="Upon generation, analysis and interpretation of data, PI, RS, Technical staf identify and develop knowledge product(s) of choice and those set by institutional PC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qphqglr-iAX6mSTgFpeC-1">
+          <mxGeometry x="205" y="170" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qphqglr-iAX6mSTgFpeC-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qphqglr-iAX6mSTgFpeC-1" source="qphqglr-iAX6mSTgFpeC-2" target="qphqglr-iAX6mSTgFpeC-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="180" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
