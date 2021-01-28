@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T15:46:42.461Z" agent="5.0 (Windows)" etag="a1NZTOxh_NmKBOJ9VX2n" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-28T15:48:28.383Z" agent="5.0 (Windows)" etag="04hKX6G1kwnxJ6mRHI2s" version="14.2.7" type="github">
   <diagram id="CgVNVVAf5t5QH2AuZ8BF" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -6,6 +6,17 @@
         <mxCell id="1" parent="0" />
         <mxCell id="k_A5vBEEgDoCNLjFbpOS-1" value="Imprest application for implementation of research activities" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="10" y="10" width="1150" height="810" as="geometry" />
+        </mxCell>
+        <mxCell id="k_A5vBEEgDoCNLjFbpOS-5" value="Upon approved PIP, work plan, protocols, data collection tools, budget, PI, RS and technical staff raise imprest for implementation of research activities" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="k_A5vBEEgDoCNLjFbpOS-1">
+          <mxGeometry x="290" y="210" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="k_A5vBEEgDoCNLjFbpOS-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k_A5vBEEgDoCNLjFbpOS-2" target="k_A5vBEEgDoCNLjFbpOS-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k_A5vBEEgDoCNLjFbpOS-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="80" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
