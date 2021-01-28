@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T12:44:48.074Z" agent="5.0 (Windows)" etag="JIJVpBhxi-wirW2IOGPh" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-28T12:48:46.134Z" agent="5.0 (Windows)" etag="6cutHBRKt5B5_rRXfiAq" version="14.2.7" type="github">
   <diagram id="6g9CYFeaIedKOHrS-u5r" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -75,6 +75,18 @@
           <mxGeometry x="510" y="172" width="160" height="76" as="geometry" />
         </mxCell>
         <mxCell id="Q0Rn-usG1npKYPO_bdDH-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Q0Rn-usG1npKYPO_bdDH-1" source="Q0Rn-usG1npKYPO_bdDH-20" target="Q0Rn-usG1npKYPO_bdDH-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0Rn-usG1npKYPO_bdDH-36" value="DD submits revised CN to RS at HQ mid-December" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="Q0Rn-usG1npKYPO_bdDH-1">
+          <mxGeometry x="860" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0Rn-usG1npKYPO_bdDH-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Q0Rn-usG1npKYPO_bdDH-1" source="Q0Rn-usG1npKYPO_bdDH-34" target="Q0Rn-usG1npKYPO_bdDH-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0Rn-usG1npKYPO_bdDH-38" value="DRD, RD, DD submits revised CN by PI/RS through DRD, RD, DD to SCNRC mid-December" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="Q0Rn-usG1npKYPO_bdDH-1">
+          <mxGeometry x="840" y="311" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0Rn-usG1npKYPO_bdDH-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Q0Rn-usG1npKYPO_bdDH-1" source="Q0Rn-usG1npKYPO_bdDH-36" target="Q0Rn-usG1npKYPO_bdDH-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q0Rn-usG1npKYPO_bdDH-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q0Rn-usG1npKYPO_bdDH-18" target="Q0Rn-usG1npKYPO_bdDH-22">
