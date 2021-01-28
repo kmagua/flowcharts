@@ -1,1 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T08:54:30.058Z" agent="5.0 (Windows)" version="14.2.7" etag="FKpSWscbqWdfNc3saZ0I" type="github"><diagram id="Hcqriwp1vPBEzy-4H9YE">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-28T08:58:11.468Z" agent="5.0 (Windows)" etag="fqtOmFfNTaU1MOIpiH7f" version="14.2.7" type="github">
+  <diagram id="Hcqriwp1vPBEzy-4H9YE" name="Page-1">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CmhKXWVW8YuWYsSCAEOd-1" value="LEAVE MANAGEMENT" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="90" width="480" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="CmhKXWVW8YuWYsSCAEOd-2" value="CEO" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="CmhKXWVW8YuWYsSCAEOd-1">
+          <mxGeometry y="20" width="480" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="CmhKXWVW8YuWYsSCAEOd-5" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CmhKXWVW8YuWYsSCAEOd-2">
+          <mxGeometry x="80" y="10" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CmhKXWVW8YuWYsSCAEOd-6" value="Write a memo to HoD ba" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CmhKXWVW8YuWYsSCAEOd-2">
+          <mxGeometry x="80" y="70" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CmhKXWVW8YuWYsSCAEOd-3" value="Head of cost centre" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="CmhKXWVW8YuWYsSCAEOd-1">
+          <mxGeometry y="150" width="480" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="CmhKXWVW8YuWYsSCAEOd-7" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="CmhKXWVW8YuWYsSCAEOd-3">
+          <mxGeometry x="80" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CmhKXWVW8YuWYsSCAEOd-4" value="Lane 3" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="CmhKXWVW8YuWYsSCAEOd-1">
+          <mxGeometry y="270" width="480" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="CmhKXWVW8YuWYsSCAEOd-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="CmhKXWVW8YuWYsSCAEOd-1" source="CmhKXWVW8YuWYsSCAEOd-6" target="CmhKXWVW8YuWYsSCAEOd-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
