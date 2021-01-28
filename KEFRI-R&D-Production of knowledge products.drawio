@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T16:34:22.047Z" agent="5.0 (Windows)" etag="O5P6GQmzzn_XKJbyIkQx" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-28T16:37:33.740Z" agent="5.0 (Windows)" etag="M080Wyp1sUZ7qWNgh7Tj" version="14.2.7" type="github">
   <diagram id="OXoew3hF0ippNxNFX6hT" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -27,6 +27,17 @@
         <mxCell id="qphqglr-iAX6mSTgFpeC-10" value="Head of KM/SDDRD consolidates KPs, identifies and request SDDRD to appoint reviewers" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="qphqglr-iAX6mSTgFpeC-1">
           <mxGeometry x="235" y="590" width="170" height="87.5" as="geometry" />
         </mxCell>
+        <mxCell id="qphqglr-iAX6mSTgFpeC-14" value="Head of KM receives feedback (accepted with comments or rejected with reasons) from reviewers and submit to authors" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="qphqglr-iAX6mSTgFpeC-1">
+          <mxGeometry x="480" y="324" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qphqglr-iAX6mSTgFpeC-16" value="Reviewers review and submit with comments to Head KM " style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="qphqglr-iAX6mSTgFpeC-1">
+          <mxGeometry x="510" y="463.75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qphqglr-iAX6mSTgFpeC-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="qphqglr-iAX6mSTgFpeC-1" source="qphqglr-iAX6mSTgFpeC-16" target="qphqglr-iAX6mSTgFpeC-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="383.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="qphqglr-iAX6mSTgFpeC-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qphqglr-iAX6mSTgFpeC-8" target="qphqglr-iAX6mSTgFpeC-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -36,7 +47,7 @@
         <mxCell id="qphqglr-iAX6mSTgFpeC-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qphqglr-iAX6mSTgFpeC-6" target="qphqglr-iAX6mSTgFpeC-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qphqglr-iAX6mSTgFpeC-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qphqglr-iAX6mSTgFpeC-12" target="qphqglr-iAX6mSTgFpeC-14">
+        <mxCell id="qphqglr-iAX6mSTgFpeC-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qphqglr-iAX6mSTgFpeC-12" target="qphqglr-iAX6mSTgFpeC-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qphqglr-iAX6mSTgFpeC-12" value="Head of KM submits draft KPs to reviewers" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
@@ -44,9 +55,6 @@
         </mxCell>
         <mxCell id="qphqglr-iAX6mSTgFpeC-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qphqglr-iAX6mSTgFpeC-10" target="qphqglr-iAX6mSTgFpeC-12">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="qphqglr-iAX6mSTgFpeC-14" value="Head of KM receives feedback (accepted with comments or rejected with reasons) from reviewers and submit to authors" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="460" width="180" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
