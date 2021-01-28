@@ -1,11 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T09:43:26.018Z" agent="5.0 (Windows)" etag="LjqijQSOEGI6c0qAT-v0" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-28T09:47:56.082Z" agent="5.0 (Windows)" etag="MphTnDmK-_q3UnBFBv4U" version="14.2.7" type="github">
   <diagram id="7WZmSiz0M4jWql_Y_E7b" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="KGjc-fxRxSXkj4jjtw1g-1" value="Container" style="swimlane;" vertex="1" parent="1">
+        <mxCell id="KGjc-fxRxSXkj4jjtw1g-1" value="Pre-Consultative and Consultative meeting" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="10" y="10" width="1150" height="810" as="geometry" />
+        </mxCell>
+        <mxCell id="KGjc-fxRxSXkj4jjtw1g-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="KGjc-fxRxSXkj4jjtw1g-1">
+          <mxGeometry x="210" y="60" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KGjc-fxRxSXkj4jjtw1g-5" value="Directors calls for the Pre-consultative and consultative meeting by mid-May" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KGjc-fxRxSXkj4jjtw1g-1">
+          <mxGeometry x="180" y="170" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KGjc-fxRxSXkj4jjtw1g-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="KGjc-fxRxSXkj4jjtw1g-1" source="KGjc-fxRxSXkj4jjtw1g-2" target="KGjc-fxRxSXkj4jjtw1g-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="185" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KGjc-fxRxSXkj4jjtw1g-6" value="Director organises for a pre-consultative and consultative meeting by end of May" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="310" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KGjc-fxRxSXkj4jjtw1g-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KGjc-fxRxSXkj4jjtw1g-5" target="KGjc-fxRxSXkj4jjtw1g-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
