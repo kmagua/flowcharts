@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T11:43:11.488Z" agent="5.0 (Windows)" etag="2yCS80uVrUHymJvk6jMF" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-28T11:58:02.278Z" agent="5.0 (Windows)" etag="61_-nHB49sAqaB7ql1RH" version="14.2.7" type="github">
   <diagram id="tZU8RH54jPB0YR1qd6gx" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -6,6 +6,49 @@
         <mxCell id="1" parent="0" />
         <mxCell id="y9bxsy1iOUCk4nZmsPaL-3" value="Problem identification for research development" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="10" y="10" width="1150" height="810" as="geometry" />
+        </mxCell>
+        <mxCell id="y9bxsy1iOUCk4nZmsPaL-4" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="y9bxsy1iOUCk4nZmsPaL-3">
+          <mxGeometry x="190" y="100" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="y9bxsy1iOUCk4nZmsPaL-7" value="Synthesis of various input processes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="y9bxsy1iOUCk4nZmsPaL-3">
+          <mxGeometry x="185" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y9bxsy1iOUCk4nZmsPaL-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="y9bxsy1iOUCk4nZmsPaL-3" source="y9bxsy1iOUCk4nZmsPaL-4" target="y9bxsy1iOUCk4nZmsPaL-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="245" y="215" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y9bxsy1iOUCk4nZmsPaL-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y9bxsy1iOUCk4nZmsPaL-8" target="y9bxsy1iOUCk4nZmsPaL-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y9bxsy1iOUCk4nZmsPaL-8" value="Research Scientist (RS) Identifies the problem for research/or development as per the process inputs" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="360" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="y9bxsy1iOUCk4nZmsPaL-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y9bxsy1iOUCk4nZmsPaL-7" target="y9bxsy1iOUCk4nZmsPaL-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y9bxsy1iOUCk4nZmsPaL-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y9bxsy1iOUCk4nZmsPaL-10" target="y9bxsy1iOUCk4nZmsPaL-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y9bxsy1iOUCk4nZmsPaL-10" value="RS request for assignment of scientists to brainstorm the problem" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="515" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y9bxsy1iOUCk4nZmsPaL-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y9bxsy1iOUCk4nZmsPaL-12" target="y9bxsy1iOUCk4nZmsPaL-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y9bxsy1iOUCk4nZmsPaL-12" value="&lt;div&gt;RSs &lt;br&gt;&lt;/div&gt;&lt;div&gt;available?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="215" y="645" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="y9bxsy1iOUCk4nZmsPaL-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="y9bxsy1iOUCk4nZmsPaL-14" target="y9bxsy1iOUCk4nZmsPaL-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="540" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="95" y="395" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y9bxsy1iOUCk4nZmsPaL-14" value="Comment/Notes on unavailability of scientists" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="35" y="645" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
