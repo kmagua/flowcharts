@@ -1,1 +1,110 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T18:09:34.576Z" agent="5.0 (Windows)" version="14.2.7" etag="GfiqBSRUuwSzWln7Ubd6" type="github"><diagram id="IeFqrJrgt6wPHYYmw9Jn">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-28T18:26:09.564Z" agent="5.0 (Windows)" etag="Jl1DNG5hoEh0PWbm8JUg" version="14.2.7" type="github">
+  <diagram id="IeFqrJrgt6wPHYYmw9Jn" name="Page-1">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ePLRir3DpKOUZv_UP37E-1" value="External resource mobilisation" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="1120" height="700" as="geometry" />
+        </mxCell>
+        <mxCell id="ePLRir3DpKOUZv_UP37E-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ePLRir3DpKOUZv_UP37E-1">
+          <mxGeometry x="110" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ePLRir3DpKOUZv_UP37E-5" value="RMO,Research scientists,Director, SDDR&amp;amp;D, DD, RD and DRDs/Heads of Sections develop a checklist of all potential donors for funding of research and development projects" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ePLRir3DpKOUZv_UP37E-1">
+          <mxGeometry x="60" y="150" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ePLRir3DpKOUZv_UP37E-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ePLRir3DpKOUZv_UP37E-1" source="ePLRir3DpKOUZv_UP37E-2" target="ePLRir3DpKOUZv_UP37E-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ePLRir3DpKOUZv_UP37E-6" value="RMO, Research scientists, Director, SDDR&amp;amp;D, DD, RD and DRDs/Heads of Sections identify areas of priorities for funding" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ePLRir3DpKOUZv_UP37E-1">
+          <mxGeometry x="75" y="320" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ePLRir3DpKOUZv_UP37E-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ePLRir3DpKOUZv_UP37E-1" source="ePLRir3DpKOUZv_UP37E-5" target="ePLRir3DpKOUZv_UP37E-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ePLRir3DpKOUZv_UP37E-8" value="RMO develops KEFRI profile for donor" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="ePLRir3DpKOUZv_UP37E-1">
+          <mxGeometry x="110" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ePLRir3DpKOUZv_UP37E-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ePLRir3DpKOUZv_UP37E-1" source="ePLRir3DpKOUZv_UP37E-6" target="ePLRir3DpKOUZv_UP37E-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ePLRir3DpKOUZv_UP37E-10" value="RMO, Research scientists, Director, SDDR&amp;amp;D, DD, RD and DRDs/Heads of Sections documents dates for call for CN and proposals and share with research scientists" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="ePLRir3DpKOUZv_UP37E-1">
+          <mxGeometry x="80" y="580" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ePLRir3DpKOUZv_UP37E-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ePLRir3DpKOUZv_UP37E-1" source="ePLRir3DpKOUZv_UP37E-8" target="ePLRir3DpKOUZv_UP37E-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ePLRir3DpKOUZv_UP37E-12" value="PI/RS develop CN, proposals for donor funding based on calls and align to KEFRI Thematic Areas" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="ePLRir3DpKOUZv_UP37E-1">
+          <mxGeometry x="380" y="585" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ePLRir3DpKOUZv_UP37E-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ePLRir3DpKOUZv_UP37E-1" source="ePLRir3DpKOUZv_UP37E-10" target="ePLRir3DpKOUZv_UP37E-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ePLRir3DpKOUZv_UP37E-14" value="Review committee set by SDDRD conducts internal review of donor proposal and provide feedback to the PI and RS" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="ePLRir3DpKOUZv_UP37E-1">
+          <mxGeometry x="375" y="430" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ePLRir3DpKOUZv_UP37E-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ePLRir3DpKOUZv_UP37E-1" source="ePLRir3DpKOUZv_UP37E-12" target="ePLRir3DpKOUZv_UP37E-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ePLRir3DpKOUZv_UP37E-16" value="PI/RS address feedback on internal review of the proposal and submit" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="ePLRir3DpKOUZv_UP37E-1">
+          <mxGeometry x="390" y="290" width="130" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="ePLRir3DpKOUZv_UP37E-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ePLRir3DpKOUZv_UP37E-1" source="ePLRir3DpKOUZv_UP37E-14" target="ePLRir3DpKOUZv_UP37E-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ePLRir3DpKOUZv_UP37E-20" value="PI/RS follow up on review process of the proposal by donors and provide feedback. If proposal approved for funding, develop work plans, PIP, budget and submit to SDDR&amp;amp;D through RD and DD" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="ePLRir3DpKOUZv_UP37E-1">
+          <mxGeometry x="650" y="141.25" width="215" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ePLRir3DpKOUZv_UP37E-22" value="Finance-donor project management, Director register donor funded project and open an account for receiving funds to implement research projects" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="ePLRir3DpKOUZv_UP37E-1">
+          <mxGeometry x="672.5" y="308.75" width="170" height="81.25" as="geometry" />
+        </mxCell>
+        <mxCell id="ePLRir3DpKOUZv_UP37E-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ePLRir3DpKOUZv_UP37E-1" source="ePLRir3DpKOUZv_UP37E-20" target="ePLRir3DpKOUZv_UP37E-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ePLRir3DpKOUZv_UP37E-24" value="PI, RS and technical staff implement research projects as per approved work plans and budget" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="ePLRir3DpKOUZv_UP37E-1">
+          <mxGeometry x="677.5" y="460" width="160" height="80.63" as="geometry" />
+        </mxCell>
+        <mxCell id="ePLRir3DpKOUZv_UP37E-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ePLRir3DpKOUZv_UP37E-1" source="ePLRir3DpKOUZv_UP37E-22" target="ePLRir3DpKOUZv_UP37E-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ePLRir3DpKOUZv_UP37E-26" value="PI, RS and technical staff compile report" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="ePLRir3DpKOUZv_UP37E-1">
+          <mxGeometry x="697.5" y="600.0049999999999" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ePLRir3DpKOUZv_UP37E-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ePLRir3DpKOUZv_UP37E-1" source="ePLRir3DpKOUZv_UP37E-24" target="ePLRir3DpKOUZv_UP37E-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ePLRir3DpKOUZv_UP37E-28" value="PI, RS, KM, ICT produce and disseminate knowledge products" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="ePLRir3DpKOUZv_UP37E-1">
+          <mxGeometry x="930" y="600.0049999999999" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ePLRir3DpKOUZv_UP37E-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ePLRir3DpKOUZv_UP37E-1" source="ePLRir3DpKOUZv_UP37E-26" target="ePLRir3DpKOUZv_UP37E-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ePLRir3DpKOUZv_UP37E-30" value="RMO develops and updates donor funding trend" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="ePLRir3DpKOUZv_UP37E-1">
+          <mxGeometry x="930" y="460.0049999999999" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ePLRir3DpKOUZv_UP37E-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ePLRir3DpKOUZv_UP37E-1" source="ePLRir3DpKOUZv_UP37E-28" target="ePLRir3DpKOUZv_UP37E-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ePLRir3DpKOUZv_UP37E-34" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ePLRir3DpKOUZv_UP37E-1">
+          <mxGeometry x="940" y="320" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ePLRir3DpKOUZv_UP37E-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ePLRir3DpKOUZv_UP37E-1" source="ePLRir3DpKOUZv_UP37E-30" target="ePLRir3DpKOUZv_UP37E-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="990" y="380.0049999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ePLRir3DpKOUZv_UP37E-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ePLRir3DpKOUZv_UP37E-18" target="ePLRir3DpKOUZv_UP37E-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ePLRir3DpKOUZv_UP37E-18" value="RMO compiles a list of all submitted proposal to donors and submit to Director, SDDRD, DD and RDs" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="160" width="170" height="82.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ePLRir3DpKOUZv_UP37E-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ePLRir3DpKOUZv_UP37E-16" target="ePLRir3DpKOUZv_UP37E-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
