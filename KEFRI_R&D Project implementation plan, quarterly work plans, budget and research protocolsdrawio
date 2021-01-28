@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T15:01:59.634Z" agent="5.0 (Windows)" etag="iLHPDxwRJY6feRR93BL2" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-28T15:02:58.482Z" agent="5.0 (Windows)" etag="pRl2roEPQmrTvye1tpv3" version="14.2.7" type="github">
   <diagram id="Eg-WEQHDB5EJanqOj88a" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="jZjp1yafU3851VO5TsbQ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jZjp1yafU3851VO5TsbQ-2" target="jZjp1yafU3851VO5TsbQ-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jZjp1yafU3851VO5TsbQ-2" value="&lt;p style=&quot;margin-bottom: 0in ; line-height: 100%&quot;&gt;SDDRD Uploads all research projects by &lt;b&gt;first week of August&lt;/b&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jZjp1yafU3851VO5TsbQ-2" value="SDDRD Uploads all research projects by first week of August" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jZjp1yafU3851VO5TsbQ-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jZjp1yafU3851VO5TsbQ-4" target="jZjp1yafU3851VO5TsbQ-6">
