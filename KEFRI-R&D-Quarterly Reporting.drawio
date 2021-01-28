@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T16:25:40.507Z" agent="5.0 (Windows)" etag="A5aPztlcPtOBb4HDv8NZ" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-28T16:26:03.523Z" agent="5.0 (Windows)" etag="6fzsr5oJExdmEu3cXMPe" version="14.2.7" type="github">
   <diagram id="KoK0PCqbbtq8ZABcu_Ot" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -57,7 +57,27 @@
           <mxGeometry x="680" y="400" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OQvwtEZu1LkCvoDyPKeE-37" value="Director endorses and submits report to the BoD" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="OQvwtEZu1LkCvoDyPKeE-1">
-          <mxGeometry x="772.5" y="390" width="140" height="60" as="geometry" />
+          <mxGeometry x="817.5" y="390" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OQvwtEZu1LkCvoDyPKeE-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="OQvwtEZu1LkCvoDyPKeE-1" source="OQvwtEZu1LkCvoDyPKeE-31" target="OQvwtEZu1LkCvoDyPKeE-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OQvwtEZu1LkCvoDyPKeE-31" value="SDDRD harmonises thematic report from DDs and submit to the Director&amp;nbsp; " style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="OQvwtEZu1LkCvoDyPKeE-1">
+          <mxGeometry x="810" y="220" width="155" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OQvwtEZu1LkCvoDyPKeE-39" value="BoD approves the report" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="OQvwtEZu1LkCvoDyPKeE-1">
+          <mxGeometry x="827.5" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OQvwtEZu1LkCvoDyPKeE-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="OQvwtEZu1LkCvoDyPKeE-1" source="OQvwtEZu1LkCvoDyPKeE-37" target="OQvwtEZu1LkCvoDyPKeE-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OQvwtEZu1LkCvoDyPKeE-43" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="OQvwtEZu1LkCvoDyPKeE-1">
+          <mxGeometry x="827.5" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OQvwtEZu1LkCvoDyPKeE-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="OQvwtEZu1LkCvoDyPKeE-1" source="OQvwtEZu1LkCvoDyPKeE-39" target="OQvwtEZu1LkCvoDyPKeE-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="887.5" y="670" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="OQvwtEZu1LkCvoDyPKeE-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OQvwtEZu1LkCvoDyPKeE-12" target="OQvwtEZu1LkCvoDyPKeE-14">
           <mxGeometry relative="1" as="geometry" />
@@ -96,8 +116,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="735" y="450" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="740" y="450" />
-              <mxPoint x="740" y="290" />
+              <mxPoint x="720" y="450" />
+              <mxPoint x="720" y="290" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -112,26 +132,6 @@
         </mxCell>
         <mxCell id="OQvwtEZu1LkCvoDyPKeE-28" value="DD amends report" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="575" y="260" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="OQvwtEZu1LkCvoDyPKeE-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OQvwtEZu1LkCvoDyPKeE-31" target="OQvwtEZu1LkCvoDyPKeE-37">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="OQvwtEZu1LkCvoDyPKeE-31" value="SDDRD harmonises thematic report from DDs and submit to the Director&amp;nbsp; " style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="775" y="250" width="155" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="OQvwtEZu1LkCvoDyPKeE-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OQvwtEZu1LkCvoDyPKeE-39" target="OQvwtEZu1LkCvoDyPKeE-43">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="852.5" y="700" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OQvwtEZu1LkCvoDyPKeE-39" value="BoD approves the report" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="792.5" y="560" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="OQvwtEZu1LkCvoDyPKeE-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OQvwtEZu1LkCvoDyPKeE-37" target="OQvwtEZu1LkCvoDyPKeE-39">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="OQvwtEZu1LkCvoDyPKeE-43" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="792.5" y="670" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
