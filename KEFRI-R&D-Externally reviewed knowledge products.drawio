@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T16:53:04.507Z" agent="5.0 (Windows)" etag="PVPP4pom-AFrm56-q0mU" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-28T16:54:30.451Z" agent="5.0 (Windows)" etag="lJgLl5J2ikpoXmtnIe4p" version="14.2.7" type="github">
   <diagram id="bO6ONmM0FboMKdh2IcsY" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -9,6 +9,12 @@
         </mxCell>
         <mxCell id="8hKZSPDeMMXq-WV7nx7k-5" value="Upon generation, analysis and interpretation of data, PI/RS identifies and develop knowledge product(s) of choice and those set by institutional PC " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8hKZSPDeMMXq-WV7nx7k-1">
           <mxGeometry x="95" y="210" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="8hKZSPDeMMXq-WV7nx7k-6" value="Authors submit KP to the journal/publisher of choice as per KEFRI database" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="8hKZSPDeMMXq-WV7nx7k-1">
+          <mxGeometry x="120" y="370" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8hKZSPDeMMXq-WV7nx7k-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="8hKZSPDeMMXq-WV7nx7k-1" source="8hKZSPDeMMXq-WV7nx7k-5" target="8hKZSPDeMMXq-WV7nx7k-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8hKZSPDeMMXq-WV7nx7k-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8hKZSPDeMMXq-WV7nx7k-2" target="8hKZSPDeMMXq-WV7nx7k-5">
           <mxGeometry relative="1" as="geometry">
