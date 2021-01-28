@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T16:42:21.989Z" agent="5.0 (Windows)" etag="DmPqmYztNNlUSNBfAOCQ" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-28T16:48:03.641Z" agent="5.0 (Windows)" etag="2OwZVkmhRhbGOxMVEqXn" version="14.2.7" type="github">
   <diagram id="OXoew3hF0ippNxNFX6hT" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -8,59 +8,79 @@
           <mxGeometry x="10" y="10" width="1150" height="810" as="geometry" />
         </mxCell>
         <mxCell id="qphqglr-iAX6mSTgFpeC-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qphqglr-iAX6mSTgFpeC-1">
-          <mxGeometry x="270" y="40" width="100" height="60" as="geometry" />
+          <mxGeometry x="75" y="20" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qphqglr-iAX6mSTgFpeC-5" value="Upon generation, analysis and interpretation of data, PI, RS, Technical staf identify and develop knowledge product(s) of choice and those set by institutional PC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qphqglr-iAX6mSTgFpeC-1">
-          <mxGeometry x="205" y="170" width="230" height="90" as="geometry" />
+          <mxGeometry x="10" y="150" width="230" height="90" as="geometry" />
         </mxCell>
         <mxCell id="qphqglr-iAX6mSTgFpeC-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qphqglr-iAX6mSTgFpeC-1" source="qphqglr-iAX6mSTgFpeC-2" target="qphqglr-iAX6mSTgFpeC-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="320" y="180" as="targetPoint" />
+            <mxPoint x="125" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qphqglr-iAX6mSTgFpeC-6" value="PI, RS, Technical staff submit the draft KPs to RD through DRD for initial screening" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="qphqglr-iAX6mSTgFpeC-1">
-          <mxGeometry x="240" y="320" width="160" height="70" as="geometry" />
+          <mxGeometry x="45" y="300" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="qphqglr-iAX6mSTgFpeC-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qphqglr-iAX6mSTgFpeC-1" source="qphqglr-iAX6mSTgFpeC-5" target="qphqglr-iAX6mSTgFpeC-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qphqglr-iAX6mSTgFpeC-10" value="Head of KM/SDDRD consolidates KPs, identifies and request SDDRD to appoint reviewers" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="qphqglr-iAX6mSTgFpeC-1">
-          <mxGeometry x="235" y="590" width="170" height="87.5" as="geometry" />
+          <mxGeometry x="40" y="570" width="170" height="87.5" as="geometry" />
         </mxCell>
         <mxCell id="qphqglr-iAX6mSTgFpeC-14" value="Head of KM receives feedback (accepted with comments or rejected with reasons) from reviewers and submit to authors" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="qphqglr-iAX6mSTgFpeC-1">
-          <mxGeometry x="530" y="324" width="180" height="80" as="geometry" />
+          <mxGeometry x="335" y="304" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qphqglr-iAX6mSTgFpeC-16" value="Reviewers review and submit with comments to Head KM " style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="qphqglr-iAX6mSTgFpeC-1">
-          <mxGeometry x="550" y="470" width="140" height="60" as="geometry" />
+          <mxGeometry x="355" y="450" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qphqglr-iAX6mSTgFpeC-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="qphqglr-iAX6mSTgFpeC-1" source="qphqglr-iAX6mSTgFpeC-16" target="qphqglr-iAX6mSTgFpeC-14">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="620" y="383.75" as="targetPoint" />
+            <mxPoint x="425" y="363.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qphqglr-iAX6mSTgFpeC-22" value="Review team/Head KM checks on amendments and provides feedback to Head KM (either recommended for publication or further revision or reject) on how revisions were taken " style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="qphqglr-iAX6mSTgFpeC-1">
-          <mxGeometry x="790" y="152" width="190" height="110" as="geometry" />
+          <mxGeometry x="595" y="132" width="190" height="110" as="geometry" />
         </mxCell>
         <mxCell id="qphqglr-iAX6mSTgFpeC-24" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Recommended&lt;/div&gt;&lt;div&gt; for &lt;br&gt;&lt;/div&gt;&lt;div&gt;publication?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="qphqglr-iAX6mSTgFpeC-1">
-          <mxGeometry x="810" y="309" width="150" height="110" as="geometry" />
+          <mxGeometry x="615" y="289" width="150" height="110" as="geometry" />
         </mxCell>
         <mxCell id="qphqglr-iAX6mSTgFpeC-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qphqglr-iAX6mSTgFpeC-1" source="qphqglr-iAX6mSTgFpeC-22" target="qphqglr-iAX6mSTgFpeC-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qphqglr-iAX6mSTgFpeC-26" value="Submit to Editorial Committee to ensure correct editing and type setting" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="qphqglr-iAX6mSTgFpeC-1">
-          <mxGeometry x="812.5" y="490" width="145" height="74" as="geometry" />
+        <mxCell id="qphqglr-iAX6mSTgFpeC-26" value="Head KM, Editorial Committee submits to Editorial Committee to ensure correct editing and type setting" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="qphqglr-iAX6mSTgFpeC-1">
+          <mxGeometry x="611.5" y="460" width="157.5" height="84" as="geometry" />
         </mxCell>
         <mxCell id="qphqglr-iAX6mSTgFpeC-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qphqglr-iAX6mSTgFpeC-1" source="qphqglr-iAX6mSTgFpeC-24" target="qphqglr-iAX6mSTgFpeC-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qphqglr-iAX6mSTgFpeC-28" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="qphqglr-iAX6mSTgFpeC-1">
-          <mxGeometry x="882" y="440" width="40" height="20" as="geometry" />
+          <mxGeometry x="687" y="420" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qphqglr-iAX6mSTgFpeC-38" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qphqglr-iAX6mSTgFpeC-1">
+          <mxGeometry x="880" y="344" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qphqglr-iAX6mSTgFpeC-39" value="KM Head Notifies author" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" vertex="1" parent="qphqglr-iAX6mSTgFpeC-1">
+          <mxGeometry x="870" y="170" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qphqglr-iAX6mSTgFpeC-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qphqglr-iAX6mSTgFpeC-1" source="qphqglr-iAX6mSTgFpeC-24" target="qphqglr-iAX6mSTgFpeC-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="820" y="344" />
+              <mxPoint x="820" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qphqglr-iAX6mSTgFpeC-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="qphqglr-iAX6mSTgFpeC-1" source="qphqglr-iAX6mSTgFpeC-39" target="qphqglr-iAX6mSTgFpeC-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="930" y="340" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="qphqglr-iAX6mSTgFpeC-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qphqglr-iAX6mSTgFpeC-8" target="qphqglr-iAX6mSTgFpeC-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qphqglr-iAX6mSTgFpeC-8" value="DRD/RD submit draft KPs to Head of KM with copies to DD and SDDRD " style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="250" y="480" width="160" height="65" as="geometry" />
+          <mxGeometry x="55" y="460" width="160" height="65" as="geometry" />
         </mxCell>
         <mxCell id="qphqglr-iAX6mSTgFpeC-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qphqglr-iAX6mSTgFpeC-6" target="qphqglr-iAX6mSTgFpeC-8">
           <mxGeometry relative="1" as="geometry" />
@@ -69,7 +89,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qphqglr-iAX6mSTgFpeC-12" value="Head of KM submits draft KPs to reviewers" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="570" y="613.75" width="120" height="60" as="geometry" />
+          <mxGeometry x="375" y="593.75" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qphqglr-iAX6mSTgFpeC-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qphqglr-iAX6mSTgFpeC-10" target="qphqglr-iAX6mSTgFpeC-12">
           <mxGeometry relative="1" as="geometry" />
@@ -78,10 +98,33 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qphqglr-iAX6mSTgFpeC-20" value="Authors revise KP based on feedback and submit to Head KM " style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="184" width="140" height="66" as="geometry" />
+          <mxGeometry x="365" y="164" width="140" height="66" as="geometry" />
         </mxCell>
         <mxCell id="qphqglr-iAX6mSTgFpeC-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qphqglr-iAX6mSTgFpeC-14" target="qphqglr-iAX6mSTgFpeC-20">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qphqglr-iAX6mSTgFpeC-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qphqglr-iAX6mSTgFpeC-30" target="qphqglr-iAX6mSTgFpeC-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qphqglr-iAX6mSTgFpeC-30" value="Head KM, SDDRD, DDs submits edited and typeset KPs to SDDRD through DD FRSS with copies to DD for approval to publish" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="615" y="620" width="170" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="qphqglr-iAX6mSTgFpeC-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qphqglr-iAX6mSTgFpeC-26" target="qphqglr-iAX6mSTgFpeC-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qphqglr-iAX6mSTgFpeC-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qphqglr-iAX6mSTgFpeC-32" target="qphqglr-iAX6mSTgFpeC-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qphqglr-iAX6mSTgFpeC-32" value="&lt;p style=&quot;margin-bottom: 0.11in&quot;&gt;&lt;br&gt;KM Head sends approved KPs to printing press&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="890" y="633" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qphqglr-iAX6mSTgFpeC-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qphqglr-iAX6mSTgFpeC-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="950" y="413" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qphqglr-iAX6mSTgFpeC-34" value="KM head uploads of finalized KP to KEFRI website" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="890" y="493" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
