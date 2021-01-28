@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T16:40:00.134Z" agent="5.0 (Windows)" etag="AnUaS8o-aDJt_0dHLH9y" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-28T16:42:21.989Z" agent="5.0 (Windows)" etag="DmPqmYztNNlUSNBfAOCQ" version="14.2.7" type="github">
   <diagram id="OXoew3hF0ippNxNFX6hT" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -40,6 +40,21 @@
         </mxCell>
         <mxCell id="qphqglr-iAX6mSTgFpeC-22" value="Review team/Head KM checks on amendments and provides feedback to Head KM (either recommended for publication or further revision or reject) on how revisions were taken " style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="qphqglr-iAX6mSTgFpeC-1">
           <mxGeometry x="790" y="152" width="190" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="qphqglr-iAX6mSTgFpeC-24" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Recommended&lt;/div&gt;&lt;div&gt; for &lt;br&gt;&lt;/div&gt;&lt;div&gt;publication?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="qphqglr-iAX6mSTgFpeC-1">
+          <mxGeometry x="810" y="309" width="150" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="qphqglr-iAX6mSTgFpeC-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qphqglr-iAX6mSTgFpeC-1" source="qphqglr-iAX6mSTgFpeC-22" target="qphqglr-iAX6mSTgFpeC-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qphqglr-iAX6mSTgFpeC-26" value="Submit to Editorial Committee to ensure correct editing and type setting" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="qphqglr-iAX6mSTgFpeC-1">
+          <mxGeometry x="812.5" y="490" width="145" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="qphqglr-iAX6mSTgFpeC-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qphqglr-iAX6mSTgFpeC-1" source="qphqglr-iAX6mSTgFpeC-24" target="qphqglr-iAX6mSTgFpeC-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qphqglr-iAX6mSTgFpeC-28" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="qphqglr-iAX6mSTgFpeC-1">
+          <mxGeometry x="882" y="440" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qphqglr-iAX6mSTgFpeC-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qphqglr-iAX6mSTgFpeC-8" target="qphqglr-iAX6mSTgFpeC-10">
           <mxGeometry relative="1" as="geometry" />
