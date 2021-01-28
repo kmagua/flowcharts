@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T10:20:48.428Z" agent="5.0 (Windows)" etag="oDIb4uen1QYrgtGYitE8" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-28T10:22:15.039Z" agent="5.0 (Windows)" etag="mJniGbIU5GiTgIVQR9-p" version="14.2.7" type="github">
   <diagram id="7WZmSiz0M4jWql_Y_E7b" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -72,11 +72,19 @@
         <mxCell id="KGjc-fxRxSXkj4jjtw1g-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KGjc-fxRxSXkj4jjtw1g-16" target="KGjc-fxRxSXkj4jjtw1g-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KGjc-fxRxSXkj4jjtw1g-22" value="Harmonise and submit to DD project activities, budgets and work plans of endorsed projects for each thematic area at eco-regional research programme by end of July" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="KGjc-fxRxSXkj4jjtw1g-22" value="RD/DRD harmonises and submits to DD project activities, budgets and work plans of endorsed projects for each thematic area at eco-regional research programme by end of July" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="90" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="KGjc-fxRxSXkj4jjtw1g-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KGjc-fxRxSXkj4jjtw1g-20" target="KGjc-fxRxSXkj4jjtw1g-22">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KGjc-fxRxSXkj4jjtw1g-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="KGjc-fxRxSXkj4jjtw1g-24" target="KGjc-fxRxSXkj4jjtw1g-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="610" y="140" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="KGjc-fxRxSXkj4jjtw1g-24" value="RS/PI makes amendments and submits to RD/DD" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="550" y="270" width="120" height="60" as="geometry" />
