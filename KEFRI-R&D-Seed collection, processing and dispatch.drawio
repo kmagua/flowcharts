@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-29T06:07:55.450Z" agent="5.0 (Windows)" etag="YV5VM0lYIQSBM0y_JKAt" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-29T06:08:09.998Z" agent="5.0 (Windows)" etag="CNVM1LHC4n4bV5qhh36n" version="14.2.7" type="github">
   <diagram id="Hti3g_JA2gQ-FCei74Bm" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -51,7 +51,7 @@
         <mxCell id="CFJs6edvpneOBIYGKQMz-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="CFJs6edvpneOBIYGKQMz-1" source="CFJs6edvpneOBIYGKQMz-18" target="CFJs6edvpneOBIYGKQMz-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CFJs6edvpneOBIYGKQMz-22" value="DDFPI, RD, Seed Manager transmits of approved seed collection targets and needs to RDs and with copy to Seed Manager for implementation by August" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="CFJs6edvpneOBIYGKQMz-1">
+        <mxCell id="CFJs6edvpneOBIYGKQMz-22" value="DDFPI, RD, Seed Manager transmits&amp;nbsp; approved seed collection targets and needs to RDs and with copy to Seed Manager for implementation by August" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="CFJs6edvpneOBIYGKQMz-1">
           <mxGeometry x="300" y="178" width="160" height="103.75" as="geometry" />
         </mxCell>
         <mxCell id="CFJs6edvpneOBIYGKQMz-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="CFJs6edvpneOBIYGKQMz-1" source="CFJs6edvpneOBIYGKQMz-20" target="CFJs6edvpneOBIYGKQMz-22">
