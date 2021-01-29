@@ -1,79 +1,79 @@
-<mxfile host="app.diagrams.net" modified="2021-01-29T07:04:32.965Z" agent="5.0 (Windows)" etag="lqkVUwm7Xt35v3_38GSu" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-29T07:05:34.302Z" agent="5.0 (Windows)" etag="yKqVgzqzkBD7J3hf_7X_" version="14.2.7" type="github">
   <diagram id="ZMjFlFDBcObQMVyW7c8Y" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="whAv_r-oKJ33wHacgo0v-1" value="Laboratory service provision" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="10" y="10" width="1150" height="810" as="geometry" />
+          <mxGeometry x="10" y="10" width="960" height="750" as="geometry" />
         </mxCell>
         <mxCell id="whAv_r-oKJ33wHacgo0v-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="whAv_r-oKJ33wHacgo0v-1">
-          <mxGeometry x="210" y="70" width="110" height="60" as="geometry" />
+          <mxGeometry x="50" y="40" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="whAv_r-oKJ33wHacgo0v-5" value="Laboratory Heads(LH)/Laboratory managers (LM) receive requests for service from the customers (internal and external)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="whAv_r-oKJ33wHacgo0v-1">
-          <mxGeometry x="180" y="200" width="170" height="100" as="geometry" />
+          <mxGeometry x="20" y="170" width="170" height="100" as="geometry" />
         </mxCell>
         <mxCell id="whAv_r-oKJ33wHacgo0v-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="whAv_r-oKJ33wHacgo0v-1" source="whAv_r-oKJ33wHacgo0v-2" target="whAv_r-oKJ33wHacgo0v-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="265" y="210" as="targetPoint" />
+            <mxPoint x="105" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="whAv_r-oKJ33wHacgo0v-6" value="LH and LM conducts assessment of the laboratory capacity to undertake the requested services" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="whAv_r-oKJ33wHacgo0v-1">
-          <mxGeometry x="180" y="380" width="170" height="80" as="geometry" />
+          <mxGeometry x="20" y="350" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="whAv_r-oKJ33wHacgo0v-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="whAv_r-oKJ33wHacgo0v-1" source="whAv_r-oKJ33wHacgo0v-5" target="whAv_r-oKJ33wHacgo0v-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="whAv_r-oKJ33wHacgo0v-8" value="&lt;div&gt;Capacity&lt;/div&gt;&lt;div&gt;available?&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="whAv_r-oKJ33wHacgo0v-1">
-          <mxGeometry x="217.5" y="530" width="95" height="80" as="geometry" />
+          <mxGeometry x="57.5" y="500" width="95" height="80" as="geometry" />
         </mxCell>
         <mxCell id="whAv_r-oKJ33wHacgo0v-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="whAv_r-oKJ33wHacgo0v-1" source="whAv_r-oKJ33wHacgo0v-6" target="whAv_r-oKJ33wHacgo0v-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="whAv_r-oKJ33wHacgo0v-12" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="whAv_r-oKJ33wHacgo0v-1">
-          <mxGeometry x="272.5" y="620" width="40" height="20" as="geometry" />
+          <mxGeometry x="112.5" y="590" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="whAv_r-oKJ33wHacgo0v-15" value="Notify customer that service cannot be undertaken" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="whAv_r-oKJ33wHacgo0v-1">
-          <mxGeometry x="400" y="540" width="140" height="60" as="geometry" />
+          <mxGeometry x="240" y="510" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="whAv_r-oKJ33wHacgo0v-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="whAv_r-oKJ33wHacgo0v-1" source="whAv_r-oKJ33wHacgo0v-8" target="whAv_r-oKJ33wHacgo0v-15">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="380" y="570" as="targetPoint" />
+            <mxPoint x="220" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="whAv_r-oKJ33wHacgo0v-24" value="Lab technologists/technicians conducts samples preparation, analysis and submit results to LH" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="whAv_r-oKJ33wHacgo0v-1">
-          <mxGeometry x="632.5" y="235" width="150" height="90" as="geometry" />
+          <mxGeometry x="472.5" y="205" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="whAv_r-oKJ33wHacgo0v-26" value="LH verifies and conducts quality checks" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="whAv_r-oKJ33wHacgo0v-1">
-          <mxGeometry x="880" y="245" width="140" height="70" as="geometry" />
+          <mxGeometry x="720" y="215" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="whAv_r-oKJ33wHacgo0v-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="whAv_r-oKJ33wHacgo0v-1" source="whAv_r-oKJ33wHacgo0v-24" target="whAv_r-oKJ33wHacgo0v-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="whAv_r-oKJ33wHacgo0v-28" value="LH transmits verified tests to Head of Biosciences/Research scientists for interpretation and reporting to the client" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="whAv_r-oKJ33wHacgo0v-1">
-          <mxGeometry x="870" y="380" width="160" height="84" as="geometry" />
+          <mxGeometry x="710" y="350" width="160" height="84" as="geometry" />
         </mxCell>
         <mxCell id="whAv_r-oKJ33wHacgo0v-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="whAv_r-oKJ33wHacgo0v-1" source="whAv_r-oKJ33wHacgo0v-26" target="whAv_r-oKJ33wHacgo0v-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="whAv_r-oKJ33wHacgo0v-32" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="whAv_r-oKJ33wHacgo0v-1">
-          <mxGeometry x="890" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="730" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="whAv_r-oKJ33wHacgo0v-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="whAv_r-oKJ33wHacgo0v-1" source="whAv_r-oKJ33wHacgo0v-28" target="whAv_r-oKJ33wHacgo0v-32">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="950" y="546" as="targetPoint" />
+            <mxPoint x="790" y="516" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="whAv_r-oKJ33wHacgo0v-33" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="whAv_r-oKJ33wHacgo0v-1">
-          <mxGeometry x="330" y="540" width="40" height="20" as="geometry" />
+          <mxGeometry x="170" y="516" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="whAv_r-oKJ33wHacgo0v-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="whAv_r-oKJ33wHacgo0v-1" source="whAv_r-oKJ33wHacgo0v-15" target="whAv_r-oKJ33wHacgo0v-32">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="470" y="460" as="targetPoint" />
+            <mxPoint x="310" y="430" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="470" y="150" />
-              <mxPoint x="1090" y="150" />
-              <mxPoint x="1090" y="630" />
+              <mxPoint x="310" y="120" />
+              <mxPoint x="930" y="120" />
+              <mxPoint x="930" y="600" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -81,7 +81,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="whAv_r-oKJ33wHacgo0v-10" value="LH, LM communicates to the customer on services that can be provided in tandem with KEFRI laboratory capacity" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="190" y="690" width="170" height="80" as="geometry" />
+          <mxGeometry x="30" y="660" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="whAv_r-oKJ33wHacgo0v-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="whAv_r-oKJ33wHacgo0v-8" target="whAv_r-oKJ33wHacgo0v-10">
           <mxGeometry relative="1" as="geometry" />
@@ -90,25 +90,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="whAv_r-oKJ33wHacgo0v-16" value="LH invoices for the services" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="465" y="700" width="115" height="60" as="geometry" />
+          <mxGeometry x="305" y="670" width="115" height="60" as="geometry" />
         </mxCell>
         <mxCell id="whAv_r-oKJ33wHacgo0v-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="whAv_r-oKJ33wHacgo0v-18" target="whAv_r-oKJ33wHacgo0v-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="whAv_r-oKJ33wHacgo0v-18" value="Client makes necessary payment as per the invoice to the finance" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="657.5" y="700" width="120" height="60" as="geometry" />
+          <mxGeometry x="497.5" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="whAv_r-oKJ33wHacgo0v-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="whAv_r-oKJ33wHacgo0v-20" target="whAv_r-oKJ33wHacgo0v-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="whAv_r-oKJ33wHacgo0v-20" value="Finance issues client with receipt" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="657.5" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="497.5" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="whAv_r-oKJ33wHacgo0v-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="whAv_r-oKJ33wHacgo0v-22" target="whAv_r-oKJ33wHacgo0v-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="whAv_r-oKJ33wHacgo0v-22" value="LH/LM receives and records samples" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="657.5" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="497.5" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
