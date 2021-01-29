@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-29T09:12:32.655Z" agent="5.0 (Windows)" etag="DcKPGjdMHyTK9WXokQrx" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-29T09:17:57.570Z" agent="5.0 (Windows)" etag="NuF_x5J7QiW17RuG9FxI" version="14.2.7" type="github">
   <diagram id="5_aohHFVvhJg3DNA72NS" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -17,6 +17,24 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="190" y="180" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="qoAdScPvT66UWbfDdBSW-6" value="RDs/DRDs organizes Pre-CRAC and CRAC at the Eco-Regional Research Programmes by mid-February " style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="qoAdScPvT66UWbfDdBSW-1">
+          <mxGeometry x="100" y="340" width="180" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="qoAdScPvT66UWbfDdBSW-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qoAdScPvT66UWbfDdBSW-1" source="qoAdScPvT66UWbfDdBSW-5" target="qoAdScPvT66UWbfDdBSW-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qoAdScPvT66UWbfDdBSW-10" value="SDDRD solicits feedback from stakeholders on the last day of the Pre-CRAC and CRAC " style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="qoAdScPvT66UWbfDdBSW-1">
+          <mxGeometry x="110" y="660" width="160" height="82.5" as="geometry" />
+        </mxCell>
+        <mxCell id="qoAdScPvT66UWbfDdBSW-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qoAdScPvT66UWbfDdBSW-8" target="qoAdScPvT66UWbfDdBSW-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qoAdScPvT66UWbfDdBSW-8" value="PI, RS share progress of the previous research activities and new proposal for funding by mid-March to RD, DRDs" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="515" width="180" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="qoAdScPvT66UWbfDdBSW-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qoAdScPvT66UWbfDdBSW-6" target="qoAdScPvT66UWbfDdBSW-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
