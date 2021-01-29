@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T16:00:48.009Z" agent="5.0 (Windows)" etag="G1OUitlp5t4bKXwbdy0t" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-29T08:59:40.688Z" agent="5.0 (Windows)" etag="7FjZ3S2ImW0TuVWkXLGE" version="14.2.7" type="github">
   <diagram id="PVdL_zoP0Urx2-9kqrgy" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -20,7 +20,29 @@
           <mxGeometry x="541" y="589" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="dvURbFbIRr_XrWgvkVuH-32" value="End" style="rounded=1;whiteSpace=wrap;html=1;" parent="dvURbFbIRr_XrWgvkVuH-1" vertex="1">
-          <mxGeometry x="772" y="549" width="120" height="60" as="geometry" />
+          <mxGeometry x="845.5" y="549" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dvURbFbIRr_XrWgvkVuH-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="dvURbFbIRr_XrWgvkVuH-1" source="dvURbFbIRr_XrWgvkVuH-18" target="dvURbFbIRr_XrWgvkVuH-32" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="851.5" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dvURbFbIRr_XrWgvkVuH-18" value="Rejected with comments" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" parent="dvURbFbIRr_XrWgvkVuH-1" vertex="1">
+          <mxGeometry x="750" y="632.5" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dvURbFbIRr_XrWgvkVuH-28" value="SCNPRC assess&amp;nbsp; the correctness of improved draft proposal and submit feedback (accepted or returned with amendments) to the PIs and RS through DD and RDs and SDDRD for endorsement by first week March" style="whiteSpace=wrap;html=1;rounded=0;" parent="dvURbFbIRr_XrWgvkVuH-1" vertex="1">
+          <mxGeometry x="789.5" y="156" width="232" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dvURbFbIRr_XrWgvkVuH-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="dvURbFbIRr_XrWgvkVuH-1" source="dvURbFbIRr_XrWgvkVuH-30" target="dvURbFbIRr_XrWgvkVuH-32" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="905.5" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dvURbFbIRr_XrWgvkVuH-30" value="SDDRD Receives and endorses the reviewed and accepted research proposal in preparation for the Pre-Consultative Regional Research Advisory Committee (Pre-CRAC) and Consultative Regional Research Advisory Committee (CRAC) by second week of March" style="whiteSpace=wrap;html=1;rounded=0;" parent="dvURbFbIRr_XrWgvkVuH-1" vertex="1">
+          <mxGeometry x="785.5" y="320" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="dvURbFbIRr_XrWgvkVuH-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="dvURbFbIRr_XrWgvkVuH-1" source="dvURbFbIRr_XrWgvkVuH-28" target="dvURbFbIRr_XrWgvkVuH-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dvURbFbIRr_XrWgvkVuH-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dvURbFbIRr_XrWgvkVuH-2" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -61,14 +83,6 @@
         <mxCell id="dvURbFbIRr_XrWgvkVuH-12" value="Accepted?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="546.5" y="641.5" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dvURbFbIRr_XrWgvkVuH-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="dvURbFbIRr_XrWgvkVuH-18" target="dvURbFbIRr_XrWgvkVuH-32" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="788" y="519" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dvURbFbIRr_XrWgvkVuH-18" value="Rejected with comments" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="686.5" y="641.5" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="dvURbFbIRr_XrWgvkVuH-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dvURbFbIRr_XrWgvkVuH-20" target="dvURbFbIRr_XrWgvkVuH-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -86,20 +100,6 @@
         </mxCell>
         <mxCell id="dvURbFbIRr_XrWgvkVuH-26" value="SDDRD Submits the revised draft proposal to SCNPRC by end of February" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="526" y="180.25" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dvURbFbIRr_XrWgvkVuH-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dvURbFbIRr_XrWgvkVuH-28" target="dvURbFbIRr_XrWgvkVuH-30" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dvURbFbIRr_XrWgvkVuH-28" value="SCNPRC assess&amp;nbsp; the correctness of improved draft proposal and submit feedback (accepted or returned with amendments) to the PIs and RS through DD and RDs and SDDRD for endorsement by first week March" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="726" y="165" width="232" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="dvURbFbIRr_XrWgvkVuH-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="dvURbFbIRr_XrWgvkVuH-30" target="dvURbFbIRr_XrWgvkVuH-32" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="842" y="529" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dvURbFbIRr_XrWgvkVuH-30" value="SDDRD Receives and endorses the reviewed and accepted research proposal in preparation for the Pre-Consultative Regional Research Advisory Committee (Pre-CRAC) and Consultative Regional Research Advisory Committee (CRAC) by second week of March" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="722" y="329" width="240" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
