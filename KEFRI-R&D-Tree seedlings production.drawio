@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-29T07:33:21.946Z" agent="5.0 (Windows)" etag="ZTmLyGlnz3lCjvpy-qlH" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-29T07:41:36.178Z" agent="5.0 (Windows)" etag="mY9L5GaU-EaOdioNZs70" version="14.2.7" type="github">
   <diagram id="5zCdjWw3TfICZzwGT9ux" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -74,6 +74,27 @@
         <mxCell id="VUJQqh5qZJxquNSaiEC0-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="VUJQqh5qZJxquNSaiEC0-1" source="VUJQqh5qZJxquNSaiEC0-24" target="VUJQqh5qZJxquNSaiEC0-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="VUJQqh5qZJxquNSaiEC0-34" value="Scientist in Charge of tree nurseries, Forester, Seedling Production Officers prepares quarterly work plans and budgets and submit to RD for approval" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="VUJQqh5qZJxquNSaiEC0-1">
+          <mxGeometry x="870" y="580" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="VUJQqh5qZJxquNSaiEC0-36" value="Scientist in Charge of tree nurseries, Forester, Seedling Production Officers raises seed request to Seed Manager through RD for approval" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="VUJQqh5qZJxquNSaiEC0-1">
+          <mxGeometry x="865" y="470" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VUJQqh5qZJxquNSaiEC0-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="VUJQqh5qZJxquNSaiEC0-1" source="VUJQqh5qZJxquNSaiEC0-34" target="VUJQqh5qZJxquNSaiEC0-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VUJQqh5qZJxquNSaiEC0-38" value="Scientist in Charge of tree nurseries, Forester, Seedling Production Officers receives and registers seeds for seedling production" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="VUJQqh5qZJxquNSaiEC0-1">
+          <mxGeometry x="865" y="344" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VUJQqh5qZJxquNSaiEC0-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="VUJQqh5qZJxquNSaiEC0-1" source="VUJQqh5qZJxquNSaiEC0-36" target="VUJQqh5qZJxquNSaiEC0-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VUJQqh5qZJxquNSaiEC0-40" value="RD/Accountant initiate payment of seeds supplied" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="VUJQqh5qZJxquNSaiEC0-1">
+          <mxGeometry x="910" y="229" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VUJQqh5qZJxquNSaiEC0-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="VUJQqh5qZJxquNSaiEC0-1" source="VUJQqh5qZJxquNSaiEC0-38" target="VUJQqh5qZJxquNSaiEC0-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VUJQqh5qZJxquNSaiEC0-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VUJQqh5qZJxquNSaiEC0-10" target="VUJQqh5qZJxquNSaiEC0-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -91,6 +112,33 @@
         </mxCell>
         <mxCell id="VUJQqh5qZJxquNSaiEC0-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VUJQqh5qZJxquNSaiEC0-14" target="VUJQqh5qZJxquNSaiEC0-16">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VUJQqh5qZJxquNSaiEC0-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VUJQqh5qZJxquNSaiEC0-32" target="VUJQqh5qZJxquNSaiEC0-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VUJQqh5qZJxquNSaiEC0-32" value="SDDRD transmits approved seedling production targets and needs to RDs and with copy to Enterprise Manager for implementation by August" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="900" y="720" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="VUJQqh5qZJxquNSaiEC0-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VUJQqh5qZJxquNSaiEC0-30" target="VUJQqh5qZJxquNSaiEC0-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VUJQqh5qZJxquNSaiEC0-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VUJQqh5qZJxquNSaiEC0-42" target="VUJQqh5qZJxquNSaiEC0-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VUJQqh5qZJxquNSaiEC0-42" value="Scientist in Charge of tree nurseries, Forester, Nursery supervisor/attendants initiates seedling production through sowing, pricking out of germinants and nurturing seedlings" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="850" y="99" width="260" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="VUJQqh5qZJxquNSaiEC0-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VUJQqh5qZJxquNSaiEC0-40" target="VUJQqh5qZJxquNSaiEC0-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VUJQqh5qZJxquNSaiEC0-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VUJQqh5qZJxquNSaiEC0-44" target="VUJQqh5qZJxquNSaiEC0-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VUJQqh5qZJxquNSaiEC0-44" value="Scientist in Charge of tree nurseries, Forester, Enterprise Office initiates selling of seedlings through Enterprise Manager Office" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="91.75" width="160" height="95.5" as="geometry" />
+        </mxCell>
+        <mxCell id="VUJQqh5qZJxquNSaiEC0-48" value="Director, SDDR&amp;amp;D, RD, DRD, Scientist in Charge of tree nurseries, Forester initiate issuance of seedlings for estate establishment, research and CSR activities" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="267.25" width="180" height="95.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
