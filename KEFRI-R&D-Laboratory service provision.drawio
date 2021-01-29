@@ -1,1 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2021-01-29T06:44:38.137Z" agent="5.0 (Windows)" version="14.2.7" etag="AwFmbmGuxCYCvOfvTz3a" type="github"><diagram id="ZMjFlFDBcObQMVyW7c8Y">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-29T06:45:55.266Z" agent="5.0 (Windows)" etag="LUa7fZJlwkXlZ_Dwm3q0" version="14.2.7" type="github">
+  <diagram id="ZMjFlFDBcObQMVyW7c8Y" name="Page-1">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="whAv_r-oKJ33wHacgo0v-1" value="Laboratory service provision" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="620" height="810" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
