@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-29T07:07:16.014Z" agent="5.0 (Windows)" etag="LfYwjQ6GVAEHpbsi0tzd" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-29T07:14:18.032Z" agent="5.0 (Windows)" etag="K3eUHo0u_GN1RrTZ-Bbu" version="14.2.7" type="github">
   <diagram id="5zCdjWw3TfICZzwGT9ux" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -6,6 +6,35 @@
         <mxCell id="1" parent="0" />
         <mxCell id="VUJQqh5qZJxquNSaiEC0-1" value="Tree seedlings production" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="10" y="10" width="1150" height="810" as="geometry" />
+        </mxCell>
+        <mxCell id="VUJQqh5qZJxquNSaiEC0-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="VUJQqh5qZJxquNSaiEC0-1">
+          <mxGeometry x="150" y="70" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VUJQqh5qZJxquNSaiEC0-5" value="SDDRD calls for setting seedling production targets and needs by August" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VUJQqh5qZJxquNSaiEC0-1">
+          <mxGeometry x="125" y="210" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VUJQqh5qZJxquNSaiEC0-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="VUJQqh5qZJxquNSaiEC0-1" source="VUJQqh5qZJxquNSaiEC0-2" target="VUJQqh5qZJxquNSaiEC0-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VUJQqh5qZJxquNSaiEC0-8" value="Scientist in Charge of tree nurseries, RD, SDDRD submits for review the inventory report to SDDR&amp;amp;D through Regional Director by end of September" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="VUJQqh5qZJxquNSaiEC0-1">
+          <mxGeometry x="105" y="500" width="190" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="VUJQqh5qZJxquNSaiEC0-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VUJQqh5qZJxquNSaiEC0-6" target="VUJQqh5qZJxquNSaiEC0-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VUJQqh5qZJxquNSaiEC0-6" value="Regional Director, Scientist in Charge of tree nurseries, Foresters undertake inventory on seedling production targets and needs by mid-September" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="350" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="VUJQqh5qZJxquNSaiEC0-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VUJQqh5qZJxquNSaiEC0-5" target="VUJQqh5qZJxquNSaiEC0-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VUJQqh5qZJxquNSaiEC0-10" value="SDDRD, RD, Scientist in Charge of tree nurseries provides feedback to RD and make any amendments by mid-October" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="670" width="200" height="77.5" as="geometry" />
+        </mxCell>
+        <mxCell id="VUJQqh5qZJxquNSaiEC0-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VUJQqh5qZJxquNSaiEC0-8" target="VUJQqh5qZJxquNSaiEC0-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
