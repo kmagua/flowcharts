@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-31T16:23:37.565Z" agent="5.0 (Windows)" etag="oVbjljs8mWQPfYiNDzBA" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-31T16:23:50.317Z" agent="5.0 (Windows)" etag="TfXAr-fj4TiKGj17zPGH" version="14.2.7" type="github">
   <diagram id="tZU8RH54jPB0YR1qd6gx" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -109,18 +109,18 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wgYXGEeq-h9P2ysIJ0SS-1" value="Reasons for rejection" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="y9bxsy1iOUCk4nZmsPaL-3">
-          <mxGeometry x="413" y="475" width="80" height="100" as="geometry" />
+          <mxGeometry x="413" y="475" width="67" height="100" as="geometry" />
         </mxCell>
         <mxCell id="wgYXGEeq-h9P2ysIJ0SS-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="y9bxsy1iOUCk4nZmsPaL-3" source="LDWQ8T8pUbo9GidEgZh_-5" target="wgYXGEeq-h9P2ysIJ0SS-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="203" y="525" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wgYXGEeq-h9P2ysIJ0SS-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="y9bxsy1iOUCk4nZmsPaL-3" source="wgYXGEeq-h9P2ysIJ0SS-1" target="y9bxsy1iOUCk4nZmsPaL-7">
+        <mxCell id="wgYXGEeq-h9P2ysIJ0SS-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=18.5;exitDy=0;exitPerimeter=0;" edge="1" parent="y9bxsy1iOUCk4nZmsPaL-3" source="wgYXGEeq-h9P2ysIJ0SS-1" target="y9bxsy1iOUCk4nZmsPaL-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="453" y="375" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="453" y="310" />
+              <mxPoint x="432" y="310" />
             </Array>
           </mxGeometry>
         </mxCell>
