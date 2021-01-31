@@ -1,59 +1,59 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T18:06:28.621Z" agent="5.0 (Windows)" etag="rMq3Y2I9JYW9uyEYSn9g" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-31T18:52:14.088Z" agent="5.0 (Windows)" etag="bITODFYe1OGbIPKuDg7a" version="14.2.7" type="github">
   <diagram id="0PrhKRIFw6qlqC9RMZtA" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="HKwQ_pfw1XNA54thK0XF-1" value="Partnership and linkages for R&amp;D" style="swimlane;" vertex="1" parent="1">
+        <mxCell id="HKwQ_pfw1XNA54thK0XF-1" value="Partnership and linkages for R&amp;D" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="10" y="10" width="930" height="810" as="geometry" />
         </mxCell>
-        <mxCell id="HKwQ_pfw1XNA54thK0XF-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="HKwQ_pfw1XNA54thK0XF-1">
+        <mxCell id="HKwQ_pfw1XNA54thK0XF-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" parent="HKwQ_pfw1XNA54thK0XF-1" vertex="1">
           <mxGeometry x="120" y="50" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HKwQ_pfw1XNA54thK0XF-5" value="Director, SDDRD, DD, RD, DDRD and Heads of Section in R&amp;amp;D, Research scientists, RMO identify, analyse and define areas for strategic partnership with development partners" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HKwQ_pfw1XNA54thK0XF-1">
+        <mxCell id="HKwQ_pfw1XNA54thK0XF-5" value="Director, SDDRD, DD, RD, DDRD and Heads of Section in R&amp;amp;D, Research scientists, RMO capture potential development partners and identify, analyse and define areas for strategic partnership with development partners" style="rounded=0;whiteSpace=wrap;html=1;" parent="HKwQ_pfw1XNA54thK0XF-1" vertex="1">
           <mxGeometry x="70" y="190" width="210" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="HKwQ_pfw1XNA54thK0XF-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HKwQ_pfw1XNA54thK0XF-1" source="HKwQ_pfw1XNA54thK0XF-2" target="HKwQ_pfw1XNA54thK0XF-5">
+        <mxCell id="HKwQ_pfw1XNA54thK0XF-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="HKwQ_pfw1XNA54thK0XF-1" source="HKwQ_pfw1XNA54thK0XF-2" target="HKwQ_pfw1XNA54thK0XF-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="175" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HKwQ_pfw1XNA54thK0XF-6" value="Director, SDDRD, DD, RD, DDRD and Heads of Section in R&amp;amp;D, Research scientists, RMO align the proposed areas of collaboration to KEFRI thematic areas and develop collaborative framework such as Memorandum of Understanding (MoU), Memorandum of Agreement (MoA), Letters of Agreement (LoAs) etc to be signed by the Director and witnessed by SDDRD" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="HKwQ_pfw1XNA54thK0XF-1">
+        <mxCell id="HKwQ_pfw1XNA54thK0XF-6" value="Director, SDDRD, DD, RD, DDRD and Heads of Section in R&amp;amp;D, Research scientists, RMO align the proposed areas of collaboration to KEFRI thematic areas and develop collaborative framework such as Memorandum of Understanding (MoU), Memorandum of Agreement (MoA), Letters of Agreement (LoAs) etc to be signed by the Director and witnessed by SDDRD" style="whiteSpace=wrap;html=1;rounded=0;" parent="HKwQ_pfw1XNA54thK0XF-1" vertex="1">
           <mxGeometry x="20" y="350" width="310" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="HKwQ_pfw1XNA54thK0XF-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HKwQ_pfw1XNA54thK0XF-1" source="HKwQ_pfw1XNA54thK0XF-5" target="HKwQ_pfw1XNA54thK0XF-6">
+        <mxCell id="HKwQ_pfw1XNA54thK0XF-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="HKwQ_pfw1XNA54thK0XF-1" source="HKwQ_pfw1XNA54thK0XF-5" target="HKwQ_pfw1XNA54thK0XF-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HKwQ_pfw1XNA54thK0XF-8" value="Director/SDDRD sets implementation committee of signed frameworks" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="HKwQ_pfw1XNA54thK0XF-1">
+        <mxCell id="HKwQ_pfw1XNA54thK0XF-8" value="Director/SDDRD sets implementation committee of signed frameworks" style="whiteSpace=wrap;html=1;rounded=0;" parent="HKwQ_pfw1XNA54thK0XF-1" vertex="1">
           <mxGeometry x="87.5" y="550" width="175" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HKwQ_pfw1XNA54thK0XF-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HKwQ_pfw1XNA54thK0XF-1" source="HKwQ_pfw1XNA54thK0XF-6" target="HKwQ_pfw1XNA54thK0XF-8">
+        <mxCell id="HKwQ_pfw1XNA54thK0XF-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="HKwQ_pfw1XNA54thK0XF-1" source="HKwQ_pfw1XNA54thK0XF-6" target="HKwQ_pfw1XNA54thK0XF-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HKwQ_pfw1XNA54thK0XF-10" value="Director, SDDRD, DD, RD, DDRD and Heads of Section in R&amp;amp;D, Research scientists, RMO develop and implement joint projects" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="HKwQ_pfw1XNA54thK0XF-1">
+        <mxCell id="HKwQ_pfw1XNA54thK0XF-10" value="Director, SDDRD, DD, RD, DDRD and Heads of Section in R&amp;amp;D, Research scientists, RMO develop and implement joint projects" style="whiteSpace=wrap;html=1;rounded=0;" parent="HKwQ_pfw1XNA54thK0XF-1" vertex="1">
           <mxGeometry x="85" y="680" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="HKwQ_pfw1XNA54thK0XF-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HKwQ_pfw1XNA54thK0XF-1" source="HKwQ_pfw1XNA54thK0XF-8" target="HKwQ_pfw1XNA54thK0XF-10">
+        <mxCell id="HKwQ_pfw1XNA54thK0XF-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="HKwQ_pfw1XNA54thK0XF-1" source="HKwQ_pfw1XNA54thK0XF-8" target="HKwQ_pfw1XNA54thK0XF-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HKwQ_pfw1XNA54thK0XF-12" value="Implementation comminttee conducts periodic review on implementation of collaborative framework and provide feedback" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="HKwQ_pfw1XNA54thK0XF-1">
+        <mxCell id="HKwQ_pfw1XNA54thK0XF-12" value="Implementation comminttee conducts periodic review on implementation of collaborative framework and provide feedback" style="whiteSpace=wrap;html=1;rounded=0;" parent="HKwQ_pfw1XNA54thK0XF-1" vertex="1">
           <mxGeometry x="390" y="675" width="145" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="HKwQ_pfw1XNA54thK0XF-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HKwQ_pfw1XNA54thK0XF-1" source="HKwQ_pfw1XNA54thK0XF-10" target="HKwQ_pfw1XNA54thK0XF-12">
+        <mxCell id="HKwQ_pfw1XNA54thK0XF-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="HKwQ_pfw1XNA54thK0XF-1" source="HKwQ_pfw1XNA54thK0XF-10" target="HKwQ_pfw1XNA54thK0XF-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HKwQ_pfw1XNA54thK0XF-14" value="Director, SDDRD, DD, RD, DDRD and Heads of Section in R&amp;amp;D, Research scientists, RMO implement feedback " style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="HKwQ_pfw1XNA54thK0XF-1">
+        <mxCell id="HKwQ_pfw1XNA54thK0XF-14" value="Director, SDDRD, DD, RD, DDRD and Heads of Section in R&amp;amp;D, Research scientists, RMO implement feedback " style="whiteSpace=wrap;html=1;rounded=0;" parent="HKwQ_pfw1XNA54thK0XF-1" vertex="1">
           <mxGeometry x="630" y="676.25" width="150" height="97.5" as="geometry" />
         </mxCell>
-        <mxCell id="HKwQ_pfw1XNA54thK0XF-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HKwQ_pfw1XNA54thK0XF-1" source="HKwQ_pfw1XNA54thK0XF-12" target="HKwQ_pfw1XNA54thK0XF-14">
+        <mxCell id="HKwQ_pfw1XNA54thK0XF-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="HKwQ_pfw1XNA54thK0XF-1" source="HKwQ_pfw1XNA54thK0XF-12" target="HKwQ_pfw1XNA54thK0XF-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HKwQ_pfw1XNA54thK0XF-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HKwQ_pfw1XNA54thK0XF-14" target="HKwQ_pfw1XNA54thK0XF-18">
+        <mxCell id="HKwQ_pfw1XNA54thK0XF-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HKwQ_pfw1XNA54thK0XF-14" target="HKwQ_pfw1XNA54thK0XF-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="885" y="735" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HKwQ_pfw1XNA54thK0XF-18" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HKwQ_pfw1XNA54thK0XF-18" value="End" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="825" y="705" width="95" height="60" as="geometry" />
         </mxCell>
       </root>
