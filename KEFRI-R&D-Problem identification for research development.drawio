@@ -1,29 +1,29 @@
-<mxfile host="app.diagrams.net" modified="2021-01-31T16:23:50.317Z" agent="5.0 (Windows)" etag="TfXAr-fj4TiKGj17zPGH" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-31T16:31:12.809Z" agent="5.0 (Windows)" etag="mSORFgM6GNso1FwPq7Wc" version="14.2.7" type="github">
   <diagram id="tZU8RH54jPB0YR1qd6gx" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="y9bxsy1iOUCk4nZmsPaL-3" value="Problem identification for research development" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="10" y="10" width="1150" height="820" as="geometry" />
+          <mxGeometry x="10" y="7" width="1150" height="820" as="geometry" />
         </mxCell>
         <mxCell id="y9bxsy1iOUCk4nZmsPaL-4" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" parent="y9bxsy1iOUCk4nZmsPaL-3" vertex="1">
-          <mxGeometry x="268" y="50" width="110" height="50" as="geometry" />
+          <mxGeometry x="215" y="45" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="y9bxsy1iOUCk4nZmsPaL-7" value="Synthesis/Analysis of various input processes" style="rounded=0;whiteSpace=wrap;html=1;" parent="y9bxsy1iOUCk4nZmsPaL-3" vertex="1">
-          <mxGeometry x="263" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="210" y="275" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y9bxsy1iOUCk4nZmsPaL-18" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="y9bxsy1iOUCk4nZmsPaL-3" vertex="1">
-          <mxGeometry x="238" y="741" width="40" height="20" as="geometry" />
+          <mxGeometry x="185" y="736" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="y9bxsy1iOUCk4nZmsPaL-19" value="PI liaises with assigned RSs to form a team and brainstorm on the problem identified" style="whiteSpace=wrap;html=1;rounded=0;" parent="y9bxsy1iOUCk4nZmsPaL-3" vertex="1">
           <mxGeometry x="508" y="730" width="195" height="70" as="geometry" />
         </mxCell>
         <mxCell id="y9bxsy1iOUCk4nZmsPaL-21" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="y9bxsy1iOUCk4nZmsPaL-3" vertex="1">
-          <mxGeometry x="408" y="744" width="40" height="20" as="geometry" />
+          <mxGeometry x="355" y="739" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="y9bxsy1iOUCk4nZmsPaL-10" value="RS request for assignment of research scientists (RSs) by SDDRD, DD, RDs, DRDs to brainstorm the problem" style="whiteSpace=wrap;html=1;rounded=0;" parent="y9bxsy1iOUCk4nZmsPaL-3" vertex="1">
-          <mxGeometry x="233" y="600" width="180" height="85" as="geometry" />
+          <mxGeometry x="180" y="595" width="180" height="85" as="geometry" />
         </mxCell>
         <mxCell id="y9bxsy1iOUCk4nZmsPaL-26" value="RSs formulate research objectives/or research questions in line with the problem and knowledge gap" style="whiteSpace=wrap;html=1;rounded=0;" parent="y9bxsy1iOUCk4nZmsPaL-3" vertex="1">
           <mxGeometry x="508" y="260" width="195" height="80" as="geometry" />
@@ -38,41 +38,41 @@
           <mxGeometry x="865" y="630" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LDWQ8T8pUbo9GidEgZh_-5" value="Approved?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="y9bxsy1iOUCk4nZmsPaL-3" vertex="1">
-          <mxGeometry x="283" y="485" width="80" height="80" as="geometry" />
+          <mxGeometry x="230" y="480" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LDWQ8T8pUbo9GidEgZh_-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="y9bxsy1iOUCk4nZmsPaL-3" source="LDWQ8T8pUbo9GidEgZh_-5" target="y9bxsy1iOUCk4nZmsPaL-10" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="423" y="490" as="targetPoint" />
+            <mxPoint x="370" y="485" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="y9bxsy1iOUCk4nZmsPaL-12" value="&lt;div&gt;RSs &lt;br&gt;&lt;/div&gt;&lt;div&gt;available?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="y9bxsy1iOUCk4nZmsPaL-3" vertex="1">
-          <mxGeometry x="283" y="725" width="80" height="80" as="geometry" />
+          <mxGeometry x="230" y="720" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="y9bxsy1iOUCk4nZmsPaL-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="y9bxsy1iOUCk4nZmsPaL-3" source="y9bxsy1iOUCk4nZmsPaL-12" target="y9bxsy1iOUCk4nZmsPaL-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="y9bxsy1iOUCk4nZmsPaL-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="y9bxsy1iOUCk4nZmsPaL-3" source="y9bxsy1iOUCk4nZmsPaL-10" target="y9bxsy1iOUCk4nZmsPaL-12" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="318" y="720" as="sourcePoint" />
+            <mxPoint x="265" y="715" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="y9bxsy1iOUCk4nZmsPaL-14" value="Comment/Notes on unavailability of scientists" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" parent="y9bxsy1iOUCk4nZmsPaL-3" vertex="1">
-          <mxGeometry x="103" y="725" width="120" height="80" as="geometry" />
+          <mxGeometry x="50" y="720" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="y9bxsy1iOUCk4nZmsPaL-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="y9bxsy1iOUCk4nZmsPaL-3" source="y9bxsy1iOUCk4nZmsPaL-12" target="y9bxsy1iOUCk4nZmsPaL-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="y9bxsy1iOUCk4nZmsPaL-8" value="Research Scientist (RS) Identifies the problem for research/or development as per the process inputs" style="whiteSpace=wrap;html=1;rounded=0;" parent="y9bxsy1iOUCk4nZmsPaL-3" vertex="1">
-          <mxGeometry x="238" y="380" width="170" height="70" as="geometry" />
+          <mxGeometry x="185" y="375" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="y9bxsy1iOUCk4nZmsPaL-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="y9bxsy1iOUCk4nZmsPaL-3" source="y9bxsy1iOUCk4nZmsPaL-7" target="y9bxsy1iOUCk4nZmsPaL-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="y9bxsy1iOUCk4nZmsPaL-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="y9bxsy1iOUCk4nZmsPaL-3" source="y9bxsy1iOUCk4nZmsPaL-14" target="y9bxsy1iOUCk4nZmsPaL-8" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="158" y="530" as="targetPoint" />
+            <mxPoint x="105" y="525" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="163" y="415" />
+              <mxPoint x="110" y="410" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -80,18 +80,18 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LDWQ8T8pUbo9GidEgZh_-3" value="Research scientists/SDDRD/DD receive issues (process inputs) of concern from various stakeholder online within set timelines" style="rounded=0;whiteSpace=wrap;html=1;" parent="y9bxsy1iOUCk4nZmsPaL-3" vertex="1">
-          <mxGeometry x="213" y="150" width="220" height="75" as="geometry" />
+          <mxGeometry x="160" y="145" width="220" height="75" as="geometry" />
         </mxCell>
         <mxCell id="LDWQ8T8pUbo9GidEgZh_-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="y9bxsy1iOUCk4nZmsPaL-3" source="y9bxsy1iOUCk4nZmsPaL-4" target="LDWQ8T8pUbo9GidEgZh_-3" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="323" y="225" as="targetPoint" />
+            <mxPoint x="270" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LDWQ8T8pUbo9GidEgZh_-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="y9bxsy1iOUCk4nZmsPaL-3" source="LDWQ8T8pUbo9GidEgZh_-3" target="y9bxsy1iOUCk4nZmsPaL-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LDWQ8T8pUbo9GidEgZh_-9" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="y9bxsy1iOUCk4nZmsPaL-3" vertex="1">
-          <mxGeometry x="315" y="567" width="40" height="20" as="geometry" />
+          <mxGeometry x="262" y="562" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="y9bxsy1iOUCk4nZmsPaL-22" value="RSs undertake in-depth literature review on the problem to identify current knowledge so as to avoid reinventing the wheel" style="whiteSpace=wrap;html=1;rounded=0;" parent="y9bxsy1iOUCk4nZmsPaL-3" vertex="1">
           <mxGeometry x="508" y="560" width="195" height="80" as="geometry" />
@@ -109,23 +109,23 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wgYXGEeq-h9P2ysIJ0SS-1" value="Reasons for rejection" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="y9bxsy1iOUCk4nZmsPaL-3">
-          <mxGeometry x="413" y="475" width="67" height="100" as="geometry" />
+          <mxGeometry x="390" y="470" width="67" height="100" as="geometry" />
         </mxCell>
         <mxCell id="wgYXGEeq-h9P2ysIJ0SS-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="y9bxsy1iOUCk4nZmsPaL-3" source="LDWQ8T8pUbo9GidEgZh_-5" target="wgYXGEeq-h9P2ysIJ0SS-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="203" y="525" as="targetPoint" />
+            <mxPoint x="150" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wgYXGEeq-h9P2ysIJ0SS-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=18.5;exitDy=0;exitPerimeter=0;" edge="1" parent="y9bxsy1iOUCk4nZmsPaL-3" source="wgYXGEeq-h9P2ysIJ0SS-1" target="y9bxsy1iOUCk4nZmsPaL-7">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="453" y="375" as="targetPoint" />
+            <mxPoint x="400" y="370" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="432" y="310" />
+              <mxPoint x="409" y="305" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="LDWQ8T8pUbo9GidEgZh_-12" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="385" y="517" width="40" height="20" as="geometry" />
+          <mxGeometry x="332" y="512" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LDWQ8T8pUbo9GidEgZh_-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="LDWQ8T8pUbo9GidEgZh_-13" target="y9bxsy1iOUCk4nZmsPaL-34" edge="1">
           <mxGeometry relative="1" as="geometry">
