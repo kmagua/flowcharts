@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-31T17:16:43.226Z" agent="5.0 (Windows)" etag="-aaCuZuUxG2rWZKB9X5S" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-31T17:17:40.389Z" agent="5.0 (Windows)" etag="RrYoxH-oT9pXrmK_005x" version="14.2.7" type="github">
   <diagram id="Eg-WEQHDB5EJanqOj88a" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -24,7 +24,7 @@
           <mxGeometry x="380" y="289.25" width="140" height="80.5" as="geometry" />
         </mxCell>
         <mxCell id="jZjp1yafU3851VO5TsbQ-35" value="Project implementation plan, quarterly work plans, budget and research protocols" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="40" y="10" width="1000" height="750" as="geometry" />
+          <mxGeometry x="40" y="10" width="1000" height="620" as="geometry" />
         </mxCell>
         <mxCell id="jZjp1yafU3851VO5TsbQ-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="jZjp1yafU3851VO5TsbQ-35" source="jZjp1yafU3851VO5TsbQ-16" target="jZjp1yafU3851VO5TsbQ-22" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -32,7 +32,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jZjp1yafU3851VO5TsbQ-16" value="&lt;p style=&quot;margin-bottom: 0in ; line-height: 115%&quot;&gt;Director Provides feedback on approved PIP, work plans and budget as well as protocol to SDDRD by August&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="jZjp1yafU3851VO5TsbQ-35" vertex="1">
-          <mxGeometry x="550" y="470" width="240" height="60" as="geometry" />
+          <mxGeometry x="550" y="430" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jZjp1yafU3851VO5TsbQ-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="jZjp1yafU3851VO5TsbQ-35" source="jZjp1yafU3851VO5TsbQ-25" target="jZjp1yafU3851VO5TsbQ-16" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -49,25 +49,25 @@
           <mxGeometry x="664" y="394" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jZjp1yafU3851VO5TsbQ-22" value="End" style="rounded=1;whiteSpace=wrap;html=1;" parent="jZjp1yafU3851VO5TsbQ-35" vertex="1">
-          <mxGeometry x="610" y="610" width="120" height="60" as="geometry" />
+          <mxGeometry x="610" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jZjp1yafU3851VO5TsbQ-4" value="PI, RS, Biometrics and GIS prepares and submit PIPs, quarterly workplans, budget and protocols to the RD if at Eco-region and to the DD if at HQ by mid August" style="whiteSpace=wrap;html=1;rounded=0;" parent="jZjp1yafU3851VO5TsbQ-35" vertex="1">
-          <mxGeometry x="60" y="190" width="160" height="90" as="geometry" />
+          <mxGeometry x="60" y="150" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="jZjp1yafU3851VO5TsbQ-6" value="RD receives Harmonise PIPs, quarterly work plans, budget and protocols for the Eco-regional research programme and submit to the DD through SDDR&amp;amp;D by mid August" style="whiteSpace=wrap;html=1;rounded=0;" parent="jZjp1yafU3851VO5TsbQ-35" vertex="1">
-          <mxGeometry x="40" y="356.5" width="200" height="95" as="geometry" />
+          <mxGeometry x="40" y="299" width="200" height="95" as="geometry" />
         </mxCell>
         <mxCell id="jZjp1yafU3851VO5TsbQ-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="jZjp1yafU3851VO5TsbQ-35" source="jZjp1yafU3851VO5TsbQ-4" target="jZjp1yafU3851VO5TsbQ-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jZjp1yafU3851VO5TsbQ-8" value="DD receives and Harmonises PIPs, and submits to SDDR&amp;amp;D by mid-August" style="whiteSpace=wrap;html=1;rounded=0;" parent="jZjp1yafU3851VO5TsbQ-35" vertex="1">
-          <mxGeometry x="50" y="527.5" width="180" height="82.5" as="geometry" />
+          <mxGeometry x="50" y="470" width="180" height="82.5" as="geometry" />
         </mxCell>
         <mxCell id="jZjp1yafU3851VO5TsbQ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="jZjp1yafU3851VO5TsbQ-35" source="jZjp1yafU3851VO5TsbQ-6" target="jZjp1yafU3851VO5TsbQ-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jZjp1yafU3851VO5TsbQ-10" value="DDR&amp;amp;D receives and harmonizes PIPs, and submit to the Director for approval by mid-August" style="whiteSpace=wrap;html=1;rounded=0;" parent="jZjp1yafU3851VO5TsbQ-35" vertex="1">
-          <mxGeometry x="330" y="518.75" width="160" height="100" as="geometry" />
+          <mxGeometry x="330" y="461.25" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="jZjp1yafU3851VO5TsbQ-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="jZjp1yafU3851VO5TsbQ-35" source="jZjp1yafU3851VO5TsbQ-8" target="jZjp1yafU3851VO5TsbQ-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -84,8 +84,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="870" y="419.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="870" y="560" />
-              <mxPoint x="670" y="560" />
+              <mxPoint x="870" y="510" />
+              <mxPoint x="670" y="510" />
             </Array>
           </mxGeometry>
         </mxCell>
