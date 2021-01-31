@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-31T16:31:12.809Z" agent="5.0 (Windows)" etag="mSORFgM6GNso1FwPq7Wc" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-31T16:31:22.015Z" agent="5.0 (Windows)" etag="LHOZhmvTxb7x0unTiW-B" version="14.2.7" type="github">
   <diagram id="tZU8RH54jPB0YR1qd6gx" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
           <mxGeometry x="185" y="736" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="y9bxsy1iOUCk4nZmsPaL-19" value="PI liaises with assigned RSs to form a team and brainstorm on the problem identified" style="whiteSpace=wrap;html=1;rounded=0;" parent="y9bxsy1iOUCk4nZmsPaL-3" vertex="1">
-          <mxGeometry x="508" y="730" width="195" height="70" as="geometry" />
+          <mxGeometry x="508" y="725" width="195" height="70" as="geometry" />
         </mxCell>
         <mxCell id="y9bxsy1iOUCk4nZmsPaL-21" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="y9bxsy1iOUCk4nZmsPaL-3" vertex="1">
           <mxGeometry x="355" y="739" width="40" height="20" as="geometry" />
