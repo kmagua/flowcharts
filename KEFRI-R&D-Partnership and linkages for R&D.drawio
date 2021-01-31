@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-31T18:52:14.088Z" agent="5.0 (Windows)" etag="bITODFYe1OGbIPKuDg7a" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-31T18:54:16.294Z" agent="5.0 (Windows)" etag="sJi-LRkA-xoC4BJGih65" version="14.2.7" type="github">
   <diagram id="0PrhKRIFw6qlqC9RMZtA" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -19,25 +19,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HKwQ_pfw1XNA54thK0XF-6" value="Director, SDDRD, DD, RD, DDRD and Heads of Section in R&amp;amp;D, Research scientists, RMO align the proposed areas of collaboration to KEFRI thematic areas and develop collaborative framework such as Memorandum of Understanding (MoU), Memorandum of Agreement (MoA), Letters of Agreement (LoAs) etc to be signed by the Director and witnessed by SDDRD" style="whiteSpace=wrap;html=1;rounded=0;" parent="HKwQ_pfw1XNA54thK0XF-1" vertex="1">
-          <mxGeometry x="20" y="350" width="310" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="HKwQ_pfw1XNA54thK0XF-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="HKwQ_pfw1XNA54thK0XF-1" source="HKwQ_pfw1XNA54thK0XF-5" target="HKwQ_pfw1XNA54thK0XF-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="20" y="560" width="310" height="120" as="geometry" />
         </mxCell>
         <mxCell id="HKwQ_pfw1XNA54thK0XF-8" value="Director/SDDRD sets implementation committee of signed frameworks" style="whiteSpace=wrap;html=1;rounded=0;" parent="HKwQ_pfw1XNA54thK0XF-1" vertex="1">
-          <mxGeometry x="87.5" y="550" width="175" height="60" as="geometry" />
+          <mxGeometry x="87.5" y="690" width="175" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HKwQ_pfw1XNA54thK0XF-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="HKwQ_pfw1XNA54thK0XF-1" source="HKwQ_pfw1XNA54thK0XF-6" target="HKwQ_pfw1XNA54thK0XF-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HKwQ_pfw1XNA54thK0XF-10" value="Director, SDDRD, DD, RD, DDRD and Heads of Section in R&amp;amp;D, Research scientists, RMO develop and implement joint projects" style="whiteSpace=wrap;html=1;rounded=0;" parent="HKwQ_pfw1XNA54thK0XF-1" vertex="1">
-          <mxGeometry x="85" y="680" width="180" height="90" as="geometry" />
+          <mxGeometry x="420" y="676.25" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="HKwQ_pfw1XNA54thK0XF-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="HKwQ_pfw1XNA54thK0XF-1" source="HKwQ_pfw1XNA54thK0XF-8" target="HKwQ_pfw1XNA54thK0XF-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HKwQ_pfw1XNA54thK0XF-12" value="Implementation comminttee conducts periodic review on implementation of collaborative framework and provide feedback" style="whiteSpace=wrap;html=1;rounded=0;" parent="HKwQ_pfw1XNA54thK0XF-1" vertex="1">
-          <mxGeometry x="390" y="675" width="145" height="100" as="geometry" />
+          <mxGeometry x="440" y="404" width="145" height="100" as="geometry" />
         </mxCell>
         <mxCell id="HKwQ_pfw1XNA54thK0XF-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="HKwQ_pfw1XNA54thK0XF-1" source="HKwQ_pfw1XNA54thK0XF-10" target="HKwQ_pfw1XNA54thK0XF-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -48,6 +45,9 @@
         <mxCell id="HKwQ_pfw1XNA54thK0XF-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="HKwQ_pfw1XNA54thK0XF-1" source="HKwQ_pfw1XNA54thK0XF-12" target="HKwQ_pfw1XNA54thK0XF-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="cVOAtnxH5SlG76SNvIh0-9" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="HKwQ_pfw1XNA54thK0XF-1">
+          <mxGeometry x="169" y="496" width="40" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="HKwQ_pfw1XNA54thK0XF-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HKwQ_pfw1XNA54thK0XF-14" target="HKwQ_pfw1XNA54thK0XF-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="885" y="735" as="targetPoint" />
@@ -55,6 +55,28 @@
         </mxCell>
         <mxCell id="HKwQ_pfw1XNA54thK0XF-18" value="End" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="825" y="705" width="95" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cVOAtnxH5SlG76SNvIh0-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cVOAtnxH5SlG76SNvIh0-3" target="HKwQ_pfw1XNA54thK0XF-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="185" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cVOAtnxH5SlG76SNvIh0-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cVOAtnxH5SlG76SNvIh0-3" target="cVOAtnxH5SlG76SNvIh0-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cVOAtnxH5SlG76SNvIh0-3" value="Approved?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="145" y="390" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cVOAtnxH5SlG76SNvIh0-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HKwQ_pfw1XNA54thK0XF-5" target="cVOAtnxH5SlG76SNvIh0-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cVOAtnxH5SlG76SNvIh0-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cVOAtnxH5SlG76SNvIh0-10" target="HKwQ_pfw1XNA54thK0XF-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="345" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cVOAtnxH5SlG76SNvIh0-10" value="Notify SDDRD" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="285" y="400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
