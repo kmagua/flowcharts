@@ -1,126 +1,126 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T13:04:44.513Z" agent="5.0 (Windows)" etag="0a2PAH-t6c7VGM57xa0w" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-31T16:20:48.097Z" agent="5.0 (Windows)" etag="fJqsOC-oH7ISwA4vbHMW" version="14.2.7" type="github">
   <diagram id="6g9CYFeaIedKOHrS-u5r" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Q0Rn-usG1npKYPO_bdDH-1" value="Concept note development" style="swimlane;startSize=23;" vertex="1" parent="1">
+        <mxCell id="Q0Rn-usG1npKYPO_bdDH-1" value="Concept note development" style="swimlane;startSize=23;" parent="1" vertex="1">
           <mxGeometry x="10" y="9" width="1150" height="810" as="geometry" />
         </mxCell>
-        <mxCell id="Q0Rn-usG1npKYPO_bdDH-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Q0Rn-usG1npKYPO_bdDH-1">
+        <mxCell id="Q0Rn-usG1npKYPO_bdDH-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" parent="Q0Rn-usG1npKYPO_bdDH-1" vertex="1">
           <mxGeometry x="85" y="61" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Q0Rn-usG1npKYPO_bdDH-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Q0Rn-usG1npKYPO_bdDH-1" source="Q0Rn-usG1npKYPO_bdDH-2">
+        <mxCell id="Q0Rn-usG1npKYPO_bdDH-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="Q0Rn-usG1npKYPO_bdDH-1" source="Q0Rn-usG1npKYPO_bdDH-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="145" y="171" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q0Rn-usG1npKYPO_bdDH-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Q0Rn-usG1npKYPO_bdDH-1">
+        <mxCell id="Q0Rn-usG1npKYPO_bdDH-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="Q0Rn-usG1npKYPO_bdDH-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="145" y="231" as="sourcePoint" />
             <mxPoint x="145" y="291" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q0Rn-usG1npKYPO_bdDH-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Q0Rn-usG1npKYPO_bdDH-1" target="Q0Rn-usG1npKYPO_bdDH-15">
+        <mxCell id="Q0Rn-usG1npKYPO_bdDH-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="Q0Rn-usG1npKYPO_bdDH-1" target="Q0Rn-usG1npKYPO_bdDH-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="145" y="351" as="sourcePoint" />
             <mxPoint x="145" y="401" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q0Rn-usG1npKYPO_bdDH-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Q0Rn-usG1npKYPO_bdDH-1" source="Q0Rn-usG1npKYPO_bdDH-15" target="Q0Rn-usG1npKYPO_bdDH-16">
+        <mxCell id="Q0Rn-usG1npKYPO_bdDH-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="Q0Rn-usG1npKYPO_bdDH-1" source="Q0Rn-usG1npKYPO_bdDH-15" target="Q0Rn-usG1npKYPO_bdDH-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="145" y="481" as="sourcePoint" />
             <mxPoint x="145" y="531" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q0Rn-usG1npKYPO_bdDH-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Q0Rn-usG1npKYPO_bdDH-1">
+        <mxCell id="Q0Rn-usG1npKYPO_bdDH-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="Q0Rn-usG1npKYPO_bdDH-1" edge="1" target="twUJCbtLUfHnfq1iLWT0-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="145" y="571" as="sourcePoint" />
             <mxPoint x="145" y="621" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q0Rn-usG1npKYPO_bdDH-13" value="SDDRD calls for CN development by end of August" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Q0Rn-usG1npKYPO_bdDH-1">
+        <mxCell id="Q0Rn-usG1npKYPO_bdDH-13" value="SDDRD calls for CN development by end of August" style="rounded=0;whiteSpace=wrap;html=1;" parent="Q0Rn-usG1npKYPO_bdDH-1" vertex="1">
           <mxGeometry x="85" y="171" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Q0Rn-usG1npKYPO_bdDH-14" value="RS Develops and submit draft CN to DRD if in the eco-region or to DD if at HQ by end of September " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Q0Rn-usG1npKYPO_bdDH-1">
+        <mxCell id="Q0Rn-usG1npKYPO_bdDH-14" value="RS Develops and submit draft CN to DRD if in the eco-region or to DD if at HQ by end of September " style="rounded=0;whiteSpace=wrap;html=1;" parent="Q0Rn-usG1npKYPO_bdDH-1" vertex="1">
           <mxGeometry x="50" y="291" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Q0Rn-usG1npKYPO_bdDH-15" value="DRD/DD verifies and allocates CN to various Thematic/ Area of focus and &lt;br/&gt;alignment to KEFRI Strategic Planand other stakeholders needs by October" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Q0Rn-usG1npKYPO_bdDH-1">
+        <mxCell id="Q0Rn-usG1npKYPO_bdDH-15" value="DRD/DD verifies and allocates CN to various Thematic/ Area of focus and &lt;br&gt;alignment to KEFRI Strategic Plan and other stakeholders needs by October" style="rounded=0;whiteSpace=wrap;html=1;" parent="Q0Rn-usG1npKYPO_bdDH-1" vertex="1">
           <mxGeometry x="30" y="402" width="230" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="Q0Rn-usG1npKYPO_bdDH-16" value="DRD Submits verified CN to regional Director (RD) by end of October" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Q0Rn-usG1npKYPO_bdDH-1">
+        <mxCell id="Q0Rn-usG1npKYPO_bdDH-16" value="DRD Submits verified CN to regional Director (RD) by end of October" style="rounded=0;whiteSpace=wrap;html=1;" parent="Q0Rn-usG1npKYPO_bdDH-1" vertex="1">
           <mxGeometry x="60" y="532" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Q0Rn-usG1npKYPO_bdDH-17" value="&lt;p style=&quot;margin-bottom: 0in ; line-height: 115%&quot;&gt;Set up of Scientific Concept Note and Proposal Review Committee&lt;br&gt;(SCNPRC) by mid-November  &lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Q0Rn-usG1npKYPO_bdDH-1">
-          <mxGeometry x="50" y="622" width="190" height="60" as="geometry" />
+        <mxCell id="Q0Rn-usG1npKYPO_bdDH-17" value="&lt;p style=&quot;margin-bottom: 0in ; line-height: 115%&quot;&gt;Set up of Scientific Concept Note and Proposal Review Committee&lt;br&gt;(SCNPRC) by mid-November  &lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="Q0Rn-usG1npKYPO_bdDH-1" vertex="1">
+          <mxGeometry x="50" y="741" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Q0Rn-usG1npKYPO_bdDH-20" value="&lt;p style=&quot;margin-bottom: 0in ; line-height: 115%&quot;&gt;PI/RS improves the CN based on the feedback provided by mid-December&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="Q0Rn-usG1npKYPO_bdDH-1">
+        <mxCell id="Q0Rn-usG1npKYPO_bdDH-20" value="&lt;p style=&quot;margin-bottom: 0in ; line-height: 115%&quot;&gt;PI/RS improves the CN based on the feedback provided by mid-December&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="Q0Rn-usG1npKYPO_bdDH-1" vertex="1">
           <mxGeometry x="294" y="302" width="170" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Q0Rn-usG1npKYPO_bdDH-22" value="&lt;div&gt;Approved&lt;/div&gt;&lt;div&gt; with/without amendments?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="Q0Rn-usG1npKYPO_bdDH-1">
+        <mxCell id="Q0Rn-usG1npKYPO_bdDH-22" value="&lt;div&gt;Approved&lt;/div&gt;&lt;div&gt; with/without amendments?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="Q0Rn-usG1npKYPO_bdDH-1" vertex="1">
           <mxGeometry x="319" y="431" width="120" height="101" as="geometry" />
         </mxCell>
-        <mxCell id="Q0Rn-usG1npKYPO_bdDH-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="Q0Rn-usG1npKYPO_bdDH-1" source="Q0Rn-usG1npKYPO_bdDH-22" target="Q0Rn-usG1npKYPO_bdDH-20">
+        <mxCell id="Q0Rn-usG1npKYPO_bdDH-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="Q0Rn-usG1npKYPO_bdDH-1" source="Q0Rn-usG1npKYPO_bdDH-22" target="Q0Rn-usG1npKYPO_bdDH-20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="379" y="362" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q0Rn-usG1npKYPO_bdDH-28" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Q0Rn-usG1npKYPO_bdDH-1">
+        <mxCell id="Q0Rn-usG1npKYPO_bdDH-28" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Q0Rn-usG1npKYPO_bdDH-1" vertex="1">
           <mxGeometry x="373" y="402" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Q0Rn-usG1npKYPO_bdDH-29" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Q0Rn-usG1npKYPO_bdDH-1">
+        <mxCell id="Q0Rn-usG1npKYPO_bdDH-29" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Q0Rn-usG1npKYPO_bdDH-1" vertex="1">
           <mxGeometry x="431" y="457" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Q0Rn-usG1npKYPO_bdDH-34" value="PI/RS submits revised CN to DRD if at Eco-Region or to the DD if at HQ by mid-December" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="Q0Rn-usG1npKYPO_bdDH-1">
+        <mxCell id="Q0Rn-usG1npKYPO_bdDH-34" value="PI/RS submits revised CN to DRD if at Eco-Region or to the DD if at HQ by mid-December" style="whiteSpace=wrap;html=1;rounded=0;" parent="Q0Rn-usG1npKYPO_bdDH-1" vertex="1">
           <mxGeometry x="299" y="163" width="160" height="76" as="geometry" />
         </mxCell>
-        <mxCell id="Q0Rn-usG1npKYPO_bdDH-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Q0Rn-usG1npKYPO_bdDH-1" source="Q0Rn-usG1npKYPO_bdDH-20" target="Q0Rn-usG1npKYPO_bdDH-34">
+        <mxCell id="Q0Rn-usG1npKYPO_bdDH-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="Q0Rn-usG1npKYPO_bdDH-1" source="Q0Rn-usG1npKYPO_bdDH-20" target="Q0Rn-usG1npKYPO_bdDH-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Q0Rn-usG1npKYPO_bdDH-36" value="DD submits revised CN to RS at HQ mid-December" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="Q0Rn-usG1npKYPO_bdDH-1">
+        <mxCell id="Q0Rn-usG1npKYPO_bdDH-36" value="DD submits revised CN to RS at HQ mid-December" style="whiteSpace=wrap;html=1;rounded=0;" parent="Q0Rn-usG1npKYPO_bdDH-1" vertex="1">
           <mxGeometry x="649" y="171" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Q0Rn-usG1npKYPO_bdDH-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Q0Rn-usG1npKYPO_bdDH-1" source="Q0Rn-usG1npKYPO_bdDH-34" target="Q0Rn-usG1npKYPO_bdDH-36">
+        <mxCell id="Q0Rn-usG1npKYPO_bdDH-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="Q0Rn-usG1npKYPO_bdDH-1" source="Q0Rn-usG1npKYPO_bdDH-34" target="Q0Rn-usG1npKYPO_bdDH-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Q0Rn-usG1npKYPO_bdDH-38" value="DRD, RD, DD submits revised CN by PI/RS through DRD, RD, DD to SCNRC mid-December" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="Q0Rn-usG1npKYPO_bdDH-1">
+        <mxCell id="Q0Rn-usG1npKYPO_bdDH-38" value="DRD, RD, DD submits revised CN by PI/RS through DRD, RD, DD to SCNRC mid-December" style="whiteSpace=wrap;html=1;rounded=0;" parent="Q0Rn-usG1npKYPO_bdDH-1" vertex="1">
           <mxGeometry x="629" y="302" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Q0Rn-usG1npKYPO_bdDH-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Q0Rn-usG1npKYPO_bdDH-1" source="Q0Rn-usG1npKYPO_bdDH-36" target="Q0Rn-usG1npKYPO_bdDH-38">
+        <mxCell id="Q0Rn-usG1npKYPO_bdDH-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="Q0Rn-usG1npKYPO_bdDH-1" source="Q0Rn-usG1npKYPO_bdDH-36" target="Q0Rn-usG1npKYPO_bdDH-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Q0Rn-usG1npKYPO_bdDH-40" value="SCNRC checks on the correctness of the amendments made on CN, if satisfied the SCNRC recommends the revised for transmission to RD and DD respectively by mid-December" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="Q0Rn-usG1npKYPO_bdDH-1">
+        <mxCell id="Q0Rn-usG1npKYPO_bdDH-40" value="SCNRC checks on the correctness of the amendments made on CN, if satisfied the SCNRC recommends the revised for transmission to RD and DD respectively by mid-December" style="whiteSpace=wrap;html=1;rounded=0;" parent="Q0Rn-usG1npKYPO_bdDH-1" vertex="1">
           <mxGeometry x="609" y="452" width="200" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Q0Rn-usG1npKYPO_bdDH-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Q0Rn-usG1npKYPO_bdDH-1" source="Q0Rn-usG1npKYPO_bdDH-38" target="Q0Rn-usG1npKYPO_bdDH-40">
+        <mxCell id="Q0Rn-usG1npKYPO_bdDH-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="Q0Rn-usG1npKYPO_bdDH-1" source="Q0Rn-usG1npKYPO_bdDH-38" target="Q0Rn-usG1npKYPO_bdDH-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Q0Rn-usG1npKYPO_bdDH-42" value="&lt;div&gt;Approved&lt;/div&gt;&lt;div&gt; with/without amendments?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="Q0Rn-usG1npKYPO_bdDH-1">
+        <mxCell id="Q0Rn-usG1npKYPO_bdDH-42" value="&lt;div&gt;Approved&lt;/div&gt;&lt;div&gt; with/without amendments?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="Q0Rn-usG1npKYPO_bdDH-1" vertex="1">
           <mxGeometry x="649" y="622" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Q0Rn-usG1npKYPO_bdDH-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Q0Rn-usG1npKYPO_bdDH-1" source="Q0Rn-usG1npKYPO_bdDH-40" target="Q0Rn-usG1npKYPO_bdDH-42">
+        <mxCell id="Q0Rn-usG1npKYPO_bdDH-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="Q0Rn-usG1npKYPO_bdDH-1" source="Q0Rn-usG1npKYPO_bdDH-40" target="Q0Rn-usG1npKYPO_bdDH-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Q0Rn-usG1npKYPO_bdDH-30" value="Rejection comments/ feedback" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" vertex="1" parent="Q0Rn-usG1npKYPO_bdDH-1">
+        <mxCell id="Q0Rn-usG1npKYPO_bdDH-30" value="Rejection comments/ feedback" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" parent="Q0Rn-usG1npKYPO_bdDH-1" vertex="1">
           <mxGeometry x="479" y="441.5" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Q0Rn-usG1npKYPO_bdDH-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Q0Rn-usG1npKYPO_bdDH-1" source="Q0Rn-usG1npKYPO_bdDH-22" target="Q0Rn-usG1npKYPO_bdDH-30">
+        <mxCell id="Q0Rn-usG1npKYPO_bdDH-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="Q0Rn-usG1npKYPO_bdDH-1" source="Q0Rn-usG1npKYPO_bdDH-22" target="Q0Rn-usG1npKYPO_bdDH-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Q0Rn-usG1npKYPO_bdDH-44" value="Rejection comments/ feedback" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" vertex="1" parent="Q0Rn-usG1npKYPO_bdDH-1">
+        <mxCell id="Q0Rn-usG1npKYPO_bdDH-44" value="Rejection comments/ feedback" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" parent="Q0Rn-usG1npKYPO_bdDH-1" vertex="1">
           <mxGeometry x="950" y="682" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Q0Rn-usG1npKYPO_bdDH-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Q0Rn-usG1npKYPO_bdDH-1" source="Q0Rn-usG1npKYPO_bdDH-42" target="Q0Rn-usG1npKYPO_bdDH-44">
+        <mxCell id="Q0Rn-usG1npKYPO_bdDH-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="Q0Rn-usG1npKYPO_bdDH-1" source="Q0Rn-usG1npKYPO_bdDH-42" target="Q0Rn-usG1npKYPO_bdDH-44" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="709" y="722" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q0Rn-usG1npKYPO_bdDH-52" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Q0Rn-usG1npKYPO_bdDH-1">
+        <mxCell id="Q0Rn-usG1npKYPO_bdDH-52" value="End" style="rounded=1;whiteSpace=wrap;html=1;" parent="Q0Rn-usG1npKYPO_bdDH-1" vertex="1">
           <mxGeometry x="1000" y="331" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Q0Rn-usG1npKYPO_bdDH-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.527;exitY=0.831;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="Q0Rn-usG1npKYPO_bdDH-1" source="Q0Rn-usG1npKYPO_bdDH-30" target="Q0Rn-usG1npKYPO_bdDH-52">
+        <mxCell id="Q0Rn-usG1npKYPO_bdDH-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.527;exitY=0.831;exitDx=0;exitDy=0;exitPerimeter=0;" parent="Q0Rn-usG1npKYPO_bdDH-1" source="Q0Rn-usG1npKYPO_bdDH-30" target="Q0Rn-usG1npKYPO_bdDH-52" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="534" y="611.5" as="targetPoint" />
             <Array as="points">
@@ -130,26 +130,37 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q0Rn-usG1npKYPO_bdDH-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="Q0Rn-usG1npKYPO_bdDH-1" source="Q0Rn-usG1npKYPO_bdDH-44" target="Q0Rn-usG1npKYPO_bdDH-52">
+        <mxCell id="Q0Rn-usG1npKYPO_bdDH-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="Q0Rn-usG1npKYPO_bdDH-1" source="Q0Rn-usG1npKYPO_bdDH-44" target="Q0Rn-usG1npKYPO_bdDH-52" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1010" y="592" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q0Rn-usG1npKYPO_bdDH-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q0Rn-usG1npKYPO_bdDH-18" target="Q0Rn-usG1npKYPO_bdDH-22">
+        <mxCell id="twUJCbtLUfHnfq1iLWT0-1" value="Endorsed?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="Q0Rn-usG1npKYPO_bdDH-1">
+          <mxGeometry x="105" y="622" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="twUJCbtLUfHnfq1iLWT0-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Q0Rn-usG1npKYPO_bdDH-1" source="twUJCbtLUfHnfq1iLWT0-1" target="Q0Rn-usG1npKYPO_bdDH-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="145" y="792" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="twUJCbtLUfHnfq1iLWT0-4" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Q0Rn-usG1npKYPO_bdDH-1">
+          <mxGeometry x="150" y="701" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0Rn-usG1npKYPO_bdDH-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Q0Rn-usG1npKYPO_bdDH-18" target="Q0Rn-usG1npKYPO_bdDH-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Q0Rn-usG1npKYPO_bdDH-18" value="SCNPRC/RD/DRD/DD Review of the CNs as per set criteria and submit feedback (accepted with amendments/or rejected) to PI/RS through RD if CN is from Eco-region &amp;amp; DD if developed at HQ by end of November" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Q0Rn-usG1npKYPO_bdDH-18" value="SCNPRC/RD/DRD/DD Review of the CNs as per set criteria and submit feedback (accepted with amendments/or rejected) to PI/RS through RD if CN is from Eco-region &amp;amp; DD if developed at HQ by end of November" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="294" y="601" width="190" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Q0Rn-usG1npKYPO_bdDH-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q0Rn-usG1npKYPO_bdDH-17" target="Q0Rn-usG1npKYPO_bdDH-18">
+        <mxCell id="Q0Rn-usG1npKYPO_bdDH-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Q0Rn-usG1npKYPO_bdDH-17" target="Q0Rn-usG1npKYPO_bdDH-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Q0Rn-usG1npKYPO_bdDH-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q0Rn-usG1npKYPO_bdDH-42" target="Q0Rn-usG1npKYPO_bdDH-47">
+        <mxCell id="Q0Rn-usG1npKYPO_bdDH-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Q0Rn-usG1npKYPO_bdDH-42" target="Q0Rn-usG1npKYPO_bdDH-47" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="890" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q0Rn-usG1npKYPO_bdDH-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q0Rn-usG1npKYPO_bdDH-47" target="Q0Rn-usG1npKYPO_bdDH-52">
+        <mxCell id="Q0Rn-usG1npKYPO_bdDH-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Q0Rn-usG1npKYPO_bdDH-47" target="Q0Rn-usG1npKYPO_bdDH-52" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="935" y="400" as="targetPoint" />
             <Array as="points">
@@ -157,13 +168,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q0Rn-usG1npKYPO_bdDH-47" value="DRD, RD and DD Transmits revised and approved CNs to PI for proposal development by end of December" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Q0Rn-usG1npKYPO_bdDH-47" value="DRD, RD and DD Transmits revised and approved CNs to PI for proposal development by end of December" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="490" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Q0Rn-usG1npKYPO_bdDH-48" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Q0Rn-usG1npKYPO_bdDH-48" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="870" y="710" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Q0Rn-usG1npKYPO_bdDH-49" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Q0Rn-usG1npKYPO_bdDH-49" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="870" y="648" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
