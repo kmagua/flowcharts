@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-29T15:55:48.964Z" agent="5.0 (Windows)" etag="TuThQCJOkw7zr6IGgPBJ" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-31T16:33:26.724Z" agent="5.0 (Windows)" etag="Jr7ZbBCSystQK8jUWamF" version="14.2.7" type="github">
   <diagram id="PVdL_zoP0Urx2-9kqrgy" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -57,8 +57,8 @@
         <mxCell id="dvURbFbIRr_XrWgvkVuH-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dvURbFbIRr_XrWgvkVuH-6" target="dvURbFbIRr_XrWgvkVuH-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dvURbFbIRr_XrWgvkVuH-6" value="Integration of CN (s) into draft research proposal by RS, PI, Technical Support Staff and submission to DRD if at the Eco-region and to DD if HQ by end January" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="157" y="339" width="214" height="70" as="geometry" />
+        <mxCell id="dvURbFbIRr_XrWgvkVuH-6" value="Integration of grouped CN (s) into draft research proposal by RS, PI, Technical Support Staff and submission to DRD if at the Eco-region and to DD if HQ by end January" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="157" y="330" width="214" height="90" as="geometry" />
         </mxCell>
         <mxCell id="dvURbFbIRr_XrWgvkVuH-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dvURbFbIRr_XrWgvkVuH-3" target="dvURbFbIRr_XrWgvkVuH-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
