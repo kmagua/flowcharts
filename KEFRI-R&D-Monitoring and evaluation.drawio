@@ -1,54 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T16:07:18.762Z" agent="5.0 (Windows)" etag="K1OFbfDhDHkJ-HxJ54pe" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-31T18:23:18.487Z" agent="5.0 (Windows)" etag="6neZz7qRA3yy-2LgWLEk" version="14.2.7" type="github">
   <diagram id="Ba9Kz7SdJSE-EgRKAauW" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="wlBMoHauPnCF53xYCMfj-1" value="Monitoring and Evaluation" style="swimlane;" vertex="1" parent="1">
+        <mxCell id="wlBMoHauPnCF53xYCMfj-1" value="Monitoring and Evaluation" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="170" y="30" width="850" height="790" as="geometry" />
         </mxCell>
-        <mxCell id="wlBMoHauPnCF53xYCMfj-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wlBMoHauPnCF53xYCMfj-1">
-          <mxGeometry x="180" y="35.5" width="120" height="60" as="geometry" />
+        <mxCell id="wlBMoHauPnCF53xYCMfj-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" parent="wlBMoHauPnCF53xYCMfj-1" vertex="1">
+          <mxGeometry x="145" y="35.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wlBMoHauPnCF53xYCMfj-5" value="Upon approved work plan, protocols, PIP and budget, M&amp;amp;E Office, PIs, RS, Technical Staff, DRDs, DDs, SDDR&amp;amp;D develop monitoring and evaluation framework or results-based management system for research activities at Eco-regional, Thematic and SDDR&amp;amp;D levels by July" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wlBMoHauPnCF53xYCMfj-1">
-          <mxGeometry x="120" y="169.5" width="240" height="130" as="geometry" />
+        <mxCell id="wlBMoHauPnCF53xYCMfj-5" value="Upon approved work plan, protocols, PIP and budget, M&amp;amp;E Office, PIs, RS, Technical Staff, DRDs, DDs, SDDRD develop monitoring and evaluation framework or results-based management system (KPI) and key in the system for research activities at Eco-regional, Thematic and SDDRD levels by July &lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="wlBMoHauPnCF53xYCMfj-1" vertex="1">
+          <mxGeometry x="85" y="169.5" width="240" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="wlBMoHauPnCF53xYCMfj-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="wlBMoHauPnCF53xYCMfj-1" source="wlBMoHauPnCF53xYCMfj-2" target="wlBMoHauPnCF53xYCMfj-5">
+        <mxCell id="wlBMoHauPnCF53xYCMfj-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="wlBMoHauPnCF53xYCMfj-1" source="wlBMoHauPnCF53xYCMfj-2" target="wlBMoHauPnCF53xYCMfj-5" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="240" y="175.5" as="targetPoint" />
+            <mxPoint x="205" y="175.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wlBMoHauPnCF53xYCMfj-6" value="&lt;p style=&quot;margin-bottom: 0in ; line-height: 115%&quot;&gt;M&amp;amp;E office initiates and report on M&amp;amp;E project activities&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="wlBMoHauPnCF53xYCMfj-1">
-          <mxGeometry x="165" y="414.5" width="150" height="60" as="geometry" />
+        <mxCell id="wlBMoHauPnCF53xYCMfj-6" value="M&amp;amp;E office activates the tools and report on M&amp;amp;E project activities on continuous basis in real time" style="whiteSpace=wrap;html=1;rounded=0;" parent="wlBMoHauPnCF53xYCMfj-1" vertex="1">
+          <mxGeometry x="115" y="400" width="180" height="74.5" as="geometry" />
         </mxCell>
-        <mxCell id="wlBMoHauPnCF53xYCMfj-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="wlBMoHauPnCF53xYCMfj-1" source="wlBMoHauPnCF53xYCMfj-5" target="wlBMoHauPnCF53xYCMfj-6">
+        <mxCell id="wlBMoHauPnCF53xYCMfj-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="wlBMoHauPnCF53xYCMfj-1" source="wlBMoHauPnCF53xYCMfj-5" target="wlBMoHauPnCF53xYCMfj-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wlBMoHauPnCF53xYCMfj-8" value="M&amp;amp;E office submits M&amp;amp;E report to coordinators and implementers of research and development activities" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="wlBMoHauPnCF53xYCMfj-1">
-          <mxGeometry x="140" y="539.5" width="200" height="70" as="geometry" />
+        <mxCell id="wlBMoHauPnCF53xYCMfj-8" value="M&amp;amp;E office generates M&amp;amp;E report to coordinators and implementers of research and development activities for feedback" style="whiteSpace=wrap;html=1;rounded=0;" parent="wlBMoHauPnCF53xYCMfj-1" vertex="1">
+          <mxGeometry x="105" y="539.5" width="200" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="wlBMoHauPnCF53xYCMfj-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="wlBMoHauPnCF53xYCMfj-1" source="wlBMoHauPnCF53xYCMfj-6" target="wlBMoHauPnCF53xYCMfj-8">
+        <mxCell id="wlBMoHauPnCF53xYCMfj-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="wlBMoHauPnCF53xYCMfj-1" source="wlBMoHauPnCF53xYCMfj-6" target="wlBMoHauPnCF53xYCMfj-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wlBMoHauPnCF53xYCMfj-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wlBMoHauPnCF53xYCMfj-10" target="wlBMoHauPnCF53xYCMfj-12">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="wlBMoHauPnCF53xYCMfj-12" value="M&amp;amp;E office compiles actions taken to monitor progress" style="whiteSpace=wrap;html=1;rounded=0;" parent="wlBMoHauPnCF53xYCMfj-1" vertex="1">
+          <mxGeometry x="405" y="672" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="wlBMoHauPnCF53xYCMfj-10" value="PI, RS, DRD, RD, DD, SDDR&amp;amp;D implement and provide feedback on recommendations/actions on M&amp;amp;E to M&amp;amp;E Office" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="699.5" width="180" height="85" as="geometry" />
+        <mxCell id="wlBMoHauPnCF53xYCMfj-16" value="End" style="rounded=1;whiteSpace=wrap;html=1;" parent="wlBMoHauPnCF53xYCMfj-1" vertex="1">
+          <mxGeometry x="625" y="682" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wlBMoHauPnCF53xYCMfj-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wlBMoHauPnCF53xYCMfj-8" target="wlBMoHauPnCF53xYCMfj-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="wlBMoHauPnCF53xYCMfj-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wlBMoHauPnCF53xYCMfj-12" target="wlBMoHauPnCF53xYCMfj-16">
+        <mxCell id="wlBMoHauPnCF53xYCMfj-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="wlBMoHauPnCF53xYCMfj-1" source="wlBMoHauPnCF53xYCMfj-12" target="wlBMoHauPnCF53xYCMfj-16" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="810" y="742" as="targetPoint" />
+            <mxPoint x="605" y="712" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wlBMoHauPnCF53xYCMfj-12" value="M&amp;amp;E office compiles actions taken" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="610" y="712" width="120" height="60" as="geometry" />
+        <mxCell id="wlBMoHauPnCF53xYCMfj-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="wlBMoHauPnCF53xYCMfj-1" source="wlBMoHauPnCF53xYCMfj-10" target="wlBMoHauPnCF53xYCMfj-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wlBMoHauPnCF53xYCMfj-16" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="712" width="120" height="60" as="geometry" />
+        <mxCell id="wlBMoHauPnCF53xYCMfj-10" value="PI, RS, DRD, RD, DD, SDDR&amp;amp;D receive feedback and implement recommendations/actions on M&amp;amp;E to M&amp;amp;E Office" style="whiteSpace=wrap;html=1;rounded=0;" parent="wlBMoHauPnCF53xYCMfj-1" vertex="1">
+          <mxGeometry x="115" y="669.5" width="180" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="wlBMoHauPnCF53xYCMfj-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="wlBMoHauPnCF53xYCMfj-1" source="wlBMoHauPnCF53xYCMfj-8" target="wlBMoHauPnCF53xYCMfj-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
