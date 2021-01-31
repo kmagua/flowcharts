@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-31T18:09:22.378Z" agent="5.0 (Windows)" etag="xRH9ubZLS0F4p6_WWs0C" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-31T18:09:41.718Z" agent="5.0 (Windows)" etag="7j-TxNrse-BlUDxL3nXL" version="14.2.7" type="github">
   <diagram id="ledTK3Jc3U8G42aMWWrB" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -36,7 +36,7 @@
         <mxCell id="XpzHF-PTDB18xO61Rv8e-17" value="End" style="rounded=1;whiteSpace=wrap;html=1;" parent="XpzHF-PTDB18xO61Rv8e-2" vertex="1">
           <mxGeometry x="700" y="437.5" width="100" height="62.5" as="geometry" />
         </mxCell>
-        <mxCell id="6AX7j2HC7ulWAbdJXAe2-1" value="Upon approval of release of funds, a notification is raised to the relevant departments with the PIPs for preparation required resource to undertake the research (e.g laboratory, finance, procurement, transport, HRM etc)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="XpzHF-PTDB18xO61Rv8e-2">
+        <mxCell id="6AX7j2HC7ulWAbdJXAe2-1" value="Upon approval of release of funds, a notification is raised to the relevant departments with the PIPs for preparation of required resource to undertake the research (e.g laboratory, finance, procurement, transport, HRM etc)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="XpzHF-PTDB18xO61Rv8e-2">
           <mxGeometry x="325" y="420" width="270" height="97.5" as="geometry" />
         </mxCell>
         <mxCell id="6AX7j2HC7ulWAbdJXAe2-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XpzHF-PTDB18xO61Rv8e-2" source="XpzHF-PTDB18xO61Rv8e-13" target="6AX7j2HC7ulWAbdJXAe2-1">
