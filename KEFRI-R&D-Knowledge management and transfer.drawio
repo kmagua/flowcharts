@@ -1,59 +1,115 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T17:58:51.430Z" agent="5.0 (Windows)" etag="q31MBA6gHSycUnD69yob" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-31T18:48:39.962Z" agent="5.0 (Windows)" etag="aod5tkQxcmkzUKfq8W6a" version="14.2.7" type="github">
   <diagram id="t1Sa_8uDAhOk3Hs4lk9J" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="RjieknQxghEn6yLa9xYC-1" value="Knowledge management and transfer" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="10" y="10" width="870" height="810" as="geometry" />
+        <mxCell id="RjieknQxghEn6yLa9xYC-1" value="Knowledge management and transfer" style="swimlane;" parent="1" vertex="1">
+          <mxGeometry x="10" y="10" width="790" height="810" as="geometry" />
         </mxCell>
-        <mxCell id="RjieknQxghEn6yLa9xYC-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="RjieknQxghEn6yLa9xYC-1">
-          <mxGeometry x="60" y="58" width="110" height="60" as="geometry" />
+        <mxCell id="RjieknQxghEn6yLa9xYC-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" parent="RjieknQxghEn6yLa9xYC-1" vertex="1">
+          <mxGeometry x="60" y="38" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RjieknQxghEn6yLa9xYC-5" value="Head KM, DDFRSS identifies specific disciplines for tacit and explicit knowledge capture and Design methods/mechanism of continuous knowledge capture and transfer for targeted staff" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="RjieknQxghEn6yLa9xYC-1">
-          <mxGeometry x="20" y="198" width="190" height="100" as="geometry" />
+        <mxCell id="RjieknQxghEn6yLa9xYC-5" value="Head KM, DDFRSS identifies specific disciplines for tacit and explicit knowledge capture and Design methods/mechanism of continuous knowledge capture and transfer for targeted staff" style="rounded=0;whiteSpace=wrap;html=1;" parent="RjieknQxghEn6yLa9xYC-1" vertex="1">
+          <mxGeometry x="20" y="178" width="190" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RjieknQxghEn6yLa9xYC-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RjieknQxghEn6yLa9xYC-1" source="RjieknQxghEn6yLa9xYC-2" target="RjieknQxghEn6yLa9xYC-5">
+        <mxCell id="RjieknQxghEn6yLa9xYC-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="RjieknQxghEn6yLa9xYC-1" source="RjieknQxghEn6yLa9xYC-2" target="RjieknQxghEn6yLa9xYC-5" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="115" y="198" as="targetPoint" />
+            <mxPoint x="115" y="178" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RjieknQxghEn6yLa9xYC-6" value="Head KM, DDFRSS documents and disseminate knowledge of interest for institutional benefits" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="RjieknQxghEn6yLa9xYC-1">
-          <mxGeometry x="35" y="368" width="160" height="70" as="geometry" />
+        <mxCell id="RjieknQxghEn6yLa9xYC-6" value="Head KM, DDFRSS documents and disseminate knowledge of interest for institutional benefits" style="whiteSpace=wrap;html=1;rounded=0;" parent="RjieknQxghEn6yLa9xYC-1" vertex="1">
+          <mxGeometry x="35" y="470" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="RjieknQxghEn6yLa9xYC-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RjieknQxghEn6yLa9xYC-1" source="RjieknQxghEn6yLa9xYC-5" target="RjieknQxghEn6yLa9xYC-6">
+        <mxCell id="RjieknQxghEn6yLa9xYC-8" value="Head KM, DDFRSS develop mentorship and coaching program for scientific and technical staff" style="whiteSpace=wrap;html=1;rounded=0;" parent="RjieknQxghEn6yLa9xYC-1" vertex="1">
+          <mxGeometry x="30" y="630" width="170" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="RjieknQxghEn6yLa9xYC-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="RjieknQxghEn6yLa9xYC-1" source="1kLZTlWfkK3FytNyI56U-1" target="RjieknQxghEn6yLa9xYC-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RjieknQxghEn6yLa9xYC-8" value="Head KM, DDFRSS develop mentorship and coaching program for scientific and technical staff" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="RjieknQxghEn6yLa9xYC-1">
-          <mxGeometry x="30" y="508" width="170" height="75" as="geometry" />
+        <mxCell id="RjieknQxghEn6yLa9xYC-10" value="Head KM, DDFRSS initiate mentorship program including KEFRI Forestry Graduate School" style="whiteSpace=wrap;html=1;rounded=0;" parent="RjieknQxghEn6yLa9xYC-1" vertex="1">
+          <mxGeometry x="420" y="631" width="160" height="72.5" as="geometry" />
         </mxCell>
-        <mxCell id="RjieknQxghEn6yLa9xYC-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RjieknQxghEn6yLa9xYC-1" source="RjieknQxghEn6yLa9xYC-6" target="RjieknQxghEn6yLa9xYC-8">
+        <mxCell id="RjieknQxghEn6yLa9xYC-12" value="Head KM, DDFRSS capacitates research scientists on identified scientific needs" style="whiteSpace=wrap;html=1;rounded=0;" parent="RjieknQxghEn6yLa9xYC-1" vertex="1">
+          <mxGeometry x="432.5" y="460" width="135" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="RjieknQxghEn6yLa9xYC-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="RjieknQxghEn6yLa9xYC-1" source="RjieknQxghEn6yLa9xYC-10" target="RjieknQxghEn6yLa9xYC-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RjieknQxghEn6yLa9xYC-10" value="Head KM, DDFRSS initiate mentorship program including KEFRI Forestry Graduate School" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="RjieknQxghEn6yLa9xYC-1">
-          <mxGeometry x="35" y="668" width="160" height="72.5" as="geometry" />
+        <mxCell id="RjieknQxghEn6yLa9xYC-14" value="Head KM, DDFRSS strengthens knowledge exchange programmes at all levels" style="whiteSpace=wrap;html=1;rounded=0;" parent="RjieknQxghEn6yLa9xYC-1" vertex="1">
+          <mxGeometry x="421.25" y="260" width="157.5" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="RjieknQxghEn6yLa9xYC-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RjieknQxghEn6yLa9xYC-1" source="RjieknQxghEn6yLa9xYC-8" target="RjieknQxghEn6yLa9xYC-10">
+        <mxCell id="RjieknQxghEn6yLa9xYC-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="RjieknQxghEn6yLa9xYC-1" source="RjieknQxghEn6yLa9xYC-12" target="RjieknQxghEn6yLa9xYC-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RjieknQxghEn6yLa9xYC-12" value="Head KM, DDFRSS capacitates research scientists on identified scientific needs" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="RjieknQxghEn6yLa9xYC-1">
-          <mxGeometry x="310" y="659.25" width="135" height="90" as="geometry" />
+        <mxCell id="RjieknQxghEn6yLa9xYC-19" value="End" style="rounded=1;whiteSpace=wrap;html=1;" parent="RjieknQxghEn6yLa9xYC-1" vertex="1">
+          <mxGeometry x="700" y="524.25" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RjieknQxghEn6yLa9xYC-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RjieknQxghEn6yLa9xYC-1" source="RjieknQxghEn6yLa9xYC-10" target="RjieknQxghEn6yLa9xYC-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="RjieknQxghEn6yLa9xYC-14" value="Head KM, DDFRSS strengthens knowledge exchange programmes at all levels" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="RjieknQxghEn6yLa9xYC-1">
-          <mxGeometry x="532.5" y="659.25" width="157.5" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="RjieknQxghEn6yLa9xYC-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RjieknQxghEn6yLa9xYC-1" source="RjieknQxghEn6yLa9xYC-12" target="RjieknQxghEn6yLa9xYC-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="RjieknQxghEn6yLa9xYC-19" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="RjieknQxghEn6yLa9xYC-1">
-          <mxGeometry x="780" y="674.25" width="70" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="RjieknQxghEn6yLa9xYC-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RjieknQxghEn6yLa9xYC-1" source="RjieknQxghEn6yLa9xYC-14" target="RjieknQxghEn6yLa9xYC-19">
+        <mxCell id="RjieknQxghEn6yLa9xYC-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="RjieknQxghEn6yLa9xYC-1" source="RjieknQxghEn6yLa9xYC-14" target="RjieknQxghEn6yLa9xYC-19" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="788.75" y="704.25" as="targetPoint" />
+            <mxPoint x="898.75" y="554.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1kLZTlWfkK3FytNyI56U-1" value="Approved?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="RjieknQxghEn6yLa9xYC-1">
+          <mxGeometry x="75" y="330" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1kLZTlWfkK3FytNyI56U-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RjieknQxghEn6yLa9xYC-1" source="RjieknQxghEn6yLa9xYC-5" target="1kLZTlWfkK3FytNyI56U-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1kLZTlWfkK3FytNyI56U-5" value="Notify Head KM" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="RjieknQxghEn6yLa9xYC-1">
+          <mxGeometry x="230" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1kLZTlWfkK3FytNyI56U-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="RjieknQxghEn6yLa9xYC-1" source="1kLZTlWfkK3FytNyI56U-1" target="1kLZTlWfkK3FytNyI56U-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="215" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1kLZTlWfkK3FytNyI56U-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="RjieknQxghEn6yLa9xYC-1" source="1kLZTlWfkK3FytNyI56U-5" target="RjieknQxghEn6yLa9xYC-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="290" y="228" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1kLZTlWfkK3FytNyI56U-8" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RjieknQxghEn6yLa9xYC-1">
+          <mxGeometry x="170" y="340" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1kLZTlWfkK3FytNyI56U-11" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RjieknQxghEn6yLa9xYC-1">
+          <mxGeometry x="110" y="425" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1kLZTlWfkK3FytNyI56U-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="RjieknQxghEn6yLa9xYC-1" source="RjieknQxghEn6yLa9xYC-6" target="RjieknQxghEn6yLa9xYC-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="295" y="505" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1kLZTlWfkK3FytNyI56U-14" value="Approved?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="RjieknQxghEn6yLa9xYC-1">
+          <mxGeometry x="270" y="627.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1kLZTlWfkK3FytNyI56U-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RjieknQxghEn6yLa9xYC-1" source="RjieknQxghEn6yLa9xYC-8" target="1kLZTlWfkK3FytNyI56U-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1kLZTlWfkK3FytNyI56U-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RjieknQxghEn6yLa9xYC-1" source="1kLZTlWfkK3FytNyI56U-14" target="RjieknQxghEn6yLa9xYC-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="667.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1kLZTlWfkK3FytNyI56U-18" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RjieknQxghEn6yLa9xYC-1">
+          <mxGeometry x="360" y="640" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1kLZTlWfkK3FytNyI56U-19" value="Notify KM" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;" vertex="1" parent="RjieknQxghEn6yLa9xYC-1">
+          <mxGeometry x="390" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1kLZTlWfkK3FytNyI56U-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RjieknQxghEn6yLa9xYC-1" source="1kLZTlWfkK3FytNyI56U-14" target="1kLZTlWfkK3FytNyI56U-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1kLZTlWfkK3FytNyI56U-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="RjieknQxghEn6yLa9xYC-1" source="1kLZTlWfkK3FytNyI56U-19" target="RjieknQxghEn6yLa9xYC-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
