@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-01T06:11:28.474Z" agent="5.0 (Windows)" etag="MWcr9lAYSPNA4BOn_RT-" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-01T06:11:58.119Z" agent="5.0 (Windows)" etag="kKM7jHe3DzkvMB4KWaq8" version="14.2.9" type="github">
   <diagram id="Hti3g_JA2gQ-FCei74Bm" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -8,10 +8,10 @@
           <mxGeometry x="10" y="10" width="1020" height="810" as="geometry" />
         </mxCell>
         <mxCell id="CFJs6edvpneOBIYGKQMz-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" parent="CFJs6edvpneOBIYGKQMz-1" vertex="1">
-          <mxGeometry x="70" y="60" width="100" height="60" as="geometry" />
+          <mxGeometry x="70" y="40" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CFJs6edvpneOBIYGKQMz-5" value="SDDRD calls for setting seed collection targets and needs by August" style="rounded=0;whiteSpace=wrap;html=1;" parent="CFJs6edvpneOBIYGKQMz-1" vertex="1">
-          <mxGeometry x="50" y="180" width="140" height="70" as="geometry" />
+          <mxGeometry x="50" y="150" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="CFJs6edvpneOBIYGKQMz-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="CFJs6edvpneOBIYGKQMz-1" source="CFJs6edvpneOBIYGKQMz-2" target="CFJs6edvpneOBIYGKQMz-5" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -19,13 +19,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CFJs6edvpneOBIYGKQMz-6" value="Seed Manager undertakes inventory on seed targets and needs by mid-September" style="whiteSpace=wrap;html=1;rounded=0;" parent="CFJs6edvpneOBIYGKQMz-1" vertex="1">
-          <mxGeometry x="40" y="310" width="160" height="60" as="geometry" />
+          <mxGeometry x="40" y="280" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CFJs6edvpneOBIYGKQMz-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="CFJs6edvpneOBIYGKQMz-1" source="CFJs6edvpneOBIYGKQMz-5" target="CFJs6edvpneOBIYGKQMz-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CFJs6edvpneOBIYGKQMz-8" value="DDFPI/RD/DRD/ARDs/Seed Production Officers/Managers/Seed Enterprises receive notification and Convene a meeting of targeted members to set seed collection targets, priority needs, work plan and budget in reference to annual inventory report by early end of October" style="whiteSpace=wrap;html=1;rounded=0;" parent="CFJs6edvpneOBIYGKQMz-1" vertex="1">
-          <mxGeometry x="10" y="397.5" width="220" height="125" as="geometry" />
+          <mxGeometry x="10" y="380" width="220" height="125" as="geometry" />
         </mxCell>
         <mxCell id="CFJs6edvpneOBIYGKQMz-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="CFJs6edvpneOBIYGKQMz-1" source="CFJs6edvpneOBIYGKQMz-6" target="CFJs6edvpneOBIYGKQMz-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -107,7 +107,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="240" y="630" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="240" y="460" />
+              <mxPoint x="240" y="443" />
             </Array>
           </mxGeometry>
         </mxCell>
