@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-01T07:14:06.447Z" agent="5.0 (Windows)" etag="fDtMa0PDmFd2ajMUEDoS" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-01T07:14:23.444Z" agent="5.0 (Windows)" etag="KOLdsN37a_P47X_6Zia8" version="14.2.9" type="github">
   <diagram id="5zCdjWw3TfICZzwGT9ux" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -149,7 +149,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="haQr1E7QjzLYRrLq0wVw-2" value="Endorsed?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="VUJQqh5qZJxquNSaiEC0-1">
-          <mxGeometry x="70" y="530" width="80" height="80" as="geometry" />
+          <mxGeometry x="70" y="550" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VUJQqh5qZJxquNSaiEC0-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="VUJQqh5qZJxquNSaiEC0-1" source="VUJQqh5qZJxquNSaiEC0-8" target="haQr1E7QjzLYRrLq0wVw-2" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -171,7 +171,7 @@
           <mxGeometry x="145" y="550" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="haQr1E7QjzLYRrLq0wVw-8" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VUJQqh5qZJxquNSaiEC0-1">
-          <mxGeometry x="110" y="610" width="40" height="20" as="geometry" />
+          <mxGeometry x="105" y="643" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
