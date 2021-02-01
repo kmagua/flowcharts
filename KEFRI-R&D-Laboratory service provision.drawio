@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-01T06:48:53.646Z" agent="5.0 (Windows)" etag="uMX5AGZiHZ9WGk6vinbn" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-01T06:49:47.023Z" agent="5.0 (Windows)" etag="wCRVrzmWSVhGO_pEcW6j" version="14.2.9" type="github">
   <diagram id="ZMjFlFDBcObQMVyW7c8Y" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -47,6 +47,9 @@
         <mxCell id="OGAYWdb1rIvEOjWdBlm0-6" value="DRD, RD, DD, SCM request for procurement of relevant items" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="whAv_r-oKJ33wHacgo0v-1">
           <mxGeometry x="420" y="374" width="130" height="66" as="geometry" />
         </mxCell>
+        <mxCell id="OGAYWdb1rIvEOjWdBlm0-16" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="whAv_r-oKJ33wHacgo0v-1">
+          <mxGeometry x="680" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="whAv_r-oKJ33wHacgo0v-10" value="LH, LM communicates to the customer on services that can be provided in tandem with KEFRI laboratory capacity" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="30" y="660" width="170" height="80" as="geometry" />
         </mxCell>
@@ -77,8 +80,19 @@
         <mxCell id="OGAYWdb1rIvEOjWdBlm0-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OGAYWdb1rIvEOjWdBlm0-6" target="OGAYWdb1rIvEOjWdBlm0-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="OGAYWdb1rIvEOjWdBlm0-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OGAYWdb1rIvEOjWdBlm0-10" target="OGAYWdb1rIvEOjWdBlm0-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OGAYWdb1rIvEOjWdBlm0-10" value="LH/Lab Manager (LM) prepares the items for collection and give notification of the earliest time of collection" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="670" y="230" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OGAYWdb1rIvEOjWdBlm0-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OGAYWdb1rIvEOjWdBlm0-12" target="OGAYWdb1rIvEOjWdBlm0-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="535" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OGAYWdb1rIvEOjWdBlm0-12" value="LH/LM dispatch to the requestor/users and update of inventory database" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="390" width="160" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
