@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-01T06:08:20.687Z" agent="5.0 (Windows)" etag="5WkQR-wcj2uKcE5VpCvL" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-01T06:11:28.474Z" agent="5.0 (Windows)" etag="MWcr9lAYSPNA4BOn_RT-" version="14.2.9" type="github">
   <diagram id="Hti3g_JA2gQ-FCei74Bm" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -72,7 +72,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CFJs6edvpneOBIYGKQMz-38" value="End" style="rounded=1;whiteSpace=wrap;html=1;" parent="CFJs6edvpneOBIYGKQMz-1" vertex="1">
-          <mxGeometry x="870" y="375" width="100" height="60" as="geometry" />
+          <mxGeometry x="840" y="130" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MZVsST3rRnBNN1hDtOj--1" value="Adopted?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="CFJs6edvpneOBIYGKQMz-1">
           <mxGeometry x="80" y="700" width="80" height="80" as="geometry" />
@@ -143,19 +143,34 @@
         <mxCell id="CFJs6edvpneOBIYGKQMz-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="CFJs6edvpneOBIYGKQMz-1" source="CFJs6edvpneOBIYGKQMz-30" target="CFJs6edvpneOBIYGKQMz-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CFJs6edvpneOBIYGKQMz-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CFJs6edvpneOBIYGKQMz-32" target="CFJs6edvpneOBIYGKQMz-34" edge="1">
+        <mxCell id="CFJs6edvpneOBIYGKQMz-34" value="Seed Production Officers dispatches seeds for registration and storage in preparation for testing and distribution" style="whiteSpace=wrap;html=1;rounded=0;" parent="CFJs6edvpneOBIYGKQMz-1" vertex="1">
+          <mxGeometry x="810" y="680" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="CFJs6edvpneOBIYGKQMz-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="CFJs6edvpneOBIYGKQMz-1" source="CFJs6edvpneOBIYGKQMz-32" target="CFJs6edvpneOBIYGKQMz-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CFJs6edvpneOBIYGKQMz-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CFJs6edvpneOBIYGKQMz-34" edge="1">
+        <mxCell id="MZVsST3rRnBNN1hDtOj--22" value="Seed Manager annually undertakes inventory on seed targets and needs by mid-September" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="CFJs6edvpneOBIYGKQMz-1">
+          <mxGeometry x="810" y="550" width="160" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="MZVsST3rRnBNN1hDtOj--23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="CFJs6edvpneOBIYGKQMz-1" source="CFJs6edvpneOBIYGKQMz-34" target="MZVsST3rRnBNN1hDtOj--22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MZVsST3rRnBNN1hDtOj--24" value="Seed Manager, DDFPI, SDDRD submission for review of the inventory report to SDDR&amp;amp;D through DDFPI" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="CFJs6edvpneOBIYGKQMz-1">
+          <mxGeometry x="790" y="430" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MZVsST3rRnBNN1hDtOj--25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="CFJs6edvpneOBIYGKQMz-1" source="MZVsST3rRnBNN1hDtOj--22" target="MZVsST3rRnBNN1hDtOj--24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MZVsST3rRnBNN1hDtOj--26" value="DDFPI provides feedback to seed manager and make any amendments by mid-October by end of September" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="CFJs6edvpneOBIYGKQMz-1">
+          <mxGeometry x="810" y="280" width="160" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="MZVsST3rRnBNN1hDtOj--27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="CFJs6edvpneOBIYGKQMz-1" source="MZVsST3rRnBNN1hDtOj--24" target="MZVsST3rRnBNN1hDtOj--26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MZVsST3rRnBNN1hDtOj--29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="CFJs6edvpneOBIYGKQMz-1" source="MZVsST3rRnBNN1hDtOj--26" target="CFJs6edvpneOBIYGKQMz-38">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="930" y="445" as="targetPoint" />
+            <mxPoint x="890" y="227.5" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="CFJs6edvpneOBIYGKQMz-34" value="Seed Production Officers dispatches seeds for registration and storage in preparation for testing and distribution" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="850" y="540" width="160" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="CFJs6edvpneOBIYGKQMz-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="CFJs6edvpneOBIYGKQMz-38" target="CFJs6edvpneOBIYGKQMz-34" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MZVsST3rRnBNN1hDtOj--15" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="169" y="731" width="40" height="20" as="geometry" />
