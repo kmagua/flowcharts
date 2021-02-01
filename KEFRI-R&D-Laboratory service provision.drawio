@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-01T06:44:15.250Z" agent="5.0 (Windows)" etag="-JBGVsC1-JMlY3zahwwB" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-01T06:48:53.646Z" agent="5.0 (Windows)" etag="uMX5AGZiHZ9WGk6vinbn" version="14.2.9" type="github">
   <diagram id="ZMjFlFDBcObQMVyW7c8Y" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -30,13 +30,13 @@
         <mxCell id="whAv_r-oKJ33wHacgo0v-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="whAv_r-oKJ33wHacgo0v-1" source="whAv_r-oKJ33wHacgo0v-6" target="whAv_r-oKJ33wHacgo0v-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="whAv_r-oKJ33wHacgo0v-12" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="whAv_r-oKJ33wHacgo0v-1" vertex="1">
+        <mxCell id="whAv_r-oKJ33wHacgo0v-12" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="whAv_r-oKJ33wHacgo0v-1" vertex="1">
           <mxGeometry x="98.5" y="597" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="whAv_r-oKJ33wHacgo0v-33" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="whAv_r-oKJ33wHacgo0v-1" vertex="1">
+        <mxCell id="whAv_r-oKJ33wHacgo0v-33" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="whAv_r-oKJ33wHacgo0v-1" vertex="1">
           <mxGeometry x="170" y="519" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="OGAYWdb1rIvEOjWdBlm0-1" value="RD, DRD, Lab Head confirm funds availability" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="whAv_r-oKJ33wHacgo0v-1">
+        <mxCell id="OGAYWdb1rIvEOjWdBlm0-1" value="RD, DRD, Lab Head (LH) confirm funds availability" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="whAv_r-oKJ33wHacgo0v-1">
           <mxGeometry x="230" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="whAv_r-oKJ33wHacgo0v-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="whAv_r-oKJ33wHacgo0v-1" source="whAv_r-oKJ33wHacgo0v-8" target="OGAYWdb1rIvEOjWdBlm0-1" edge="1">
@@ -44,11 +44,41 @@
             <mxPoint x="240" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="OGAYWdb1rIvEOjWdBlm0-6" value="DRD, RD, DD, SCM request for procurement of relevant items" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="whAv_r-oKJ33wHacgo0v-1">
+          <mxGeometry x="420" y="374" width="130" height="66" as="geometry" />
+        </mxCell>
         <mxCell id="whAv_r-oKJ33wHacgo0v-10" value="LH, LM communicates to the customer on services that can be provided in tandem with KEFRI laboratory capacity" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="30" y="660" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="whAv_r-oKJ33wHacgo0v-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="whAv_r-oKJ33wHacgo0v-8" target="whAv_r-oKJ33wHacgo0v-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OGAYWdb1rIvEOjWdBlm0-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OGAYWdb1rIvEOjWdBlm0-2" target="OGAYWdb1rIvEOjWdBlm0-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OGAYWdb1rIvEOjWdBlm0-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OGAYWdb1rIvEOjWdBlm0-2" target="OGAYWdb1rIvEOjWdBlm0-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OGAYWdb1rIvEOjWdBlm0-2" value="&lt;div&gt;Funds&lt;/div&gt;&lt;div&gt;Available?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="510" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OGAYWdb1rIvEOjWdBlm0-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OGAYWdb1rIvEOjWdBlm0-1" target="OGAYWdb1rIvEOjWdBlm0-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OGAYWdb1rIvEOjWdBlm0-4" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="435" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OGAYWdb1rIvEOjWdBlm0-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OGAYWdb1rIvEOjWdBlm0-8" target="OGAYWdb1rIvEOjWdBlm0-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OGAYWdb1rIvEOjWdBlm0-8" value="LH/Lab Manager (LM) receives requested items to facilitate the approved research project from the PI/RS" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="230" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OGAYWdb1rIvEOjWdBlm0-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OGAYWdb1rIvEOjWdBlm0-6" target="OGAYWdb1rIvEOjWdBlm0-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OGAYWdb1rIvEOjWdBlm0-10" value="LH/Lab Manager (LM) prepares the items for collection and give notification of the earliest time of collection" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="230" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
