@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-01T20:48:06.018Z" agent="5.0 (Windows)" etag="cBL-SuvWnHBjU9FK0qzl" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-01T20:55:09.247Z" agent="5.0 (Windows)" etag="BFrOxxCnqNTRln3Qtd6e" version="14.2.9" type="github">
   <diagram id="fuOGOzWeoMa8vZJxNKpX" name="Page-1">
     <mxGraphModel dx="1038" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -40,6 +40,30 @@
           <mxGeometry x="370" y="655" width="250" height="120" as="geometry" />
         </mxCell>
         <mxCell id="XHZeuVFJhN3NB_ccP10y-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XHZeuVFJhN3NB_ccP10y-1" source="XHZeuVFJhN3NB_ccP10y-12" target="XHZeuVFJhN3NB_ccP10y-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XHZeuVFJhN3NB_ccP10y-16" value="Upon endorsement of research projects during the consultative meeting and subsequent approval by Board of Directors, Head BGIS/RS schedules an online refinement of data collection tools, research protocols and field layouts before implementation of research activities" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="XHZeuVFJhN3NB_ccP10y-1">
+          <mxGeometry x="370" y="470" width="250" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="XHZeuVFJhN3NB_ccP10y-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XHZeuVFJhN3NB_ccP10y-1" source="XHZeuVFJhN3NB_ccP10y-14" target="XHZeuVFJhN3NB_ccP10y-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XHZeuVFJhN3NB_ccP10y-20" value="HBGIS/RS receives online request for biometrics support on layout of experiments, construction of sampling frame, pre-testing of data collection tools and administering of tools; GIS and remote sensing services and assigns the staff on the various assignment" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="XHZeuVFJhN3NB_ccP10y-1">
+          <mxGeometry x="370" y="120" width="250" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="XHZeuVFJhN3NB_ccP10y-22" value="BGIS/RS staff undertakes the assignment and submits the report to the Head of Section for approval and subsequent transmission to PI/RS for implementation" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="XHZeuVFJhN3NB_ccP10y-1">
+          <mxGeometry x="690" y="120" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="XHZeuVFJhN3NB_ccP10y-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XHZeuVFJhN3NB_ccP10y-1" source="XHZeuVFJhN3NB_ccP10y-20" target="XHZeuVFJhN3NB_ccP10y-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XHZeuVFJhN3NB_ccP10y-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XHZeuVFJhN3NB_ccP10y-18" target="XHZeuVFJhN3NB_ccP10y-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XHZeuVFJhN3NB_ccP10y-18" value="The BGIS/RS staff undertakes online development and refinement of data collection tools, research protocols, templates for data capture and submits online to HGIS/RS for approval and subsequent transmission to respective PI/RS&amp;nbsp; for implementaton" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="300" width="250" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="XHZeuVFJhN3NB_ccP10y-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XHZeuVFJhN3NB_ccP10y-16" target="XHZeuVFJhN3NB_ccP10y-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
