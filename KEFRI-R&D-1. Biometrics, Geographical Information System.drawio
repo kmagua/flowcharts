@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-01T19:52:26.951Z" agent="5.0 (Windows)" etag="lqgqj9xsmdIX36dJy1bo" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-01T20:40:39.263Z" agent="5.0 (Windows)" etag="TDNCA2WNHw4F37ZS4vtK" version="14.2.9" type="github">
   <diagram id="fuOGOzWeoMa8vZJxNKpX" name="Page-1">
     <mxGraphModel dx="1038" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -6,6 +6,29 @@
         <mxCell id="1" parent="0" />
         <mxCell id="XHZeuVFJhN3NB_ccP10y-1" value="Biometrics, Geographical Information System (GIS) and Remote Sensing in Research and Development" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="10" y="10" width="1150" height="810" as="geometry" />
+        </mxCell>
+        <mxCell id="XHZeuVFJhN3NB_ccP10y-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XHZeuVFJhN3NB_ccP10y-1">
+          <mxGeometry x="110" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHZeuVFJhN3NB_ccP10y-5" value="Upon call for CN for proposal development, Head Biometrics and GIS/RS (HBGIS/RS) receives online alerts to enable development of schedule for engagement with team of scientists across all thematic areas in different Eco-regional Research by end of August" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XHZeuVFJhN3NB_ccP10y-1">
+          <mxGeometry x="50" y="180" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="XHZeuVFJhN3NB_ccP10y-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XHZeuVFJhN3NB_ccP10y-1" source="XHZeuVFJhN3NB_ccP10y-2" target="XHZeuVFJhN3NB_ccP10y-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XHZeuVFJhN3NB_ccP10y-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XHZeuVFJhN3NB_ccP10y-6" target="XHZeuVFJhN3NB_ccP10y-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XHZeuVFJhN3NB_ccP10y-6" value="HBGIS/RS assigns staff in the section to brainstorm with scientists on candidate problems, formulation of research objectives, research questions, hypothesis and methodology by end of September" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="390" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="XHZeuVFJhN3NB_ccP10y-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XHZeuVFJhN3NB_ccP10y-5" target="XHZeuVFJhN3NB_ccP10y-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XHZeuVFJhN3NB_ccP10y-10" value="The staff in BGIS/RS gets alert on their assignment on improvement of research concept notes and research proposal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="570" width="180" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
