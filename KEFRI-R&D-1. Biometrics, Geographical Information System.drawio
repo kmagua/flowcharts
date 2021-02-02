@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-02T06:19:17.921Z" agent="5.0 (Windows)" etag="0pwFqbW2DmyOWnytyRm8" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-02T06:24:11.332Z" agent="5.0 (Windows)" etag="0beh2GdNNJomsLy0ER1s" version="14.2.9" type="github">
   <diagram id="fuOGOzWeoMa8vZJxNKpX" name="Page-1">
     <mxGraphModel dx="1038" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -52,7 +52,7 @@
           <mxGeometry x="370" y="40" width="250" height="110" as="geometry" />
         </mxCell>
         <mxCell id="XHZeuVFJhN3NB_ccP10y-22" value="BGIS/RS staff undertakes the assignment and submits the report to the Head of Section for approval and subsequent transmission to PI/RS for implementation" style="whiteSpace=wrap;html=1;rounded=0;" parent="XHZeuVFJhN3NB_ccP10y-1" vertex="1">
-          <mxGeometry x="690" y="120" width="170" height="110" as="geometry" />
+          <mxGeometry x="700" y="40" width="170" height="110" as="geometry" />
         </mxCell>
         <mxCell id="XHZeuVFJhN3NB_ccP10y-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="XHZeuVFJhN3NB_ccP10y-1" source="XHZeuVFJhN3NB_ccP10y-20" target="XHZeuVFJhN3NB_ccP10y-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -89,10 +89,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XHZeuVFJhN3NB_ccP10y-24" value="HBGIS/RS receives online request for data management needs, analysis and reporting from PI/RS" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="700" y="302" width="170" height="80" as="geometry" />
+        <mxCell id="vXpb-M9bucNvmn0f4WJD-9" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XHZeuVFJhN3NB_ccP10y-1">
+          <mxGeometry x="530" y="214" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XHZeuVFJhN3NB_ccP10y-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XHZeuVFJhN3NB_ccP10y-22" target="XHZeuVFJhN3NB_ccP10y-24" edge="1">
+        <mxCell id="vXpb-M9bucNvmn0f4WJD-10" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XHZeuVFJhN3NB_ccP10y-1">
+          <mxGeometry x="488" y="165" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XHZeuVFJhN3NB_ccP10y-24" value="HBGIS/RS receives online request for data management needs, analysis and reporting from PI/RS" style="whiteSpace=wrap;html=1;rounded=0;" parent="XHZeuVFJhN3NB_ccP10y-1" vertex="1">
+          <mxGeometry x="700" y="241" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XHZeuVFJhN3NB_ccP10y-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="XHZeuVFJhN3NB_ccP10y-1" source="XHZeuVFJhN3NB_ccP10y-22" target="XHZeuVFJhN3NB_ccP10y-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
