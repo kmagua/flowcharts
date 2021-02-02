@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-02T06:35:59.897Z" agent="5.0 (Windows)" etag="8UsMaMlzSm5T4y-XgzDv" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-02T06:39:22.131Z" agent="5.0 (Windows)" etag="Y-tIvuv2FKu_9caZkRqc" version="14.2.9" type="github">
   <diagram id="fuOGOzWeoMa8vZJxNKpX" name="Page-1">
     <mxGraphModel dx="1038" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -143,8 +143,20 @@
         <mxCell id="vXpb-M9bucNvmn0f4WJD-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XHZeuVFJhN3NB_ccP10y-1" source="XHZeuVFJhN3NB_ccP10y-24" target="vXpb-M9bucNvmn0f4WJD-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="vXpb-M9bucNvmn0f4WJD-30" value="Approved?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="XHZeuVFJhN3NB_ccP10y-1">
+          <mxGeometry x="955" y="601" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vXpb-M9bucNvmn0f4WJD-32" value="BGIS/RS staff undertakes data analysis and submits the report to the HBGIS/RS for approval and subsequent transmission to respective PI/RS for their respective actions" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="XHZeuVFJhN3NB_ccP10y-1">
+          <mxGeometry x="880" y="470" width="230" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="vXpb-M9bucNvmn0f4WJD-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XHZeuVFJhN3NB_ccP10y-1" source="vXpb-M9bucNvmn0f4WJD-30" target="vXpb-M9bucNvmn0f4WJD-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vXpb-M9bucNvmn0f4WJD-23" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="793" y="372" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vXpb-M9bucNvmn0f4WJD-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vXpb-M9bucNvmn0f4WJD-28" target="vXpb-M9bucNvmn0f4WJD-30">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vXpb-M9bucNvmn0f4WJD-28" value="Biometrics/GIS/RS staff prepares data analysis plan and submit to the HBGIS/RS for approval before data analysis and reporting" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="910" y="720" width="190" height="80" as="geometry" />
