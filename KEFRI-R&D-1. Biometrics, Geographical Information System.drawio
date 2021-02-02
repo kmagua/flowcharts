@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-02T06:43:39.084Z" agent="5.0 (Windows)" etag="leQ8zP7yeMmw4D4BNQ3J" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-02T06:53:28.164Z" agent="5.0 (Windows)" etag="OjicRKHkszg7bM9KKjV6" version="14.2.9" type="github">
   <diagram id="fuOGOzWeoMa8vZJxNKpX" name="Page-1">
     <mxGraphModel dx="1038" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -147,25 +147,39 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vXpb-M9bucNvmn0f4WJD-30" value="Approved?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="XHZeuVFJhN3NB_ccP10y-1">
-          <mxGeometry x="955" y="601" width="80" height="80" as="geometry" />
+          <mxGeometry x="955" y="585" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vXpb-M9bucNvmn0f4WJD-32" value="BGIS/RS staff undertakes data analysis and submits the report to the HBGIS/RS for approval and subsequent transmission to respective PI/RS for their respective actions" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="XHZeuVFJhN3NB_ccP10y-1">
-          <mxGeometry x="880" y="470" width="230" height="81" as="geometry" />
+          <mxGeometry x="890" y="422" width="210" height="88" as="geometry" />
         </mxCell>
         <mxCell id="vXpb-M9bucNvmn0f4WJD-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XHZeuVFJhN3NB_ccP10y-1" source="vXpb-M9bucNvmn0f4WJD-30" target="vXpb-M9bucNvmn0f4WJD-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vXpb-M9bucNvmn0f4WJD-34" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XHZeuVFJhN3NB_ccP10y-1">
-          <mxGeometry x="988" y="571" width="40" height="20" as="geometry" />
+          <mxGeometry x="988" y="555" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vXpb-M9bucNvmn0f4WJD-35" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Comments&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=0;" vertex="1" parent="XHZeuVFJhN3NB_ccP10y-1">
-          <mxGeometry x="845" y="611" width="70" height="60" as="geometry" />
+          <mxGeometry x="845" y="595" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vXpb-M9bucNvmn0f4WJD-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XHZeuVFJhN3NB_ccP10y-1" source="vXpb-M9bucNvmn0f4WJD-30" target="vXpb-M9bucNvmn0f4WJD-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vXpb-M9bucNvmn0f4WJD-37" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XHZeuVFJhN3NB_ccP10y-1">
-          <mxGeometry x="922" y="624" width="40" height="20" as="geometry" />
+          <mxGeometry x="922" y="608" width="38" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vXpb-M9bucNvmn0f4WJD-39" value="Upon completion of data analysis and reporting, BGIS/RS in consultation with scientists prepares knowledge products for publication. The authors submits draft KP to HBGIS/RS for review and improvement before publication" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="XHZeuVFJhN3NB_ccP10y-1">
+          <mxGeometry x="885" y="255" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="vXpb-M9bucNvmn0f4WJD-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XHZeuVFJhN3NB_ccP10y-1" source="vXpb-M9bucNvmn0f4WJD-32" target="vXpb-M9bucNvmn0f4WJD-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vXpb-M9bucNvmn0f4WJD-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="XHZeuVFJhN3NB_ccP10y-1" source="vXpb-M9bucNvmn0f4WJD-39" target="vXpb-M9bucNvmn0f4WJD-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="995" y="241" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXpb-M9bucNvmn0f4WJD-43" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XHZeuVFJhN3NB_ccP10y-1">
+          <mxGeometry x="935" y="101" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vXpb-M9bucNvmn0f4WJD-23" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="783" y="372" width="40" height="20" as="geometry" />
@@ -180,12 +194,6 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vXpb-M9bucNvmn0f4WJD-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vXpb-M9bucNvmn0f4WJD-35" target="vXpb-M9bucNvmn0f4WJD-28">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="vXpb-M9bucNvmn0f4WJD-39" value="Upon completion of data analysis and reporting, BGIS/RS in consultation with scientists prepares knowledge products for publication. The authors submits draft KP to HBGIS/RS for review and improvement before publication" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="895" y="310" width="220" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="vXpb-M9bucNvmn0f4WJD-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vXpb-M9bucNvmn0f4WJD-32" target="vXpb-M9bucNvmn0f4WJD-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
