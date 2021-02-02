@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-02T06:24:11.332Z" agent="5.0 (Windows)" etag="0beh2GdNNJomsLy0ER1s" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-02T06:30:47.057Z" agent="5.0 (Windows)" etag="VfQAmtfTAvlBlRSqm2TF" version="14.2.9" type="github">
   <diagram id="fuOGOzWeoMa8vZJxNKpX" name="Page-1">
     <mxGraphModel dx="1038" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -96,10 +96,44 @@
           <mxGeometry x="488" y="165" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XHZeuVFJhN3NB_ccP10y-24" value="HBGIS/RS receives online request for data management needs, analysis and reporting from PI/RS" style="whiteSpace=wrap;html=1;rounded=0;" parent="XHZeuVFJhN3NB_ccP10y-1" vertex="1">
-          <mxGeometry x="700" y="241" width="170" height="80" as="geometry" />
+          <mxGeometry x="700" y="590" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="XHZeuVFJhN3NB_ccP10y-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="XHZeuVFJhN3NB_ccP10y-1" source="XHZeuVFJhN3NB_ccP10y-22" target="XHZeuVFJhN3NB_ccP10y-24" edge="1">
+        <mxCell id="vXpb-M9bucNvmn0f4WJD-13" value="BGIS/RS staff undertakes the assignment and submits the report to the Head of Section for approval" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XHZeuVFJhN3NB_ccP10y-1">
+          <mxGeometry x="690" y="211" width="190" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="vXpb-M9bucNvmn0f4WJD-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XHZeuVFJhN3NB_ccP10y-1" source="XHZeuVFJhN3NB_ccP10y-22" target="vXpb-M9bucNvmn0f4WJD-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="785" y="214" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXpb-M9bucNvmn0f4WJD-14" value="Approved?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="XHZeuVFJhN3NB_ccP10y-1">
+          <mxGeometry x="745" y="341" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vXpb-M9bucNvmn0f4WJD-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XHZeuVFJhN3NB_ccP10y-1" source="vXpb-M9bucNvmn0f4WJD-13" target="vXpb-M9bucNvmn0f4WJD-14">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vXpb-M9bucNvmn0f4WJD-16" value="HBGIS/RS forwards to PI/RS" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="XHZeuVFJhN3NB_ccP10y-1">
+          <mxGeometry x="725" y="481" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vXpb-M9bucNvmn0f4WJD-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XHZeuVFJhN3NB_ccP10y-1" source="vXpb-M9bucNvmn0f4WJD-14" target="vXpb-M9bucNvmn0f4WJD-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vXpb-M9bucNvmn0f4WJD-18" value="Comments" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=0;" vertex="1" parent="XHZeuVFJhN3NB_ccP10y-1">
+          <mxGeometry x="870" y="331" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="vXpb-M9bucNvmn0f4WJD-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XHZeuVFJhN3NB_ccP10y-1" source="vXpb-M9bucNvmn0f4WJD-14" target="vXpb-M9bucNvmn0f4WJD-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vXpb-M9bucNvmn0f4WJD-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="XHZeuVFJhN3NB_ccP10y-1" source="vXpb-M9bucNvmn0f4WJD-18" target="vXpb-M9bucNvmn0f4WJD-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="910" y="231" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXpb-M9bucNvmn0f4WJD-22" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XHZeuVFJhN3NB_ccP10y-1">
+          <mxGeometry x="779" y="434" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vXpb-M9bucNvmn0f4WJD-23" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="833" y="371" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
