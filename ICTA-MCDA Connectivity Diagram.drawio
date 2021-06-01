@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-01T07:33:25.826Z" agent="5.0 (Windows)" etag="eQLwsLkTTK_OQloVmvTe" version="14.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-01T07:33:51.207Z" agent="5.0 (Windows)" etag="U_4g0nzCtB9NCWGZJj-F" version="14.3.0" type="github">
   <diagram id="mX_FDXIolsC-S3m8zECh" name="Page-1">
     <mxGraphModel dx="1038" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -60,7 +60,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2wvC1gZ130ZXCiNSKxBG-14" value="The system assigns a committee member to review the request and sends out an email notification" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="2wvC1gZ130ZXCiNSKxBG-4">
-          <mxGeometry x="240" y="447.5" width="160" height="72.5" as="geometry" />
+          <mxGeometry x="240" y="490" width="160" height="72.5" as="geometry" />
         </mxCell>
         <mxCell id="2wvC1gZ130ZXCiNSKxBG-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2wvC1gZ130ZXCiNSKxBG-4" source="2wvC1gZ130ZXCiNSKxBG-12" target="2wvC1gZ130ZXCiNSKxBG-14">
           <mxGeometry relative="1" as="geometry" />
@@ -75,7 +75,7 @@
             <mxPoint x="200" y="640" as="targetPoint" />
             <Array as="points">
               <mxPoint x="210" y="690" />
-              <mxPoint x="210" y="484" />
+              <mxPoint x="210" y="526" />
             </Array>
           </mxGeometry>
         </mxCell>
