@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-01T07:24:55.051Z" agent="5.0 (Windows)" etag="gvNe0bZVQQpNSUpifFfG" version="14.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-01T07:32:33.188Z" agent="5.0 (Windows)" etag="uKQoGBlRy0Ck_6cNO-SX" version="14.3.0" type="github">
   <diagram id="mX_FDXIolsC-S3m8zECh" name="Page-1">
     <mxGraphModel dx="1038" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -96,7 +96,7 @@
         <mxCell id="2wvC1gZ130ZXCiNSKxBG-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2wvC1gZ130ZXCiNSKxBG-4" source="2wvC1gZ130ZXCiNSKxBG-33" target="2wvC1gZ130ZXCiNSKxBG-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2wvC1gZ130ZXCiNSKxBG-42" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="2wvC1gZ130ZXCiNSKxBG-4">
+        <mxCell id="2wvC1gZ130ZXCiNSKxBG-42" value="Notify customer to review BoQ" style="whiteSpace=wrap;html=1;" vertex="1" parent="2wvC1gZ130ZXCiNSKxBG-4">
           <mxGeometry x="760" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2wvC1gZ130ZXCiNSKxBG-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2wvC1gZ130ZXCiNSKxBG-4" source="2wvC1gZ130ZXCiNSKxBG-35" target="2wvC1gZ130ZXCiNSKxBG-42">
@@ -104,6 +104,24 @@
         </mxCell>
         <mxCell id="2wvC1gZ130ZXCiNSKxBG-44" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="2wvC1gZ130ZXCiNSKxBG-4">
           <mxGeometry x="677" y="140" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2wvC1gZ130ZXCiNSKxBG-46" value="&lt;div&gt;BoQ approved&lt;/div&gt;&lt;div&gt;by client?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="2wvC1gZ130ZXCiNSKxBG-4">
+          <mxGeometry x="760" y="230" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2wvC1gZ130ZXCiNSKxBG-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2wvC1gZ130ZXCiNSKxBG-4" source="2wvC1gZ130ZXCiNSKxBG-42" target="2wvC1gZ130ZXCiNSKxBG-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2wvC1gZ130ZXCiNSKxBG-48" value="committee secretariat assigns technical team to work with the contractor" style="whiteSpace=wrap;html=1;" vertex="1" parent="2wvC1gZ130ZXCiNSKxBG-4">
+          <mxGeometry x="730" y="350" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2wvC1gZ130ZXCiNSKxBG-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2wvC1gZ130ZXCiNSKxBG-4" source="2wvC1gZ130ZXCiNSKxBG-46" target="2wvC1gZ130ZXCiNSKxBG-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2wvC1gZ130ZXCiNSKxBG-50" value="The technical lead supervising implementation will attache the PAT report" style="whiteSpace=wrap;html=1;" vertex="1" parent="2wvC1gZ130ZXCiNSKxBG-4">
+          <mxGeometry x="740" y="490" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2wvC1gZ130ZXCiNSKxBG-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2wvC1gZ130ZXCiNSKxBG-4" source="2wvC1gZ130ZXCiNSKxBG-48" target="2wvC1gZ130ZXCiNSKxBG-50">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2wvC1gZ130ZXCiNSKxBG-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.45;exitY=0.863;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="2wvC1gZ130ZXCiNSKxBG-38" target="2wvC1gZ130ZXCiNSKxBG-29">
           <mxGeometry relative="1" as="geometry">
@@ -122,6 +140,12 @@
         </mxCell>
         <mxCell id="2wvC1gZ130ZXCiNSKxBG-45" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="192" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2wvC1gZ130ZXCiNSKxBG-52" value="&lt;span&gt;The technical lead supervising implementation will attache the FAT report&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="670" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2wvC1gZ130ZXCiNSKxBG-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2wvC1gZ130ZXCiNSKxBG-50" target="2wvC1gZ130ZXCiNSKxBG-52">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
