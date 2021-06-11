@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-11T06:28:00.089Z" agent="5.0 (Windows)" etag="oEcXNaa83cLSR4HDlKbN" version="14.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-11T06:34:16.504Z" agent="5.0 (Windows)" etag="k6loiAAw4IsGlJ000tOo" version="14.7.4" type="github">
   <diagram id="gTLhI4B2nnuSLGDJgcNC" name="Page-1">
     <mxGraphModel dx="1038" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -34,41 +34,20 @@
         <mxCell id="Ijk1C0J5Z4JsHxGwTTIQ-18" value="Smart applications" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="Ijk1C0J5Z4JsHxGwTTIQ-1">
           <mxGeometry x="325" y="560" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Ijk1C0J5Z4JsHxGwTTIQ-25" value="Security" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="Ijk1C0J5Z4JsHxGwTTIQ-1">
+        <mxCell id="Ijk1C0J5Z4JsHxGwTTIQ-25" value="Huduma" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="Ijk1C0J5Z4JsHxGwTTIQ-1">
           <mxGeometry x="856" y="381" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Ijk1C0J5Z4JsHxGwTTIQ-26" value="Data" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="Ijk1C0J5Z4JsHxGwTTIQ-1">
-          <mxGeometry x="856" y="501" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Ijk1C0J5Z4JsHxGwTTIQ-27" value="Enterprise systems" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="Ijk1C0J5Z4JsHxGwTTIQ-1">
+        <mxCell id="Ijk1C0J5Z4JsHxGwTTIQ-27" value="Contact Centre" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="Ijk1C0J5Z4JsHxGwTTIQ-1">
           <mxGeometry x="856" y="440" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Ijk1C0J5Z4JsHxGwTTIQ-28" value="Digital skill" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="Ijk1C0J5Z4JsHxGwTTIQ-1">
-          <mxGeometry x="856" y="621" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Ijk1C0J5Z4JsHxGwTTIQ-29" value="Smart applications" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="Ijk1C0J5Z4JsHxGwTTIQ-1">
-          <mxGeometry x="856" y="560" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ijk1C0J5Z4JsHxGwTTIQ-30" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="Ijk1C0J5Z4JsHxGwTTIQ-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="781" y="640" as="sourcePoint" />
+            <mxPoint x="781" y="620" as="sourcePoint" />
             <mxPoint x="781" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ijk1C0J5Z4JsHxGwTTIQ-31" value="Networks" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="Ijk1C0J5Z4JsHxGwTTIQ-1">
+        <mxCell id="Ijk1C0J5Z4JsHxGwTTIQ-31" value="Electronic portal" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="Ijk1C0J5Z4JsHxGwTTIQ-1">
           <mxGeometry x="856" y="320" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Ijk1C0J5Z4JsHxGwTTIQ-32" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" target="Ijk1C0J5Z4JsHxGwTTIQ-29" parent="Ijk1C0J5Z4JsHxGwTTIQ-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="781" y="580" as="sourcePoint" />
-            <mxPoint x="931" y="540" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Ijk1C0J5Z4JsHxGwTTIQ-33" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Ijk1C0J5Z4JsHxGwTTIQ-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="781" y="523" as="sourcePoint" />
-            <mxPoint x="856" y="523" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="Ijk1C0J5Z4JsHxGwTTIQ-34" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Ijk1C0J5Z4JsHxGwTTIQ-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -88,11 +67,11 @@
             <mxPoint x="856" y="338" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ijk1C0J5Z4JsHxGwTTIQ-37" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Ijk1C0J5Z4JsHxGwTTIQ-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="780" y="639" as="sourcePoint" />
-            <mxPoint x="855" y="639" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="Ijk1C0J5Z4JsHxGwTTIQ-39" value="Feedback portal" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="Ijk1C0J5Z4JsHxGwTTIQ-1">
+          <mxGeometry x="940" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ijk1C0J5Z4JsHxGwTTIQ-42" value="Gov Apps" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="Ijk1C0J5Z4JsHxGwTTIQ-1">
+          <mxGeometry x="940" y="680" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ijk1C0J5Z4JsHxGwTTIQ-7" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="260" y="150" width="530" height="100" as="geometry" />
@@ -141,6 +120,18 @@
             <mxPoint x="259" y="649" as="sourcePoint" />
             <mxPoint x="334" y="649" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Ijk1C0J5Z4JsHxGwTTIQ-38" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="791" y="552" width="160" height="158" as="geometry" />
+        </mxCell>
+        <mxCell id="Ijk1C0J5Z4JsHxGwTTIQ-40" value="" style="endArrow=none;html=1;fontSize=12;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.481;exitY=0.506;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="Ijk1C0J5Z4JsHxGwTTIQ-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="867.96" y="630.9480000000001" as="sourcePoint" />
+            <mxPoint x="951" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ijk1C0J5Z4JsHxGwTTIQ-41" value="GovBox" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="951" y="610" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
