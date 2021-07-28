@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-28T06:31:16.874Z" agent="5.0 (Windows)" etag="o3JdlBVM-Vnc236-IDKc" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-28T06:32:57.934Z" agent="5.0 (Windows)" etag="7Wy9wtrgVUXuMAb6sjOw" version="14.7.7" type="github">
   <diagram id="zSV-mcFSEV-054tMcBkZ" name="Page-1">
     <mxGraphModel dx="1038" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -22,6 +22,18 @@
           <mxGeometry x="130" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jlbb2lrGJc-DTEXWLsxi-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="jlbb2lrGJc-DTEXWLsxi-1" source="jlbb2lrGJc-DTEXWLsxi-3" target="jlbb2lrGJc-DTEXWLsxi-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jlbb2lrGJc-DTEXWLsxi-10" value="&lt;div&gt;Notification matches&lt;/div&gt;&lt;div&gt;actual receipts?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="jlbb2lrGJc-DTEXWLsxi-1">
+          <mxGeometry x="360" y="440" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jlbb2lrGJc-DTEXWLsxi-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jlbb2lrGJc-DTEXWLsxi-8" target="jlbb2lrGJc-DTEXWLsxi-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jlbb2lrGJc-DTEXWLsxi-8" value="Accountant confirms with the bank the actual receipts" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jlbb2lrGJc-DTEXWLsxi-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jlbb2lrGJc-DTEXWLsxi-6" target="jlbb2lrGJc-DTEXWLsxi-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
