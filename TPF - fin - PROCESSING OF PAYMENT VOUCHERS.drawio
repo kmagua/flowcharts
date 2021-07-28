@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-28T07:47:43.960Z" agent="5.0 (Windows)" etag="figjkYf7ucjIx-Ut_eb0" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-28T07:50:05.126Z" agent="5.0 (Windows)" etag="0Edz8XL8gOJeVo-RGyMZ" version="14.7.7" type="github">
   <diagram id="38-RYg7YOeez1GykrM8r" name="Page-1">
     <mxGraphModel dx="1038" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -73,7 +73,10 @@
         <mxCell id="pgjDkxNFBhTPu0ai2_G_-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pgjDkxNFBhTPu0ai2_G_-10" target="pgjDkxNFBhTPu0ai2_G_-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pgjDkxNFBhTPu0ai2_G_-21" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="pgjDkxNFBhTPu0ai2_G_-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pgjDkxNFBhTPu0ai2_G_-21" target="pgjDkxNFBhTPu0ai2_G_-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pgjDkxNFBhTPu0ai2_G_-21" value="FM confirms availability if funds" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pgjDkxNFBhTPu0ai2_G_-25" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -81,6 +84,9 @@
         </mxCell>
         <mxCell id="pgjDkxNFBhTPu0ai2_G_-26" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="456" y="578" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pgjDkxNFBhTPu0ai2_G_-27" value="&lt;div&gt;funds &lt;br&gt;&lt;/div&gt;&lt;div&gt;available?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="330" width="100" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
