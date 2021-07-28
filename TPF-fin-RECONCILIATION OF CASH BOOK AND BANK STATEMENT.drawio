@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-28T09:08:45.980Z" agent="5.0 (Windows)" etag="oIB6paSyuIGc311jKx-a" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-28T09:09:28.378Z" agent="5.0 (Windows)" etag="3xOxfoGrD66oL2csKyLf" version="14.7.7" type="github">
   <diagram id="cl_WVMJE5ysSoHUtYMA4" name="Page-1">
     <mxGraphModel dx="1038" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -20,6 +20,9 @@
         </mxCell>
         <mxCell id="2gV9gYX4ny8Dracs0vjc-12" value="&lt;span lang=&quot;EN-GB&quot;&gt;Cashier Identify debits in the bank but not in cashbook&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="2gV9gYX4ny8Dracs0vjc-1">
           <mxGeometry x="410" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2gV9gYX4ny8Dracs0vjc-22" value="&lt;span lang=&quot;EN-GB&quot;&gt;FA makes necessary amendments to the cashbook&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="2gV9gYX4ny8Dracs0vjc-1">
+          <mxGeometry x="628" y="350" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="2gV9gYX4ny8Dracs0vjc-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2gV9gYX4ny8Dracs0vjc-6" target="2gV9gYX4ny8Dracs0vjc-8">
           <mxGeometry relative="1" as="geometry" />
@@ -63,7 +66,10 @@
         <mxCell id="2gV9gYX4ny8Dracs0vjc-18" value="&lt;span lang=&quot;EN-GB&quot;&gt;Identify credits in the bank but not in the cash book&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="420" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2gV9gYX4ny8Dracs0vjc-20" value="Cashier signs and forwards to Fund accountant for action" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="2gV9gYX4ny8Dracs0vjc-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2gV9gYX4ny8Dracs0vjc-20" target="2gV9gYX4ny8Dracs0vjc-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2gV9gYX4ny8Dracs0vjc-20" value="Cashier signs and forwards to Fund accountant (FA) for action" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="633" y="215" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
