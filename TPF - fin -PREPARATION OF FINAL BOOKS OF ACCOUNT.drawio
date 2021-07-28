@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-28T09:56:14.348Z" agent="5.0 (Windows)" etag="gcctC9dFxpRHr6fb9VOY" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-28T09:57:36.978Z" agent="5.0 (Windows)" etag="5NawkDmPFmYKfzpt8tax" version="14.7.7" type="github">
   <diagram id="uN3tepQTVBzatROp3jJb" name="Page-1">
     <mxGraphModel dx="1038" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -27,7 +27,7 @@
         <mxCell id="cWVWdxgGTWWHGKepkyrB-12" value="FM performs &lt;span lang=&quot;EN-GB&quot;&gt;budget comparison with the actual expenditures&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="cWVWdxgGTWWHGKepkyrB-1">
           <mxGeometry x="360" y="631.25" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="cWVWdxgGTWWHGKepkyrB-22" value="&lt;span lang=&quot;EN-GB&quot;&gt;Compile and forward the draft financial reportto the CEO for consideration&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="cWVWdxgGTWWHGKepkyrB-1">
+        <mxCell id="cWVWdxgGTWWHGKepkyrB-22" value="&lt;span lang=&quot;EN-GB&quot;&gt;FM compiles and forwards the draft financial reportto the CEO for consideration&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="cWVWdxgGTWWHGKepkyrB-1">
           <mxGeometry x="597.5" y="490" width="135" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cWVWdxgGTWWHGKepkyrB-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cWVWdxgGTWWHGKepkyrB-8" target="cWVWdxgGTWWHGKepkyrB-10">
@@ -65,6 +65,12 @@
         </mxCell>
         <mxCell id="cWVWdxgGTWWHGKepkyrB-20" value="&lt;span lang=&quot;EN-GB&quot;&gt;FM &lt;/span&gt;&lt;span lang=&quot;EN-GB&quot;&gt;Identifies changes in asset and liabilities&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="321.25" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cWVWdxgGTWWHGKepkyrB-24" value="&lt;span lang=&quot;EN-GB&quot;&gt;CEO reviews and forwarding to F&amp;amp;A committee ofthe Board for recommendations else return to FM with comments.&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="660" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cWVWdxgGTWWHGKepkyrB-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cWVWdxgGTWWHGKepkyrB-22" target="cWVWdxgGTWWHGKepkyrB-24">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
