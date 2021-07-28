@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-28T08:38:34.047Z" agent="5.0 (Windows)" etag="6KGtwgyYEHKh0LjfslUh" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-28T08:39:20.221Z" agent="5.0 (Windows)" etag="2zNx5uj0jOICivWqJ5dX" version="14.7.7" type="github">
   <diagram id="ztFzvjZc60GsRg00ITb4" name="Page-1">
     <mxGraphModel dx="1038" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-bHBfpAsHSbqOtEoVYM7-8" value="&lt;span lang=&quot;EN-GB&quot;&gt;Fund Manager receives claim form&lt;span&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-bHBfpAsHSbqOtEoVYM7-1">
-          <mxGeometry x="165" y="420" width="220" height="85" as="geometry" />
+          <mxGeometry x="165" y="432" width="220" height="85" as="geometry" />
         </mxCell>
         <mxCell id="-bHBfpAsHSbqOtEoVYM7-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="-bHBfpAsHSbqOtEoVYM7-1" source="-bHBfpAsHSbqOtEoVYM7-6" target="-bHBfpAsHSbqOtEoVYM7-8">
           <mxGeometry relative="1" as="geometry" />
