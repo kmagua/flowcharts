@@ -1,64 +1,72 @@
-<mxfile host="app.diagrams.net" modified="2021-07-28T06:38:18.714Z" agent="5.0 (Windows)" etag="YBeXFqf6zpylwU3GADee" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-28T06:39:14.135Z" agent="5.0 (Windows)" etag="7-IAQL8CQI1vhmWPup_9" version="14.7.7" type="github">
   <diagram id="zSV-mcFSEV-054tMcBkZ" name="Page-1">
     <mxGraphModel dx="1038" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="jlbb2lrGJc-DTEXWLsxi-1" value="REVENUE COLLECTION" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="150" y="50" width="850" height="720" as="geometry" />
+          <mxGeometry x="10" y="50" width="1020" height="720" as="geometry" />
         </mxCell>
         <mxCell id="jlbb2lrGJc-DTEXWLsxi-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="jlbb2lrGJc-DTEXWLsxi-1">
-          <mxGeometry x="130" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="35" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jlbb2lrGJc-DTEXWLsxi-3" value="CEO Receives notification form KAA on remittance/(Air Passenger Service Charge) and forward to FM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jlbb2lrGJc-DTEXWLsxi-1">
-          <mxGeometry x="100" y="170" width="180" height="80" as="geometry" />
+          <mxGeometry x="240" y="165" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jlbb2lrGJc-DTEXWLsxi-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="jlbb2lrGJc-DTEXWLsxi-1" source="jlbb2lrGJc-DTEXWLsxi-2" target="jlbb2lrGJc-DTEXWLsxi-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="190" y="180" as="targetPoint" />
+            <mxPoint x="330" y="175" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jlbb2lrGJc-DTEXWLsxi-6" value="Fund Manager forwards to Fund accountant to confirm" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="jlbb2lrGJc-DTEXWLsxi-1">
-          <mxGeometry x="130" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="315" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jlbb2lrGJc-DTEXWLsxi-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="jlbb2lrGJc-DTEXWLsxi-1" source="jlbb2lrGJc-DTEXWLsxi-3" target="jlbb2lrGJc-DTEXWLsxi-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jlbb2lrGJc-DTEXWLsxi-10" value="&lt;div&gt;Notification matches&lt;/div&gt;&lt;div&gt;actual receipts?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="jlbb2lrGJc-DTEXWLsxi-1">
-          <mxGeometry x="110" y="590" width="160" height="100" as="geometry" />
+          <mxGeometry x="250" y="585" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="jlbb2lrGJc-DTEXWLsxi-14" value="Accountant bank Reconcilliation performs reconciliation of Cash book &amp;amp; Bank Statement for Income realized" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="jlbb2lrGJc-DTEXWLsxi-1">
-          <mxGeometry x="590" y="590" width="150" height="100" as="geometry" />
+          <mxGeometry x="730" y="585" width="150" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="jlbb2lrGJc-DTEXWLsxi-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jlbb2lrGJc-DTEXWLsxi-8" target="jlbb2lrGJc-DTEXWLsxi-10">
+        <mxCell id="jlbb2lrGJc-DTEXWLsxi-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="jlbb2lrGJc-DTEXWLsxi-1" source="jlbb2lrGJc-DTEXWLsxi-8" target="jlbb2lrGJc-DTEXWLsxi-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jlbb2lrGJc-DTEXWLsxi-8" value="Accountant confirms with the bank the actual receipts" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="510" width="120" height="60" as="geometry" />
+        <mxCell id="jlbb2lrGJc-DTEXWLsxi-8" value="Accountant confirms with the bank the actual receipts" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="jlbb2lrGJc-DTEXWLsxi-1">
+          <mxGeometry x="270" y="455" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jlbb2lrGJc-DTEXWLsxi-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jlbb2lrGJc-DTEXWLsxi-6" target="jlbb2lrGJc-DTEXWLsxi-8">
+        <mxCell id="jlbb2lrGJc-DTEXWLsxi-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="jlbb2lrGJc-DTEXWLsxi-1" source="jlbb2lrGJc-DTEXWLsxi-6" target="jlbb2lrGJc-DTEXWLsxi-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jlbb2lrGJc-DTEXWLsxi-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jlbb2lrGJc-DTEXWLsxi-12" target="jlbb2lrGJc-DTEXWLsxi-14">
+        <mxCell id="jlbb2lrGJc-DTEXWLsxi-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="jlbb2lrGJc-DTEXWLsxi-1" source="jlbb2lrGJc-DTEXWLsxi-12" target="jlbb2lrGJc-DTEXWLsxi-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jlbb2lrGJc-DTEXWLsxi-12" value="Cashier record money in cash book" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="660" width="120" height="60" as="geometry" />
+        <mxCell id="jlbb2lrGJc-DTEXWLsxi-12" value="Cashier record money in cash book" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jlbb2lrGJc-DTEXWLsxi-1">
+          <mxGeometry x="510" y="605" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jlbb2lrGJc-DTEXWLsxi-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jlbb2lrGJc-DTEXWLsxi-10" target="jlbb2lrGJc-DTEXWLsxi-12">
+        <mxCell id="jlbb2lrGJc-DTEXWLsxi-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="jlbb2lrGJc-DTEXWLsxi-1" source="jlbb2lrGJc-DTEXWLsxi-10" target="jlbb2lrGJc-DTEXWLsxi-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jlbb2lrGJc-DTEXWLsxi-16" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="440" y="670" width="40" height="20" as="geometry" />
+        <mxCell id="jlbb2lrGJc-DTEXWLsxi-16" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jlbb2lrGJc-DTEXWLsxi-1">
+          <mxGeometry x="430" y="615" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="jlbb2lrGJc-DTEXWLsxi-17" value="Comments to fund manager" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="650" width="120" height="80" as="geometry" />
+        <mxCell id="jlbb2lrGJc-DTEXWLsxi-17" value="Comments to fund manager" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" vertex="1" parent="jlbb2lrGJc-DTEXWLsxi-1">
+          <mxGeometry x="30" y="595" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jlbb2lrGJc-DTEXWLsxi-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jlbb2lrGJc-DTEXWLsxi-10" target="jlbb2lrGJc-DTEXWLsxi-17">
+        <mxCell id="jlbb2lrGJc-DTEXWLsxi-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="jlbb2lrGJc-DTEXWLsxi-1" source="jlbb2lrGJc-DTEXWLsxi-10" target="jlbb2lrGJc-DTEXWLsxi-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jlbb2lrGJc-DTEXWLsxi-19" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="669" width="40" height="20" as="geometry" />
+        <mxCell id="jlbb2lrGJc-DTEXWLsxi-19" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jlbb2lrGJc-DTEXWLsxi-1">
+          <mxGeometry x="190" y="614" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jlbb2lrGJc-DTEXWLsxi-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="jlbb2lrGJc-DTEXWLsxi-1" source="jlbb2lrGJc-DTEXWLsxi-17" target="jlbb2lrGJc-DTEXWLsxi-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="505" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="90" y="485" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
