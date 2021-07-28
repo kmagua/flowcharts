@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-07-28T07:54:57.746Z" agent="5.0 (Windows)" etag="ZT_HyYTbXnvWD1NProeM" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-28T07:57:16.660Z" agent="5.0 (Windows)" etag="x_tLdYYg2cxbT3IXF4Ph" version="14.7.7" type="github">
   <diagram id="38-RYg7YOeez1GykrM8r" name="Page-1">
     <mxGraphModel dx="1038" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="pgjDkxNFBhTPu0ai2_G_-1" value="PROCESSING OF PAYMENT VOUCHERS" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="10" y="10" width="1000" height="800" as="geometry" />
+          <mxGeometry x="10" y="10" width="1090" height="800" as="geometry" />
         </mxCell>
         <mxCell id="pgjDkxNFBhTPu0ai2_G_-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="pgjDkxNFBhTPu0ai2_G_-1">
           <mxGeometry x="190" y="70" width="120" height="60" as="geometry" />
@@ -75,8 +75,14 @@
         <mxCell id="pgjDkxNFBhTPu0ai2_G_-40" value="Cashier makes payment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="pgjDkxNFBhTPu0ai2_G_-1">
           <mxGeometry x="720" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pgjDkxNFBhTPu0ai2_G_-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="pgjDkxNFBhTPu0ai2_G_-1" source="pgjDkxNFBhTPu0ai2_G_-34" target="pgjDkxNFBhTPu0ai2_G_-40">
+        <mxCell id="pgjDkxNFBhTPu0ai2_G_-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="pgjDkxNFBhTPu0ai2_G_-1" source="pgjDkxNFBhTPu0ai2_G_-34" target="pgjDkxNFBhTPu0ai2_G_-40">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pgjDkxNFBhTPu0ai2_G_-46" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="pgjDkxNFBhTPu0ai2_G_-1">
+          <mxGeometry x="930" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pgjDkxNFBhTPu0ai2_G_-48" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="pgjDkxNFBhTPu0ai2_G_-1">
+          <mxGeometry x="817" y="260" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pgjDkxNFBhTPu0ai2_G_-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pgjDkxNFBhTPu0ai2_G_-8">
           <mxGeometry relative="1" as="geometry">
@@ -123,6 +129,21 @@
         </mxCell>
         <mxCell id="pgjDkxNFBhTPu0ai2_G_-38" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="580" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pgjDkxNFBhTPu0ai2_G_-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pgjDkxNFBhTPu0ai2_G_-42" target="pgjDkxNFBhTPu0ai2_G_-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pgjDkxNFBhTPu0ai2_G_-42" value="Cashier posts payment in cash book" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pgjDkxNFBhTPu0ai2_G_-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pgjDkxNFBhTPu0ai2_G_-40" target="pgjDkxNFBhTPu0ai2_G_-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pgjDkxNFBhTPu0ai2_G_-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pgjDkxNFBhTPu0ai2_G_-44" target="pgjDkxNFBhTPu0ai2_G_-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pgjDkxNFBhTPu0ai2_G_-44" value="&lt;span lang=&quot;EN-GB&quot;&gt;Accountant Bank reconciliation does bank reconciliation&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="640" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
