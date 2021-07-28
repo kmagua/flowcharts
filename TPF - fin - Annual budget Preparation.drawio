@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-28T06:56:14.757Z" agent="5.0 (Windows)" etag="IBN2NgCZC39oODxcYWYn" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-28T06:56:55.161Z" agent="5.0 (Windows)" etag="a6Cm5dzBcGFO8sppxSXB" version="14.7.7" type="github">
   <diagram id="Up9UbGRrX_nPrRD4ef_L" name="Page-1">
     <mxGraphModel dx="1038" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -40,6 +40,17 @@
         <mxCell id="DuP928JgmqVkN7yUHcAI-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="DuP928JgmqVkN7yUHcAI-1" source="DuP928JgmqVkN7yUHcAI-9" target="DuP928JgmqVkN7yUHcAI-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="DuP928JgmqVkN7yUHcAI-19" value="&lt;span lang=&quot;EN-GB&quot;&gt;CEO forwards approved budget to line Ministry,National treasury &amp;amp; COB&lt;/span&gt;&lt;b&gt;&lt;span lang=&quot;EN-GB&quot;&gt; &lt;/span&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="DuP928JgmqVkN7yUHcAI-1">
+          <mxGeometry x="810" y="307.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DuP928JgmqVkN7yUHcAI-23" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="DuP928JgmqVkN7yUHcAI-1">
+          <mxGeometry x="810" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DuP928JgmqVkN7yUHcAI-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="DuP928JgmqVkN7yUHcAI-1" source="DuP928JgmqVkN7yUHcAI-19" target="DuP928JgmqVkN7yUHcAI-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="870" y="447.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="DuP928JgmqVkN7yUHcAI-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DuP928JgmqVkN7yUHcAI-11" target="DuP928JgmqVkN7yUHcAI-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -60,9 +71,6 @@
         </mxCell>
         <mxCell id="DuP928JgmqVkN7yUHcAI-17" value="CEO coordinates signing of approved budget by the CEO and Board chair" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="565" y="337.5" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="DuP928JgmqVkN7yUHcAI-19" value="&lt;span lang=&quot;EN-GB&quot;&gt;CEO forwards approved budget to line Ministry,National treasury &amp;amp; COB&lt;/span&gt;&lt;b&gt;&lt;span lang=&quot;EN-GB&quot;&gt; &lt;/span&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="765" y="337.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
