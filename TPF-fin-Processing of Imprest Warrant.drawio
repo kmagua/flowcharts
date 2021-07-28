@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-28T08:49:38.616Z" agent="5.0 (Windows)" etag="r0Kqng7HIDgDRGQNH73k" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-28T08:52:40.629Z" agent="5.0 (Windows)" etag="kygbV5iy_ESmJL8AMMHS" version="14.7.7" type="github">
   <diagram id="g9GUgYayCcv3mOfplAVB" name="Page-1">
     <mxGraphModel dx="1038" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -35,6 +35,12 @@
             <mxPoint x="150" y="675" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="McnS6wod5p9gH7W8vCfP-23" value="Accountant Incharge Imprest Section fills in the imprest application form(s)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="McnS6wod5p9gH7W8vCfP-1">
+          <mxGeometry x="415" y="320" width="170" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="McnS6wod5p9gH7W8vCfP-29" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="McnS6wod5p9gH7W8vCfP-1">
+          <mxGeometry x="690" y="465" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="McnS6wod5p9gH7W8vCfP-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="McnS6wod5p9gH7W8vCfP-6" target="McnS6wod5p9gH7W8vCfP-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -53,6 +59,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="McnS6wod5p9gH7W8vCfP-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="McnS6wod5p9gH7W8vCfP-12" target="McnS6wod5p9gH7W8vCfP-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="McnS6wod5p9gH7W8vCfP-12" value="Approved by CEO?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="645" width="100" height="100" as="geometry" />
         </mxCell>
@@ -67,6 +76,23 @@
         </mxCell>
         <mxCell id="McnS6wod5p9gH7W8vCfP-20" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="190" y="518" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="McnS6wod5p9gH7W8vCfP-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="McnS6wod5p9gH7W8vCfP-21" target="McnS6wod5p9gH7W8vCfP-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="McnS6wod5p9gH7W8vCfP-21" value="Fund accountant forward for imprest processing" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="485" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="McnS6wod5p9gH7W8vCfP-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="McnS6wod5p9gH7W8vCfP-25" target="McnS6wod5p9gH7W8vCfP-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="770" y="482.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="McnS6wod5p9gH7W8vCfP-25" value="Payment Processing" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="342.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="McnS6wod5p9gH7W8vCfP-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="McnS6wod5p9gH7W8vCfP-23" target="McnS6wod5p9gH7W8vCfP-25">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
