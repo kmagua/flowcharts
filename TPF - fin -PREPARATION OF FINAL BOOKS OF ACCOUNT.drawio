@@ -1,1 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2021-07-28T09:17:31.996Z" agent="5.0 (Windows)" version="14.7.7" etag="oFNZ2rZ7hoWvzII_VZK0" type="github"><diagram id="uN3tepQTVBzatROp3jJb">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-28T09:18:15.914Z" agent="5.0 (Windows)" etag="adCtuXTouZDD7m4WVK34" version="14.7.7" type="github">
+  <diagram id="uN3tepQTVBzatROp3jJb" name="Page-1">
+    <mxGraphModel dx="1038" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cWVWdxgGTWWHGKepkyrB-1" value="PREPARATION OF FINAL BOOKS OF ACCOUNT" style="swimlane;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="620" height="810" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
