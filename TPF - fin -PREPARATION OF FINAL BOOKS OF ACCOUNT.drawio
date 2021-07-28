@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-28T10:00:08.810Z" agent="5.0 (Windows)" etag="vUMLaFXgNg96XZDcHsZ-" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-28T10:04:46.335Z" agent="5.0 (Windows)" etag="Eh7HwqW205uoyBa0z3hP" version="14.7.7" type="github">
   <diagram id="uN3tepQTVBzatROp3jJb" name="Page-1">
     <mxGraphModel dx="1038" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -8,36 +8,36 @@
           <mxGeometry x="10" y="10" width="1140" height="810" as="geometry" />
         </mxCell>
         <mxCell id="cWVWdxgGTWWHGKepkyrB-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="cWVWdxgGTWWHGKepkyrB-1">
-          <mxGeometry x="160" y="50" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cWVWdxgGTWWHGKepkyrB-5" value="Fund manager (FM) &lt;span lang=&quot;EN-GB&quot;&gt;obtains a schedule of all revenues realized,expenditures incurred and account balances &lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="cWVWdxgGTWWHGKepkyrB-1">
-          <mxGeometry x="120" y="190" width="200" height="70" as="geometry" />
+          <mxGeometry x="30" y="190" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="cWVWdxgGTWWHGKepkyrB-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="cWVWdxgGTWWHGKepkyrB-1" source="cWVWdxgGTWWHGKepkyrB-2" target="cWVWdxgGTWWHGKepkyrB-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="220" y="190" as="targetPoint" />
+            <mxPoint x="130" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cWVWdxgGTWWHGKepkyrB-6" value="&lt;span lang=&quot;EN-GB&quot;&gt;FM Classifies revenues and expenditures in to the relevant line items&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="cWVWdxgGTWWHGKepkyrB-1">
-          <mxGeometry x="150" y="350" width="140" height="65" as="geometry" />
+          <mxGeometry x="60" y="350" width="140" height="65" as="geometry" />
         </mxCell>
         <mxCell id="cWVWdxgGTWWHGKepkyrB-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="cWVWdxgGTWWHGKepkyrB-1" source="cWVWdxgGTWWHGKepkyrB-5" target="cWVWdxgGTWWHGKepkyrB-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cWVWdxgGTWWHGKepkyrB-12" value="FM performs &lt;span lang=&quot;EN-GB&quot;&gt;budget comparison with the actual expenditures&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="cWVWdxgGTWWHGKepkyrB-1">
-          <mxGeometry x="360" y="631.25" width="150" height="80" as="geometry" />
+          <mxGeometry x="270" y="631.25" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cWVWdxgGTWWHGKepkyrB-22" value="&lt;span lang=&quot;EN-GB&quot;&gt;FM compiles and forwards the draft financial reportto the CEO for consideration&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="cWVWdxgGTWWHGKepkyrB-1">
-          <mxGeometry x="597.5" y="490" width="135" height="80" as="geometry" />
+          <mxGeometry x="507.5" y="490" width="135" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cWVWdxgGTWWHGKepkyrB-34" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="cWVWdxgGTWWHGKepkyrB-1">
-          <mxGeometry x="875" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="1020" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cWVWdxgGTWWHGKepkyrB-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cWVWdxgGTWWHGKepkyrB-8" target="cWVWdxgGTWWHGKepkyrB-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cWVWdxgGTWWHGKepkyrB-8" value="FM identifies assets (&lt;span lang=&quot;EN-GB&quot;&gt;current and non-current)&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="507.5" width="140" height="62.5" as="geometry" />
+          <mxGeometry x="70" y="507.5" width="140" height="62.5" as="geometry" />
         </mxCell>
         <mxCell id="cWVWdxgGTWWHGKepkyrB-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cWVWdxgGTWWHGKepkyrB-6" target="cWVWdxgGTWWHGKepkyrB-8">
           <mxGeometry relative="1" as="geometry" />
@@ -46,13 +46,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cWVWdxgGTWWHGKepkyrB-10" value="FM &lt;span lang=&quot;EN-GB&quot;&gt;identifies liabilities (Current and Non-Current)&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="651.25" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="651.25" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cWVWdxgGTWWHGKepkyrB-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cWVWdxgGTWWHGKepkyrB-14" target="cWVWdxgGTWWHGKepkyrB-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cWVWdxgGTWWHGKepkyrB-14" value="FM &lt;span lang=&quot;EN-GB&quot;&gt;compares the actual cash receipt with the actual payment from operations/investment and financing activities&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="481.25" width="150" height="80" as="geometry" />
+          <mxGeometry x="280" y="481.25" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cWVWdxgGTWWHGKepkyrB-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cWVWdxgGTWWHGKepkyrB-12" target="cWVWdxgGTWWHGKepkyrB-14">
           <mxGeometry relative="1" as="geometry" />
@@ -61,19 +61,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cWVWdxgGTWWHGKepkyrB-16" value="&lt;span lang=&quot;EN-GB&quot;&gt;FM gets the difference between cash in the beginning and cash at the end &lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="321.25" width="150" height="80" as="geometry" />
+          <mxGeometry x="280" y="321.25" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cWVWdxgGTWWHGKepkyrB-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cWVWdxgGTWWHGKepkyrB-20" target="cWVWdxgGTWWHGKepkyrB-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cWVWdxgGTWWHGKepkyrB-20" value="&lt;span lang=&quot;EN-GB&quot;&gt;FM &lt;/span&gt;&lt;span lang=&quot;EN-GB&quot;&gt;Identifies changes in asset and liabilities&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="321.25" width="150" height="80" as="geometry" />
+          <mxGeometry x="510" y="321.25" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cWVWdxgGTWWHGKepkyrB-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cWVWdxgGTWWHGKepkyrB-24" target="cWVWdxgGTWWHGKepkyrB-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cWVWdxgGTWWHGKepkyrB-24" value="&lt;span lang=&quot;EN-GB&quot;&gt;CEO reviews and forwarding to F&amp;amp;A committee ofthe Board for recommendations else return to FM with comments.&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="580" y="660" width="190" height="80" as="geometry" />
+          <mxGeometry x="490" y="660" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cWVWdxgGTWWHGKepkyrB-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cWVWdxgGTWWHGKepkyrB-22" target="cWVWdxgGTWWHGKepkyrB-24">
           <mxGeometry relative="1" as="geometry" />
@@ -82,21 +82,21 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cWVWdxgGTWWHGKepkyrB-26" value="&lt;span lang=&quot;EN-GB&quot;&gt;CEO reviews and forwards to F&amp;amp;A committee of the Board for recommendations else return to FM with comments.&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="850" y="660" width="190" height="80" as="geometry" />
+          <mxGeometry x="760" y="660" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cWVWdxgGTWWHGKepkyrB-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cWVWdxgGTWWHGKepkyrB-28" target="cWVWdxgGTWWHGKepkyrB-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cWVWdxgGTWWHGKepkyrB-28" value="&lt;span lang=&quot;EN-GB&quot;&gt;F&amp;amp;A chair presents the financial statements for the period under review to the full Board for recommendation and approvals&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="850" y="500" width="190" height="80" as="geometry" />
+          <mxGeometry x="760" y="500" width="190" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="cWVWdxgGTWWHGKepkyrB-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="cWVWdxgGTWWHGKepkyrB-30" target="cWVWdxgGTWWHGKepkyrB-34">
+        <mxCell id="cWVWdxgGTWWHGKepkyrB-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cWVWdxgGTWWHGKepkyrB-30" target="cWVWdxgGTWWHGKepkyrB-34">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="945" y="250" as="targetPoint" />
+            <mxPoint x="855" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cWVWdxgGTWWHGKepkyrB-30" value="&lt;span lang=&quot;EN-GB&quot;&gt;CEO submits the report to relevant bodies such us parent ministry, National Treasury &amp;amp; CoB and Office of Auditor General&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="850" y="340" width="190" height="80" as="geometry" />
+          <mxGeometry x="760" y="340" width="190" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
