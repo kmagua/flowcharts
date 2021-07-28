@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-07-28T06:40:50.395Z" agent="5.0 (Windows)" etag="knuSMvVDU5fIJEIkAgeG" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-28T06:41:39.793Z" agent="5.0 (Windows)" etag="KsiQqzEl1y8cTf7EEc7s" version="14.7.7" type="github">
   <diagram id="zSV-mcFSEV-054tMcBkZ" name="Page-1">
     <mxGraphModel dx="1038" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="jlbb2lrGJc-DTEXWLsxi-1" value="REVENUE COLLECTION" style="swimlane;" vertex="1" parent="1">
+        <mxCell id="jlbb2lrGJc-DTEXWLsxi-1" value="REVENUE COLLECTION" style="swimlane;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="10" y="50" width="1120" height="720" as="geometry" />
         </mxCell>
         <mxCell id="jlbb2lrGJc-DTEXWLsxi-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="jlbb2lrGJc-DTEXWLsxi-1">
