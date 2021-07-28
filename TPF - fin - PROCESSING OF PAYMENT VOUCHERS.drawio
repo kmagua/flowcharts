@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-28T07:50:38.273Z" agent="5.0 (Windows)" etag="cMhw1GqdIoy80PqQ6Oeb" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-28T07:52:19.946Z" agent="5.0 (Windows)" etag="19Ht7K20liyJxLywgXfA" version="14.7.7" type="github">
   <diagram id="38-RYg7YOeez1GykrM8r" name="Page-1">
     <mxGraphModel dx="1038" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -34,7 +34,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pgjDkxNFBhTPu0ai2_G_-21" value="FM confirms availability if funds" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="pgjDkxNFBhTPu0ai2_G_-1">
-          <mxGeometry x="440" y="470" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pgjDkxNFBhTPu0ai2_G_-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="pgjDkxNFBhTPu0ai2_G_-1" source="pgjDkxNFBhTPu0ai2_G_-19" target="pgjDkxNFBhTPu0ai2_G_-21">
           <mxGeometry relative="1" as="geometry" />
@@ -48,8 +48,8 @@
         <mxCell id="pgjDkxNFBhTPu0ai2_G_-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="pgjDkxNFBhTPu0ai2_G_-1" source="pgjDkxNFBhTPu0ai2_G_-21" target="pgjDkxNFBhTPu0ai2_G_-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pgjDkxNFBhTPu0ai2_G_-29" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="pgjDkxNFBhTPu0ai2_G_-1">
-          <mxGeometry x="440" y="170" width="120" height="60" as="geometry" />
+        <mxCell id="pgjDkxNFBhTPu0ai2_G_-29" value="Payment request is sent for approval by AIE holder/CEO" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="pgjDkxNFBhTPu0ai2_G_-1">
+          <mxGeometry x="440" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pgjDkxNFBhTPu0ai2_G_-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="pgjDkxNFBhTPu0ai2_G_-1" source="pgjDkxNFBhTPu0ai2_G_-27" target="pgjDkxNFBhTPu0ai2_G_-29">
           <mxGeometry relative="1" as="geometry" />
@@ -93,6 +93,15 @@
         </mxCell>
         <mxCell id="pgjDkxNFBhTPu0ai2_G_-25" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="720" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pgjDkxNFBhTPu0ai2_G_-31" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="290" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pgjDkxNFBhTPu0ai2_G_-34" value="Payment Approved?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="190" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pgjDkxNFBhTPu0ai2_G_-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pgjDkxNFBhTPu0ai2_G_-29" target="pgjDkxNFBhTPu0ai2_G_-34">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
