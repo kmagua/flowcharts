@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-28T09:40:46.795Z" agent="5.0 (Windows)" etag="_OhQ03TS-I-5UnB0QHHW" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-28T09:41:57.564Z" agent="5.0 (Windows)" etag="3-LxEpkGX9SFxC19gyqT" version="14.7.7" type="github">
   <diagram id="uN3tepQTVBzatROp3jJb" name="Page-1">
     <mxGraphModel dx="1038" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -24,7 +24,7 @@
         <mxCell id="cWVWdxgGTWWHGKepkyrB-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="cWVWdxgGTWWHGKepkyrB-1" source="cWVWdxgGTWWHGKepkyrB-5" target="cWVWdxgGTWWHGKepkyrB-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cWVWdxgGTWWHGKepkyrB-8" value="Fund manager identifies &lt;span lang=&quot;EN-GB&quot;&gt;current and non-current assets&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="cWVWdxgGTWWHGKepkyrB-8" value="Fund manager identifies assets (&lt;span lang=&quot;EN-GB&quot;&gt;current and non-current)&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="507.5" width="140" height="62.5" as="geometry" />
         </mxCell>
         <mxCell id="cWVWdxgGTWWHGKepkyrB-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cWVWdxgGTWWHGKepkyrB-6" target="cWVWdxgGTWWHGKepkyrB-8">
