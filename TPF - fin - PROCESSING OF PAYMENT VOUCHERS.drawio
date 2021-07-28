@@ -1,11 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2021-07-28T07:31:12.775Z" agent="5.0 (Windows)" etag="QkUwQkcuQlffJyCllnLR" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-28T07:42:39.472Z" agent="5.0 (Windows)" etag="dmjDHOHP41krTW9eG50M" version="14.7.7" type="github">
   <diagram id="38-RYg7YOeez1GykrM8r" name="Page-1">
     <mxGraphModel dx="1038" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="pgjDkxNFBhTPu0ai2_G_-1" value="PROCESSING OF PAYMENT VOUCHERS" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="10" y="10" width="1000" height="330" as="geometry" />
+          <mxGeometry x="10" y="10" width="1000" height="800" as="geometry" />
+        </mxCell>
+        <mxCell id="pgjDkxNFBhTPu0ai2_G_-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="pgjDkxNFBhTPu0ai2_G_-1">
+          <mxGeometry x="160" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pgjDkxNFBhTPu0ai2_G_-5" value="Fund accountant receives payment instruction with all relevant documents (, contractors certificate of works, staff and BOD facilitation memos/claim form and salary by-products, supplier invoices)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="pgjDkxNFBhTPu0ai2_G_-1">
+          <mxGeometry x="110" y="180" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="pgjDkxNFBhTPu0ai2_G_-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="pgjDkxNFBhTPu0ai2_G_-1" source="pgjDkxNFBhTPu0ai2_G_-2" target="pgjDkxNFBhTPu0ai2_G_-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pgjDkxNFBhTPu0ai2_G_-6" value="AVP verify and raise payment vouchers" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="pgjDkxNFBhTPu0ai2_G_-1">
+          <mxGeometry x="145" y="350" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pgjDkxNFBhTPu0ai2_G_-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="pgjDkxNFBhTPu0ai2_G_-1" source="pgjDkxNFBhTPu0ai2_G_-5" target="pgjDkxNFBhTPu0ai2_G_-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pgjDkxNFBhTPu0ai2_G_-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="pgjDkxNFBhTPu0ai2_G_-1">
+          <mxGeometry x="160" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pgjDkxNFBhTPu0ai2_G_-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pgjDkxNFBhTPu0ai2_G_-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pgjDkxNFBhTPu0ai2_G_-8" value="verified?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="490" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pgjDkxNFBhTPu0ai2_G_-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pgjDkxNFBhTPu0ai2_G_-6" target="pgjDkxNFBhTPu0ai2_G_-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
