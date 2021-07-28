@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-28T06:50:02.735Z" agent="5.0 (Windows)" etag="b168RGajyYbAnXMF-XX1" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-28T06:50:37.467Z" agent="5.0 (Windows)" etag="jvxDrRu-KlR4HoI9EG42" version="14.7.7" type="github">
   <diagram id="Up9UbGRrX_nPrRD4ef_L" name="Page-1">
     <mxGraphModel dx="1038" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -37,7 +37,7 @@
         <mxCell id="DuP928JgmqVkN7yUHcAI-9" value="&lt;span lang=&quot;EN-GB&quot;&gt;FM Compiles &amp;amp; presents proposed budget to the Budget Committee &lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="300" y="525" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DuP928JgmqVkN7yUHcAI-11" value="FM &lt;span lang=&quot;EN-GB&quot;&gt;cordinates review and validation of the proposed work plan and budget by the budget committee &lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="DuP928JgmqVkN7yUHcAI-11" value="FM &lt;span lang=&quot;EN-GB&quot;&gt;cordinates review and validation of the proposed work plan and budget by the budget committee and forwards to CEO &lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="650" width="160" height="75" as="geometry" />
         </mxCell>
       </root>
