@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-28T08:30:06.837Z" agent="5.0 (Windows)" etag="iwV2x3PL4yLY5WQX0-Dy" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-28T08:31:39.681Z" agent="5.0 (Windows)" etag="XEBgKx5--Zd1xYluk14U" version="14.7.7" type="github">
   <diagram id="ztFzvjZc60GsRg00ITb4" name="Page-1">
     <mxGraphModel dx="1038" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -8,48 +8,62 @@
           <mxGeometry x="10" y="20" width="620" height="780" as="geometry" />
         </mxCell>
         <mxCell id="-bHBfpAsHSbqOtEoVYM7-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-bHBfpAsHSbqOtEoVYM7-1">
-          <mxGeometry x="140" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="215" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-bHBfpAsHSbqOtEoVYM7-5" value="Employee fills a claim form &lt;span lang=&quot;EN-GB&quot;&gt;(&lt;span&gt;staff and BOD facilitation memos/claim form and salaryby-products) &lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-bHBfpAsHSbqOtEoVYM7-1">
-          <mxGeometry x="120" y="160" width="160" height="80" as="geometry" />
+          <mxGeometry x="195" y="170" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-bHBfpAsHSbqOtEoVYM7-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="-bHBfpAsHSbqOtEoVYM7-1" source="-bHBfpAsHSbqOtEoVYM7-2" target="-bHBfpAsHSbqOtEoVYM7-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="200" y="180" as="targetPoint" />
+            <mxPoint x="275" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-bHBfpAsHSbqOtEoVYM7-6" value="HoD/ relevant AIE holder approves the claim form" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="-bHBfpAsHSbqOtEoVYM7-1">
-          <mxGeometry x="140" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="215" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-bHBfpAsHSbqOtEoVYM7-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="-bHBfpAsHSbqOtEoVYM7-1" source="-bHBfpAsHSbqOtEoVYM7-5" target="-bHBfpAsHSbqOtEoVYM7-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-bHBfpAsHSbqOtEoVYM7-8" value="&lt;span lang=&quot;EN-GB&quot;&gt;Fund Manager receives claim form&lt;span&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-bHBfpAsHSbqOtEoVYM7-1">
-          <mxGeometry x="90" y="410" width="220" height="85" as="geometry" />
+          <mxGeometry x="165" y="420" width="220" height="85" as="geometry" />
         </mxCell>
         <mxCell id="-bHBfpAsHSbqOtEoVYM7-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="-bHBfpAsHSbqOtEoVYM7-1" source="-bHBfpAsHSbqOtEoVYM7-6" target="-bHBfpAsHSbqOtEoVYM7-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-bHBfpAsHSbqOtEoVYM7-12" value="FM sends to CEO for approval" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-bHBfpAsHSbqOtEoVYM7-1">
-          <mxGeometry x="380" y="587.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="455" y="597.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-bHBfpAsHSbqOtEoVYM7-20" value="Comments" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" vertex="1" parent="-bHBfpAsHSbqOtEoVYM7-1">
+          <mxGeometry x="20" y="587.5" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-bHBfpAsHSbqOtEoVYM7-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-bHBfpAsHSbqOtEoVYM7-10" target="-bHBfpAsHSbqOtEoVYM7-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="-bHBfpAsHSbqOtEoVYM7-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-bHBfpAsHSbqOtEoVYM7-10" target="-bHBfpAsHSbqOtEoVYM7-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="145" y="647.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="-bHBfpAsHSbqOtEoVYM7-10" value="Approved by FM?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="150" y="597.5" width="120" height="80" as="geometry" />
+          <mxGeometry x="225" y="607.5" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-bHBfpAsHSbqOtEoVYM7-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-bHBfpAsHSbqOtEoVYM7-8" target="-bHBfpAsHSbqOtEoVYM7-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-bHBfpAsHSbqOtEoVYM7-14" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="281" y="618" width="40" height="20" as="geometry" />
+          <mxGeometry x="356" y="628" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-bHBfpAsHSbqOtEoVYM7-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-bHBfpAsHSbqOtEoVYM7-16" target="-bHBfpAsHSbqOtEoVYM7-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-bHBfpAsHSbqOtEoVYM7-16" value="&lt;div&gt;Approved&lt;/div&gt;&lt;div&gt; by CEO?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="400" y="457.5" width="100" height="80" as="geometry" />
+          <mxGeometry x="475" y="467.5" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-bHBfpAsHSbqOtEoVYM7-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-bHBfpAsHSbqOtEoVYM7-12" target="-bHBfpAsHSbqOtEoVYM7-16">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-bHBfpAsHSbqOtEoVYM7-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="465" y="317.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
