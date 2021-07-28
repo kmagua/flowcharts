@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-07-28T09:43:39.875Z" agent="5.0 (Windows)" etag="kHgKwvrgE64fpk0WTeeC" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-28T09:48:40.259Z" agent="5.0 (Windows)" etag="tQ92hRVqYvZeFxV9IOr8" version="14.7.7" type="github">
   <diagram id="uN3tepQTVBzatROp3jJb" name="Page-1">
     <mxGraphModel dx="1038" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="cWVWdxgGTWWHGKepkyrB-1" value="PREPARATION OF FINAL BOOKS OF ACCOUNT" style="swimlane;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="10" y="10" width="620" height="810" as="geometry" />
+          <mxGeometry x="10" y="10" width="1140" height="810" as="geometry" />
         </mxCell>
         <mxCell id="cWVWdxgGTWWHGKepkyrB-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="cWVWdxgGTWWHGKepkyrB-1">
           <mxGeometry x="160" y="50" width="120" height="60" as="geometry" />
@@ -41,6 +41,12 @@
         </mxCell>
         <mxCell id="cWVWdxgGTWWHGKepkyrB-10" value="Fund manager &lt;span lang=&quot;EN-GB&quot;&gt;identifies liabilities (Current and Non-Current)&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="651.25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cWVWdxgGTWWHGKepkyrB-14" value="Fund manager &lt;span lang=&quot;EN-GB&quot;&gt;compares the actual cash receipt with the actual payment from operations/investment and financing activities&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="481.25" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cWVWdxgGTWWHGKepkyrB-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cWVWdxgGTWWHGKepkyrB-12" target="cWVWdxgGTWWHGKepkyrB-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
