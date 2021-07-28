@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-28T06:51:50.898Z" agent="5.0 (Windows)" etag="ZAgKHwNJ_AtgkQp7Rpxe" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-28T06:51:59.009Z" agent="5.0 (Windows)" etag="WFIbkbMFDMJp9DQfepms" version="14.7.7" type="github">
   <diagram id="Up9UbGRrX_nPrRD4ef_L" name="Page-1">
     <mxGraphModel dx="1038" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -44,7 +44,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DuP928JgmqVkN7yUHcAI-13" value="Signing of the proposed budget and forwarding to Finance &amp;amp; Administration Committee (FAC) of the Board for recommendation to full board" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="630" width="190" height="110" as="geometry" />
+          <mxGeometry x="530" y="640" width="190" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
