@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-28T09:50:09.700Z" agent="5.0 (Windows)" etag="_bLi9DvLZh2_20l_j3bE" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-28T09:52:59.151Z" agent="5.0 (Windows)" etag="0U-gZgPbBMf705dkdxKr" version="14.7.7" type="github">
   <diagram id="uN3tepQTVBzatROp3jJb" name="Page-1">
     <mxGraphModel dx="1038" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -51,8 +51,14 @@
         <mxCell id="cWVWdxgGTWWHGKepkyrB-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cWVWdxgGTWWHGKepkyrB-12" target="cWVWdxgGTWWHGKepkyrB-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="cWVWdxgGTWWHGKepkyrB-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cWVWdxgGTWWHGKepkyrB-16" target="cWVWdxgGTWWHGKepkyrB-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cWVWdxgGTWWHGKepkyrB-16" value="&lt;span lang=&quot;EN-GB&quot;&gt;FM gets the difference between cash in the beginning and cash at the end &lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="321.25" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cWVWdxgGTWWHGKepkyrB-20" value="&lt;span lang=&quot;EN-GB&quot;&gt;FM &lt;/span&gt;&lt;span lang=&quot;EN-GB&quot;&gt;Identifies changes in asset and liabilities&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="321.25" width="150" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
