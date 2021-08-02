@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-02T07:34:08.057Z" agent="5.0 (Windows)" etag="HekFElHgHgmW98ABgcnd" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-02T07:39:07.011Z" agent="5.0 (Windows)" etag="ma6b-V1_pBD4-xkMQTsj" version="14.9.2" type="github">
   <diagram id="zSV-mcFSEV-054tMcBkZ" name="Page-1">
     <mxGraphModel dx="1038" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -33,8 +33,8 @@
         <mxCell id="jlbb2lrGJc-DTEXWLsxi-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="jlbb2lrGJc-DTEXWLsxi-1" source="jlbb2lrGJc-DTEXWLsxi-8" target="jlbb2lrGJc-DTEXWLsxi-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jlbb2lrGJc-DTEXWLsxi-8" value="Accountant confirms with the bank the actual receipts" style="whiteSpace=wrap;html=1;rounded=0;" parent="jlbb2lrGJc-DTEXWLsxi-1" vertex="1">
-          <mxGeometry x="270" y="530" width="120" height="60" as="geometry" />
+        <mxCell id="jlbb2lrGJc-DTEXWLsxi-8" value="&lt;span lang=&quot;EN-GB&quot;&gt;FA scans and uploads the notification in the system and confirms with the bank the actual receipts.&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="jlbb2lrGJc-DTEXWLsxi-1" vertex="1">
+          <mxGeometry x="240" y="520" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jlbb2lrGJc-DTEXWLsxi-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="jlbb2lrGJc-DTEXWLsxi-1" source="jlbb2lrGJc-DTEXWLsxi-6" target="jlbb2lrGJc-DTEXWLsxi-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
