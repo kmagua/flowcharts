@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-02T09:13:35.600Z" agent="5.0 (Windows)" etag="4Tpa5Lh8fvhBRRXqhA8A" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-02T09:18:06.070Z" agent="5.0 (Windows)" etag="bhn2cZpnqzlWHcNhVIs3" version="14.9.2" type="github">
   <diagram id="cl_WVMJE5ysSoHUtYMA4" name="Page-1">
     <mxGraphModel dx="1038" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -10,13 +10,16 @@
         <mxCell id="2gV9gYX4ny8Dracs0vjc-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" parent="2gV9gYX4ny8Dracs0vjc-1" vertex="1">
           <mxGeometry x="90" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2gV9gYX4ny8Dracs0vjc-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="2gV9gYX4ny8Dracs0vjc-1" source="2gV9gYX4ny8Dracs0vjc-2" edge="1">
+        <mxCell id="2gV9gYX4ny8Dracs0vjc-22" value="&lt;span lang=&quot;EN-GB&quot;&gt;FA makes necessary amendments to the cashbook&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="2gV9gYX4ny8Dracs0vjc-1" vertex="1">
+          <mxGeometry x="528" y="340" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gXfA5e-M7nAlvuN9M8Uj-1" value="&lt;span lang=&quot;EN-GB&quot;&gt;System automatically notifies cashier to obtain bank statement at the 5&lt;sup&gt;th&lt;/sup&gt; day of the month&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2gV9gYX4ny8Dracs0vjc-1">
+          <mxGeometry x="65" y="190" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2gV9gYX4ny8Dracs0vjc-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="2gV9gYX4ny8Dracs0vjc-1" source="2gV9gYX4ny8Dracs0vjc-2" target="gXfA5e-M7nAlvuN9M8Uj-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="150" y="190" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="2gV9gYX4ny8Dracs0vjc-22" value="&lt;span lang=&quot;EN-GB&quot;&gt;FA makes necessary amendments to the cashbook&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="2gV9gYX4ny8Dracs0vjc-1" vertex="1">
-          <mxGeometry x="528" y="340" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="2gV9gYX4ny8Dracs0vjc-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="2gV9gYX4ny8Dracs0vjc-20" edge="1">
           <mxGeometry relative="1" as="geometry">
