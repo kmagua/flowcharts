@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-02T07:40:36.109Z" agent="5.0 (Windows)" etag="nYPFBOl5c9w2N1OxZn4x" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-02T07:43:06.384Z" agent="5.0 (Windows)" etag="3IsazLRI2mOkR7a1czG2" version="14.9.2" type="github">
   <diagram id="zSV-mcFSEV-054tMcBkZ" name="Page-1">
     <mxGraphModel dx="1038" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -27,8 +27,8 @@
         <mxCell id="jlbb2lrGJc-DTEXWLsxi-10" value="&lt;div&gt;Notification matches&lt;/div&gt;&lt;div&gt;actual receipts?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="jlbb2lrGJc-DTEXWLsxi-1" vertex="1">
           <mxGeometry x="250" y="650" width="160" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="jlbb2lrGJc-DTEXWLsxi-14" value="&lt;span lang=&quot;EN-GB&quot;&gt;Send email notification containing the original official receipt confirming successful disbursement&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="jlbb2lrGJc-DTEXWLsxi-1" vertex="1">
-          <mxGeometry x="730" y="660" width="150" height="80" as="geometry" />
+        <mxCell id="jlbb2lrGJc-DTEXWLsxi-14" value="&lt;span lang=&quot;EN-GB&quot;&gt;Cashier sends email notification containing the original official receipt confirming successful disbursement and notifies ABR for reconciliation&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="jlbb2lrGJc-DTEXWLsxi-1" vertex="1">
+          <mxGeometry x="710" y="650" width="170" height="100" as="geometry" />
         </mxCell>
         <mxCell id="jlbb2lrGJc-DTEXWLsxi-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="jlbb2lrGJc-DTEXWLsxi-1" source="jlbb2lrGJc-DTEXWLsxi-8" target="jlbb2lrGJc-DTEXWLsxi-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
