@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2021-08-02T09:26:43.619Z" agent="5.0 (Windows)" version="14.9.2" etag="4KakuB1t_R-Wm6ll9hKz" type="github"><diagram id="WVIWKFgPiaho4UmIflbX">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-08-02T09:32:09.588Z" agent="5.0 (Windows)" etag="bHHhqR4NKS22ufPINA3f" version="14.9.2" type="github">
+  <diagram id="WVIWKFgPiaho4UmIflbX" name="Page-1">
+    <mxGraphModel dx="1038" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dAVz5kQ6bnQr92_F5C6R-1" value="BOARD OF SURVEY " style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="30" y="30" width="980" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="dAVz5kQ6bnQr92_F5C6R-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dAVz5kQ6bnQr92_F5C6R-1" source="dAVz5kQ6bnQr92_F5C6R-2" target="dAVz5kQ6bnQr92_F5C6R-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dAVz5kQ6bnQr92_F5C6R-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dAVz5kQ6bnQr92_F5C6R-1">
+          <mxGeometry x="220" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dAVz5kQ6bnQr92_F5C6R-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dAVz5kQ6bnQr92_F5C6R-1" source="dAVz5kQ6bnQr92_F5C6R-3" target="dAVz5kQ6bnQr92_F5C6R-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dAVz5kQ6bnQr92_F5C6R-3" value="&lt;span lang=&quot;EN-GB&quot;&gt;Head Accouning Unit (HAU) writes a memo to the CEO seeking approval for appointment of a suggestedofficers to conduct board of survey&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dAVz5kQ6bnQr92_F5C6R-1">
+          <mxGeometry x="170" y="170" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dAVz5kQ6bnQr92_F5C6R-4" value="&lt;span lang=&quot;EN-GB&quot;&gt;CEO appoints officers for the board of survey (may remove and/or add tothe suggested list).&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dAVz5kQ6bnQr92_F5C6R-1">
+          <mxGeometry x="170" y="340" width="220" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
