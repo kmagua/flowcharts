@@ -1,37 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2021-08-03T11:06:39.775Z" agent="5.0 (Windows)" etag="T0XVu4ArU8-zri-lcGSd" version="14.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-03T11:08:43.314Z" agent="5.0 (Windows)" etag="csTNFSucd6S9JhbOzwgN" version="14.9.3" type="github">
   <diagram id="WpnbMsGVlVjoABWt_c_4" name="Page-1">
     <mxGraphModel dx="1038" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dWn0WBdZ1G_wQW0XFXWZ-1" value="Leave management - Scheduling " style="swimlane;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="20" y="20" width="910" height="790" as="geometry" />
+          <mxGeometry x="20" y="20" width="910" height="700" as="geometry" />
         </mxCell>
         <mxCell id="dWn0WBdZ1G_wQW0XFXWZ-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dWn0WBdZ1G_wQW0XFXWZ-1">
-          <mxGeometry x="360" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="46" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dWn0WBdZ1G_wQW0XFXWZ-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dWn0WBdZ1G_wQW0XFXWZ-1" source="dWn0WBdZ1G_wQW0XFXWZ-5" target="dWn0WBdZ1G_wQW0XFXWZ-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dWn0WBdZ1G_wQW0XFXWZ-5" value="&lt;span lang=&quot;EN-GB&quot;&gt;At the beginning of the financial year (FY) the HRM sends notification to HODs to &lt;span&gt;prepare&lt;/span&gt; leave schedules&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dWn0WBdZ1G_wQW0XFXWZ-1">
-          <mxGeometry x="320" y="160" width="200" height="80" as="geometry" />
+          <mxGeometry x="240" y="166" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dWn0WBdZ1G_wQW0XFXWZ-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dWn0WBdZ1G_wQW0XFXWZ-1" source="dWn0WBdZ1G_wQW0XFXWZ-2" target="dWn0WBdZ1G_wQW0XFXWZ-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="180" as="targetPoint" />
+            <mxPoint x="340" y="186" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dWn0WBdZ1G_wQW0XFXWZ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dWn0WBdZ1G_wQW0XFXWZ-1" source="dWn0WBdZ1G_wQW0XFXWZ-6" target="dWn0WBdZ1G_wQW0XFXWZ-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dWn0WBdZ1G_wQW0XFXWZ-6" value="&lt;span lang=&quot;EN-GB&quot;&gt;HOD send notifications to staff to &lt;span&gt;prepare &lt;/span&gt;leave schedules for the year&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dWn0WBdZ1G_wQW0XFXWZ-1">
-          <mxGeometry x="330" y="300" width="180" height="80" as="geometry" />
+          <mxGeometry x="250" y="306" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dWn0WBdZ1G_wQW0XFXWZ-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dWn0WBdZ1G_wQW0XFXWZ-1" source="dWn0WBdZ1G_wQW0XFXWZ-8" target="dWn0WBdZ1G_wQW0XFXWZ-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dWn0WBdZ1G_wQW0XFXWZ-8" value="&lt;span lang=&quot;EN-GB&quot;&gt;Staff members submit their leave schedules to the HOD&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dWn0WBdZ1G_wQW0XFXWZ-1">
-          <mxGeometry x="330" y="430" width="180" height="80" as="geometry" />
+          <mxGeometry x="250" y="436" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dWn0WBdZ1G_wQW0XFXWZ-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dWn0WBdZ1G_wQW0XFXWZ-1" source="dWn0WBdZ1G_wQW0XFXWZ-10" target="dWn0WBdZ1G_wQW0XFXWZ-12">
           <mxGeometry relative="1" as="geometry" />
@@ -40,30 +40,38 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dWn0WBdZ1G_wQW0XFXWZ-10" value="&lt;div&gt;Approved &lt;br&gt;&lt;/div&gt;&lt;div&gt;by HoD&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="dWn0WBdZ1G_wQW0XFXWZ-1">
-          <mxGeometry x="365" y="580" width="110" height="100" as="geometry" />
+          <mxGeometry x="285" y="586" width="110" height="100" as="geometry" />
         </mxCell>
         <mxCell id="dWn0WBdZ1G_wQW0XFXWZ-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="dWn0WBdZ1G_wQW0XFXWZ-1" source="dWn0WBdZ1G_wQW0XFXWZ-12" target="dWn0WBdZ1G_wQW0XFXWZ-8">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="260" y="500" as="targetPoint" />
+            <mxPoint x="180" y="506" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dWn0WBdZ1G_wQW0XFXWZ-12" value="Comments" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" vertex="1" parent="dWn0WBdZ1G_wQW0XFXWZ-1">
-          <mxGeometry x="140" y="590" width="120" height="80" as="geometry" />
+          <mxGeometry x="60" y="596" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dWn0WBdZ1G_wQW0XFXWZ-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dWn0WBdZ1G_wQW0XFXWZ-1" source="dWn0WBdZ1G_wQW0XFXWZ-16" target="dWn0WBdZ1G_wQW0XFXWZ-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dWn0WBdZ1G_wQW0XFXWZ-16" value="HoD submits departmental schedule to HRM" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="dWn0WBdZ1G_wQW0XFXWZ-1">
-          <mxGeometry x="630" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="550" y="606" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dWn0WBdZ1G_wQW0XFXWZ-18" value="HoD submits departmental schedule to HRM" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="dWn0WBdZ1G_wQW0XFXWZ-1">
-          <mxGeometry x="620" y="460" width="140" height="70" as="geometry" />
+        <mxCell id="dWn0WBdZ1G_wQW0XFXWZ-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dWn0WBdZ1G_wQW0XFXWZ-1" source="dWn0WBdZ1G_wQW0XFXWZ-18" target="dWn0WBdZ1G_wQW0XFXWZ-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="381" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dWn0WBdZ1G_wQW0XFXWZ-18" value="System to compile all schedules to an organization schedule" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="dWn0WBdZ1G_wQW0XFXWZ-1">
+          <mxGeometry x="540" y="466" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dWn0WBdZ1G_wQW0XFXWZ-24" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dWn0WBdZ1G_wQW0XFXWZ-1">
+          <mxGeometry x="750" y="471" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dWn0WBdZ1G_wQW0XFXWZ-20" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="310" y="630" width="40" height="20" as="geometry" />
+          <mxGeometry x="230" y="636" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="dWn0WBdZ1G_wQW0XFXWZ-21" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="545" y="628" width="40" height="20" as="geometry" />
+          <mxGeometry x="465" y="634" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
