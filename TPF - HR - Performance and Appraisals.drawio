@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-03T10:52:21.258Z" agent="5.0 (Windows)" etag="fYhD23PNkcdQLH9esK_N" version="14.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-03T10:53:43.917Z" agent="5.0 (Windows)" etag="cmFYEnUEumQVTG2LyYbp" version="14.9.3" type="github">
   <diagram id="Ca4OcfbWpyK8q4Cd8vkL" name="Page-1">
     <mxGraphModel dx="1038" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -61,8 +61,14 @@
         <mxCell id="dlbC73xiNSkO4pf16p15-15" value="Comments" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="dlbC73xiNSkO4pf16p15-1">
           <mxGeometry x="110" y="545" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="dlbC73xiNSkO4pf16p15-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dlbC73xiNSkO4pf16p15-1" source="dlbC73xiNSkO4pf16p15-21" target="dlbC73xiNSkO4pf16p15-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dlbC73xiNSkO4pf16p15-21" value="&lt;span lang=&quot;EN-GB&quot;&gt;Employee and HoD perform end of year review of set objectives (appraisal) at the end of financial year&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="dlbC73xiNSkO4pf16p15-1">
           <mxGeometry x="590" y="690" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dlbC73xiNSkO4pf16p15-23" value="&lt;span lang=&quot;EN-GB&quot;&gt;Employee and HoD perform end of year review of set objectives (appraisal) at the end of financial year&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="dlbC73xiNSkO4pf16p15-1">
+          <mxGeometry x="590" y="530" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dlbC73xiNSkO4pf16p15-19" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="530" y="660" width="40" height="20" as="geometry" />
