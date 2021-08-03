@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-03T11:18:06.949Z" agent="5.0 (Windows)" etag="EgzLat5kG7B72WxKjR6u" version="14.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-03T11:19:18.650Z" agent="5.0 (Windows)" etag="PJXtEeEGQ8c1BaWFgPvP" version="14.9.3" type="github">
   <diagram id="kFoGw8cjUfxfhcqfF4zp" name="Page-1">
     <mxGraphModel dx="1038" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -6,6 +6,17 @@
         <mxCell id="1" parent="0" />
         <mxCell id="QBFb7hfFurIWWcYOvyTR-1" value="Leave application" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="20" y="20" width="890" height="790" as="geometry" />
+        </mxCell>
+        <mxCell id="QBFb7hfFurIWWcYOvyTR-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="QBFb7hfFurIWWcYOvyTR-1">
+          <mxGeometry x="270" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QBFb7hfFurIWWcYOvyTR-6" value="&lt;span lang=&quot;EN-GB&quot;&gt;Staff fills in the leave application form (upload necessary documents where applicable) and prepares handover report submits to HOD (reliever isnotified)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QBFb7hfFurIWWcYOvyTR-1">
+          <mxGeometry x="210" y="160" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="QBFb7hfFurIWWcYOvyTR-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="QBFb7hfFurIWWcYOvyTR-1" source="QBFb7hfFurIWWcYOvyTR-2" target="QBFb7hfFurIWWcYOvyTR-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="190" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
