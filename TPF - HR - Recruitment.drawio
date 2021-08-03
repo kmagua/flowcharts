@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-03T08:42:49.562Z" agent="5.0 (Windows)" etag="mQXyZJXpkx6hKHgm2tQG" version="14.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-03T08:55:48.268Z" agent="5.0 (Windows)" etag="eOO5-yf_UGZCosK17qae" version="14.9.3" type="github">
   <diagram id="_uHtcUy28epvlYG5cTlM" name="Page-1">
     <mxGraphModel dx="1038" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -142,8 +142,13 @@
         <mxCell id="60VNQbsgn3sJ91GgjY-L-51" value="&lt;span lang=&quot;EN-GB&quot;&gt;HR conducts reference checks of the successful candidate(s)&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="60VNQbsgn3sJ91GgjY-L-1">
           <mxGeometry x="580" y="544" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="60VNQbsgn3sJ91GgjY-L-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="60VNQbsgn3sJ91GgjY-L-1" source="60VNQbsgn3sJ91GgjY-L-53" target="60VNQbsgn3sJ91GgjY-L-55">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="60VNQbsgn3sJ91GgjY-L-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="60VNQbsgn3sJ91GgjY-L-1" source="60VNQbsgn3sJ91GgjY-L-53" target="60VNQbsgn3sJ91GgjY-L-55">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="645" y="780" />
+              <mxPoint x="875" y="780" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="60VNQbsgn3sJ91GgjY-L-53" value="Share update recruitment report and recommendation to the CEO" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="60VNQbsgn3sJ91GgjY-L-1">
           <mxGeometry x="580" y="684" width="130" height="60" as="geometry" />
@@ -151,8 +156,17 @@
         <mxCell id="60VNQbsgn3sJ91GgjY-L-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="60VNQbsgn3sJ91GgjY-L-1" source="60VNQbsgn3sJ91GgjY-L-55" target="60VNQbsgn3sJ91GgjY-L-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="60VNQbsgn3sJ91GgjY-L-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="60VNQbsgn3sJ91GgjY-L-1" source="60VNQbsgn3sJ91GgjY-L-55" target="60VNQbsgn3sJ91GgjY-L-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1005" y="714" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="765" y="709" />
+              <mxPoint x="765" y="574" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="60VNQbsgn3sJ91GgjY-L-55" value="&lt;div&gt;Report &lt;br&gt;&lt;/div&gt;&lt;div&gt;approved by &lt;br&gt;&lt;/div&gt;&lt;div&gt;CEO?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="60VNQbsgn3sJ91GgjY-L-1">
-          <mxGeometry x="820" y="659" width="110" height="110" as="geometry" />
+          <mxGeometry x="820" y="654" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="60VNQbsgn3sJ91GgjY-L-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="60VNQbsgn3sJ91GgjY-L-1" source="60VNQbsgn3sJ91GgjY-L-57" target="60VNQbsgn3sJ91GgjY-L-59">
           <mxGeometry relative="1" as="geometry" />
@@ -162,6 +176,9 @@
         </mxCell>
         <mxCell id="60VNQbsgn3sJ91GgjY-L-59" value="&lt;div&gt;Candidate&lt;/div&gt;&lt;div&gt;Accepts offer?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="60VNQbsgn3sJ91GgjY-L-1">
           <mxGeometry x="820" y="366" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="60VNQbsgn3sJ91GgjY-L-64" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="60VNQbsgn3sJ91GgjY-L-1">
+          <mxGeometry x="756" y="650" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="60VNQbsgn3sJ91GgjY-L-17" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="136" y="333" width="40" height="20" as="geometry" />
@@ -174,6 +191,9 @@
         </mxCell>
         <mxCell id="60VNQbsgn3sJ91GgjY-L-39" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="780" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="60VNQbsgn3sJ91GgjY-L-61" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="650" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
