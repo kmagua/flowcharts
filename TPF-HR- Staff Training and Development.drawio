@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-03T12:22:47.676Z" agent="5.0 (Windows)" etag="U-WCaCNNCprWlar7cnXi" version="14.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-03T12:23:12.652Z" agent="5.0 (Windows)" etag="BtZaCmC5cyOkTdiqhgMm" version="14.9.3" type="github">
   <diagram id="8RQdaqb4-Wvy7M-p6WN6" name="Page-1">
     <mxGraphModel dx="1038" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -94,6 +94,12 @@
         </mxCell>
         <mxCell id="pk6nwwlZHEK9yg3PulME-22" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="433" y="632" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pk6nwwlZHEK9yg3PulME-31" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="180" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pk6nwwlZHEK9yg3PulME-32" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="643" y="180" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
