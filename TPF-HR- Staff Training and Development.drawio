@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-08-03T12:23:12.652Z" agent="5.0 (Windows)" etag="BtZaCmC5cyOkTdiqhgMm" version="14.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-03T12:24:57.318Z" agent="5.0 (Windows)" etag="cPGOx89Va3L9fvBWlyw2" version="14.9.3" type="github">
   <diagram id="8RQdaqb4-Wvy7M-p6WN6" name="Page-1">
     <mxGraphModel dx="1038" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="pk6nwwlZHEK9yg3PulME-1" value="Staff Training and Development " style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="20" y="20" width="860" height="790" as="geometry" />
+          <mxGeometry x="20" y="20" width="990" height="790" as="geometry" />
         </mxCell>
         <mxCell id="pk6nwwlZHEK9yg3PulME-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="pk6nwwlZHEK9yg3PulME-1">
           <mxGeometry x="260" y="50" width="120" height="60" as="geometry" />
@@ -70,8 +70,10 @@
         <mxCell id="pk6nwwlZHEK9yg3PulME-23" value="&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;span lang=&quot;EN-GB&quot;&gt;Training committee reviews the training needs and recommendations and forwards to the CEO&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="pk6nwwlZHEK9yg3PulME-1">
           <mxGeometry x="465" y="300" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pk6nwwlZHEK9yg3PulME-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="pk6nwwlZHEK9yg3PulME-1" source="pk6nwwlZHEK9yg3PulME-27" target="pk6nwwlZHEK9yg3PulME-28">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="pk6nwwlZHEK9yg3PulME-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="pk6nwwlZHEK9yg3PulME-1" source="pk6nwwlZHEK9yg3PulME-27" target="pk6nwwlZHEK9yg3PulME-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="175" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="pk6nwwlZHEK9yg3PulME-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="pk6nwwlZHEK9yg3PulME-1" source="pk6nwwlZHEK9yg3PulME-27" target="pk6nwwlZHEK9yg3PulME-20">
           <mxGeometry relative="1" as="geometry">
@@ -89,17 +91,29 @@
             <mxPoint x="550" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pk6nwwlZHEK9yg3PulME-28" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="pk6nwwlZHEK9yg3PulME-1">
-          <mxGeometry x="680" y="150" width="120" height="60" as="geometry" />
+        <mxCell id="pk6nwwlZHEK9yg3PulME-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="pk6nwwlZHEK9yg3PulME-1" source="pk6nwwlZHEK9yg3PulME-28" target="pk6nwwlZHEK9yg3PulME-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pk6nwwlZHEK9yg3PulME-28" value="&lt;span lang=&quot;EN-GB&quot;&gt;HRM shares the approved trainings to the HODs for onward communication to staff&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="pk6nwwlZHEK9yg3PulME-1">
+          <mxGeometry x="745" y="140" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pk6nwwlZHEK9yg3PulME-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="pk6nwwlZHEK9yg3PulME-1" source="pk6nwwlZHEK9yg3PulME-33" target="pk6nwwlZHEK9yg3PulME-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pk6nwwlZHEK9yg3PulME-33" value="&lt;span lang=&quot;EN-GB&quot;&gt;Staff/HRM sources for admission and forwards all the relevant documents to HAU&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="pk6nwwlZHEK9yg3PulME-1">
+          <mxGeometry x="745" y="300" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pk6nwwlZHEK9yg3PulME-35" value="&lt;span lang=&quot;EN-GB&quot;&gt;Upon completion the staff logins to the systemand attaches evidence of training attendance and a report of the training andknowledge transfer and submits to HRM&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="pk6nwwlZHEK9yg3PulME-1">
+          <mxGeometry x="715" y="450" width="230" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="pk6nwwlZHEK9yg3PulME-32" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="pk6nwwlZHEK9yg3PulME-1">
+          <mxGeometry x="637" y="160" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pk6nwwlZHEK9yg3PulME-22" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="433" y="632" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pk6nwwlZHEK9yg3PulME-31" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="180" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="pk6nwwlZHEK9yg3PulME-32" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="643" y="180" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
