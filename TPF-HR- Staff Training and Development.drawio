@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-03T12:18:22.746Z" agent="5.0 (Windows)" etag="N0C9nsrQ0YTHzT13iIDb" version="14.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-03T12:18:42.919Z" agent="5.0 (Windows)" etag="x8TuI0AkZ1yLW4_PB3Ku" version="14.9.3" type="github">
   <diagram id="8RQdaqb4-Wvy7M-p6WN6" name="Page-1">
     <mxGraphModel dx="1038" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -63,6 +63,9 @@
         </mxCell>
         <mxCell id="pk6nwwlZHEK9yg3PulME-20" value="&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;span lang=&quot;EN-GB&quot;&gt;HRM convenes the training committee meeting to discuss  the training needs&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="pk6nwwlZHEK9yg3PulME-1">
           <mxGeometry x="465" y="460" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pk6nwwlZHEK9yg3PulME-22" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="433" y="632" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
