@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-03T08:29:19.621Z" agent="5.0 (Windows)" etag="cxbjQ3UrjChCZbcXPXxL" version="14.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-03T08:42:00.641Z" agent="5.0 (Windows)" etag="BjnhBaTW6UK21t1x1akw" version="14.9.3" type="github">
   <diagram id="_uHtcUy28epvlYG5cTlM" name="Page-1">
     <mxGraphModel dx="1038" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -112,14 +112,50 @@
         <mxCell id="60VNQbsgn3sJ91GgjY-L-40" value="&lt;span lang=&quot;EN-GB&quot;&gt;DCS/ CEO appoints shortlisting committee and interview panel&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="60VNQbsgn3sJ91GgjY-L-1">
           <mxGeometry x="380" y="324" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="60VNQbsgn3sJ91GgjY-L-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="60VNQbsgn3sJ91GgjY-L-1" source="60VNQbsgn3sJ91GgjY-L-43" target="60VNQbsgn3sJ91GgjY-L-45">
+        <mxCell id="60VNQbsgn3sJ91GgjY-L-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="60VNQbsgn3sJ91GgjY-L-1" source="60VNQbsgn3sJ91GgjY-L-43" target="60VNQbsgn3sJ91GgjY-L-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="60VNQbsgn3sJ91GgjY-L-43" value="Shortlisting panels shortlists in the system and forwards compile reports to HR" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="60VNQbsgn3sJ91GgjY-L-1">
           <mxGeometry x="380" y="200" width="140" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="60VNQbsgn3sJ91GgjY-L-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="60VNQbsgn3sJ91GgjY-L-1" source="60VNQbsgn3sJ91GgjY-L-45" target="60VNQbsgn3sJ91GgjY-L-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="60VNQbsgn3sJ91GgjY-L-45" value="HR Invites shortlisted candidates to an interview" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="60VNQbsgn3sJ91GgjY-L-1">
-          <mxGeometry x="600" y="200" width="140" height="70" as="geometry" />
+          <mxGeometry x="575" y="120" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="60VNQbsgn3sJ91GgjY-L-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="60VNQbsgn3sJ91GgjY-L-1" source="60VNQbsgn3sJ91GgjY-L-47" target="60VNQbsgn3sJ91GgjY-L-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="60VNQbsgn3sJ91GgjY-L-47" value="&lt;span lang=&quot;EN-GB&quot;&gt;Interview Panelists Conduct Interviews and update the score sheets in the system and compile interview report&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="60VNQbsgn3sJ91GgjY-L-1">
+          <mxGeometry x="560" y="250" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="60VNQbsgn3sJ91GgjY-L-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="60VNQbsgn3sJ91GgjY-L-1" source="60VNQbsgn3sJ91GgjY-L-49" target="60VNQbsgn3sJ91GgjY-L-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="60VNQbsgn3sJ91GgjY-L-49" value="&lt;span lang=&quot;EN-GB&quot;&gt;HR reviews report from interviewing panel&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="60VNQbsgn3sJ91GgjY-L-1">
+          <mxGeometry x="580" y="404" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60VNQbsgn3sJ91GgjY-L-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="60VNQbsgn3sJ91GgjY-L-1" source="60VNQbsgn3sJ91GgjY-L-51" target="60VNQbsgn3sJ91GgjY-L-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="60VNQbsgn3sJ91GgjY-L-51" value="&lt;span lang=&quot;EN-GB&quot;&gt;HR conducts reference checks of the successful candidate(s)&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="60VNQbsgn3sJ91GgjY-L-1">
+          <mxGeometry x="580" y="544" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60VNQbsgn3sJ91GgjY-L-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="60VNQbsgn3sJ91GgjY-L-1" source="60VNQbsgn3sJ91GgjY-L-53" target="60VNQbsgn3sJ91GgjY-L-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="60VNQbsgn3sJ91GgjY-L-53" value="Share update recruitment report and recommendation to the CEO" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="60VNQbsgn3sJ91GgjY-L-1">
+          <mxGeometry x="580" y="684" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60VNQbsgn3sJ91GgjY-L-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="60VNQbsgn3sJ91GgjY-L-1" source="60VNQbsgn3sJ91GgjY-L-55" target="60VNQbsgn3sJ91GgjY-L-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="60VNQbsgn3sJ91GgjY-L-55" value="&lt;div&gt;Report &lt;br&gt;&lt;/div&gt;&lt;div&gt;approved by &lt;br&gt;&lt;/div&gt;&lt;div&gt;CEO?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="60VNQbsgn3sJ91GgjY-L-1">
+          <mxGeometry x="820" y="659" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="60VNQbsgn3sJ91GgjY-L-57" value="&lt;span lang=&quot;EN-GB&quot;&gt;Communication to the Successful Candidate through email/ sms/ call&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="60VNQbsgn3sJ91GgjY-L-1">
+          <mxGeometry x="800" y="530" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="60VNQbsgn3sJ91GgjY-L-17" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="136" y="333" width="40" height="20" as="geometry" />
