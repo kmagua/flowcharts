@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-03T11:03:16.638Z" agent="5.0 (Windows)" etag="c3JdtiVlBZGQVD34cz01" version="14.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-03T11:06:39.775Z" agent="5.0 (Windows)" etag="T0XVu4ArU8-zri-lcGSd" version="14.9.3" type="github">
   <diagram id="WpnbMsGVlVjoABWt_c_4" name="Page-1">
     <mxGraphModel dx="1038" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -50,8 +50,20 @@
         <mxCell id="dWn0WBdZ1G_wQW0XFXWZ-12" value="Comments" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" vertex="1" parent="dWn0WBdZ1G_wQW0XFXWZ-1">
           <mxGeometry x="140" y="590" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dWn0WBdZ1G_wQW0XFXWZ-16" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="dWn0WBdZ1G_wQW0XFXWZ-1">
-          <mxGeometry x="590" y="600" width="120" height="60" as="geometry" />
+        <mxCell id="dWn0WBdZ1G_wQW0XFXWZ-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dWn0WBdZ1G_wQW0XFXWZ-1" source="dWn0WBdZ1G_wQW0XFXWZ-16" target="dWn0WBdZ1G_wQW0XFXWZ-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dWn0WBdZ1G_wQW0XFXWZ-16" value="HoD submits departmental schedule to HRM" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="dWn0WBdZ1G_wQW0XFXWZ-1">
+          <mxGeometry x="630" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dWn0WBdZ1G_wQW0XFXWZ-18" value="HoD submits departmental schedule to HRM" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="dWn0WBdZ1G_wQW0XFXWZ-1">
+          <mxGeometry x="620" y="460" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dWn0WBdZ1G_wQW0XFXWZ-20" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="630" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dWn0WBdZ1G_wQW0XFXWZ-21" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="545" y="628" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
