@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-03T07:54:24.838Z" agent="5.0 (Windows)" etag="IP7FW4mDxmCy-1HyEwwn" version="14.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-03T07:55:56.387Z" agent="5.0 (Windows)" etag="KQYg6EKGp_O9picpgfUB" version="14.9.3" type="github">
   <diagram id="_uHtcUy28epvlYG5cTlM" name="Page-1">
     <mxGraphModel dx="1038" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -10,8 +10,11 @@
         <mxCell id="60VNQbsgn3sJ91GgjY-L-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="60VNQbsgn3sJ91GgjY-L-1">
           <mxGeometry x="170" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="60VNQbsgn3sJ91GgjY-L-5" value="&lt;span lang=&quot;EN-GB&quot;&gt;HoDs raise a request for recruitment &lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="60VNQbsgn3sJ91GgjY-L-1">
-          <mxGeometry x="170" y="200" width="120" height="60" as="geometry" />
+        <mxCell id="60VNQbsgn3sJ91GgjY-L-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="60VNQbsgn3sJ91GgjY-L-1" source="60VNQbsgn3sJ91GgjY-L-5" target="60VNQbsgn3sJ91GgjY-L-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="60VNQbsgn3sJ91GgjY-L-5" value="&lt;span lang=&quot;EN-GB&quot;&gt;HoDs raise a request for recruitment and forward for approval by Director&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="60VNQbsgn3sJ91GgjY-L-1">
+          <mxGeometry x="150" y="170" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="60VNQbsgn3sJ91GgjY-L-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="60VNQbsgn3sJ91GgjY-L-1" source="60VNQbsgn3sJ91GgjY-L-2" target="60VNQbsgn3sJ91GgjY-L-5">
           <mxGeometry relative="1" as="geometry">
@@ -22,7 +25,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="60VNQbsgn3sJ91GgjY-L-6" value="&lt;div&gt;- Funds availability&lt;/div&gt;&lt;div&gt;- Approved establishment&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="60VNQbsgn3sJ91GgjY-L-1">
-          <mxGeometry x="380" y="200" width="160" height="60" as="geometry" />
+          <mxGeometry x="370" y="170" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60VNQbsgn3sJ91GgjY-L-8" value="Approved by Director?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="60VNQbsgn3sJ91GgjY-L-1">
+          <mxGeometry x="170" y="290" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
