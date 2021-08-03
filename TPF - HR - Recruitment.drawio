@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-03T08:55:48.268Z" agent="5.0 (Windows)" etag="eOO5-yf_UGZCosK17qae" version="14.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-03T08:57:38.179Z" agent="5.0 (Windows)" etag="9jWKAA8vctSRfq2Mz0mO" version="14.9.3" type="github">
   <diagram id="_uHtcUy28epvlYG5cTlM" name="Page-1">
     <mxGraphModel dx="1038" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -174,11 +174,25 @@
         <mxCell id="60VNQbsgn3sJ91GgjY-L-57" value="&lt;span lang=&quot;EN-GB&quot;&gt;Communication to the Successful Candidate through email/ sms/ call&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="60VNQbsgn3sJ91GgjY-L-1">
           <mxGeometry x="800" y="530" width="150" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="60VNQbsgn3sJ91GgjY-L-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="60VNQbsgn3sJ91GgjY-L-1" source="60VNQbsgn3sJ91GgjY-L-59" target="60VNQbsgn3sJ91GgjY-L-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="60VNQbsgn3sJ91GgjY-L-59" value="&lt;div&gt;Candidate&lt;/div&gt;&lt;div&gt;Accepts offer?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="60VNQbsgn3sJ91GgjY-L-1">
           <mxGeometry x="820" y="366" width="110" height="100" as="geometry" />
         </mxCell>
         <mxCell id="60VNQbsgn3sJ91GgjY-L-64" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="60VNQbsgn3sJ91GgjY-L-1">
           <mxGeometry x="756" y="650" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="60VNQbsgn3sJ91GgjY-L-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="60VNQbsgn3sJ91GgjY-L-1" source="60VNQbsgn3sJ91GgjY-L-65" target="60VNQbsgn3sJ91GgjY-L-69">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="875" y="126" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="60VNQbsgn3sJ91GgjY-L-65" value="Notify unsuccessful candidates" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="60VNQbsgn3sJ91GgjY-L-1">
+          <mxGeometry x="815" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60VNQbsgn3sJ91GgjY-L-69" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="60VNQbsgn3sJ91GgjY-L-1">
+          <mxGeometry x="815" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="60VNQbsgn3sJ91GgjY-L-17" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="136" y="333" width="40" height="20" as="geometry" />
