@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-03T12:12:14.888Z" agent="5.0 (Windows)" etag="KJgONx8uQOiCw_Mpj48d" version="14.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-03T12:16:21.165Z" agent="5.0 (Windows)" etag="eaYxipKKELlxQRL9WCDZ" version="14.9.3" type="github">
   <diagram id="8RQdaqb4-Wvy7M-p6WN6" name="Page-1">
     <mxGraphModel dx="1038" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -27,8 +27,14 @@
         <mxCell id="pk6nwwlZHEK9yg3PulME-6" value="&lt;span lang=&quot;EN-GB&quot;&gt;HOD sends a notification to staff to submit their training needs.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="pk6nwwlZHEK9yg3PulME-1">
           <mxGeometry x="245" y="310" width="150" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="pk6nwwlZHEK9yg3PulME-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="pk6nwwlZHEK9yg3PulME-1" source="pk6nwwlZHEK9yg3PulME-8" target="pk6nwwlZHEK9yg3PulME-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pk6nwwlZHEK9yg3PulME-8" value="&lt;span lang=&quot;EN-GB&quot;&gt;Staff members submit their training needs to the HOD&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="pk6nwwlZHEK9yg3PulME-1">
           <mxGeometry x="252.5" y="450" width="135" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pk6nwwlZHEK9yg3PulME-10" value="&lt;span lang=&quot;EN-GB&quot;&gt;Staff members submit their training needs to the HOD&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="pk6nwwlZHEK9yg3PulME-1">
+          <mxGeometry x="252.5" y="610" width="135" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
