@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-03T08:42:00.641Z" agent="5.0 (Windows)" etag="BjnhBaTW6UK21t1x1akw" version="14.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-03T08:42:49.562Z" agent="5.0 (Windows)" etag="mQXyZJXpkx6hKHgm2tQG" version="14.9.3" type="github">
   <diagram id="_uHtcUy28epvlYG5cTlM" name="Page-1">
     <mxGraphModel dx="1038" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -154,8 +154,14 @@
         <mxCell id="60VNQbsgn3sJ91GgjY-L-55" value="&lt;div&gt;Report &lt;br&gt;&lt;/div&gt;&lt;div&gt;approved by &lt;br&gt;&lt;/div&gt;&lt;div&gt;CEO?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="60VNQbsgn3sJ91GgjY-L-1">
           <mxGeometry x="820" y="659" width="110" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="60VNQbsgn3sJ91GgjY-L-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="60VNQbsgn3sJ91GgjY-L-1" source="60VNQbsgn3sJ91GgjY-L-57" target="60VNQbsgn3sJ91GgjY-L-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="60VNQbsgn3sJ91GgjY-L-57" value="&lt;span lang=&quot;EN-GB&quot;&gt;Communication to the Successful Candidate through email/ sms/ call&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="60VNQbsgn3sJ91GgjY-L-1">
           <mxGeometry x="800" y="530" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="60VNQbsgn3sJ91GgjY-L-59" value="&lt;div&gt;Candidate&lt;/div&gt;&lt;div&gt;Accepts offer?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="60VNQbsgn3sJ91GgjY-L-1">
+          <mxGeometry x="820" y="366" width="110" height="100" as="geometry" />
         </mxCell>
         <mxCell id="60VNQbsgn3sJ91GgjY-L-17" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="136" y="333" width="40" height="20" as="geometry" />
