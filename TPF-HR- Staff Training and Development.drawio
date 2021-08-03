@@ -1,34 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2021-08-03T12:25:03.697Z" agent="5.0 (Windows)" etag="GdL6b9hPRIA-NrXu5tQy" version="14.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-03T12:26:59.744Z" agent="5.0 (Windows)" etag="OrTxL3gva6c4kQj5tIyC" version="14.9.3" type="github">
   <diagram id="8RQdaqb4-Wvy7M-p6WN6" name="Page-1">
     <mxGraphModel dx="1038" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="pk6nwwlZHEK9yg3PulME-1" value="Staff Training and Development " style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="20" y="20" width="990" height="790" as="geometry" />
+          <mxGeometry x="20" y="20" width="990" height="795" as="geometry" />
         </mxCell>
         <mxCell id="pk6nwwlZHEK9yg3PulME-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="pk6nwwlZHEK9yg3PulME-1">
-          <mxGeometry x="260" y="50" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pk6nwwlZHEK9yg3PulME-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="pk6nwwlZHEK9yg3PulME-1" source="pk6nwwlZHEK9yg3PulME-5" target="pk6nwwlZHEK9yg3PulME-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pk6nwwlZHEK9yg3PulME-5" value="&lt;span lang=&quot;EN-GB&quot;&gt;At the beginning of the financial year (FY) the HRM sends notificationto HODs to &lt;span&gt;prepare&lt;/span&gt; training needs.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="pk6nwwlZHEK9yg3PulME-1">
-          <mxGeometry x="230" y="160" width="180" height="80" as="geometry" />
+          <mxGeometry x="190" y="160" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pk6nwwlZHEK9yg3PulME-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="pk6nwwlZHEK9yg3PulME-1" source="pk6nwwlZHEK9yg3PulME-2" target="pk6nwwlZHEK9yg3PulME-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="320" y="190" as="targetPoint" />
+            <mxPoint x="280" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pk6nwwlZHEK9yg3PulME-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="pk6nwwlZHEK9yg3PulME-1" source="pk6nwwlZHEK9yg3PulME-6" target="pk6nwwlZHEK9yg3PulME-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pk6nwwlZHEK9yg3PulME-6" value="&lt;span lang=&quot;EN-GB&quot;&gt;HOD sends a notification to staff to submit their training needs.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="pk6nwwlZHEK9yg3PulME-1">
-          <mxGeometry x="245" y="310" width="150" height="80" as="geometry" />
+          <mxGeometry x="205" y="310" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pk6nwwlZHEK9yg3PulME-8" value="&lt;span lang=&quot;EN-GB&quot;&gt;Staff members submit their training needs to the HOD&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="pk6nwwlZHEK9yg3PulME-1">
-          <mxGeometry x="252.5" y="450" width="135" height="80" as="geometry" />
+          <mxGeometry x="212.5" y="450" width="135" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pk6nwwlZHEK9yg3PulME-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="pk6nwwlZHEK9yg3PulME-1" source="pk6nwwlZHEK9yg3PulME-12" target="pk6nwwlZHEK9yg3PulME-13">
           <mxGeometry relative="1" as="geometry" />
@@ -37,23 +37,23 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pk6nwwlZHEK9yg3PulME-12" value="&lt;div&gt;Approved&lt;/div&gt;&lt;div&gt; by HoD&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="pk6nwwlZHEK9yg3PulME-1">
-          <mxGeometry x="270" y="590" width="100" height="80" as="geometry" />
+          <mxGeometry x="230" y="590" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pk6nwwlZHEK9yg3PulME-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="pk6nwwlZHEK9yg3PulME-1" source="pk6nwwlZHEK9yg3PulME-8" target="pk6nwwlZHEK9yg3PulME-12">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="320" y="610" as="targetPoint" />
+            <mxPoint x="280" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pk6nwwlZHEK9yg3PulME-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="pk6nwwlZHEK9yg3PulME-1" source="pk6nwwlZHEK9yg3PulME-13" target="pk6nwwlZHEK9yg3PulME-8">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="140" y="500" as="targetPoint" />
+            <mxPoint x="100" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pk6nwwlZHEK9yg3PulME-13" value="Comments" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="pk6nwwlZHEK9yg3PulME-1">
-          <mxGeometry x="50" y="590" width="120" height="80" as="geometry" />
+          <mxGeometry x="10" y="590" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pk6nwwlZHEK9yg3PulME-17" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="pk6nwwlZHEK9yg3PulME-1">
-          <mxGeometry x="220" y="610" width="40" height="20" as="geometry" />
+          <mxGeometry x="180" y="610" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pk6nwwlZHEK9yg3PulME-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="pk6nwwlZHEK9yg3PulME-1" source="pk6nwwlZHEK9yg3PulME-18" target="pk6nwwlZHEK9yg3PulME-20">
           <mxGeometry relative="1" as="geometry" />
@@ -101,13 +101,27 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pk6nwwlZHEK9yg3PulME-33" value="&lt;span lang=&quot;EN-GB&quot;&gt;Staff/HRM sources for admission and forwards all the relevant documents to HAU&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="pk6nwwlZHEK9yg3PulME-1">
-          <mxGeometry x="745" y="300" width="150" height="80" as="geometry" />
+          <mxGeometry x="745" y="280" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pk6nwwlZHEK9yg3PulME-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="pk6nwwlZHEK9yg3PulME-1" source="pk6nwwlZHEK9yg3PulME-35" target="pk6nwwlZHEK9yg3PulME-37">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pk6nwwlZHEK9yg3PulME-35" value="&lt;span lang=&quot;EN-GB&quot;&gt;Upon completion the staff logins to the systemand attaches evidence of training attendance and a report of the training andknowledge transfer and submits to HRM&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="pk6nwwlZHEK9yg3PulME-1">
-          <mxGeometry x="705" y="450" width="230" height="100" as="geometry" />
+          <mxGeometry x="705" y="420" width="230" height="100" as="geometry" />
         </mxCell>
         <mxCell id="pk6nwwlZHEK9yg3PulME-32" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="pk6nwwlZHEK9yg3PulME-1">
           <mxGeometry x="637" y="160" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pk6nwwlZHEK9yg3PulME-37" value="&lt;span lang=&quot;EN-GB&quot;&gt;HRM validate and closes the record&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="pk6nwwlZHEK9yg3PulME-1">
+          <mxGeometry x="750" y="580" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pk6nwwlZHEK9yg3PulME-41" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="pk6nwwlZHEK9yg3PulME-1">
+          <mxGeometry x="780" y="690" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pk6nwwlZHEK9yg3PulME-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="pk6nwwlZHEK9yg3PulME-1" source="pk6nwwlZHEK9yg3PulME-37" target="pk6nwwlZHEK9yg3PulME-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820" y="700" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="pk6nwwlZHEK9yg3PulME-22" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="433" y="632" width="40" height="20" as="geometry" />
