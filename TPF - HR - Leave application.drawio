@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-03T11:22:31.046Z" agent="5.0 (Windows)" etag="-EbKbvrQMtPDlCkRIs0h" version="14.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-03T11:22:56.801Z" agent="5.0 (Windows)" etag="cI1pNCYjp0E14WeIp43N" version="14.9.3" type="github">
   <diagram id="kFoGw8cjUfxfhcqfF4zp" name="Page-1">
     <mxGraphModel dx="1038" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -21,6 +21,9 @@
         <mxCell id="QBFb7hfFurIWWcYOvyTR-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="QBFb7hfFurIWWcYOvyTR-1" source="QBFb7hfFurIWWcYOvyTR-9" target="QBFb7hfFurIWWcYOvyTR-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="QBFb7hfFurIWWcYOvyTR-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="QBFb7hfFurIWWcYOvyTR-1" source="QBFb7hfFurIWWcYOvyTR-9" target="QBFb7hfFurIWWcYOvyTR-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QBFb7hfFurIWWcYOvyTR-9" value="&lt;div&gt;Approved by &lt;br&gt;&lt;/div&gt;&lt;div&gt;HoD?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="QBFb7hfFurIWWcYOvyTR-1">
           <mxGeometry x="245" y="330" width="170" height="80" as="geometry" />
         </mxCell>
@@ -31,6 +34,20 @@
         </mxCell>
         <mxCell id="QBFb7hfFurIWWcYOvyTR-10" value="Leave application is receive and acknowledged by HRM" style="whiteSpace=wrap;html=1;" vertex="1" parent="QBFb7hfFurIWWcYOvyTR-1">
           <mxGeometry x="260" y="480" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="QBFb7hfFurIWWcYOvyTR-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="QBFb7hfFurIWWcYOvyTR-1" source="QBFb7hfFurIWWcYOvyTR-13" target="QBFb7hfFurIWWcYOvyTR-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="80" y="205" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QBFb7hfFurIWWcYOvyTR-13" value="Comments" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="QBFb7hfFurIWWcYOvyTR-1">
+          <mxGeometry x="20" y="330" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QBFb7hfFurIWWcYOvyTR-12" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="450" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
