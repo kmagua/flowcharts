@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-03T10:47:15.919Z" agent="5.0 (Windows)" etag="B0clwSEYFEkeWsBGcPAF" version="14.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-03T10:51:44.657Z" agent="5.0 (Windows)" etag="GvQiLVaMgCkMeBLPoWpO" version="14.9.3" type="github">
   <diagram id="Ca4OcfbWpyK8q4Cd8vkL" name="Page-1">
     <mxGraphModel dx="1038" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -8,13 +8,13 @@
           <mxGeometry x="140" y="20" width="850" height="790" as="geometry" />
         </mxCell>
         <mxCell id="dlbC73xiNSkO4pf16p15-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dlbC73xiNSkO4pf16p15-1">
-          <mxGeometry x="330" y="50" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dlbC73xiNSkO4pf16p15-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dlbC73xiNSkO4pf16p15-1" source="dlbC73xiNSkO4pf16p15-5" target="dlbC73xiNSkO4pf16p15-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dlbC73xiNSkO4pf16p15-5" value="&lt;span lang=&quot;EN-GB&quot;&gt;HRM requests HODs and staff to fill and submit work plan (performance appraisal form)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dlbC73xiNSkO4pf16p15-1">
-          <mxGeometry x="305" y="160" width="170" height="80" as="geometry" />
+          <mxGeometry x="305" y="140" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dlbC73xiNSkO4pf16p15-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dlbC73xiNSkO4pf16p15-1" source="dlbC73xiNSkO4pf16p15-2" target="dlbC73xiNSkO4pf16p15-5">
           <mxGeometry relative="1" as="geometry">
@@ -25,10 +25,44 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dlbC73xiNSkO4pf16p15-6" value="&lt;span lang=&quot;EN-GB&quot;&gt;&lt;span lang=&quot;EN-GB&quot;&gt;HODs notifies staff to fill in objectives forms as per departments workplan&lt;br&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dlbC73xiNSkO4pf16p15-1">
-          <mxGeometry x="305" y="300" width="170" height="80" as="geometry" />
+          <mxGeometry x="305" y="270" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dlbC73xiNSkO4pf16p15-8" value="&lt;span lang=&quot;EN-GB&quot;&gt;The employee fills in the objective form and submits to HOD &lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dlbC73xiNSkO4pf16p15-1">
           <mxGeometry x="305" y="410" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dlbC73xiNSkO4pf16p15-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dlbC73xiNSkO4pf16p15-1" source="dlbC73xiNSkO4pf16p15-12" target="dlbC73xiNSkO4pf16p15-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dlbC73xiNSkO4pf16p15-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dlbC73xiNSkO4pf16p15-1" source="dlbC73xiNSkO4pf16p15-12" target="dlbC73xiNSkO4pf16p15-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dlbC73xiNSkO4pf16p15-12" value="objectives/ targets approved?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="dlbC73xiNSkO4pf16p15-1">
+          <mxGeometry x="320" y="540" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dlbC73xiNSkO4pf16p15-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dlbC73xiNSkO4pf16p15-1" source="dlbC73xiNSkO4pf16p15-8" target="dlbC73xiNSkO4pf16p15-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dlbC73xiNSkO4pf16p15-13" value="&lt;span lang=&quot;EN-GB&quot;&gt;Employee and HoD perform mid term review of set objectives (appraisal) at the appointed period&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="dlbC73xiNSkO4pf16p15-1">
+          <mxGeometry x="300" y="690" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dlbC73xiNSkO4pf16p15-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dlbC73xiNSkO4pf16p15-1" source="dlbC73xiNSkO4pf16p15-15" target="dlbC73xiNSkO4pf16p15-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="455" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="170" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dlbC73xiNSkO4pf16p15-15" value="Comments" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="dlbC73xiNSkO4pf16p15-1">
+          <mxGeometry x="110" y="545" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dlbC73xiNSkO4pf16p15-19" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="660" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dlbC73xiNSkO4pf16p15-20" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="580" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
