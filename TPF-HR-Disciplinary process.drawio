@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-04T07:17:44.217Z" agent="5.0 (Windows)" etag="gCGf2XZsxp35vJFF2vUW" version="14.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-04T08:18:33.878Z" agent="5.0 (Windows)" etag="lg22NMSoQSsDYHyyEzIS" version="14.9.3" type="github">
   <diagram id="TASTO2IwIQPRZ3yuaC1y" name="Page-1">
     <mxGraphModel dx="1038" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -9,6 +9,14 @@
         </mxCell>
         <mxCell id="xIYCeV5YSEmEcGGHacvK-1" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="10CtPT5GMPp9_miOpkNc-1">
           <mxGeometry x="250" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xIYCeV5YSEmEcGGHacvK-4" value="&lt;span lang=&quot;EN-GB&quot;&gt;HoD fills a misconductreporting form to the Head of HRM &lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="10CtPT5GMPp9_miOpkNc-1">
+          <mxGeometry x="245" y="210" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xIYCeV5YSEmEcGGHacvK-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="10CtPT5GMPp9_miOpkNc-1" source="xIYCeV5YSEmEcGGHacvK-1" target="xIYCeV5YSEmEcGGHacvK-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="220" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
