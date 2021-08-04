@@ -1,34 +1,63 @@
-<mxfile host="app.diagrams.net" modified="2021-08-04T09:31:16.242Z" agent="5.0 (Windows)" etag="T1WKX6Pw4j0NYPbcnnEF" version="14.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-04T09:34:16.997Z" agent="5.0 (Windows)" etag="x8YoF1wv43HKHQzqZcj_" version="14.9.3" type="github">
   <diagram id="TASTO2IwIQPRZ3yuaC1y" name="Page-1">
     <mxGraphModel dx="1038" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="10CtPT5GMPp9_miOpkNc-1" value="Disciplinary process" style="swimlane;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="20" y="20" width="820" height="790" as="geometry" />
+          <mxGeometry x="20" y="20" width="1100" height="800" as="geometry" />
         </mxCell>
         <mxCell id="xIYCeV5YSEmEcGGHacvK-1" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="10CtPT5GMPp9_miOpkNc-1">
-          <mxGeometry x="250" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="36" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xIYCeV5YSEmEcGGHacvK-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="10CtPT5GMPp9_miOpkNc-1" source="xIYCeV5YSEmEcGGHacvK-4" target="xIYCeV5YSEmEcGGHacvK-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xIYCeV5YSEmEcGGHacvK-4" value="&lt;span lang=&quot;EN-GB&quot;&gt;HoD fills a misconductreporting form to the Head of HRM &lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="10CtPT5GMPp9_miOpkNc-1">
-          <mxGeometry x="240" y="190" width="140" height="60" as="geometry" />
+          <mxGeometry x="230" y="140" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xIYCeV5YSEmEcGGHacvK-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="10CtPT5GMPp9_miOpkNc-1" source="xIYCeV5YSEmEcGGHacvK-1" target="xIYCeV5YSEmEcGGHacvK-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="310" y="220" as="targetPoint" />
+            <mxPoint x="300" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xIYCeV5YSEmEcGGHacvK-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="10CtPT5GMPp9_miOpkNc-1" source="xIYCeV5YSEmEcGGHacvK-5" target="xIYCeV5YSEmEcGGHacvK-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xIYCeV5YSEmEcGGHacvK-5" value="&lt;span lang=&quot;EN-GB&quot;&gt;HRM analyses the misconduct and conducts due diligence &lt;/span&gt;&lt;span lang=&quot;EN-GB&quot;&gt;and issue of show cause letter to get employee response&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="10CtPT5GMPp9_miOpkNc-1">
-          <mxGeometry x="210" y="300" width="200" height="90" as="geometry" />
+          <mxGeometry x="200" y="250" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xIYCeV5YSEmEcGGHacvK-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="10CtPT5GMPp9_miOpkNc-1" source="xIYCeV5YSEmEcGGHacvK-7" target="xIYCeV5YSEmEcGGHacvK-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xIYCeV5YSEmEcGGHacvK-7" value="&lt;span lang=&quot;EN-GB&quot;&gt;Employee receives notification from HRM and submits a response&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="10CtPT5GMPp9_miOpkNc-1">
-          <mxGeometry x="230" y="450" width="160" height="70" as="geometry" />
+          <mxGeometry x="220" y="400" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xIYCeV5YSEmEcGGHacvK-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="10CtPT5GMPp9_miOpkNc-1" source="xIYCeV5YSEmEcGGHacvK-9" target="xIYCeV5YSEmEcGGHacvK-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xIYCeV5YSEmEcGGHacvK-9" value="&lt;span lang=&quot;EN-GB&quot;&gt;HRM creates a summary of employee response&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="10CtPT5GMPp9_miOpkNc-1">
+          <mxGeometry x="220" y="530" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xIYCeV5YSEmEcGGHacvK-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="10CtPT5GMPp9_miOpkNc-1" source="xIYCeV5YSEmEcGGHacvK-11" target="xIYCeV5YSEmEcGGHacvK-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xIYCeV5YSEmEcGGHacvK-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="10CtPT5GMPp9_miOpkNc-1" source="xIYCeV5YSEmEcGGHacvK-11" target="xIYCeV5YSEmEcGGHacvK-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="870" y="760" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="300" y="760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xIYCeV5YSEmEcGGHacvK-11" value="does this require committee?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="10CtPT5GMPp9_miOpkNc-1">
+          <mxGeometry x="230" y="650" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xIYCeV5YSEmEcGGHacvK-13" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="10CtPT5GMPp9_miOpkNc-1">
+          <mxGeometry x="490" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xIYCeV5YSEmEcGGHacvK-17" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="10CtPT5GMPp9_miOpkNc-1">
+          <mxGeometry x="870" y="730" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
