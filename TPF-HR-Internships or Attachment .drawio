@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-04T11:24:06.081Z" agent="5.0 (Windows)" etag="VnYki5o07u2Yc50DReRa" version="14.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-04T11:26:05.309Z" agent="5.0 (Windows)" etag="HW16aGG7EQH9ahdYM3fK" version="14.9.3" type="github">
   <diagram id="JpgFDhPypRxZ6japV6Xt" name="Page-1">
     <mxGraphModel dx="1038" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -84,8 +84,8 @@
         <mxCell id="ixj6lN1su4Th0R0Dn0Wk-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ixj6lN1su4Th0R0Dn0Wk-1" source="ixj6lN1su4Th0R0Dn0Wk-36" target="ixj6lN1su4Th0R0Dn0Wk-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ixj6lN1su4Th0R0Dn0Wk-36" value="HR Invites shortlisted candidates to an interview" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="ixj6lN1su4Th0R0Dn0Wk-1">
-          <mxGeometry x="575" y="120" width="140" height="70" as="geometry" />
+        <mxCell id="ixj6lN1su4Th0R0Dn0Wk-36" value="For internship HR Invites shortlisted candidates to an interview while successful attachment applicants are offered an attachment letter" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="ixj6lN1su4Th0R0Dn0Wk-1">
+          <mxGeometry x="560" y="120" width="170" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ixj6lN1su4Th0R0Dn0Wk-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ixj6lN1su4Th0R0Dn0Wk-1" source="ixj6lN1su4Th0R0Dn0Wk-38" target="ixj6lN1su4Th0R0Dn0Wk-40">
           <mxGeometry relative="1" as="geometry" />
