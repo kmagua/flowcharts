@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-04T09:30:17.480Z" agent="5.0 (Windows)" etag="bol89XAa5-btPrv4NjOP" version="14.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-04T09:31:16.242Z" agent="5.0 (Windows)" etag="T1WKX6Pw4j0NYPbcnnEF" version="14.9.3" type="github">
   <diagram id="TASTO2IwIQPRZ3yuaC1y" name="Page-1">
     <mxGraphModel dx="1038" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -21,8 +21,14 @@
             <mxPoint x="310" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="xIYCeV5YSEmEcGGHacvK-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="10CtPT5GMPp9_miOpkNc-1" source="xIYCeV5YSEmEcGGHacvK-5" target="xIYCeV5YSEmEcGGHacvK-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xIYCeV5YSEmEcGGHacvK-5" value="&lt;span lang=&quot;EN-GB&quot;&gt;HRM analyses the misconduct and conducts due diligence &lt;/span&gt;&lt;span lang=&quot;EN-GB&quot;&gt;and issue of show cause letter to get employee response&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="10CtPT5GMPp9_miOpkNc-1">
           <mxGeometry x="210" y="300" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xIYCeV5YSEmEcGGHacvK-7" value="&lt;span lang=&quot;EN-GB&quot;&gt;Employee receives notification from HRM and submits a response&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="10CtPT5GMPp9_miOpkNc-1">
+          <mxGeometry x="230" y="450" width="160" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
