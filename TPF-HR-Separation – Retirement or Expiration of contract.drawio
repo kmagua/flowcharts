@@ -1,43 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2021-08-04T10:02:16.617Z" agent="5.0 (Windows)" etag="6uffRsRbZV3FnvFwU_0W" version="14.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-04T10:04:02.244Z" agent="5.0 (Windows)" etag="hR1xk2LSdXXKhWognFhE" version="14.9.3" type="github">
   <diagram id="FhkFVt4sXrzeg-nRiGku" name="Page-1">
     <mxGraphModel dx="1038" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="TeyzFELnXTnuhCw4mWm0-1" value="Separation - Resignation" style="swimlane;" vertex="1" parent="1">
+        <mxCell id="TeyzFELnXTnuhCw4mWm0-1" value="Separation - Retirement or Expiration of contract" style="swimlane;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="10" y="10" width="660" height="730" as="geometry" />
         </mxCell>
         <mxCell id="TeyzFELnXTnuhCw4mWm0-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="TeyzFELnXTnuhCw4mWm0-1">
-          <mxGeometry x="60" y="40" width="100" height="60" as="geometry" />
+          <mxGeometry x="85" y="40" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TeyzFELnXTnuhCw4mWm0-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="TeyzFELnXTnuhCw4mWm0-1" source="TeyzFELnXTnuhCw4mWm0-4" target="TeyzFELnXTnuhCw4mWm0-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TeyzFELnXTnuhCw4mWm0-4" value="&lt;span lang=&quot;EN-GB&quot;&gt;Employee submits resignation letter to HRM &lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TeyzFELnXTnuhCw4mWm0-1">
-          <mxGeometry x="40" y="160" width="140" height="70" as="geometry" />
+        <mxCell id="TeyzFELnXTnuhCw4mWm0-4" value="&lt;span lang=&quot;EN-GB&quot;&gt;Upon remaining of 1 year in service anotification is generated to the staff.&lt;span&gt;HR issues notification of retirement a year beforeattaining the retirement age&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TeyzFELnXTnuhCw4mWm0-1">
+          <mxGeometry x="30" y="140" width="210" height="100" as="geometry" />
         </mxCell>
         <mxCell id="TeyzFELnXTnuhCw4mWm0-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="TeyzFELnXTnuhCw4mWm0-1" source="TeyzFELnXTnuhCw4mWm0-2" target="TeyzFELnXTnuhCw4mWm0-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="110" y="180" as="targetPoint" />
+            <mxPoint x="135" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TeyzFELnXTnuhCw4mWm0-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="TeyzFELnXTnuhCw4mWm0-1" source="TeyzFELnXTnuhCw4mWm0-7" target="TeyzFELnXTnuhCw4mWm0-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TeyzFELnXTnuhCw4mWm0-7" value="&lt;span lang=&quot;EN-GB&quot;&gt;HRM notifies the respective HOD&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TeyzFELnXTnuhCw4mWm0-1">
-          <mxGeometry x="40" y="310" width="140" height="70" as="geometry" />
+          <mxGeometry x="65" y="310" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TeyzFELnXTnuhCw4mWm0-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="TeyzFELnXTnuhCw4mWm0-1" source="TeyzFELnXTnuhCw4mWm0-9" target="TeyzFELnXTnuhCw4mWm0-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TeyzFELnXTnuhCw4mWm0-9" value="&lt;span lang=&quot;EN-GB&quot;&gt;HRM acknowledges the resignation and prompts employee to start clearance process&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TeyzFELnXTnuhCw4mWm0-1">
-          <mxGeometry x="30" y="460" width="160" height="80" as="geometry" />
+          <mxGeometry x="55" y="460" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TeyzFELnXTnuhCw4mWm0-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="TeyzFELnXTnuhCw4mWm0-1" source="TeyzFELnXTnuhCw4mWm0-11" target="TeyzFELnXTnuhCw4mWm0-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TeyzFELnXTnuhCw4mWm0-11" value="&lt;span lang=&quot;EN-GB&quot;&gt;Follow up with all relevant departments for clearance and create handover notes&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TeyzFELnXTnuhCw4mWm0-1">
-          <mxGeometry x="30" y="620" width="160" height="80" as="geometry" />
+          <mxGeometry x="55" y="620" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TeyzFELnXTnuhCw4mWm0-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="TeyzFELnXTnuhCw4mWm0-1" source="TeyzFELnXTnuhCw4mWm0-13" target="TeyzFELnXTnuhCw4mWm0-16">
           <mxGeometry relative="1" as="geometry" />
