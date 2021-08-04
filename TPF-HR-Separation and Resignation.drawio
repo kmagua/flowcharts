@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-04T09:48:29.922Z" agent="5.0 (Windows)" etag="SMkLozuKTGX2d1AQeBq-" version="14.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-04T09:48:42.105Z" agent="5.0 (Windows)" etag="zkP7s2PBNga9G7_817xP" version="14.9.3" type="github">
   <diagram id="vOE7HlbKETgEhGKGrhaQ" name="Page-1">
     <mxGraphModel dx="1038" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -6,6 +6,9 @@
         <mxCell id="1" parent="0" />
         <mxCell id="iho0MIq6LXwkoNqhuima-1" value="Separation - Resignation" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="10" y="10" width="740" height="810" as="geometry" />
+        </mxCell>
+        <mxCell id="iho0MIq6LXwkoNqhuima-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iho0MIq6LXwkoNqhuima-1">
+          <mxGeometry x="140" y="40" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
