@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-04T11:23:22.837Z" agent="5.0 (Windows)" etag="ywK0KAuWOXKVhUbPj3Dt" version="14.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-04T11:24:06.081Z" agent="5.0 (Windows)" etag="VnYki5o07u2Yc50DReRa" version="14.9.3" type="github">
   <diagram id="JpgFDhPypRxZ6japV6Xt" name="Page-1">
     <mxGraphModel dx="1038" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -57,8 +57,8 @@
         <mxCell id="ixj6lN1su4Th0R0Dn0Wk-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ixj6lN1su4Th0R0Dn0Wk-1" source="ixj6lN1su4Th0R0Dn0Wk-26" target="ixj6lN1su4Th0R0Dn0Wk-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ixj6lN1su4Th0R0Dn0Wk-26" value="HR advertises position on selected channels" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="ixj6lN1su4Th0R0Dn0Wk-1">
-          <mxGeometry x="390" y="564" width="120" height="60" as="geometry" />
+        <mxCell id="ixj6lN1su4Th0R0Dn0Wk-26" value="HR advertises internship(s) on selected channels. Attachment applications ar received throughout" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="ixj6lN1su4Th0R0Dn0Wk-1">
+          <mxGeometry x="360" y="564" width="180" height="76" as="geometry" />
         </mxCell>
         <mxCell id="ixj6lN1su4Th0R0Dn0Wk-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ixj6lN1su4Th0R0Dn0Wk-1" source="ixj6lN1su4Th0R0Dn0Wk-28" target="ixj6lN1su4Th0R0Dn0Wk-32">
           <mxGeometry relative="1" as="geometry" />
