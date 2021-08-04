@@ -1,1 +1,93 @@
-<mxfile host="app.diagrams.net" modified="2021-08-04T10:16:09.597Z" agent="5.0 (Windows)" version="14.9.3" etag="-1idGRlEzhk56iBfKu8E" type="github"><diagram id="BgqLwy3Im_MJMmI6vMnY">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-08-04T10:16:36.448Z" agent="5.0 (Windows)" etag="cNSH17kWxwj-vtuFKRJ9" version="14.9.3" type="github">
+  <diagram id="BgqLwy3Im_MJMmI6vMnY" name="Page-1">
+    <mxGraphModel dx="1038" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RtznIoE52JDTRPmBftqK-1" value="Separation - Retirement or Expiration of contract" style="swimlane;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="660" height="730" as="geometry" />
+        </mxCell>
+        <mxCell id="RtznIoE52JDTRPmBftqK-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="RtznIoE52JDTRPmBftqK-1">
+          <mxGeometry x="85" y="40" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RtznIoE52JDTRPmBftqK-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RtznIoE52JDTRPmBftqK-1" source="RtznIoE52JDTRPmBftqK-4" target="RtznIoE52JDTRPmBftqK-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RtznIoE52JDTRPmBftqK-4" value="&lt;span lang=&quot;EN-GB&quot;&gt;Upon remaining of 1 year in service anotification is generated to the staff.&lt;span&gt;HR issues notification of retirement a year beforeattaining the retirement age&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="RtznIoE52JDTRPmBftqK-1">
+          <mxGeometry x="30" y="200" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="RtznIoE52JDTRPmBftqK-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RtznIoE52JDTRPmBftqK-1" source="RtznIoE52JDTRPmBftqK-2" target="RtznIoE52JDTRPmBftqK-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="135" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RtznIoE52JDTRPmBftqK-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="RtznIoE52JDTRPmBftqK-1" source="RtznIoE52JDTRPmBftqK-7" target="RtznIoE52JDTRPmBftqK-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="135" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RtznIoE52JDTRPmBftqK-7" value="&lt;span lang=&quot;EN-GB&quot;&gt;HRM notifies the respective HOD (for information) and employee to start clearance&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="RtznIoE52JDTRPmBftqK-1">
+          <mxGeometry x="50" y="415" width="170" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="RtznIoE52JDTRPmBftqK-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RtznIoE52JDTRPmBftqK-1" source="RtznIoE52JDTRPmBftqK-9" target="RtznIoE52JDTRPmBftqK-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RtznIoE52JDTRPmBftqK-9" value="&lt;span lang=&quot;EN-GB&quot;&gt;Follow up with all relevant departments for clearance and create handover notes&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="RtznIoE52JDTRPmBftqK-1">
+          <mxGeometry x="55" y="620" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RtznIoE52JDTRPmBftqK-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RtznIoE52JDTRPmBftqK-1" source="RtznIoE52JDTRPmBftqK-11" target="RtznIoE52JDTRPmBftqK-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RtznIoE52JDTRPmBftqK-11" value="&lt;span lang=&quot;EN-GB&quot;&gt;Upon clearance by all relevant departments, HRM calculates payment due to the employee and forwards to CEO for approval.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="RtznIoE52JDTRPmBftqK-1">
+          <mxGeometry x="281" y="615" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="RtznIoE52JDTRPmBftqK-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RtznIoE52JDTRPmBftqK-1" source="RtznIoE52JDTRPmBftqK-14" target="RtznIoE52JDTRPmBftqK-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RtznIoE52JDTRPmBftqK-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RtznIoE52JDTRPmBftqK-1" source="RtznIoE52JDTRPmBftqK-14" target="RtznIoE52JDTRPmBftqK-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RtznIoE52JDTRPmBftqK-14" value="&lt;div&gt;Dues approved&lt;/div&gt;&lt;div&gt; by CEO?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="RtznIoE52JDTRPmBftqK-1">
+          <mxGeometry x="301" y="450" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RtznIoE52JDTRPmBftqK-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.475;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="RtznIoE52JDTRPmBftqK-1" source="RtznIoE52JDTRPmBftqK-16" target="RtznIoE52JDTRPmBftqK-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RtznIoE52JDTRPmBftqK-16" value="Comments" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" vertex="1" parent="RtznIoE52JDTRPmBftqK-1">
+          <mxGeometry x="510" y="450" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RtznIoE52JDTRPmBftqK-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RtznIoE52JDTRPmBftqK-1" source="RtznIoE52JDTRPmBftqK-19" target="RtznIoE52JDTRPmBftqK-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RtznIoE52JDTRPmBftqK-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RtznIoE52JDTRPmBftqK-1" source="RtznIoE52JDTRPmBftqK-19" target="RtznIoE52JDTRPmBftqK-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RtznIoE52JDTRPmBftqK-19" value="Notify HR and forward to FAU for dues payment" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="RtznIoE52JDTRPmBftqK-1">
+          <mxGeometry x="316" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RtznIoE52JDTRPmBftqK-20" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RtznIoE52JDTRPmBftqK-1">
+          <mxGeometry x="370" y="395" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RtznIoE52JDTRPmBftqK-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="RtznIoE52JDTRPmBftqK-1" source="RtznIoE52JDTRPmBftqK-22" target="RtznIoE52JDTRPmBftqK-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="516" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RtznIoE52JDTRPmBftqK-22" value="HR issues certificate of service" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="RtznIoE52JDTRPmBftqK-1">
+          <mxGeometry x="316" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RtznIoE52JDTRPmBftqK-23" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="RtznIoE52JDTRPmBftqK-1">
+          <mxGeometry x="530" y="160" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RtznIoE52JDTRPmBftqK-24" value="Dues payment request to FAU" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="RtznIoE52JDTRPmBftqK-1">
+          <mxGeometry x="516" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RtznIoE52JDTRPmBftqK-25" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="465" y="482" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
