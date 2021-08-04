@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-04T10:18:39.074Z" agent="5.0 (Windows)" etag="YsQqhRiNO7cxrp6VUHbe" version="14.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-04T10:18:54.715Z" agent="5.0 (Windows)" etag="soo2WHfB0OLVAti2u2ba" version="14.9.3" type="github">
   <diagram id="BgqLwy3Im_MJMmI6vMnY" name="Page-1">
     <mxGraphModel dx="1038" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="RtznIoE52JDTRPmBftqK-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RtznIoE52JDTRPmBftqK-1" source="RtznIoE52JDTRPmBftqK-4" target="RtznIoE52JDTRPmBftqK-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RtznIoE52JDTRPmBftqK-4" value="&lt;span lang=&quot;EN-GB&quot;&gt;Receive notice of redundancy &lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="RtznIoE52JDTRPmBftqK-1">
+        <mxCell id="RtznIoE52JDTRPmBftqK-4" value="&lt;span lang=&quot;EN-GB&quot;&gt;HRM receives notice of redundancy &lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="RtznIoE52JDTRPmBftqK-1">
           <mxGeometry x="60" y="170" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RtznIoE52JDTRPmBftqK-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RtznIoE52JDTRPmBftqK-1" source="RtznIoE52JDTRPmBftqK-2" target="RtznIoE52JDTRPmBftqK-4">
