@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-04T09:51:16.695Z" agent="5.0 (Windows)" etag="Vypld5gyDn3Yh-3fo2JH" version="14.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-04T09:52:20.661Z" agent="5.0 (Windows)" etag="NHnIQaYV321l96D0G6sN" version="14.9.3" type="github">
   <diagram id="vOE7HlbKETgEhGKGrhaQ" name="Page-1">
     <mxGraphModel dx="1038" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -27,8 +27,14 @@
         <mxCell id="iho0MIq6LXwkoNqhuima-6" value="&lt;span lang=&quot;EN-GB&quot;&gt;HRM notifies the respective HOD&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iho0MIq6LXwkoNqhuima-1">
           <mxGeometry x="120" y="310" width="140" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="iho0MIq6LXwkoNqhuima-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iho0MIq6LXwkoNqhuima-1" source="iho0MIq6LXwkoNqhuima-8" target="iho0MIq6LXwkoNqhuima-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iho0MIq6LXwkoNqhuima-8" value="&lt;span lang=&quot;EN-GB&quot;&gt;HRM acknowledges the resignation and prompts employee to start clearance process&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iho0MIq6LXwkoNqhuima-1">
           <mxGeometry x="110" y="460" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iho0MIq6LXwkoNqhuima-10" value="&lt;span lang=&quot;EN-GB&quot;&gt;Follow up with all relevant departments for clearance and create handover notes&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iho0MIq6LXwkoNqhuima-1">
+          <mxGeometry x="110" y="620" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
