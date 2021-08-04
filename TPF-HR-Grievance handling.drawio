@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-08-04T11:05:46.362Z" agent="5.0 (Windows)" etag="DwCird5fKS8CXkoAj3BU" version="14.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-04T11:09:19.000Z" agent="5.0 (Windows)" etag="ep0_AUzeBSHudCWLkBId" version="14.9.3" type="github">
   <diagram id="RBxbnGtT7s4qhol64Fa-" name="Page-1">
     <mxGraphModel dx="1038" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Du5uzGh4PVikDXq3MupA-1" value="Grievances handling" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="10" y="10" width="620" height="740" as="geometry" />
+          <mxGeometry x="10" y="10" width="805" height="740" as="geometry" />
         </mxCell>
         <mxCell id="Du5uzGh4PVikDXq3MupA-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Du5uzGh4PVikDXq3MupA-1">
           <mxGeometry x="240" y="40" width="120" height="60" as="geometry" />
@@ -46,10 +46,39 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Du5uzGh4PVikDXq3MupA-14" value="&lt;span lang=&quot;EN-GB&quot;&gt;Grievance committee conducts investigations, compiles report and forwards to DCS/HRM&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Du5uzGh4PVikDXq3MupA-1">
-          <mxGeometry x="440" y="560" width="170" height="80" as="geometry" />
+          <mxGeometry x="460" y="560" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Du5uzGh4PVikDXq3MupA-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Du5uzGh4PVikDXq3MupA-1" source="Du5uzGh4PVikDXq3MupA-16" target="Du5uzGh4PVikDXq3MupA-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Du5uzGh4PVikDXq3MupA-16" value="&lt;span lang=&quot;EN-GB&quot;&gt;DCS/HRM considers recommendations and prepares response to CEO&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="Du5uzGh4PVikDXq3MupA-1">
-          <mxGeometry x="445" y="410" width="160" height="80" as="geometry" />
+          <mxGeometry x="465" y="410" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Du5uzGh4PVikDXq3MupA-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Du5uzGh4PVikDXq3MupA-1" source="Du5uzGh4PVikDXq3MupA-18" target="Du5uzGh4PVikDXq3MupA-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Du5uzGh4PVikDXq3MupA-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Du5uzGh4PVikDXq3MupA-1" source="Du5uzGh4PVikDXq3MupA-18" target="Du5uzGh4PVikDXq3MupA-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Du5uzGh4PVikDXq3MupA-18" value="&lt;div&gt;Approved &lt;br&gt;&lt;/div&gt;&lt;div&gt;by CEO?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="Du5uzGh4PVikDXq3MupA-1">
+          <mxGeometry x="485" y="250" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Du5uzGh4PVikDXq3MupA-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.55;exitY=0.813;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="Du5uzGh4PVikDXq3MupA-1" source="Du5uzGh4PVikDXq3MupA-20" target="Du5uzGh4PVikDXq3MupA-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="745" y="420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="751" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Du5uzGh4PVikDXq3MupA-20" value="Comments" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" vertex="1" parent="Du5uzGh4PVikDXq3MupA-1">
+          <mxGeometry x="685" y="250" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Du5uzGh4PVikDXq3MupA-24" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Du5uzGh4PVikDXq3MupA-1">
+          <mxGeometry x="620" y="270" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Du5uzGh4PVikDXq3MupA-25" value="&lt;span lang=&quot;EN-GB&quot;&gt;DCS/HRM implements decisions of the CEO &lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="Du5uzGh4PVikDXq3MupA-1">
+          <mxGeometry x="470" y="100" width="150" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
