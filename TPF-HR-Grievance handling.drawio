@@ -1,1 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2021-08-04T10:53:12.116Z" agent="5.0 (Windows)" version="14.9.3" etag="CBU57EFbydCdcLCo4dsD" type="github"><diagram id="RBxbnGtT7s4qhol64Fa-">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-08-04T10:57:05.862Z" agent="5.0 (Windows)" etag="OsBTuqt8moCqpE0-MSU7" version="14.9.3" type="github">
+  <diagram id="RBxbnGtT7s4qhol64Fa-" name="Page-1">
+    <mxGraphModel dx="1038" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Du5uzGh4PVikDXq3MupA-1" value="Grievances handling" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="620" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="Du5uzGh4PVikDXq3MupA-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Du5uzGh4PVikDXq3MupA-1">
+          <mxGeometry x="240" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Du5uzGh4PVikDXq3MupA-5" value="&lt;span lang=&quot;EN-GB&quot;&gt;Employee registers grievance / problem to DCS/HRMs&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Du5uzGh4PVikDXq3MupA-1">
+          <mxGeometry x="220" y="170" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Du5uzGh4PVikDXq3MupA-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Du5uzGh4PVikDXq3MupA-1" source="Du5uzGh4PVikDXq3MupA-2" target="Du5uzGh4PVikDXq3MupA-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
