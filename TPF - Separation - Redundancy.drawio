@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-04T10:16:36.448Z" agent="5.0 (Windows)" etag="cNSH17kWxwj-vtuFKRJ9" version="14.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-04T10:17:09.585Z" agent="5.0 (Windows)" etag="ySUFC34wrS2p_5Bwx-vU" version="14.9.3" type="github">
   <diagram id="BgqLwy3Im_MJMmI6vMnY" name="Page-1">
     <mxGraphModel dx="1038" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -13,8 +13,8 @@
         <mxCell id="RtznIoE52JDTRPmBftqK-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RtznIoE52JDTRPmBftqK-1" source="RtznIoE52JDTRPmBftqK-4" target="RtznIoE52JDTRPmBftqK-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RtznIoE52JDTRPmBftqK-4" value="&lt;span lang=&quot;EN-GB&quot;&gt;Upon remaining of 1 year in service anotification is generated to the staff.&lt;span&gt;HR issues notification of retirement a year beforeattaining the retirement age&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="RtznIoE52JDTRPmBftqK-1">
-          <mxGeometry x="30" y="200" width="210" height="100" as="geometry" />
+        <mxCell id="RtznIoE52JDTRPmBftqK-4" value="&lt;span lang=&quot;EN-GB&quot;&gt;Receive notice of redundancy &lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="RtznIoE52JDTRPmBftqK-1">
+          <mxGeometry x="60" y="170" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RtznIoE52JDTRPmBftqK-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RtznIoE52JDTRPmBftqK-1" source="RtznIoE52JDTRPmBftqK-2" target="RtznIoE52JDTRPmBftqK-4">
           <mxGeometry relative="1" as="geometry">
