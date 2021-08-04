@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-04T10:35:39.505Z" agent="5.0 (Windows)" etag="BUZSbAdaJZU8HqEVtlgZ" version="14.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-04T10:36:15.961Z" agent="5.0 (Windows)" etag="TxU_BmBLNc9Ffuvi_HUE" version="14.9.3" type="github">
   <diagram id="WROv2-BoVfn-upCzBvxZ" name="Page-1">
     <mxGraphModel dx="1038" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -56,8 +56,10 @@
         <mxCell id="9rjuFVHyl2PkkspIQrqq-16" value="Comments" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" vertex="1" parent="9rjuFVHyl2PkkspIQrqq-1">
           <mxGeometry x="669" y="400" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9rjuFVHyl2PkkspIQrqq-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="9rjuFVHyl2PkkspIQrqq-1" source="9rjuFVHyl2PkkspIQrqq-19" target="9rjuFVHyl2PkkspIQrqq-22">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="9rjuFVHyl2PkkspIQrqq-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="9rjuFVHyl2PkkspIQrqq-1" source="9rjuFVHyl2PkkspIQrqq-19" target="9rjuFVHyl2PkkspIQrqq-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="535" y="170" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="9rjuFVHyl2PkkspIQrqq-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="9rjuFVHyl2PkkspIQrqq-1" source="9rjuFVHyl2PkkspIQrqq-19" target="9rjuFVHyl2PkkspIQrqq-24">
           <mxGeometry relative="1" as="geometry" />
@@ -68,16 +70,8 @@
         <mxCell id="9rjuFVHyl2PkkspIQrqq-20" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="9rjuFVHyl2PkkspIQrqq-1">
           <mxGeometry x="529" y="345" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="9rjuFVHyl2PkkspIQrqq-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="9rjuFVHyl2PkkspIQrqq-1" source="9rjuFVHyl2PkkspIQrqq-22" target="9rjuFVHyl2PkkspIQrqq-23">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="675" y="140" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9rjuFVHyl2PkkspIQrqq-22" value="HR issues certificate of service" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="9rjuFVHyl2PkkspIQrqq-1">
-          <mxGeometry x="475" y="110" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="9rjuFVHyl2PkkspIQrqq-23" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="9rjuFVHyl2PkkspIQrqq-1">
-          <mxGeometry x="689" y="110" width="100" height="60" as="geometry" />
+          <mxGeometry x="485" y="110" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9rjuFVHyl2PkkspIQrqq-24" value="Dues payment request to FAU" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="9rjuFVHyl2PkkspIQrqq-1">
           <mxGeometry x="675" y="250" width="120" height="60" as="geometry" />
