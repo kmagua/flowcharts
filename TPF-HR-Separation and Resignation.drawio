@@ -1,49 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2021-08-04T09:57:31.238Z" agent="5.0 (Windows)" etag="x9GlmDzczdteea5L2Tuu" version="14.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-04T09:59:08.274Z" agent="5.0 (Windows)" etag="KCAgkdJbOLZiC-q4yAEF" version="14.9.3" type="github">
   <diagram id="vOE7HlbKETgEhGKGrhaQ" name="Page-1">
     <mxGraphModel dx="1038" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="iho0MIq6LXwkoNqhuima-1" value="Separation - Resignation" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="10" y="10" width="746" height="730" as="geometry" />
+          <mxGeometry x="10" y="10" width="660" height="730" as="geometry" />
         </mxCell>
         <mxCell id="iho0MIq6LXwkoNqhuima-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iho0MIq6LXwkoNqhuima-1">
-          <mxGeometry x="140" y="40" width="100" height="60" as="geometry" />
+          <mxGeometry x="60" y="40" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iho0MIq6LXwkoNqhuima-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iho0MIq6LXwkoNqhuima-1" source="iho0MIq6LXwkoNqhuima-5" target="iho0MIq6LXwkoNqhuima-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iho0MIq6LXwkoNqhuima-5" value="&lt;span lang=&quot;EN-GB&quot;&gt;Employee submits resignation letter to HRM &lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iho0MIq6LXwkoNqhuima-1">
-          <mxGeometry x="120" y="160" width="140" height="70" as="geometry" />
+          <mxGeometry x="40" y="160" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="iho0MIq6LXwkoNqhuima-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iho0MIq6LXwkoNqhuima-1" source="iho0MIq6LXwkoNqhuima-2" target="iho0MIq6LXwkoNqhuima-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="190" y="180" as="targetPoint" />
+            <mxPoint x="110" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iho0MIq6LXwkoNqhuima-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iho0MIq6LXwkoNqhuima-1" source="iho0MIq6LXwkoNqhuima-6" target="iho0MIq6LXwkoNqhuima-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iho0MIq6LXwkoNqhuima-6" value="&lt;span lang=&quot;EN-GB&quot;&gt;HRM notifies the respective HOD&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iho0MIq6LXwkoNqhuima-1">
-          <mxGeometry x="120" y="310" width="140" height="70" as="geometry" />
+          <mxGeometry x="40" y="310" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="iho0MIq6LXwkoNqhuima-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iho0MIq6LXwkoNqhuima-1" source="iho0MIq6LXwkoNqhuima-8" target="iho0MIq6LXwkoNqhuima-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iho0MIq6LXwkoNqhuima-8" value="&lt;span lang=&quot;EN-GB&quot;&gt;HRM acknowledges the resignation and prompts employee to start clearance process&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iho0MIq6LXwkoNqhuima-1">
-          <mxGeometry x="110" y="460" width="160" height="80" as="geometry" />
+          <mxGeometry x="30" y="460" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iho0MIq6LXwkoNqhuima-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iho0MIq6LXwkoNqhuima-1" source="iho0MIq6LXwkoNqhuima-10" target="iho0MIq6LXwkoNqhuima-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iho0MIq6LXwkoNqhuima-10" value="&lt;span lang=&quot;EN-GB&quot;&gt;Follow up with all relevant departments for clearance and create handover notes&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iho0MIq6LXwkoNqhuima-1">
-          <mxGeometry x="110" y="620" width="160" height="80" as="geometry" />
+          <mxGeometry x="30" y="620" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iho0MIq6LXwkoNqhuima-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iho0MIq6LXwkoNqhuima-1" source="iho0MIq6LXwkoNqhuima-14" target="iho0MIq6LXwkoNqhuima-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iho0MIq6LXwkoNqhuima-14" value="&lt;span lang=&quot;EN-GB&quot;&gt;Upon clearance by all relevant departments, HRM calculates payment due to the employee and forwards to CEO for approval.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iho0MIq6LXwkoNqhuima-1">
-          <mxGeometry x="361" y="615" width="190" height="90" as="geometry" />
+          <mxGeometry x="281" y="615" width="190" height="90" as="geometry" />
         </mxCell>
         <mxCell id="iho0MIq6LXwkoNqhuima-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iho0MIq6LXwkoNqhuima-1" source="iho0MIq6LXwkoNqhuima-16" target="iho0MIq6LXwkoNqhuima-18">
           <mxGeometry relative="1" as="geometry" />
@@ -52,15 +52,15 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iho0MIq6LXwkoNqhuima-16" value="&lt;div&gt;Dues approved&lt;/div&gt;&lt;div&gt; by CEO?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="iho0MIq6LXwkoNqhuima-1">
-          <mxGeometry x="381" y="450" width="150" height="80" as="geometry" />
+          <mxGeometry x="301" y="450" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iho0MIq6LXwkoNqhuima-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.475;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="iho0MIq6LXwkoNqhuima-1" source="iho0MIq6LXwkoNqhuima-18" target="iho0MIq6LXwkoNqhuima-14">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="650" y="620" as="targetPoint" />
+            <mxPoint x="570" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iho0MIq6LXwkoNqhuima-18" value="Comments" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" vertex="1" parent="iho0MIq6LXwkoNqhuima-1">
-          <mxGeometry x="590" y="450" width="120" height="80" as="geometry" />
+          <mxGeometry x="510" y="450" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iho0MIq6LXwkoNqhuima-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iho0MIq6LXwkoNqhuima-1" source="iho0MIq6LXwkoNqhuima-22" target="iho0MIq6LXwkoNqhuima-26">
           <mxGeometry relative="1" as="geometry" />
@@ -69,27 +69,27 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iho0MIq6LXwkoNqhuima-22" value="Notify HR and forward to FAU for dues payment" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="iho0MIq6LXwkoNqhuima-1">
-          <mxGeometry x="396" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="316" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iho0MIq6LXwkoNqhuima-24" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="iho0MIq6LXwkoNqhuima-1">
-          <mxGeometry x="450" y="395" width="40" height="20" as="geometry" />
+          <mxGeometry x="370" y="395" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="iho0MIq6LXwkoNqhuima-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="iho0MIq6LXwkoNqhuima-1" source="iho0MIq6LXwkoNqhuima-26" target="iho0MIq6LXwkoNqhuima-30">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="596" y="190" as="targetPoint" />
+            <mxPoint x="516" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iho0MIq6LXwkoNqhuima-26" value="HR issues certificate of service" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="iho0MIq6LXwkoNqhuima-1">
-          <mxGeometry x="396" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="316" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iho0MIq6LXwkoNqhuima-30" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iho0MIq6LXwkoNqhuima-1">
-          <mxGeometry x="610" y="160" width="100" height="60" as="geometry" />
+          <mxGeometry x="530" y="160" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iho0MIq6LXwkoNqhuima-31" value="Dues payment request to FAU" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="iho0MIq6LXwkoNqhuima-1">
-          <mxGeometry x="596" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="516" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iho0MIq6LXwkoNqhuima-25" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="545" y="482" width="40" height="20" as="geometry" />
+          <mxGeometry x="465" y="482" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
