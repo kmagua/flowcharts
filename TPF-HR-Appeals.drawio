@@ -1,21 +1,47 @@
-<mxfile host="app.diagrams.net" modified="2021-08-04T10:46:13.937Z" agent="5.0 (Windows)" etag="o4znHqURgHk0cxAlWjxw" version="14.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-04T10:49:26.581Z" agent="5.0 (Windows)" etag="N2Ijbz9u2vQWxkSuSvsX" version="14.9.3" type="github">
   <diagram id="QoBldRfA5O1zk1JojYi7" name="Page-1">
     <mxGraphModel dx="1038" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="tsCiaQfpGarSQi80kDic-1" value="Appeals" style="swimlane;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="10" y="10" width="670" height="600" as="geometry" />
+          <mxGeometry x="10" y="10" width="670" height="780" as="geometry" />
         </mxCell>
         <mxCell id="tsCiaQfpGarSQi80kDic-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="tsCiaQfpGarSQi80kDic-1">
           <mxGeometry x="250" y="40" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="tsCiaQfpGarSQi80kDic-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="tsCiaQfpGarSQi80kDic-1" source="tsCiaQfpGarSQi80kDic-5" target="tsCiaQfpGarSQi80kDic-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tsCiaQfpGarSQi80kDic-5" value="Employee submits &lt;span lang=&quot;EN-GB&quot;&gt;application for review of decision to the board through the CEO and a copy to the Board&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tsCiaQfpGarSQi80kDic-1">
-          <mxGeometry x="210" y="170" width="200" height="80" as="geometry" />
+          <mxGeometry x="210" y="150" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tsCiaQfpGarSQi80kDic-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="tsCiaQfpGarSQi80kDic-1" source="tsCiaQfpGarSQi80kDic-2" target="tsCiaQfpGarSQi80kDic-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="310" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tsCiaQfpGarSQi80kDic-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="tsCiaQfpGarSQi80kDic-1" source="tsCiaQfpGarSQi80kDic-6" target="tsCiaQfpGarSQi80kDic-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tsCiaQfpGarSQi80kDic-6" value="&lt;span lang=&quot;EN-GB&quot;&gt;CEO forwards the appeal with comments and recommendation to Board&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tsCiaQfpGarSQi80kDic-1">
+          <mxGeometry x="225" y="280" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tsCiaQfpGarSQi80kDic-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="tsCiaQfpGarSQi80kDic-1" source="tsCiaQfpGarSQi80kDic-8" target="tsCiaQfpGarSQi80kDic-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tsCiaQfpGarSQi80kDic-8" value="&lt;span lang=&quot;EN-GB&quot;&gt;Board discusses the appeal and makes recommendations&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tsCiaQfpGarSQi80kDic-1">
+          <mxGeometry x="225" y="420" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tsCiaQfpGarSQi80kDic-10" value="CEO conveys board resolution to the employee and where applicable forwards to the relevant department for implementation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tsCiaQfpGarSQi80kDic-1">
+          <mxGeometry x="225" y="550" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tsCiaQfpGarSQi80kDic-14" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tsCiaQfpGarSQi80kDic-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tsCiaQfpGarSQi80kDic-10" target="tsCiaQfpGarSQi80kDic-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
