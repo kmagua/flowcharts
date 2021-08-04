@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-04T09:34:44.827Z" agent="5.0 (Windows)" etag="Fi6LP-tlO9AjdZN3sGFF" version="14.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-04T09:35:44.818Z" agent="5.0 (Windows)" etag="weu9q-bqQhr6O90GaNHK" version="14.9.3" type="github">
   <diagram id="TASTO2IwIQPRZ3yuaC1y" name="Page-1">
     <mxGraphModel dx="1038" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -53,8 +53,8 @@
         <mxCell id="xIYCeV5YSEmEcGGHacvK-11" value="does this require committee?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="10CtPT5GMPp9_miOpkNc-1">
           <mxGeometry x="230" y="650" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="xIYCeV5YSEmEcGGHacvK-13" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="10CtPT5GMPp9_miOpkNc-1">
-          <mxGeometry x="520" y="660" width="120" height="60" as="geometry" />
+        <mxCell id="xIYCeV5YSEmEcGGHacvK-13" value="&lt;span lang=&quot;EN-GB&quot;&gt;Committee conducts investigations of the committee (interviews both parties) and drafts recommendation to the CEO.&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="10CtPT5GMPp9_miOpkNc-1">
+          <mxGeometry x="490" y="650" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xIYCeV5YSEmEcGGHacvK-17" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="10CtPT5GMPp9_miOpkNc-1">
           <mxGeometry x="870" y="730" width="100" height="60" as="geometry" />
