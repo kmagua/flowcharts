@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-08-04T10:26:38.716Z" agent="5.0 (Windows)" etag="fpPA0tuW9rRhynarRb2_" version="14.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-04T10:35:39.505Z" agent="5.0 (Windows)" etag="BUZSbAdaJZU8HqEVtlgZ" version="14.9.3" type="github">
   <diagram id="WROv2-BoVfn-upCzBvxZ" name="Page-1">
     <mxGraphModel dx="1038" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="9rjuFVHyl2PkkspIQrqq-1" value="Separation - Death" style="swimlane;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="10" y="10" width="660" height="650" as="geometry" />
+          <mxGeometry x="10" y="10" width="940" height="810" as="geometry" />
         </mxCell>
         <mxCell id="9rjuFVHyl2PkkspIQrqq-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="9rjuFVHyl2PkkspIQrqq-1">
           <mxGeometry x="85" y="40" width="100" height="60" as="geometry" />
@@ -13,34 +13,31 @@
         <mxCell id="9rjuFVHyl2PkkspIQrqq-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="9rjuFVHyl2PkkspIQrqq-1" source="9rjuFVHyl2PkkspIQrqq-4" target="9rjuFVHyl2PkkspIQrqq-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9rjuFVHyl2PkkspIQrqq-4" value="&lt;span lang=&quot;EN-GB&quot;&gt;HRM receives notice of dismissal &lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9rjuFVHyl2PkkspIQrqq-1">
-          <mxGeometry x="60" y="170" width="150" height="60" as="geometry" />
+        <mxCell id="9rjuFVHyl2PkkspIQrqq-4" value="&lt;span lang=&quot;EN-GB&quot;&gt;HRM receives notice of death from &lt;/span&gt;&lt;span lang=&quot;EN-GB&quot;&gt;&lt;span lang=&quot;EN-GB&quot;&gt;family of the Deceased&lt;/span&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9rjuFVHyl2PkkspIQrqq-1">
+          <mxGeometry x="30" y="170" width="210" height="90" as="geometry" />
         </mxCell>
         <mxCell id="9rjuFVHyl2PkkspIQrqq-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="9rjuFVHyl2PkkspIQrqq-1" source="9rjuFVHyl2PkkspIQrqq-2" target="9rjuFVHyl2PkkspIQrqq-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="135" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9rjuFVHyl2PkkspIQrqq-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="9rjuFVHyl2PkkspIQrqq-1" source="9rjuFVHyl2PkkspIQrqq-7" target="9rjuFVHyl2PkkspIQrqq-9">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="135" y="389" as="targetPoint" />
-            <mxPoint x="135" y="324" as="sourcePoint" />
-          </mxGeometry>
+        <mxCell id="9rjuFVHyl2PkkspIQrqq-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="9rjuFVHyl2PkkspIQrqq-1" source="9rjuFVHyl2PkkspIQrqq-7" target="9rjuFVHyl2PkkspIQrqq-26">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9rjuFVHyl2PkkspIQrqq-7" value="&lt;span lang=&quot;EN-GB&quot;&gt;HRM notifies the respective HOD (for information) and affected employee to start clearance&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9rjuFVHyl2PkkspIQrqq-1">
+        <mxCell id="9rjuFVHyl2PkkspIQrqq-7" value="&lt;span lang=&quot;EN-GB&quot;&gt;HRM liaises with departments to close all deceased person’s records in the system and deny rights&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9rjuFVHyl2PkkspIQrqq-1">
           <mxGeometry x="50" y="344" width="170" height="96" as="geometry" />
         </mxCell>
         <mxCell id="9rjuFVHyl2PkkspIQrqq-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="9rjuFVHyl2PkkspIQrqq-1" source="9rjuFVHyl2PkkspIQrqq-9" target="9rjuFVHyl2PkkspIQrqq-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9rjuFVHyl2PkkspIQrqq-9" value="&lt;span lang=&quot;EN-GB&quot;&gt;Follow up with all relevant departments for clearance and create handover notes&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9rjuFVHyl2PkkspIQrqq-1">
-          <mxGeometry x="55" y="549" width="160" height="80" as="geometry" />
+        <mxCell id="9rjuFVHyl2PkkspIQrqq-9" value="&lt;span lang=&quot;EN-GB&quot;&gt;Family of the deceases follows up for clearances from with all relevant departments and brings &lt;/span&gt;&lt;br&gt;&lt;span lang=&quot;EN-GB&quot;&gt;&lt;span lang=&quot;EN-GB&quot;&gt;relevant document that can be used in processing terminal dues&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9rjuFVHyl2PkkspIQrqq-1">
+          <mxGeometry x="15" y="680" width="240" height="90" as="geometry" />
         </mxCell>
         <mxCell id="9rjuFVHyl2PkkspIQrqq-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="9rjuFVHyl2PkkspIQrqq-1" source="9rjuFVHyl2PkkspIQrqq-11" target="9rjuFVHyl2PkkspIQrqq-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9rjuFVHyl2PkkspIQrqq-11" value="&lt;span lang=&quot;EN-GB&quot;&gt;Upon clearance by all relevant departments, HRM calculates payment due to the employee and forwards to CEO for approval.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9rjuFVHyl2PkkspIQrqq-1">
-          <mxGeometry x="281" y="544" width="190" height="90" as="geometry" />
+          <mxGeometry x="440" y="565" width="190" height="90" as="geometry" />
         </mxCell>
         <mxCell id="9rjuFVHyl2PkkspIQrqq-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="9rjuFVHyl2PkkspIQrqq-1" source="9rjuFVHyl2PkkspIQrqq-14" target="9rjuFVHyl2PkkspIQrqq-16">
           <mxGeometry relative="1" as="geometry" />
@@ -49,15 +46,15 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9rjuFVHyl2PkkspIQrqq-14" value="&lt;div&gt;Dues approved&lt;/div&gt;&lt;div&gt; by CEO?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="9rjuFVHyl2PkkspIQrqq-1">
-          <mxGeometry x="301" y="379" width="150" height="80" as="geometry" />
+          <mxGeometry x="460" y="400" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9rjuFVHyl2PkkspIQrqq-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.475;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="9rjuFVHyl2PkkspIQrqq-1" source="9rjuFVHyl2PkkspIQrqq-16" target="9rjuFVHyl2PkkspIQrqq-11">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="570" y="549" as="targetPoint" />
+            <mxPoint x="729" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9rjuFVHyl2PkkspIQrqq-16" value="Comments" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" vertex="1" parent="9rjuFVHyl2PkkspIQrqq-1">
-          <mxGeometry x="510" y="379" width="120" height="80" as="geometry" />
+          <mxGeometry x="669" y="400" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9rjuFVHyl2PkkspIQrqq-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="9rjuFVHyl2PkkspIQrqq-1" source="9rjuFVHyl2PkkspIQrqq-19" target="9rjuFVHyl2PkkspIQrqq-22">
           <mxGeometry relative="1" as="geometry" />
@@ -66,27 +63,41 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9rjuFVHyl2PkkspIQrqq-19" value="Notify HR and forward to FAU for dues payment" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="9rjuFVHyl2PkkspIQrqq-1">
-          <mxGeometry x="316" y="229" width="120" height="60" as="geometry" />
+          <mxGeometry x="475" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9rjuFVHyl2PkkspIQrqq-20" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="9rjuFVHyl2PkkspIQrqq-1">
-          <mxGeometry x="370" y="324" width="40" height="20" as="geometry" />
+          <mxGeometry x="529" y="345" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9rjuFVHyl2PkkspIQrqq-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="9rjuFVHyl2PkkspIQrqq-1" source="9rjuFVHyl2PkkspIQrqq-22" target="9rjuFVHyl2PkkspIQrqq-23">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="516" y="119" as="targetPoint" />
+            <mxPoint x="675" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9rjuFVHyl2PkkspIQrqq-22" value="HR issues certificate of service" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="9rjuFVHyl2PkkspIQrqq-1">
-          <mxGeometry x="316" y="89" width="120" height="60" as="geometry" />
+          <mxGeometry x="475" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9rjuFVHyl2PkkspIQrqq-23" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="9rjuFVHyl2PkkspIQrqq-1">
-          <mxGeometry x="530" y="89" width="100" height="60" as="geometry" />
+          <mxGeometry x="689" y="110" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9rjuFVHyl2PkkspIQrqq-24" value="Dues payment request to FAU" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="9rjuFVHyl2PkkspIQrqq-1">
-          <mxGeometry x="516" y="229" width="120" height="60" as="geometry" />
+          <mxGeometry x="675" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9rjuFVHyl2PkkspIQrqq-25" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="9rjuFVHyl2PkkspIQrqq-1">
-          <mxGeometry x="460" y="394" width="40" height="20" as="geometry" />
+          <mxGeometry x="619" y="415" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9rjuFVHyl2PkkspIQrqq-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="9rjuFVHyl2PkkspIQrqq-1" source="9rjuFVHyl2PkkspIQrqq-26" target="9rjuFVHyl2PkkspIQrqq-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9rjuFVHyl2PkkspIQrqq-26" value="&lt;span lang=&quot;EN-GB&quot;&gt;HRM notifies HAU to process Last expense to help in burial expenses&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="9rjuFVHyl2PkkspIQrqq-1">
+          <mxGeometry x="75" y="538" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9rjuFVHyl2PkkspIQrqq-30" value="Payment of burial expenses" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="548" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9rjuFVHyl2PkkspIQrqq-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9rjuFVHyl2PkkspIQrqq-26" target="9rjuFVHyl2PkkspIQrqq-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="295" y="578" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
