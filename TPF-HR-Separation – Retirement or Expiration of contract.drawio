@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-04T10:07:30.012Z" agent="5.0 (Windows)" etag="JGBUxG56uXDethcmc2ht" version="14.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-04T10:08:45.273Z" agent="5.0 (Windows)" etag="cSie8n3wE99wjMEfcMxd" version="14.9.3" type="github">
   <diagram id="FhkFVt4sXrzeg-nRiGku" name="Page-1">
     <mxGraphModel dx="1038" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -21,18 +21,13 @@
             <mxPoint x="135" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TeyzFELnXTnuhCw4mWm0-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="TeyzFELnXTnuhCw4mWm0-1" source="TeyzFELnXTnuhCw4mWm0-7">
+        <mxCell id="TeyzFELnXTnuhCw4mWm0-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="TeyzFELnXTnuhCw4mWm0-1" source="TeyzFELnXTnuhCw4mWm0-7" target="TeyzFELnXTnuhCw4mWm0-11">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="135" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TeyzFELnXTnuhCw4mWm0-7" value="&lt;span lang=&quot;EN-GB&quot;&gt;HRM notifies the respective HOD and employee to start clearance&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TeyzFELnXTnuhCw4mWm0-1">
           <mxGeometry x="65" y="310" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="TeyzFELnXTnuhCw4mWm0-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="TeyzFELnXTnuhCw4mWm0-1" target="TeyzFELnXTnuhCw4mWm0-11">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="135" y="540" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="TeyzFELnXTnuhCw4mWm0-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="TeyzFELnXTnuhCw4mWm0-1" source="TeyzFELnXTnuhCw4mWm0-11" target="TeyzFELnXTnuhCw4mWm0-13">
           <mxGeometry relative="1" as="geometry" />
