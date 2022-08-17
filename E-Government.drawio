@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-08-17T15:48:56.096Z" agent="5.0 (Windows)" etag="qxkPk2t2Xw3-621N1hIQ" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-17T15:55:15.434Z" agent="5.0 (Windows)" etag="11oKVjo9UBln8IglCRMu" version="17.4.6" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1038" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="Orgchart" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="80" width="710" height="970" as="geometry" />
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="E-Government Org Structure" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="80" width="710" height="660" as="geometry" />
         </mxCell>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Mary Kerema" position="Deputy Director" placeholders="1" id="dNxyNK7c78bLwvsdeMH5-12">
           <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
@@ -83,7 +83,7 @@
         </mxCell>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Simon Saitoti, Stephen Mwaura and Matayo Odhul" position="SICTO, Web Development" placeholders="1" id="r-qgvxp6qcg7hW2vkoO4-18">
           <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="240" y="410" width="220" height="90" as="geometry" />
+            <mxGeometry x="240" y="420" width="220" height="90" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="r-qgvxp6qcg7hW2vkoO4-19" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" edge="1" target="r-qgvxp6qcg7hW2vkoO4-20" source="r-qgvxp6qcg7hW2vkoO4-16" parent="dNxyNK7c78bLwvsdeMH5-11">
@@ -91,9 +91,39 @@
             <mxPoint x="620" y="340" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Christopher Kilelo" position="SICTO, Business Intelligence" placeholders="1" id="r-qgvxp6qcg7hW2vkoO4-20">
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Christopher Kilelo &amp; Jackline Waburaka" position="SICTO, Business Intelligence" placeholders="1" id="r-qgvxp6qcg7hW2vkoO4-20">
           <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
             <mxGeometry x="490" y="420" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="r-qgvxp6qcg7hW2vkoO4-21" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" edge="1" target="r-qgvxp6qcg7hW2vkoO4-22" source="r-qgvxp6qcg7hW2vkoO4-12" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="460" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Samuel Mayenga" position="ICTO, Software Engineering" placeholders="1" id="r-qgvxp6qcg7hW2vkoO4-22">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="40" y="540" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="r-qgvxp6qcg7hW2vkoO4-23" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" edge="1" target="r-qgvxp6qcg7hW2vkoO4-24" source="r-qgvxp6qcg7hW2vkoO4-18" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="460" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="VACANT" position="ICTO, Web Development" placeholders="1" id="r-qgvxp6qcg7hW2vkoO4-24">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="260" y="540" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="r-qgvxp6qcg7hW2vkoO4-25" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" edge="1" target="r-qgvxp6qcg7hW2vkoO4-26" source="r-qgvxp6qcg7hW2vkoO4-20" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="460" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="VACANT" position="ICTO, Business Intelligence" placeholders="1" id="r-qgvxp6qcg7hW2vkoO4-26">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="490" y="540" width="180" height="80" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
