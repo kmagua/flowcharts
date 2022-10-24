@@ -1,14 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2022-10-24T18:02:59.093Z" agent="5.0 (Windows)" etag="3vV3wEBIh9ISJVzrzP4T" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-24T18:08:26.079Z" agent="5.0 (Windows)" etag="85052R3as8Ut70p2tCnC" version="20.5.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1038" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="2E20e05wh0Ns_q2YyygR-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2E20e05wh0Ns_q2YyygR-1" target="2E20e05wh0Ns_q2YyygR-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="2E20e05wh0Ns_q2YyygR-1" value="Visit Hustler Fund MIS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="210" y="60" width="120" height="60" as="geometry" />
+        <mxCell id="2E20e05wh0Ns_q2YyygR-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2E20e05wh0Ns_q2YyygR-19" target="2E20e05wh0Ns_q2YyygR-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="120" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="2E20e05wh0Ns_q2YyygR-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2E20e05wh0Ns_q2YyygR-2" target="2E20e05wh0Ns_q2YyygR-4">
           <mxGeometry relative="1" as="geometry" />
@@ -45,7 +44,34 @@
           <mxGeometry x="155" y="180" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2E20e05wh0Ns_q2YyygR-13" value="Possible Tasks in the System" style="swimlane;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="20" y="480" width="500" height="200" as="geometry" />
+          <mxGeometry x="20" y="485" width="500" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="2E20e05wh0Ns_q2YyygR-16" value="Track application progress" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2E20e05wh0Ns_q2YyygR-13">
+          <mxGeometry x="200" y="135" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2E20e05wh0Ns_q2YyygR-17" value="Submit an application" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2E20e05wh0Ns_q2YyygR-13">
+          <mxGeometry x="30" y="135" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2E20e05wh0Ns_q2YyygR-18" value="Review an application (Fund admin)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2E20e05wh0Ns_q2YyygR-13">
+          <mxGeometry x="350" y="135" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2E20e05wh0Ns_q2YyygR-20" value="Track application progress" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2E20e05wh0Ns_q2YyygR-13">
+          <mxGeometry x="200" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2E20e05wh0Ns_q2YyygR-21" value="Add/Edit personal/Group information" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2E20e05wh0Ns_q2YyygR-13">
+          <mxGeometry x="30" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2E20e05wh0Ns_q2YyygR-22" value="Review an application (Fund admin)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2E20e05wh0Ns_q2YyygR-13">
+          <mxGeometry x="350" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2E20e05wh0Ns_q2YyygR-19" value="Visit Hustler Fund MIS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="210" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2E20e05wh0Ns_q2YyygR-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2E20e05wh0Ns_q2YyygR-23" target="2E20e05wh0Ns_q2YyygR-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2E20e05wh0Ns_q2YyygR-23" value="&lt;div&gt;Self service&lt;/div&gt;&lt;div&gt;Password resets&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="390" y="345" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
