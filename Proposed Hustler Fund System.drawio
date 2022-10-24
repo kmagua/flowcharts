@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-24T18:12:52.830Z" agent="5.0 (Windows)" etag="q--2KdF75jQ0P39W-1fH" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-24T18:13:29.398Z" agent="5.0 (Windows)" etag="pvzUpId_rPS5sf4amC0I" version="20.5.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1038" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -53,10 +53,13 @@
           <mxGeometry x="200" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2E20e05wh0Ns_q2YyygR-18" value="Review an application (Fund admin)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2E20e05wh0Ns_q2YyygR-13">
-          <mxGeometry x="200" y="135" width="120" height="60" as="geometry" />
+          <mxGeometry x="30" y="135" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2E20e05wh0Ns_q2YyygR-21" value="Add/Edit personal/Group information" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2E20e05wh0Ns_q2YyygR-13">
           <mxGeometry x="30" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2E20e05wh0Ns_q2YyygR-27" value="Track fund utilization in saccos (Fund admin)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2E20e05wh0Ns_q2YyygR-13">
+          <mxGeometry x="200" y="135" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2E20e05wh0Ns_q2YyygR-19" value="Visit Hustler Fund MIS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="210" y="40" width="120" height="60" as="geometry" />
