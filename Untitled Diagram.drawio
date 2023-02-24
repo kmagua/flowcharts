@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-02-24T10:28:44.084Z" agent="5.0 (Windows)" etag="wDwXiCSWNYYW6oonFAc9" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-24T10:30:43.817Z" agent="5.0 (Windows)" etag="Keywc2BJAXUkdT-8DWy1" version="20.5.3" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1038" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="Orgchart" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="Digital Unique Identifier Governance" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
           <mxGeometry x="46" y="20" width="884" height="720" as="geometry" />
         </mxCell>
         <mxCell id="2-JNT_mUt8TzhgzoKmym-1" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;National Project Steering Committee&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Chaired by Interior CS, MOICT CS as alternate Chair&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2F752F;strokeColor=#ffffff;fontColor=#ffffff;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
