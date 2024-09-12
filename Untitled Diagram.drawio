@@ -4,17 +4,20 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="m8kaJ8VKCf0JhzrjGBa_-1" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="140" width="120" height="80" as="geometry" />
+        <mxCell id="m8kaJ8VKCf0JhzrjGBa_-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="m8kaJ8VKCf0JhzrjGBa_-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="330" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="m8kaJ8VKCf0JhzrjGBa_-2" value="Temperature Sensor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="190" width="120" height="60" as="geometry" />
+        <mxCell id="m8kaJ8VKCf0JhzrjGBa_-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="m8kaJ8VKCf0JhzrjGBa_-4" target="m8kaJ8VKCf0JhzrjGBa_-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="210" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="m8kaJ8VKCf0JhzrjGBa_-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="m8kaJ8VKCf0JhzrjGBa_-3" target="m8kaJ8VKCf0JhzrjGBa_-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="m8kaJ8VKCf0JhzrjGBa_-3" value="Motion Sensor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="300" width="120" height="60" as="geometry" />
+        <mxCell id="m8kaJ8VKCf0JhzrjGBa_-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m8kaJ8VKCf0JhzrjGBa_-4" target="m8kaJ8VKCf0JhzrjGBa_-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="330" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="m8kaJ8VKCf0JhzrjGBa_-4" value="Arduino Uno" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="390" y="150" width="240" height="240" as="geometry" />
@@ -25,13 +28,68 @@
         <mxCell id="m8kaJ8VKCf0JhzrjGBa_-5" value="Power Supply" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m8kaJ8VKCf0JhzrjGBa_-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m8kaJ8VKCf0JhzrjGBa_-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="390" y="220" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="m8kaJ8VKCf0JhzrjGBa_-9" value="" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.wifi;fillColor=#007AFF;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="590" y="173" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="m8kaJ8VKCf0JhzrjGBa_-10" value="temperature reading" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="188" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m8kaJ8VKCf0JhzrjGBa_-11" value="motion notification" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="300" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m8kaJ8VKCf0JhzrjGBa_-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.004;entryY=0.288;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="m8kaJ8VKCf0JhzrjGBa_-12" target="m8kaJ8VKCf0JhzrjGBa_-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="307" y="219" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m8kaJ8VKCf0JhzrjGBa_-12" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_thing_temperature_sensor;" vertex="1" parent="1">
+          <mxGeometry x="150" y="180" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="m8kaJ8VKCf0JhzrjGBa_-17" value="Motion Sensor" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="129" y="300" width="131" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m8kaJ8VKCf0JhzrjGBa_-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m8kaJ8VKCf0JhzrjGBa_-22" target="m8kaJ8VKCf0JhzrjGBa_-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m8kaJ8VKCf0JhzrjGBa_-22" value="Play intrusion sound Warning" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="705" y="290" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="m8kaJ8VKCf0JhzrjGBa_-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m8kaJ8VKCf0JhzrjGBa_-23" target="m8kaJ8VKCf0JhzrjGBa_-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m8kaJ8VKCf0JhzrjGBa_-23" value="Temperature control through actuators" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="173" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="m8kaJ8VKCf0JhzrjGBa_-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m8kaJ8VKCf0JhzrjGBa_-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="940" y="210.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m8kaJ8VKCf0JhzrjGBa_-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="m8kaJ8VKCf0JhzrjGBa_-24" target="m8kaJ8VKCf0JhzrjGBa_-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="780" y="270" />
+              <mxPoint x="990" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m8kaJ8VKCf0JhzrjGBa_-24" value="Temperature within range?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="162" width="140" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="m8kaJ8VKCf0JhzrjGBa_-27" value="no" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="855" y="185" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m8kaJ8VKCf0JhzrjGBa_-30" value="yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="810" y="248" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m8kaJ8VKCf0JhzrjGBa_-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m8kaJ8VKCf0JhzrjGBa_-31" target="m8kaJ8VKCf0JhzrjGBa_-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m8kaJ8VKCf0JhzrjGBa_-31" value="Notify homeowner" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m8kaJ8VKCf0JhzrjGBa_-33" value="loop" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
