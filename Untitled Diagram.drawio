@@ -23,7 +23,7 @@
           <mxGeometry x="291" y="150" width="240" height="240" as="geometry" />
         </mxCell>
         <mxCell id="m8kaJ8VKCf0JhzrjGBa_-9" value="" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.wifi;fillColor=#007AFF;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="491" y="173" width="15" height="15" as="geometry" />
+          <mxGeometry x="490" y="162" width="26" height="27" as="geometry" />
         </mxCell>
         <mxCell id="m8kaJ8VKCf0JhzrjGBa_-10" value="temperature reading" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="151" y="188" width="100" height="30" as="geometry" />
@@ -90,6 +90,9 @@
         </mxCell>
         <mxCell id="m8kaJ8VKCf0JhzrjGBa_-37" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="351" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wXeLVTWFPFXdfLK9_2wO-1" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.arduino;fillColor=#36868D;strokeColor=none" vertex="1" parent="1">
+          <mxGeometry x="370" y="165" width="67.4" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
