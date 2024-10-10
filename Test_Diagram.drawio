@@ -1,9 +1,63 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0" version="24.7.17">
   <diagram name="Page-1" id="yirLSzvxRFztgsTYvUrN">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="558nqducLKcnuLeCsKeT-1" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="240" as="sourcePoint" />
+            <mxPoint x="960" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="558nqducLKcnuLeCsKeT-2" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="240" as="sourcePoint" />
+            <mxPoint x="120" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="558nqducLKcnuLeCsKeT-4" value="Patient Management" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="398" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="558nqducLKcnuLeCsKeT-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="281" y="320" as="sourcePoint" />
+            <mxPoint x="281" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="558nqducLKcnuLeCsKeT-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/aiga-symbol-signs/441/aiga_cashier-128.png" vertex="1" parent="1">
+          <mxGeometry x="241" y="318" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="558nqducLKcnuLeCsKeT-8" value="Finance &amp;amp; Accounts" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="241" y="398" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="558nqducLKcnuLeCsKeT-9" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="439" y="240" as="sourcePoint" />
+            <mxPoint x="439" y="318" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="558nqducLKcnuLeCsKeT-11" value="" style="shape=mxgraph.signs.transportation.truck_1;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="379" y="320" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="558nqducLKcnuLeCsKeT-12" value="Supply chain Management" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="388.5" y="398" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="558nqducLKcnuLeCsKeT-13" value="" style="endArrow=none;html=1;rounded=0;exitX=0.43;exitY=0.16;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="558nqducLKcnuLeCsKeT-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="308" as="sourcePoint" />
+            <mxPoint x="600" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="558nqducLKcnuLeCsKeT-17" value="" style="shape=mxgraph.signs.healthcare.intensive_care;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="62" y="310" width="98" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="558nqducLKcnuLeCsKeT-19" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="318" width="70" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="558nqducLKcnuLeCsKeT-20" value="Human Resource" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="398" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
