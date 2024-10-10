@@ -91,8 +91,8 @@
         <mxCell id="558nqducLKcnuLeCsKeT-39" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/medic-outline/32/Hospital-128.png" vertex="1" parent="1">
           <mxGeometry x="456" y="34" width="128" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="558nqducLKcnuLeCsKeT-40" value="Hospital" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="570" y="100" width="60" height="30" as="geometry" />
+        <mxCell id="558nqducLKcnuLeCsKeT-40" value="Hospital/ Clinic" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="572" y="100" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
