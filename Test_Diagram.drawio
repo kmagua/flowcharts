@@ -94,25 +94,10 @@
         <mxCell id="558nqducLKcnuLeCsKeT-40" value="Hospital/ Clinic" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="572" y="100" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="558nqducLKcnuLeCsKeT-43" value="TibaKamili Hospital Information Management System Components" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="40" width="1080" height="460" as="geometry" />
-        </mxCell>
-        <mxCell id="1kFEcYlfVXOrwRsW3agq-9" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/devops/API_Connections.svg;" vertex="1" parent="558nqducLKcnuLeCsKeT-43">
-          <mxGeometry x="761" y="320" width="90.03" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1kFEcYlfVXOrwRsW3agq-10" value="Integrations" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0080ff;" vertex="1" parent="558nqducLKcnuLeCsKeT-43">
-          <mxGeometry x="761" y="390" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="1kFEcYlfVXOrwRsW3agq-11" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.intune_mobile_application_management" vertex="1" parent="558nqducLKcnuLeCsKeT-43">
-          <mxGeometry x="897" y="321" width="60" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="1kFEcYlfVXOrwRsW3agq-13" value="Patient Mobile Application" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0080ff;" vertex="1" parent="558nqducLKcnuLeCsKeT-43">
-          <mxGeometry x="897" y="395" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="1kFEcYlfVXOrwRsW3agq-8" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#008000;" edge="1" parent="1">
+        <mxCell id="1kFEcYlfVXOrwRsW3agq-8" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#008000;exitX=0.478;exitY=0.083;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="1kFEcYlfVXOrwRsW3agq-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="841" y="320" as="sourcePoint" />
-            <mxPoint x="841" y="240" as="targetPoint" />
+            <mxPoint x="839.9756600000001" y="322.02" as="sourcePoint" />
+            <mxPoint x="838" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1kFEcYlfVXOrwRsW3agq-12" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#008000;exitX=0.383;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="1kFEcYlfVXOrwRsW3agq-11">
@@ -120,6 +105,18 @@
             <mxPoint x="930" y="260" as="sourcePoint" />
             <mxPoint x="960" y="240" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="1kFEcYlfVXOrwRsW3agq-13" value="Patient Mobile Application" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0080ff;" vertex="1" parent="1">
+          <mxGeometry x="917" y="395" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1kFEcYlfVXOrwRsW3agq-9" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/devops/API_Connections.svg;" vertex="1" parent="1">
+          <mxGeometry x="794.98" y="321" width="90.03" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1kFEcYlfVXOrwRsW3agq-11" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.intune_mobile_application_management" vertex="1" parent="1">
+          <mxGeometry x="937" y="321" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1kFEcYlfVXOrwRsW3agq-14" value="Integrations" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0080ff;" vertex="1" parent="1">
+          <mxGeometry x="800" y="398" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
