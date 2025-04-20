@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="Airtel Kenya Organizational Chart" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
-          <mxGeometry y="80" width="830" height="340" as="geometry" />
+          <mxGeometry y="80" width="830" height="350" as="geometry" />
         </mxCell>
         <mxCell id="vhOEjCvJ_zv_bu3SFHbm-2" value="Director, IT &amp;amp; Telecommunications" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="10" y="160" width="110" height="60" as="geometry" />
@@ -58,8 +58,8 @@
         <mxCell id="vhOEjCvJ_zv_bu3SFHbm-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="vhOEjCvJ_zv_bu3SFHbm-9" target="vhOEjCvJ_zv_bu3SFHbm-21" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vhOEjCvJ_zv_bu3SFHbm-21" value="Supply chain Management, Human Rsource" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="700" y="260" width="120" height="60" as="geometry" />
+        <mxCell id="vhOEjCvJ_zv_bu3SFHbm-21" value="Supply chain Management, Human Resource, Maintenance and Support" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="700" y="260" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vhOEjCvJ_zv_bu3SFHbm-1" value="Chief Executive Officer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="113" width="120" height="60" as="geometry" />
