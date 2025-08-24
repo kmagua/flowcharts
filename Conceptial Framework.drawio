@@ -1,9 +1,49 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0" version="28.1.1">
   <diagram name="Page-1" id="jhgJt_G7YFyB41-Mo6Ic">
-    <mxGraphModel>
+    <mxGraphModel dx="1042" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="HTjFdAjGfD-o40c4ycTg-1" value="Digital Workspace Flexibility" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#75CEFF;" vertex="1" parent="1">
+          <mxGeometry x="250" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HTjFdAjGfD-o40c4ycTg-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HTjFdAjGfD-o40c4ycTg-2" target="HTjFdAjGfD-o40c4ycTg-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HTjFdAjGfD-o40c4ycTg-2" value="Inclusive Organizational Culture" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#75CEFF;" vertex="1" parent="1">
+          <mxGeometry x="250" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HTjFdAjGfD-o40c4ycTg-3" value="Structured Career development Opportunities" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#75CEFF;" vertex="1" parent="1">
+          <mxGeometry x="250" y="354" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HTjFdAjGfD-o40c4ycTg-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HTjFdAjGfD-o40c4ycTg-4" target="HTjFdAjGfD-o40c4ycTg-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HTjFdAjGfD-o40c4ycTg-4" value="Mediating factors (social impact)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HTjFdAjGfD-o40c4ycTg-5" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;u&gt;GEN Z WORKFORCE OUTCOMES&lt;/u&gt;&lt;/b&gt;:&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Attraction to Public Service Careers&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Retention Intentions&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Job Satisfaction&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="750" y="145" width="230" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="HTjFdAjGfD-o40c4ycTg-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HTjFdAjGfD-o40c4ycTg-1" target="HTjFdAjGfD-o40c4ycTg-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="300" as="sourcePoint" />
+            <mxPoint x="560" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HTjFdAjGfD-o40c4ycTg-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HTjFdAjGfD-o40c4ycTg-3" target="HTjFdAjGfD-o40c4ycTg-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="300" as="sourcePoint" />
+            <mxPoint x="560" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HTjFdAjGfD-o40c4ycTg-17" value="Conceptual Framework" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="80" width="790" height="350" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
